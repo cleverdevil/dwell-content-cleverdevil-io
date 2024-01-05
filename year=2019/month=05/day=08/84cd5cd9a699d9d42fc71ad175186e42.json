@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://eddiehinkle.com/2019/05/08/5/article"
+    ],
+    "name": [
+      "Eddie, I'm really excited about the future of the Abode Suite! Can't wait to try the first version of Remark."
+    ],
+    "content": [
+      {
+        "html": "Eddie, I'm really excited about the future of the Abode Suite! Can't wait to try the first version of Remark.",
+        "value": "Eddie, I'm really excited about the future of the Abode Suite! Can't wait to try the first version of Remark."
+      }
+    ],
+    "url": [
+      "/2019/eddie-im-really-excited-about-the-future"
+    ],
+    "published": [
+      "2019-05-08T20:19:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.3\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.3\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.3\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/eddie-im-really-excited-about-the-future/annotations/5f4ef55034871924a381d4c9ba77dba1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/eddie-im-really-excited-about-the-future/annotations/5f4ef55034871924a381d4c9ba77dba1"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "84cd5cd9a699d9d42fc71ad175186e42"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-08T20:16:38Z",
+      "year": 2019,
+      "month": 5,
+      "day": 8,
+      "hour": 20,
+      "minute": 16,
+      "x": -118.39513029052176,
+      "y": 33.91972135256256,
+      "altitude": 31,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "WeWork"
+    }
+  }
+}

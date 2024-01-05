@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/live-from-wwdc-2019"
+    ],
+    "published": [
+      "2019-06-09T15:55:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.02\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.02\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.02\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/live-from-wwdc-2019/annotations/e885fe422981089b258e76d904e37541"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/live-from-wwdc-2019/annotations/e885fe422981089b258e76d904e37541"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a75b43e1d92b72425ca10f8215d288fc"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-10T16:04:04Z",
+      "year": 2019,
+      "month": 6,
+      "day": 10,
+      "hour": 16,
+      "minute": 4,
+      "x": -118.36800900696899,
+      "y": 33.812715761701696,
+      "altitude": 24,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Live from WWDC 2019!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/34f871b6f06046ac7b65f1418b092c4b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Jz-x6xejA"
+        ],
+        "content": [
+          {
+            "html": "<p>Lory Gil and Rene Ritchie are live from WWDC 2019 in San Jose, CA to geek out over some of their favorite announcements from the conference. Apple\u2019s software platforms got a lot of love this week. There are loads of new features for macOS Catalina, iOS 13, watchOS 6, and tvOS 13. And now we also have iPadOS, which will make your iPad even more capable than before! There\u2019s so much to talk about, we had to save Mac Pro and macOS for our show next week. So excite!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  iMore show</p>",
+            "value": "Lory Gil and Rene Ritchie are live from WWDC 2019 in San Jose, CA to geek out over some of their favorite announcements from the conference. Apple\u2019s software platforms got a lot of love this week. There are loads of new features for macOS Catalina, iOS 13, watchOS 6, and tvOS 13. And now we also have iPadOS, which will make your iPad even more capable than before! There\u2019s so much to talk about, we had to save Mac Pro and macOS for our show next week. So excite!\nBy iMore show"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

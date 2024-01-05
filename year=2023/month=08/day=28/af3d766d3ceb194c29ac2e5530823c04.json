@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/267-hiatus"
+    ],
+    "published": [
+      "2023-08-28T03:01:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "af3d766d3ceb194c29ac2e5530823c04"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-28T03:16:33Z",
+      "year": 2023,
+      "month": 8,
+      "day": 28,
+      "hour": 3,
+      "minute": 16,
+      "x": -118.37044354803987,
+      "y": 33.8153622821045,
+      "altitude": 62,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.15000000596046448,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 267: Hiatus"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c8360c06af662c269fb1270d03e77abc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2Q-UEdg"
+        ],
+        "content": [
+          {
+            "html": "<p>Listener Magnus is concerned that his favorite podcast is on hiatus. When is something on hiatus and when is it cancelled?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "Listener Magnus is concerned that his favorite podcast is on hiatus. When is something on hiatus and when is it cancelled?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

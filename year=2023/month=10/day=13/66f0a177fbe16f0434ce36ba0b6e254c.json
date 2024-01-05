@@ -1,0 +1,188 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tin Roof Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": "Tin Roof Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Birthday dinner for me!</p>",
+        "value": "Birthday dinner for me!"
+      }
+    ],
+    "url": [
+      "/2023/checked-into-tin-roof-bistro-7"
+    ],
+    "published": [
+      "2023-10-13T01:55:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Wine Bar check-in in 3 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Wine Bar check-in in 3 years!</p>",
+              "value": "First Wine Bar check-in in 3 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6528a37abe7f1803559ee09a/7d8326dc5e780e324e42676eec7a7421"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6528a37abe7f1803559ee09a/7d8326dc5e780e324e42676eec7a7421"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Tin Roof Bistro since January '20."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Tin Roof Bistro since January '20.</p>",
+              "value": "Welcome back! You haven't checked in to Tin Roof Bistro since January '20."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6528a37abe7f1803559ee09a/ec8c2eb1c35497c8ecf80a03ae45f937"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6528a37abe7f1803559ee09a/ec8c2eb1c35497c8ecf80a03ae45f937"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6528a37abe7f1803559ee09a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "66f0a177fbe16f0434ce36ba0b6e254c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-13T01:46:00Z",
+      "year": 2023,
+      "month": 10,
+      "day": 13,
+      "hour": 1,
+      "minute": 46,
+      "x": -118.39458270669914,
+      "y": 33.9002490589325,
+      "altitude": 43,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

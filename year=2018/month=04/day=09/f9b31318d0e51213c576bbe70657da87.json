@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Simmzy's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Simmzy's"
+          ],
+          "latitude": [
+            "33.885133158888"
+          ],
+          "longitude": [
+            "-118.40994159468"
+          ]
+        },
+        "value": "Simmzy's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Simmzy's"
+          ],
+          "latitude": [
+            "33.885133158888"
+          ],
+          "longitude": [
+            "-118.40994159468"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Work lunch.</p>",
+        "value": "Work lunch."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-simmzys"
+    ],
+    "published": [
+      "2018-04-09T20:53:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Downtown Manhattan Beach."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Downtown Manhattan Beach.</p>",
+              "value": "First check-in in Downtown Manhattan Beach."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5acbd2d2a5a315002be1a23a/4ab1d4e634952cc08223fb921f7e3543"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5acbd2d2a5a315002be1a23a/4ab1d4e634952cc08223fb921f7e3543"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Gastropub check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Gastropub check-in in 2 months!</p>",
+              "value": "First Gastropub check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5acbd2d2a5a315002be1a23a/a34054a3472edf74682ce06331de4f11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5acbd2d2a5a315002be1a23a/a34054a3472edf74682ce06331de4f11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5acbd2d2a5a315002be1a23a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f9b31318d0e51213c576bbe70657da87"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/261-buildings"
+    ],
+    "published": [
+      "2023-06-21T01:54:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "70c339bf895e3df1b87de3e2dc083ba6"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-21T01:40:48Z",
+      "year": 2023,
+      "month": 6,
+      "day": 21,
+      "hour": 1,
+      "minute": 40,
+      "x": -118.37034290524802,
+      "y": 33.815428173894276,
+      "altitude": 0,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 261: Buildings"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/eb1572472f4a2b7b18394e89f97bd241/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2S2S0Xc"
+        ],
+        "content": [
+          {
+            "html": "<p>A chair is not a house and house is not a home, but is a house a building? And what about gazebos?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "A chair is not a house and house is not a home, but is a house a building? And what about gazebos?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daring Fireball: Richard Stallman\u2019s Disgrace"
+    ],
+    "like-of": [
+      "https://daringfireball.net/2019/09/richard_stallmans_disgrace"
+    ],
+    "url": [
+      "/2019/daring-fireball-richard-stallmans-disgrace"
+    ],
+    "published": [
+      "2019-09-27T19:49:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 70.33\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 70.33\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 70.33\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/daring-fireball-richard-stallmans-disgrace/annotations/5813a0b93dc50c96276a80e1d4701612"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/daring-fireball-richard-stallmans-disgrace/annotations/5813a0b93dc50c96276a80e1d4701612"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "0608ff87502f68743b304fb291ebe570"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-27T19:02:17Z",
+      "year": 2019,
+      "month": 9,
+      "day": 27,
+      "hour": 19,
+      "minute": 2,
+      "x": -118.40155818567457,
+      "y": 33.95222421158929,
+      "altitude": 34,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  }
+}

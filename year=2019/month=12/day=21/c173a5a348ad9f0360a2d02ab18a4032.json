@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/357-a-giant-green-field"
+    ],
+    "published": [
+      "2019-12-21T22:17:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 46.08\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 46.08\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 46.08\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/357-a-giant-green-field/annotations/ddc68e191c5c66e207ccd40ebbacffea"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/357-a-giant-green-field/annotations/ddc68e191c5c66e207ccd40ebbacffea"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c173a5a348ad9f0360a2d02ab18a4032"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-22T00:04:31Z",
+      "year": 2019,
+      "month": 12,
+      "day": 22,
+      "hour": 0,
+      "minute": 4,
+      "x": -84.37320234839268,
+      "y": 33.88595542628845,
+      "altitude": 288,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaMaison"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 357: A Giant Green Field"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6b16c59e0099b784ba6f1adf52a709bf/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXX58l0"
+        ],
+        "content": [
+          {
+            "html": "<p>We have a bit more to say about the Mac Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "We have a bit more to say about the Mac Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

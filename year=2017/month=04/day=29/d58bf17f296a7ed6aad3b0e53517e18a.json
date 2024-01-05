@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into IKEA"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "IKEA"
+          ],
+          "latitude": [
+            "33.841405673235"
+          ],
+          "longitude": [
+            "-118.26022624969"
+          ]
+        },
+        "value": "IKEA"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "IKEA"
+          ],
+          "latitude": [
+            "33.841405673235"
+          ],
+          "longitude": [
+            "-118.26022624969"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IKEA on a Saturday. What could possibly go wrong?</p>",
+        "value": "IKEA on a Saturday. What could possibly go wrong?"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ikea"
+    ],
+    "published": [
+      "2017-04-29T18:30:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Furniture / Home Store check-in in 6 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Furniture / Home Store check-in in 6 years!</p>",
+              "value": "First Furniture / Home Store check-in in 6 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2c68c7e29f7913e13d2553316960a7e2"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5904db99f62f2b1f9800b369/ef2b8f8aaff3730b590876ba89d4ddc5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5904db99f62f2b1f9800b369/ef2b8f8aaff3730b590876ba89d4ddc5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5904db99f62f2b1f9800b369"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d58bf17f296a7ed6aad3b0e53517e18a"
+    ]
+  }
+}

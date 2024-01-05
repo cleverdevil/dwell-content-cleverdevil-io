@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/368-a-jacket-and-some-pins"
+    ],
+    "published": [
+      "2020-03-08T16:02:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.38\u00b0F and 82% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.38\u00b0F and 82% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.38\u00b0F and 82% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/368-a-jacket-and-some-pins/annotations/7cd75a5c13a9c2cfe59ebdd272c45c8c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/368-a-jacket-and-some-pins/annotations/7cd75a5c13a9c2cfe59ebdd272c45c8c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f7640510dff96da6dba1d0e4876d3ab6"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-08T16:00:12Z",
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.3705664851256,
+      "y": 33.81532049574457,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 368: A Jacket and Some Pins"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/14291530526fd327ac92aabb17699a08/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXNF6jo"
+        ],
+        "content": [
+          {
+            "html": "<p>Fixing Casey\u2019s computer, managing (and backing up) NAS-sized data, and WWDC\u2019s potential cancellation due to COVID-19.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Fixing Casey\u2019s computer, managing (and backing up) NAS-sized data, and WWDC\u2019s potential cancellation due to COVID-19.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/442-bobs-barbecue"
+    ],
+    "published": [
+      "2021-08-15T10:46:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b106b322b5d1f5b6b2b8c2c0e675514e"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-15T10:59:01Z",
+      "year": 2021,
+      "month": 8,
+      "day": 15,
+      "hour": 10,
+      "minute": 59,
+      "x": -116.30588942727388,
+      "y": 33.65654757237987,
+      "altitude": 58,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "Desert Escape Guest "
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 442: Bob\u2019s Barbecue"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5277c6bc55928d60fffccc11e52e9c32/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIzw0w4"
+        ],
+        "content": [
+          {
+            "html": "<p>Music apps, new Mac Pro GPUs, NSO and Apple\u2019s bug-bounty program, and how Apple knows you attended a concert.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Music apps, new Mac Pro GPUs, NSO and Apple\u2019s bug-bounty program, and how Apple knows you attended a concert.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

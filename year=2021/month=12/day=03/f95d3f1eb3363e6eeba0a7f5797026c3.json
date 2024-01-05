@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Park Theater"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Theater"
+          ],
+          "latitude": [
+            "36.104565221769"
+          ],
+          "longitude": [
+            "-115.17506361008"
+          ]
+        },
+        "value": "Park Theater"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Theater"
+          ],
+          "latitude": [
+            "36.104565221769"
+          ],
+          "longitude": [
+            "-115.17506361008"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Fooooo</p>",
+        "value": "Fooooo"
+      }
+    ],
+    "url": [
+      "/2021/checked-into-park-theater"
+    ],
+    "published": [
+      "2021-12-03T05:18:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Park Theater!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Park Theater!</p>",
+              "value": "Your first check-in at Park Theater!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61a9a88870b4fa51127b6fd0/20ed9bdd61a0f58f82b7c10425f6c3d5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61a9a88870b4fa51127b6fd0/20ed9bdd61a0f58f82b7c10425f6c3d5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61a9a88870b4fa51127b6fd0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f95d3f1eb3363e6eeba0a7f5797026c3"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-03T05:14:12Z",
+      "year": 2021,
+      "month": 12,
+      "day": 3,
+      "hour": 5,
+      "minute": 14,
+      "x": -115.17458210722914,
+      "y": 36.104329577168414,
+      "altitude": 653,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "MobilitiePasspoint"
+    }
+  }
+}

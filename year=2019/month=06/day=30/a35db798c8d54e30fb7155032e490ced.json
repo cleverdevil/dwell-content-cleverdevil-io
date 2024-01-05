@@ -1,0 +1,101 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Following"
+    ],
+    "url": [
+      "/pages/following"
+    ],
+    "published": [
+      "2019-06-30T22:18:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 81.51\u00b0F and 31% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 81.51\u00b0F and 31% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 81.51\u00b0F and 31% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/pages/following/annotations/bd7ab78decf052c164bb5a6d94e2dd54"
+          ]
+        },
+        "value": "https://cleverdevil.io/pages/following/annotations/bd7ab78decf052c164bb5a6d94e2dd54"
+      }
+    ],
+    "post-kind": [
+      "StaticPage"
+    ],
+    "post-id": [
+      "a35db798c8d54e30fb7155032e490ced"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T22:16:00Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 22,
+      "minute": 16,
+      "x": -122.68238533483714,
+      "y": 45.52339175278493,
+      "altitude": 17,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "Mozilla Guest"
+    }
+  }
+}

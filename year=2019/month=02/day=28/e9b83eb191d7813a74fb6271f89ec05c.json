@@ -1,0 +1,534 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "For Micro.blog users using micromemories to create an \"On This Day\" page, I've added some clarification to the README for users with custom themes \u2013 https://github.com/cleverdevil/micromemories#requirements."
+    ],
+    "content": [
+      {
+        "html": "For Micro.blog users using micromemories to create an \"On This Day\" page, I've added some clarification to the README for users with custom themes \u2013 <a href=\"https://github.com/cleverdevil/micromemories#requirements\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>micromemories#requirements</a>.",
+        "value": "For Micro.blog users using micromemories to create an \"On This Day\" page, I've added some clarification to the README for users with custom themes \u2013 https://github.com/cleverdevil/micromemories#requirements."
+      }
+    ],
+    "url": [
+      "/2019/for-microblog-users-using-micromemories-to-create"
+    ],
+    "published": [
+      "2019-02-28T18:29:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 59.89\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 59.89\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 59.89\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/for-microblog-users-using-micromemories-to-create/annotations/b16056b9747f6363eea92e915f542d83"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/for-microblog-users-using-micromemories-to-create/annotations/b16056b9747f6363eea92e915f542d83"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil new to micro.blog...trying to find my way around so im not sure if there is a direct way to message you? Using the microgram script in my \"photos\" page it only pulls one picture out of a post (usually the last picture) if I include several pics in a post. Am I doing something wrong...im not tech savy enough to file a bug in github where I got it from. If you have time could you help explain."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil new to micro.blog...trying to find my way around so im not sure if there is a direct way to message you?  Using the microgram script in my \"photos\" page it only pulls one picture out of a post (usually the last picture) if I include several pics in a post.  Am I doing something wrong...im not tech savy enough to file a bug in github where I got it from.  If you have time could you help explain.</p>",
+              "value": "@cleverdevil new to micro.blog...trying to find my way around so im not sure if there is a direct way to message you? Using the microgram script in my \"photos\" page it only pulls one picture out of a post (usually the last picture) if I include several pics in a post. Am I doing something wrong...im not tech savy enough to file a bug in github where I got it from. If you have time could you help explain."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2546118"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2546118"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Chrisleeladd hello, Chris, and welcome to Micro.blog! You\u2019re going to enjoy it here \ud83d\ude00 So, the \u201conly one photo per post\u201d thing is a current limitation of the photos feed in Micro.blog that microgram uses to generate your photos page. I\u2019ve discussed this limitation with @Manton before and he is aware of it. I think he\u2019d eventually like to make it handle all photos."
+          ],
+          "content": [
+            {
+              "html": "<p>@Chrisleeladd hello, Chris, and welcome to Micro.blog! You\u2019re going to enjoy it here \ud83d\ude00 So, the \u201conly one photo per post\u201d thing is a current limitation of the photos feed in Micro.blog that microgram uses to generate your photos page. I\u2019ve discussed this limitation with @Manton before and he is aware of it. I think he\u2019d eventually like to make it handle all photos.</p>",
+              "value": "@Chrisleeladd hello, Chris, and welcome to Micro.blog! You\u2019re going to enjoy it here \ud83d\ude00 So, the \u201conly one photo per post\u201d thing is a current limitation of the photos feed in Micro.blog that microgram uses to generate your photos page. I\u2019ve discussed this limitation with @Manton before and he is aware of it. I think he\u2019d eventually like to make it handle all photos."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/2548897"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/2548897"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil ahh I see. Makes sense. I\u2019m loving the platform. I jumped ship on social media a long time ago and was really happy when I found this. I\u2019m looking forward to using it more and getting a better understanding of how it works. Thanks for the reply."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil ahh I see. Makes sense. I\u2019m loving the platform. I jumped ship on social media a long time ago and was really happy when I found this. I\u2019m looking forward to using it more and getting a better understanding of how it works. Thanks for the reply.</p>",
+              "value": "@cleverdevil ahh I see. Makes sense. I\u2019m loving the platform. I jumped ship on social media a long time ago and was really happy when I found this. I\u2019m looking forward to using it more and getting a better understanding of how it works. Thanks for the reply."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2551537"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2551537"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil One last question...because I\u2019m a new born baby when it comes to some of this stuff. If you update or fix one of your scripts such as microgram...does that mean I have to delete what I have (the code pasted into my photos page) and re-copy and paste a new code? Or does the update self correct kind of like an app? I\u2019m sorry for the dumb questions. Ive just left main stream social media and I\u2019ve just discovered the Indy web. Trying to learn fast and catch up."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil One last question...because I\u2019m a new born baby when it comes to some of this stuff. If you update or fix one of your scripts such as microgram...does that mean I have to delete what I have (the code pasted into my photos page) and re-copy and paste a new code? Or does the update self correct kind of like an app? I\u2019m sorry for the dumb questions. Ive just left main stream social media and I\u2019ve just discovered the Indy web. Trying to learn fast and catch up.</p>",
+              "value": "@cleverdevil One last question...because I\u2019m a new born baby when it comes to some of this stuff. If you update or fix one of your scripts such as microgram...does that mean I have to delete what I have (the code pasted into my photos page) and re-copy and paste a new code? Or does the update self correct kind of like an app? I\u2019m sorry for the dumb questions. Ive just left main stream social media and I\u2019ve just discovered the Indy web. Trying to learn fast and catch up."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2566418"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2566418"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Chrisleeladd with both microgram and micromemories, you will automatically get improvements without any changes on your end, generally speaking. That said, I may eventually add features that could require that users make updates, but I won\u2019t ever make breaking changes if I can avoid it \ud83d\ude00"
+          ],
+          "content": [
+            {
+              "html": "<p>@Chrisleeladd with both microgram and micromemories, you will automatically get improvements without any changes on your end, generally speaking. That said, I may eventually add features that could require that users make updates, but I won\u2019t ever make breaking changes if I can avoid it \ud83d\ude00</p>",
+              "value": "@Chrisleeladd with both microgram and micromemories, you will automatically get improvements without any changes on your end, generally speaking. That said, I may eventually add features that could require that users make updates, but I won\u2019t ever make breaking changes if I can avoid it \ud83d\ude00"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/2569604"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/2569604"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil thanks for the clarity. Im just trying to understand how all this works. ha! Looking at your github page was the first time I've ever seen anything like that. It's fun to learn though. I think once I understand the mechanics of how it all works in principal I will be able to teach and learn more. Ive been listening to the Monday.micro.blog podcast over the last couple of days to get up to speed when I can. I also found the TIL page and a couple of other help pages. It would be nice if the platform has more of a walk through in it to onboard people like me!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil thanks for the clarity.  Im just trying to understand how all this works.  ha!  Looking at your github page was the first time I've ever seen anything like that.  It's fun to learn though.  I think once I understand the mechanics of how it all works in principal I will be able to teach and learn more.  Ive been listening to the Monday.micro.blog podcast over the last couple of days to get up to speed when I can.  I also found the TIL page and a couple of other help pages.  It would be nice if the platform has more of a walk through in it to onboard people like me!</p>",
+              "value": "@cleverdevil thanks for the clarity. Im just trying to understand how all this works. ha! Looking at your github page was the first time I've ever seen anything like that. It's fun to learn though. I think once I understand the mechanics of how it all works in principal I will be able to teach and learn more. Ive been listening to the Monday.micro.blog podcast over the last couple of days to get up to speed when I can. I also found the TIL page and a couple of other help pages. It would be nice if the platform has more of a walk through in it to onboard people like me!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2569611"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2569611"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Chrisleeladd no problem! If you're intersted in learning more about the broader Indieweb, I also highly recommend joining IndieWeb chat."
+          ],
+          "content": [
+            {
+              "html": "<p>@Chrisleeladd no problem! If you're intersted in learning more about the broader Indieweb, I also highly recommend joining IndieWeb chat.</p>",
+              "value": "@Chrisleeladd no problem! If you're intersted in learning more about the broader Indieweb, I also highly recommend joining IndieWeb chat."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/2569666"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/2569666"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil great! Another good resource for me to look into. Thanks!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil great! Another good resource for me to look into. Thanks!</p>",
+              "value": "@cleverdevil great! Another good resource for me to look into. Thanks!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2569669"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2569669"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Chrisleeladd The need for more/better walkthroughs and other onboarding here has come up several times, and we make small steps each time, but agreed there is still lots more that could/should be done. \nThe help is really helpful, and it\u2019s now actually organized in a way that can be used to help you discover more about the platform. And we\u2019ve got some stuff in the wiki, too, although it\u2019s more \u201cI know about X now and want to learn more/find more tools around it.\u201d"
+          ],
+          "content": [
+            {
+              "html": "<p>@Chrisleeladd The need for more/better walkthroughs and other onboarding here has come up several times, and we make small steps each time, but agreed there is still lots more that could/should be done. </p>\n\n<p>The help is really helpful, and it\u2019s now actually organized in a way that can be used to help you discover more about the platform. And we\u2019ve got some stuff in the wiki, too, although it\u2019s more \u201cI know about X now and want to learn more/find more tools around it.\u201d</p>",
+              "value": "@Chrisleeladd The need for more/better walkthroughs and other onboarding here has come up several times, and we make small steps each time, but agreed there is still lots more that could/should be done. \nThe help is really helpful, and it\u2019s now actually organized in a way that can be used to help you discover more about the platform. And we\u2019ve got some stuff in the wiki, too, although it\u2019s more \u201cI know about X now and want to learn more/find more tools around it.\u201d"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Ntb2tleS9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "smokey"
+                ],
+                "url": [
+                  "https://micro.blog/smokey"
+                ]
+              },
+              "value": "smokey"
+            }
+          ],
+          "url": [
+            "https://micro.blog/smokey/2573431"
+          ]
+        },
+        "value": "https://micro.blog/smokey/2573431"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@smokey I think it\u2019s good for the platform to present the tools and resources needed for people at any tech level to jump in and use the product. However, having said that.... I also think every user should take some personal responsibility and be a \u201clearner\u201d. I have enjoyed the process which to me is quite a process but to others already on the platform it may be more second nature or even a simplified second nature. \nI did struggle to find some of the resources though... I found the help page easily but it took me some time to find the Monday micro cast and the TIL page. Those have been incredibly helpful! I look forward to growing with the ever growing platform. I think this is the coolest thing in the world. \nAlso just to give a little context about me. I just learned how to use markdown two months ago. That was an interesting Saturday!! Ha!"
+          ],
+          "content": [
+            {
+              "html": "<p>@smokey I think it\u2019s good for the platform to present the tools and resources needed for people at any tech level to jump in and use the product. However, having said that.... I also think every user should take some personal responsibility and be a \u201clearner\u201d.  I have enjoyed the process which to me is quite a process but to others already on the platform it may be more second nature or even a simplified second nature. <br/>I did struggle to find some of the resources though... I found the help page easily but it took me some time to find the Monday micro cast and the TIL page. Those have been incredibly helpful! I look forward to growing with the ever growing platform. I think this is the coolest thing in the world.  </p>\n\n<p>Also just to give a little context about me. I just learned how to use markdown two months ago. That was an interesting Saturday!! Ha!</p>",
+              "value": "@smokey I think it\u2019s good for the platform to present the tools and resources needed for people at any tech level to jump in and use the product. However, having said that.... I also think every user should take some personal responsibility and be a \u201clearner\u201d. I have enjoyed the process which to me is quite a process but to others already on the platform it may be more second nature or even a simplified second nature. \nI did struggle to find some of the resources though... I found the help page easily but it took me some time to find the Monday micro cast and the TIL page. Those have been incredibly helpful! I look forward to growing with the ever growing platform. I think this is the coolest thing in the world. \nAlso just to give a little context about me. I just learned how to use markdown two months ago. That was an interesting Saturday!! Ha!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0NocmlzbGVlbGFkZC9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "Chrisleeladd"
+                ],
+                "url": [
+                  "https://micro.blog/Chrisleeladd"
+                ]
+              },
+              "value": "Chrisleeladd"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Chrisleeladd/2576670"
+          ]
+        },
+        "value": "https://micro.blog/Chrisleeladd/2576670"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Chrisleeladd \nI also think every user should take some personal responsibility and be a \u201clearner\u201d \n\nThis is a very good point (and one I agree with fully); sadly, it seems like many people today aren\u2019t willing to do that when they run into something unfamiliar. \nI just learned how to use markdown two months ago. That was an interesting Saturday!! Ha! \n\nI had for years successfully avoided learning Markdown just as I had successfully avoided learning Textile for years before that (I had learned BBCode and MediaWiki syntax so it wasn\u2019t an opposition to learning a pseudo-HTML markup syntax, just something I never encountered enough to need to learn), but Micro.blog finally ended that! \nAt any rate, welcome, and when you do have questions, just shout and people will be happy to help (and to listen to suggestions, too) \ud83d\udc4d"
+          ],
+          "content": [
+            {
+              "html": "<p>@Chrisleeladd  </p>\n\n<p>I also think every user should take some personal responsibility and be a \u201clearner\u201d <br/></p>\n\n<p>This is a very good point (and one I agree with fully); sadly, it seems like many people today aren\u2019t willing to do that when they run into something unfamiliar. </p>\n\n<p>I just learned how to use markdown two months ago. That was an interesting Saturday!! Ha! <br/></p>\n\n<p>I had for years successfully avoided learning Markdown just as I had successfully avoided learning Textile for years before that (I had learned BBCode and MediaWiki syntax so it wasn\u2019t an opposition to learning a pseudo-HTML markup syntax, just something I never encountered enough to need to learn), but Micro.blog finally ended that! </p>\n\n<p>At any rate, welcome, and when you do have questions, just shout and people will be happy to help (and to listen to suggestions, too) \ud83d\udc4d</p>",
+              "value": "@Chrisleeladd \nI also think every user should take some personal responsibility and be a \u201clearner\u201d \n\nThis is a very good point (and one I agree with fully); sadly, it seems like many people today aren\u2019t willing to do that when they run into something unfamiliar. \nI just learned how to use markdown two months ago. That was an interesting Saturday!! Ha! \n\nI had for years successfully avoided learning Markdown just as I had successfully avoided learning Textile for years before that (I had learned BBCode and MediaWiki syntax so it wasn\u2019t an opposition to learning a pseudo-HTML markup syntax, just something I never encountered enough to need to learn), but Micro.blog finally ended that! \nAt any rate, welcome, and when you do have questions, just shout and people will be happy to help (and to listen to suggestions, too) \ud83d\udc4d"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Ntb2tleS9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "smokey"
+                ],
+                "url": [
+                  "https://micro.blog/smokey"
+                ]
+              },
+              "value": "smokey"
+            }
+          ],
+          "url": [
+            "https://micro.blog/smokey/2587061"
+          ]
+        },
+        "value": "https://micro.blog/smokey/2587061"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e9b83eb191d7813a74fb6271f89ec05c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-28T18:26:53Z",
+      "year": 2019,
+      "month": 2,
+      "day": 28,
+      "hour": 18,
+      "minute": 26,
+      "x": -118.37028316131669,
+      "y": 33.81546661789709,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "LaCour"
+    }
+  }
+}

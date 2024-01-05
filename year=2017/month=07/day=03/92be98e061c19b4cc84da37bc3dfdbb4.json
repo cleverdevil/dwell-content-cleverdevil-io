@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Gelateria Uli"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gelateria Uli"
+          ],
+          "latitude": [
+            "34.046754060526"
+          ],
+          "longitude": [
+            "-118.25093491488"
+          ]
+        },
+        "value": "Gelateria Uli"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gelateria Uli"
+          ],
+          "latitude": [
+            "34.046754060526"
+          ],
+          "longitude": [
+            "-118.25093491488"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Nomnomnom</p>",
+        "value": "Nomnomnom"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-gelateria-uli"
+    ],
+    "published": [
+      "2017-07-03T19:49:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "iScream sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>iScream sticker bonus!</p>",
+              "value": "iScream sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/b38e2b209acd91724e664af552cebafd"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595a9fc66fd62614fa89ea2e/d850aa298a9a9d151754d74fb053ecc1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595a9fc66fd62614fa89ea2e/d850aa298a9a9d151754d74fb053ecc1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/22928efacfd9ad4d2b37e026334a3d70"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595a9fc66fd62614fa89ea2e/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595a9fc66fd62614fa89ea2e/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595a9fc66fd62614fa89ea2e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "92be98e061c19b4cc84da37bc3dfdbb4"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-261-the-2019-iphone-event-draft"
+    ],
+    "published": [
+      "2019-09-04T00:35:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.43\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.43\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.43\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-261-the-2019-iphone-event-draft/annotations/e330c378a0130026a64a35512a6adcc5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-261-the-2019-iphone-event-draft/annotations/e330c378a0130026a64a35512a6adcc5"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0277655c16ab5514e144403fb1a4ddb8"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-04T04:02:41Z",
+      "year": 2019,
+      "month": 9,
+      "day": 4,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37040178477338,
+      "y": 33.815400765865,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 261: The 2019 iPhone Event Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4c9bd28d174dc7bc12272c16c3e39695/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-SSC7Q"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for Jason and Myke to reveal their picks for what will happen on stage at the Steve Jobs Theater next week! They draft 10 different things they expect will happen\u2014or not happen\u2014next Tuesday.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s time for Jason and Myke to reveal their picks for what will happen on stage at the Steve Jobs Theater next week! They draft 10 different things they expect will happen\u2014or not happen\u2014next Tuesday.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

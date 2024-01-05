@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Decoy Dockside"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Decoy Dockside"
+          ],
+          "latitude": [
+            "33.123874437065"
+          ],
+          "longitude": [
+            "-117.20786339745"
+          ]
+        },
+        "value": "Decoy Dockside"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Decoy Dockside"
+          ],
+          "latitude": [
+            "33.123874437065"
+          ],
+          "longitude": [
+            "-117.20786339745"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with the little man.</p>",
+        "value": "Dinner with the little man."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-decoy-dockside"
+    ],
+    "published": [
+      "2018-09-24T02:20:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Decoy Dockside!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Decoy Dockside!</p>",
+              "value": "Your first check-in at Decoy Dockside!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba84a06121384002c361d82/b3bf88bf7923bac6b82ec4097c4f057e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba84a06121384002c361d82/b3bf88bf7923bac6b82ec4097c4f057e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba84a06121384002c361d82"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3cc91789e60635999bdda2348a55bd51"
+    ]
+  }
+}

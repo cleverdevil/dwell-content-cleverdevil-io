@@ -1,0 +1,114 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Future of Interaction \u2013 furbo.org"
+    ],
+    "bookmark-of": [
+      "https://furbo.org/2019/05/28/the-future-of-interaction"
+    ],
+    "content": [
+      {
+        "html": "<p>Incredibly insightful article by Craig Hockenberry of The Iconfactory on the future of Apple's platforms for app developers. Most commentary on Marzipan seems to be missing the deeper implications and possibilities of Marzipan and other rumored projects, but Craig sees the big picture, and the future that he envisions sounds revolutionary:</p><blockquote><p>Your iPad would behave as it always has until you plugged in a mouse. At that point, how you interact with the device adapts:</p><p>\u2022 Controls could get smaller because of the increased pointing accuracy</p><p>\u2022 Views could gain a hover state to display additional information</p><p>\u2022 Drag &amp; drop could change because it no longer depends on two fingers</p><p>\u2022 A mechanical wheel could replace a finger for scrolling</p><p>This kind of adaptability would work across platforms \u2013 your app would behave differently when it was running in augmented reality or on a TV screen. As a developer you wouldn\u2019t have to worry about what kind of hardware is available, you\u2019d have to worry about what to do when a customer used it to perform a task.</p></blockquote><p>Contextually aware user experience using declarative views and interactions? Yes, please. If Apple can pull this off, they'll have cracked the very difficult problem of unifying a variety of platforms (iPad, iPhone, Mac, Watch, TV, and more) without ignoring what makes each platform unique, and enabling touch, mouse, voice, and text interactions everywhere.</p>",
+        "value": "Incredibly insightful article by Craig Hockenberry of The Iconfactory on the future of Apple's platforms for app developers. Most commentary on Marzipan seems to be missing the deeper implications and possibilities of Marzipan and other rumored projects, but Craig sees the big picture, and the future that he envisions sounds revolutionary:\nYour iPad would behave as it always has until you plugged in a mouse. At that point, how you interact with the device adapts:\n\u2022 Controls could get smaller because of the increased pointing accuracy\n\u2022 Views could gain a hover state to display additional information\n\u2022 Drag & drop could change because it no longer depends on two fingers\n\u2022 A mechanical wheel could replace a finger for scrolling\nThis kind of adaptability would work across platforms \u2013 your app would behave differently when it was running in augmented reality or on a TV screen. As a developer you wouldn\u2019t have to worry about what kind of hardware is available, you\u2019d have to worry about what to do when a customer used it to perform a task.\nContextually aware user experience using declarative views and interactions? Yes, please. If Apple can pull this off, they'll have cracked the very difficult problem of unifying a variety of platforms (iPad, iPhone, Mac, Watch, TV, and more) without ignoring what makes each platform unique, and enabling touch, mouse, voice, and text interactions everywhere."
+      }
+    ],
+    "url": [
+      "/2019/the-future-of-interaction-furboorg"
+    ],
+    "published": [
+      "2019-05-29T17:19:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.21\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.21\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.21\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-future-of-interaction-furboorg/annotations/4b9a405f0cbff22f011bb11b774bbd6f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-future-of-interaction-furboorg/annotations/4b9a405f0cbff22f011bb11b774bbd6f"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1133785041774043136",
+      "https://mastodon.social/@cleverdevil/102180480255785989"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "7ade20958dda6dfc8cea285aaa06386c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-29T17:15:30Z",
+      "year": 2019,
+      "month": 5,
+      "day": 29,
+      "hour": 17,
+      "minute": 15,
+      "x": -87.62433704743428,
+      "y": 41.87229208672376,
+      "altitude": 184,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

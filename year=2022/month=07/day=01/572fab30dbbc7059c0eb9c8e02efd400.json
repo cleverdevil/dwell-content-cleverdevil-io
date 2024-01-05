@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/89-weird-al-song-parodies"
+    ],
+    "published": [
+      "2022-07-01T07:12:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "572fab30dbbc7059c0eb9c8e02efd400"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-01T07:59:56Z",
+      "year": 2022,
+      "month": 7,
+      "day": 1,
+      "hour": 7,
+      "minute": 59,
+      "x": -118.38863014494179,
+      "y": 33.90014626609659,
+      "altitude": 27,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 89: Weird Al Song Parodies"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a1a8b437ae92fb1efac35c3cb0982562/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYCJVbA"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite song parodies by \u201cWeird Al\u201d Yankovic.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite song parodies by \u201cWeird Al\u201d Yankovic.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

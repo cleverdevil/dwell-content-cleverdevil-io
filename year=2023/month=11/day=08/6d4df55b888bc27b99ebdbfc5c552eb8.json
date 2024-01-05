@@ -1,0 +1,70 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I\u2019ve already written a tool that will export most of the content on my website to MF2 JSON in the right directory structure. I can easily query the entire data set using DuckDB. Slick!"
+    ],
+    "content": [
+      {
+        "html": "I\u2019ve already written a tool that will export most of the content on my website to MF2 JSON in the right directory structure. I can easily query the entire data set using DuckDB. Slick!",
+        "value": "I\u2019ve already written a tool that will export most of the content on my website to MF2 JSON in the right directory structure. I can easily query the entire data set using DuckDB. Slick!"
+      }
+    ],
+    "url": [
+      "/2023/ive-already-written-a-tool-that-will"
+    ],
+    "published": [
+      "2023-11-08T04:18:21+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111372999193479321",
+      "https://bsky.app/profile/cleverdevil.io/post/3kdnlkf65zt2k"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "6d4df55b888bc27b99ebdbfc5c552eb8"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-07T18:23:36Z",
+      "year": 2023,
+      "month": 11,
+      "day": 7,
+      "hour": 18,
+      "minute": 23,
+      "x": -118.37050596841728,
+      "y": 33.815326788697426,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

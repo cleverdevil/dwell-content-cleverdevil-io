@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-4-i-made-a-pikachu-pancake"
+    ],
+    "published": [
+      "2019-02-28T17:29:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-4-i-made-a-pikachu-pancake/annotations/a2b4b541fa07ada855b99c7bef7531fc"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-4-i-made-a-pikachu-pancake/annotations/a2b4b541fa07ada855b99c7bef7531fc"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "54b1b44059f858550d99fb26aaa7a449"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-28T19:59:58Z",
+      "year": 2019,
+      "month": 2,
+      "day": 28,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37041627798864,
+      "y": 33.815315417179164,
+      "altitude": 49,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 4: I Made a Pikachu Pancake"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/95f6fca3cc6f89be06c64cf803aec3f5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+PdhAiiGyY"
+        ],
+        "content": [
+          {
+            "html": "<p>Your hosts are back, and they recap Jonathan\u2019s vacation to Maui, discuss sharing special places with family, debate hotels vs. resorts vs. condos, follow-up on some tech topics, and finally talk about balanced parenting. Oh, and Eddie\u2019s cat happens. Blog Post: Tracking My Movie, Tv and Podcast Activity Overcast Micro Monday You can find out more about Eddie and Jonathan at their respective websites: Jonathan is cleverdevil.io Eddie is eddiehinkle.com For past episodes or to subscribe to future episodes, visit us at twodads.fm.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Two Dads Talking</p>",
+            "value": "Your hosts are back, and they recap Jonathan\u2019s vacation to Maui, discuss sharing special places with family, debate hotels vs. resorts vs. condos, follow-up on some tech topics, and finally talk about balanced parenting. Oh, and Eddie\u2019s cat happens. Blog Post: Tracking My Movie, Tv and Podcast Activity Overcast Micro Monday You can find out more about Eddie and Jonathan at their respective websites: Jonathan is cleverdevil.io Eddie is eddiehinkle.com For past episodes or to subscribe to future episodes, visit us at twodads.fm.\nBy Two Dads Talking"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

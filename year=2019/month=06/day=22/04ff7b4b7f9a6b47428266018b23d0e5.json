@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-250-building-a-home-screen-together"
+    ],
+    "published": [
+      "2019-06-22T17:07:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.74\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.74\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.74\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-250-building-a-home-screen-together/annotations/244aac152a7e51e858a8c01ef9e6fb54"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-250-building-a-home-screen-together/annotations/244aac152a7e51e858a8c01ef9e6fb54"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "04ff7b4b7f9a6b47428266018b23d0e5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-22T19:05:47Z",
+      "year": 2019,
+      "month": 6,
+      "day": 22,
+      "hour": 19,
+      "minute": 5,
+      "x": -118.37026280994107,
+      "y": 33.815372275563554,
+      "altitude": 52,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 250: Building a Home Screen Together"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8fc8a462c6b2cd9d975ddf644618e4d8/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-cflM0"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason and Myke kick off the The Upgrade Summer of Fun by building the official Upgrade iPhone home screen. 28 apps will be picked! Four will win coveted spaces in the dock! Rules will be invented on the fly! Also, we explain what a draft is.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason and Myke kick off the The Upgrade Summer of Fun by building the official Upgrade iPhone home screen. 28 apps will be picked! Four will win coveted spaces in the dock! Rules will be invented on the fly! Also, we explain what a draft is.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

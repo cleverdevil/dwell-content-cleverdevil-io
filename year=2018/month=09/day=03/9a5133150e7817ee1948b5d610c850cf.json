@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/connected-207-the-best-easter-egg-is-you"
+    ],
+    "published": [
+      "2018-09-03T16:39:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9a5133150e7817ee1948b5d610c850cf"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 207: The Best Easter Egg is You"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/229bb9aa920a8eef0c09009cbee82cba/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7DTKKU"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen struggles with vowels and Federico dreams about buying a Mac mini and Myke ponders the future of the Apple Pencil.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen struggles with vowels and Federico dreams about buying a Mac mini and Myke ponders the future of the Apple Pencil.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

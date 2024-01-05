@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Similarly, Micro.blog users may have noticed issues with my microgram project, where photo grid pages wouldn't display some photos. This is caused by an upstream issue with Micro.blog and image thumbnails, and is being worked on!"
+    ],
+    "content": [
+      {
+        "html": "Similarly, Micro.blog users may have noticed issues with my microgram project, where photo grid pages wouldn't display some photos. This is caused by an upstream issue with Micro.blog and image thumbnails, and is being worked on!",
+        "value": "Similarly, Micro.blog users may have noticed issues with my microgram project, where photo grid pages wouldn't display some photos. This is caused by an upstream issue with Micro.blog and image thumbnails, and is being worked on!"
+      }
+    ],
+    "url": [
+      "/2019/similarly-microblog-users-may-have-noticed-issues"
+    ],
+    "published": [
+      "2019-02-09T21:37:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.85\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.85\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.85\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/similarly-microblog-users-may-have-noticed-issues/annotations/f21f8db73edc2a893c9b9d48ec5b177e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/similarly-microblog-users-may-have-noticed-issues/annotations/f21f8db73edc2a893c9b9d48ec5b177e"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1094349700524855296"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "68349c1e2023a8591d70cde0c121a9dd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-09T21:34:05Z",
+      "year": 2019,
+      "month": 2,
+      "day": 9,
+      "hour": 21,
+      "minute": 34,
+      "x": -118.37028699605814,
+      "y": 33.8154042940643,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": "LaCour"
+    }
+  }
+}

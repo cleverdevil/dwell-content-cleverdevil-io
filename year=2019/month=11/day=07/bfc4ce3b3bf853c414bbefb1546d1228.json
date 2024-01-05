@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-268-executive-spaghetti"
+    ],
+    "published": [
+      "2019-11-07T16:20:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Foggy with a temperature of 68.98\u00b0F and 69% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Foggy with a temperature of 68.98\u00b0F and 69% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Foggy with a temperature of 68.98\u00b0F and 69% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/fog.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-268-executive-spaghetti/annotations/149173e980536fb28837c2e60cda3b27"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-268-executive-spaghetti/annotations/149173e980536fb28837c2e60cda3b27"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bfc4ce3b3bf853c414bbefb1546d1228"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-07T19:15:53Z",
+      "year": 2019,
+      "month": 11,
+      "day": 7,
+      "hour": 19,
+      "minute": 15,
+      "x": -118.39966411439164,
+      "y": 33.949350990655965,
+      "altitude": 35,
+      "motion": [],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 268: Executive Spaghetti"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e1e0f5c01988ca6b4186d9fbd77984da/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7iyi9k"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico is joined by a better Hackett to talk about Apple\u2019s range of earbuds, then Stephen butts in to discuss Adobe\u2019s big week and what Apple should do in the wake of iOS 13 and macOS Catalina\u2019s buggy releases. Then, spoiler-filled Apple TV+ reviews.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico is joined by a better Hackett to talk about Apple\u2019s range of earbuds, then Stephen butts in to discuss Adobe\u2019s big week and what Apple should do in the wake of iOS 13 and macOS Catalina\u2019s buggy releases. Then, spoiler-filled Apple TV+ reviews.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

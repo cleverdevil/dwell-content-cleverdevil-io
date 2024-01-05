@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/23-ibms-search-for-an-operating-system"
+    ],
+    "published": [
+      "2022-01-03T05:34:24+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d4690a9a943e720a22b5d963fb871168"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-03T07:32:20Z",
+      "year": 2022,
+      "month": 1,
+      "day": 3,
+      "hour": 7,
+      "minute": 32,
+      "x": -116.38033023618706,
+      "y": 33.70171150456815,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 23: IBM\u2019s Search for an Operating System"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/44b84fb697dea20da45712e4cae46d37/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2xeCTB8"
+        ],
+        "content": [
+          {
+            "html": "<p>With its PC built, IBM needed to find an operating system that would run on it. Its choice would change the computer industry forever.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "With its PC built, IBM needed to find an operating system that would run on it. Its choice would change the computer industry forever.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

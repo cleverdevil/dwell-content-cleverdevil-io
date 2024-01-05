@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seattle-Tacoma International Airport (SEA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": "Seattle-Tacoma International Airport (SEA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-seattle-tacoma-international-airport-sea-8"
+    ],
+    "published": [
+      "2019-09-30T18:33:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "3 weeks in a row at airports. That's pretty fly!"
+          ],
+          "content": [
+            {
+              "html": "<p>3 weeks in a row at airports. That's pretty fly!</p>",
+              "value": "3 weeks in a row at airports. That's pretty fly!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d924a7e6baf7c00089f6d04/06c2e63824d75f63d7184d07205fcf5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d924a7e6baf7c00089f6d04/06c2e63824d75f63d7184d07205fcf5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 52% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 52% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 52% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-seattle-tacoma-international-airport-sea-8/annotations/05f646f408ee9e35a541721fc52edf92"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-seattle-tacoma-international-airport-sea-8/annotations/05f646f408ee9e35a541721fc52edf92"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d924a7e6baf7c00089f6d04"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6d7a53fc9bbd768640fa1bbe7eb1bd40"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-30T18:30:31Z",
+      "year": 2019,
+      "month": 9,
+      "day": 30,
+      "hour": 18,
+      "minute": 30,
+      "x": -122.29793039096562,
+      "y": 47.44622660790445,
+      "altitude": 117,
+      "motion": [],
+      "speed": 2,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": ""
+    }
+  }
+}

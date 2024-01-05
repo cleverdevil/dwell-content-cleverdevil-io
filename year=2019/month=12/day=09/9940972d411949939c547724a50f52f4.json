@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles Memorial Coliseum"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles Memorial Coliseum"
+          ],
+          "latitude": [
+            "34.014378669242"
+          ],
+          "longitude": [
+            "-118.28768307874"
+          ]
+        },
+        "value": "Los Angeles Memorial Coliseum"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles Memorial Coliseum"
+          ],
+          "latitude": [
+            "34.014378669242"
+          ],
+          "longitude": [
+            "-118.28768307874"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-los-angeles-memorial-coliseum-5"
+    ],
+    "published": [
+      "2019-12-09T01:02:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 132 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 132 people are here!</p>",
+              "value": "This place is swarming! 132 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ded9d272b294200081b26e0/dd210e1af27d8a86f1a2a156b0c5ac43"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ded9d272b294200081b26e0/dd210e1af27d8a86f1a2a156b0c5ac43"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.8\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.8\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.8\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-los-angeles-memorial-coliseum-5/annotations/49805726ef53de922cd092b3f978ba86"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-los-angeles-memorial-coliseum-5/annotations/49805726ef53de922cd092b3f978ba86"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ded9d272b294200081b26e0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9940972d411949939c547724a50f52f4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-09T01:00:22Z",
+      "year": 2019,
+      "month": 12,
+      "day": 9,
+      "hour": 1,
+      "minute": 0,
+      "x": -118.28426710760702,
+      "y": 34.015815924180984,
+      "altitude": 58,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": ""
+    }
+  }
+}

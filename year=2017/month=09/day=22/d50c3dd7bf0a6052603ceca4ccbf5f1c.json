@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://keithjgrant.com/notes/2017/09/70135/"
+    ],
+    "name": [
+      "@keithjgrant.com @connect_js You deserve a webmention!"
+    ],
+    "content": [
+      {
+        "html": "@keithjgrant.com @connect_js You deserve a webmention!",
+        "value": "@keithjgrant.com @connect_js You deserve a webmention!"
+      }
+    ],
+    "url": [
+      "/2017/keithjgrantcom-connect_js-you-deserve-a-webmention"
+    ],
+    "published": [
+      "2017-09-22T19:40:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Exactly what I was demo-ing ;)"
+          ],
+          "content": [
+            {
+              "html": "<p>Exactly what I was demo-ing ;)</p>",
+              "value": "Exactly what I was demo-ing ;)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9rZWl0aGpncmFudC5jb20vaW1hZ2VzL2tlaXRoamdyYW50LmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Keith J. Grant"
+                ],
+                "url": [
+                  "https://keithjgrant.com"
+                ]
+              },
+              "value": "Keith J. Grant"
+            }
+          ],
+          "url": [
+            "https://keithjgrant.com/replies/2017/09/71852/"
+          ]
+        },
+        "value": "https://keithjgrant.com/replies/2017/09/71852/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Exactly what I was demo-ing ;) (keithjgrant.com/replies/2017/0\u2026)"
+          ],
+          "content": [
+            {
+              "html": "<p>Exactly what I was demo-ing ;) (keithjgrant.com/replies/2017/0\u2026)</p>",
+              "value": "Exactly what I was demo-ing ;) (keithjgrant.com/replies/2017/0\u2026)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODYyNjg4MzQzMjU1NDQ5Ny91T3duWks0aS5qcGc,/300/square"
+                ],
+                "name": [
+                  "keith\u2022j\u2022grant"
+                ],
+                "url": [
+                  "https://keithjgrant.com"
+                ]
+              },
+              "value": "keith\u2022j\u2022grant"
+            }
+          ],
+          "url": [
+            "https://twitter.com/keithjgrant/status/911319480113954816"
+          ]
+        },
+        "value": "https://twitter.com/keithjgrant/status/911319480113954816"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/911314184952012800"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d50c3dd7bf0a6052603ceca4ccbf5f1c"
+    ]
+  }
+}

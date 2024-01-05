@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/69-card-games"
+    ],
+    "published": [
+      "2020-11-22T21:40:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "11438e1d0703d43a125dafd7fba39d31"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-22T23:59:30Z",
+      "year": 2020,
+      "month": 11,
+      "day": 22,
+      "hour": 23,
+      "minute": 59,
+      "x": -118.3705352533751,
+      "y": 33.81531042904237,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 69: Card Games \u2666\ufe0f\u2663\ufe0f\u2665\ufe0f\u2660\ufe0f"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/356293d990807b588b8fa858c507e9ab/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYMBCOU"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite card games playable with a standard deck \u2014 or at least by ruining the top half of one.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite card games playable with a standard deck \u2014 or at least by ruining the top half of one.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

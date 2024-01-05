@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Counter"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048286935057"
+          ],
+          "longitude": [
+            "-118.25822986871"
+          ]
+        },
+        "value": "The Counter"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048286935057"
+          ],
+          "longitude": [
+            "-118.25822986871"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Impossible burgers with Kris!</p>",
+        "value": "Impossible burgers with Kris!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-counter-3"
+    ],
+    "published": [
+      "2017-11-27T19:45:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Burger Joint check-in in one month!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Burger Joint check-in in one month!</p>",
+              "value": "First Burger Joint check-in in one month!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a1c6b4c0ff4f93d93a9cc75/8c3874f45829d8c4b75901e542a67ebb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a1c6b4c0ff4f93d93a9cc75/8c3874f45829d8c4b75901e542a67ebb"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been one month since you've checked in to The Counter."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been one month since you've checked in to The Counter.</p>",
+              "value": "Welcome back! It's been one month since you've checked in to The Counter."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a1c6b4c0ff4f93d93a9cc75/36edc58cd672b428a653f99992896a11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a1c6b4c0ff4f93d93a9cc75/36edc58cd672b428a653f99992896a11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a1c6b4c0ff4f93d93a9cc75"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "df462583ba85db3929be4a84364f80eb"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-23-thinking-about-a-website-for-events"
+    ],
+    "published": [
+      "2019-02-07T22:49:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.27\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.27\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.27\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-23-thinking-about-a-website-for-events/annotations/1a136825ec2118c2c6c7276f9d96a7d1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-23-thinking-about-a-website-for-events/annotations/1a136825ec2118c2c6c7276f9d96a7d1"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c79ab58fc53d0135fe0e4f532713f0b3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-08T00:00:32Z",
+      "year": 2019,
+      "month": 2,
+      "day": 8,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.41145263370424,
+      "y": 33.917416558646416,
+      "altitude": 28,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "Mission"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 23: Thinking about a Website for Events"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b234823061fc27f796e3beb4eeea0efd/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+KZH-36rR0"
+        ],
+        "content": [
+          {
+            "html": "<p>I keep thinking about building a website to post events</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Percolator</p>",
+            "value": "I keep thinking about building a website to post events\nBy Percolator"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

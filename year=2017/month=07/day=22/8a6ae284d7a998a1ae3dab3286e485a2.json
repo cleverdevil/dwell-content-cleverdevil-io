@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Post marg coffee</p>",
+        "value": "Post marg coffee"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-coffee-bean-tea-leaf-3"
+    ],
+    "published": [
+      "2017-07-22T19:39:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 60 check-ins at Coffee Shops!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 60 check-ins at Coffee Shops!</p>",
+              "value": "Wow! That's 60 check-ins at Coffee Shops!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d57ff3894ef3081eb9adbf9be2035d92"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5973a9fc69e77b0978bced86/2c406b2498a51be2505b3c4f9f8396f4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5973a9fc69e77b0978bced86/2c406b2498a51be2505b3c4f9f8396f4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5973a9fc69e77b0978bced86"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8a6ae284d7a998a1ae3dab3286e485a2"
+    ]
+  }
+}

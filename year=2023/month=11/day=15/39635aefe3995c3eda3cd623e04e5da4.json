@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/you-cant-hurdle-the-truth"
+    ],
+    "published": [
+      "2023-11-15T05:01:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "39635aefe3995c3eda3cd623e04e5da4"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-15T05:59:01Z",
+      "year": 2023,
+      "month": 11,
+      "day": 15,
+      "hour": 5,
+      "minute": 59,
+      "x": -116.391615,
+      "y": 33.717859,
+      "altitude": 83,
+      "motion": [
+        "driving"
+      ],
+      "speed": 21,
+      "battery_state": "unplugged",
+      "battery_level": 0.65,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to You Can\u2019t Hurdle the Truth"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/59d3271578f92afbcdd5286f2b43d461/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM28CIC8"
+        ],
+        "content": [
+          {
+            "html": "<p>Zack brings the case against his brother, Nick. Zack claims to have been a member of their high school track team. Nick says: IT NEVER HAPPENED! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Zack brings the case against his brother, Nick. Zack claims to have been a member of their high school track team. Nick says: IT NEVER HAPPENED! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

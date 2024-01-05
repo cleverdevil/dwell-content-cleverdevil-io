@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/dear-internet-episode-169-a-frozen-yogurt-shop-for-margaritas"
+    ],
+    "published": [
+      "2023-09-20T17:53:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "50f78d73b9ad51233f805f5e80c658b2"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-20T19:35:27Z",
+      "year": 2023,
+      "month": 9,
+      "day": 20,
+      "hour": 19,
+      "minute": 35,
+      "x": -122.30127656413998,
+      "y": 47.43898752598641,
+      "altitude": 118,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 169: A Frozen Yogurt Shop for Margaritas"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/880eff9ca5f79dfeb742117f5b2e327d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_59Zpn88"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,This week, we\u2019re talking about cheating, a giant steak, and a barbeque parasol!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,This week, we\u2019re talking about cheating, a giant steak, and a barbeque parasol!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

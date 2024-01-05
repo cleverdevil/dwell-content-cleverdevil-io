@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/396-the-world-of-moving"
+    ],
+    "published": [
+      "2020-09-20T07:19:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "54c31c69dfaa3154a233c186e57710b9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-20T07:26:42Z",
+      "year": 2020,
+      "month": 9,
+      "day": 20,
+      "hour": 7,
+      "minute": 26,
+      "x": -118.37052568700399,
+      "y": 33.8153087632783,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.25999999046325684,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 396: The World of Moving"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a1887c1bbcb930ac167ca03d21c0469f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIzZ-SM"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s event unveiling the Apple Watch Series 6, new iPad and iPad Air, Family Setup, and Fitness+.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s event unveiling the Apple Watch Series 6, new iPad and iPad Air, Family Setup, and Fitness+.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

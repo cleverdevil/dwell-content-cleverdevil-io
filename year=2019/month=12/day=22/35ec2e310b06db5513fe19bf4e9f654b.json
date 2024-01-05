@@ -1,0 +1,188 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Phipps Plaza"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Phipps Plaza"
+          ],
+          "latitude": [
+            "33.8524901"
+          ],
+          "longitude": [
+            "-84.3628447"
+          ]
+        },
+        "value": "Phipps Plaza"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Phipps Plaza"
+          ],
+          "latitude": [
+            "33.8524901"
+          ],
+          "longitude": [
+            "-84.3628447"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-phipps-plaza-1"
+    ],
+    "published": [
+      "2019-12-22T18:05:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 60 check-ins at Shopping Malls!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 60 check-ins at Shopping Malls!</p>",
+              "value": "Wow! That's 60 check-ins at Shopping Malls!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dffb05bf3031e000751fe18/33f84addb33b29ba9e84a9cd34bf0c80"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dffb05bf3031e000751fe18/33f84addb33b29ba9e84a9cd34bf0c80"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Light Rain with a temperature of 42.83\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Light Rain with a temperature of 42.83\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Light Rain with a temperature of 42.83\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-phipps-plaza-1/annotations/5349cd5db77c0358663b252df04df430"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-phipps-plaza-1/annotations/5349cd5db77c0358663b252df04df430"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dffb05bf3031e000751fe18"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "35ec2e310b06db5513fe19bf4e9f654b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-22T18:00:03Z",
+      "year": 2019,
+      "month": 12,
+      "day": 22,
+      "hour": 18,
+      "minute": 0,
+      "x": -84.35846030234693,
+      "y": 33.87072788239223,
+      "altitude": 288,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 15,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  }
+}

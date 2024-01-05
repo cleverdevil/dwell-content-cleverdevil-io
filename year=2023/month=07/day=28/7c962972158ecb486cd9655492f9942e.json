@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/rerun-dad-nauseam"
+    ],
+    "published": [
+      "2023-07-28T19:26:15+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7c962972158ecb486cd9655492f9942e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-28T18:09:12Z",
+      "year": 2023,
+      "month": 7,
+      "day": 28,
+      "hour": 18,
+      "minute": 9,
+      "x": -73.76547090774676,
+      "y": 40.65066866064693,
+      "altitude": 5,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5400000214576721,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to RERUN: Dad Nauseam"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6c00db801a7a04bb9ffc1b90ff66797d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM09fXPk"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, we\u2019re revisiting a certified Judge John Hodgman classic: DAD NAUSEAM! Daniel brings the case against his dad, Kevin. He says Kevin overuses the same joke with service industry workers, which the rest of the family finds embarrassing. Kevin thinks it\u2019s a funny joke that brightens people\u2019s day. Who\u2019s right?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "This week, we\u2019re revisiting a certified Judge John Hodgman classic: DAD NAUSEAM! Daniel brings the case against his dad, Kevin. He says Kevin overuses the same joke with service industry workers, which the rest of the family finds embarrassing. Kevin thinks it\u2019s a funny joke that brightens people\u2019s day. Who\u2019s right?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://stream.boffosocko.com/2017/ill-try-them-both-out-later-this-evening-you-inspired"
+    ],
+    "name": [
+      "@stream.boffosocko.com/profile/chrisaldrich awesome! Can't wait to see your Read plugin :) Both Watching and Read should potentially integrate with my Reviews plugin, too!"
+    ],
+    "content": [
+      {
+        "html": "@stream.boffosocko.com/profile/chrisaldrich awesome! Can't wait to see your Read plugin :) Both Watching and Read should potentially integrate with my Reviews plugin, too!",
+        "value": "@stream.boffosocko.com/profile/chrisaldrich awesome! Can't wait to see your Read plugin :) Both Watching and Read should potentially integrate with my Reviews plugin, too!"
+      }
+    ],
+    "url": [
+      "/2017/streamboffosockocomprofilechrisaldrich-awesome-cant-wait-to-see-your-read-plugin-both"
+    ],
+    "published": [
+      "2017-04-13T20:55:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I'm debating whether it's better to do a standalone plugin for read or just add it as a PR to the \"like/bookmark/repost\" set up in core since they're all so similar. I suspect they'd prefer it be separate from a corporate standpoint, but it could be much easier and cleaner that way.\nI noticed the product mf2 on Watches, and meant to suggest putting a star rating set up on those posts too. I imagine you could cut and paste some code from your reviews plugin?"
+          ],
+          "content": [
+            {
+              "html": "<p>I'm debating whether it's better to do a standalone plugin for read or just add it as a PR to the \"like/bookmark/repost\" set up in core since they're all so similar.  I suspect they'd prefer it be separate from a corporate standpoint, but it could be much easier and cleaner that way.</p>\n\n<p>I noticed the product mf2 on Watches, and meant to suggest putting a star rating set up on those posts too. I imagine you could cut and paste some code from your reviews plugin?</p>",
+              "value": "I'm debating whether it's better to do a standalone plugin for read or just add it as a PR to the \"like/bookmark/repost\" set up in core since they're all so similar. I suspect they'd prefer it be separate from a corporate standpoint, but it could be much easier and cleaner that way.\nI noticed the product mf2 on Watches, and meant to suggest putting a star rating set up on those posts too. I imagine you could cut and paste some code from your reviews plugin?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/afdc5d814ed99c7733815517b7eb01cf"
+                ],
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://stream.boffosocko.com/profile/chrisaldrich"
+                ]
+              },
+              "value": "Chris Aldrich"
+            }
+          ],
+          "url": [
+            "http://stream.boffosocko.com/2017/im-debating-whether-its-better-to-do-a-standalone-plugin"
+          ]
+        },
+        "value": "http://stream.boffosocko.com/2017/im-debating-whether-its-better-to-do-a-standalone-plugin"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "0d6d97cb7ea81321d870c51aa1d932a4"
+    ]
+  }
+}

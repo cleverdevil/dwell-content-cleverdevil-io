@@ -1,0 +1,96 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/work-mimosa"
+    ],
+    "published": [
+      "2017-04-18T17:20:40+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "bd3d2556ed30dcdfed02505146a53ed2"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/work-mimosa"
+              ],
+              "name": [
+                "Work Mimosa!"
+              ]
+            },
+            "value": "Work Mimosa!"
+          }
+        ],
+        "content": [
+          {
+            "html": "",
+            "value": ""
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

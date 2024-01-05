@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Super Mario Party\nPlayed on the Nintendo Switch.\nPlayed for 35 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/4afeff4c185bf06efebd2203c05f322b/thumb.jpg"
+    ],
+    "name": [
+      "Super Mario Party"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 35 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 35 minutes."
+      }
+    ],
+    "url": [
+      "/2019/super-mario-party-4"
+    ],
+    "published": [
+      "2019-05-06T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 56.87\u00b0F and 91% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 56.87\u00b0F and 91% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 56.87\u00b0F and 91% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/super-mario-party-4/annotations/1a8bb6dbed66d2325191281bc055525a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/super-mario-party-4/annotations/1a8bb6dbed66d2325191281bc055525a"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "208aece397f3efaa1db0567b114e7de1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-06T08:12:10Z",
+      "year": 2019,
+      "month": 5,
+      "day": 6,
+      "hour": 8,
+      "minute": 12,
+      "x": -118.3705175470959,
+      "y": 33.815288530865004,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": "LaCour"
+    }
+  }
+}

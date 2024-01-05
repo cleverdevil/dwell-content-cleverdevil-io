@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/obb-ep-69-winged-beaver"
+    ],
+    "published": [
+      "2020-02-20T07:21:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.59\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.59\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.59\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/obb-ep-69-winged-beaver/annotations/b03060bf6b6cb333431501499a418e62"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/obb-ep-69-winged-beaver/annotations/b03060bf6b6cb333431501499a418e62"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ffe84e0cbc8095a7bef369524892a80c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-20T07:42:43Z",
+      "year": 2020,
+      "month": 2,
+      "day": 20,
+      "hour": 7,
+      "minute": 42,
+      "x": -121.90825172249228,
+      "y": 37.36465110186116,
+      "altitude": 15,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8700000047683716,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #69: Winged Beaver"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e1e9300b21fd87141f0e0a4707d4895d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf6D9i2s"
+        ],
+        "content": [
+          {
+            "html": "<p>Our first Hangout Session of 2020 starred Jimmy Murphy! It was in depth and awesome! Hope you all enjoy\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "Our first Hangout Session of 2020 starred Jimmy Murphy! It was in depth and awesome! Hope you all enjoy\u2026\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

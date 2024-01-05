@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Westin New York at Times Square"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin New York at Times Square"
+          ],
+          "latitude": [
+            "40.7577137"
+          ],
+          "longitude": [
+            "-73.9891186"
+          ]
+        },
+        "value": "The Westin New York at Times Square"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin New York at Times Square"
+          ],
+          "latitude": [
+            "40.7577137"
+          ],
+          "longitude": [
+            "-73.9891186"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-westin-new-york-at-times-square"
+    ],
+    "published": [
+      "2023-07-24T03:56:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "M.G. Siegler (friends with Tantek) created this place 14 years ago."
+          ],
+          "content": [
+            {
+              "html": "<p>M.G. Siegler (friends with Tantek) created this place 14 years ago.</p>",
+              "value": "M.G. Siegler (friends with Tantek) created this place 14 years ago."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64bdf65d97d3fb7ad9e985d3/22c0f1e69a9738c2de13324ed13a04f7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64bdf65d97d3fb7ad9e985d3/22c0f1e69a9738c2de13324ed13a04f7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64bdf65d97d3fb7ad9e985d3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bc39cfe6d746fb64757576d356616c0e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-23T21:43:17Z",
+      "year": 2023,
+      "month": 7,
+      "day": 23,
+      "hour": 21,
+      "minute": 43,
+      "x": -117.48461584464403,
+      "y": 34.47434645592427,
+      "altitude": 9422,
+      "motion": [
+        "driving"
+      ],
+      "speed": 218,
+      "battery_state": "charging",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DeltaWiFi.com"
+    }
+  }
+}

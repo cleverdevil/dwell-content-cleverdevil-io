@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/407-it-isnt-a-big-grapefruit"
+    ],
+    "published": [
+      "2020-12-04T23:30:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "68c9147a8dbd38f00d122632be28a16c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-04T23:59:18Z",
+      "year": 2020,
+      "month": 12,
+      "day": 4,
+      "hour": 23,
+      "minute": 59,
+      "x": -118.37033427635411,
+      "y": 33.81542170757711,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 407: It Isn\u2019t a Big Grapefruit"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/11976c945531272fc228fa84e4b75f04/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKoYAJs"
+        ],
+        "content": [
+          {
+            "html": "<p>Marco\u2019s Mini reviews, more on M1 scaling, completely predictable computer waffling, and our problem with Apple News.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Marco\u2019s Mini reviews, more on M1 scaling, completely predictable computer waffling, and our problem with Apple News.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

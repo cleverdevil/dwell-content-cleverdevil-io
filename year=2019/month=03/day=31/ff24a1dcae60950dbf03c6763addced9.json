@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-50-nuts"
+    ],
+    "published": [
+      "2019-03-31T22:48:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.3\u00b0F and 37% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.3\u00b0F and 37% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.3\u00b0F and 37% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-four-50-nuts/annotations/1bf13dd6689f4af6de77f29042859c00"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-four-50-nuts/annotations/1bf13dd6689f4af6de77f29042859c00"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ff24a1dcae60950dbf03c6763addced9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-01T00:03:48Z",
+      "year": 2019,
+      "month": 4,
+      "day": 1,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.37043205826821,
+      "y": 33.81546801400069,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6200000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 50: Nuts \ud83e\udd5c\ud83c\udf30\ud83e\udd65\ud83c\udf3d\ud83c\udf7a"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7e9e75625a4a07961c9b28770d2c93b2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDb0caHM"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite nuts. Really.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite nuts. Really.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

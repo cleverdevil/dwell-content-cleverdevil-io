@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/546-re-crop-with-the-wisdom-of-age"
+    ],
+    "published": [
+      "2023-08-02T22:44:40+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ec35108c9e81a34d9fc9624be755866e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-02T15:30:25Z",
+      "year": 2023,
+      "month": 8,
+      "day": 2,
+      "hour": 15,
+      "minute": 30,
+      "x": -118.37048015495938,
+      "y": 33.81530219368352,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 546: Re-Crop With the Wisdom of Age"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/811f73243027faff3ebe1e1ef3a1f1db/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfcatnfg"
+        ],
+        "content": [
+          {
+            "html": "<p>John has only two requests for the Photos team this year.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "John has only two requests for the Photos team this year.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

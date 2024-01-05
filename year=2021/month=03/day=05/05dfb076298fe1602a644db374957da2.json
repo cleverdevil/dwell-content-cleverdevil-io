@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/335-a-shelf-is-the-perfect-object"
+    ],
+    "published": [
+      "2021-03-05T07:20:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "05dfb076298fe1602a644db374957da2"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-05T07:16:37Z",
+      "year": 2021,
+      "month": 3,
+      "day": 5,
+      "hour": 7,
+      "minute": 16,
+      "x": -116.47560581974798,
+      "y": 33.79838359310538,
+      "altitude": 101,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3799999952316284,
+      "wifi": "MySpectrumWiFiC8-2G"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 335: A Shelf is the Perfect Object"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ba812eb91e65c93609edf889acc336b7/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7h8x4c"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke tries to get through some iPhone rumors but the others keep joking around about model names. Meanwhile, there\u2019s big news for a couple of iOS apps. Stephen needs to deal with the problem brewing in his photos library and Federico goes missing briefly.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke tries to get through some iPhone rumors but the others keep joking around about model names. Meanwhile, there\u2019s big news for a couple of iOS apps. Stephen needs to deal with the problem brewing in his photos library and Federico goes missing briefly.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

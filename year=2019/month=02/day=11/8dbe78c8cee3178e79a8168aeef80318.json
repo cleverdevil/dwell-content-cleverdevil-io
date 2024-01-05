@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I have moved Indiepaper's site parsing to a self-hosted version of Postlight Mercury Parser, as they're shutting down their service. They've open sourced the project and made it easy to deploy to @awscloud Lambda. LMK if you have trouble!"
+    ],
+    "content": [
+      {
+        "html": "I have moved Indiepaper's site parsing to a self-hosted version of Postlight Mercury Parser, as they're shutting down their service. They've open sourced the project and made it easy to deploy to @awscloud Lambda. LMK if you have trouble!",
+        "value": "I have moved Indiepaper's site parsing to a self-hosted version of Postlight Mercury Parser, as they're shutting down their service. They've open sourced the project and made it easy to deploy to @awscloud Lambda. LMK if you have trouble!"
+      }
+    ],
+    "url": [
+      "/2019/i-have-moved-indiepapers-site-parsing-to"
+    ],
+    "published": [
+      "2019-02-11T17:16:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 48.7\u00b0F and 42% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 48.7\u00b0F and 42% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 48.7\u00b0F and 42% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i-have-moved-indiepapers-site-parsing-to/annotations/ef785e0ac804f3421a212805104bd232"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i-have-moved-indiepapers-site-parsing-to/annotations/ef785e0ac804f3421a212805104bd232"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1095008741580333056",
+      "https://mastodon.social/@cleverdevil/101574600545952394"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "8dbe78c8cee3178e79a8168aeef80318"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-11T16:39:48Z",
+      "year": 2019,
+      "month": 2,
+      "day": 11,
+      "hour": 16,
+      "minute": 39,
+      "x": -118.41185427073798,
+      "y": 33.91662699723949,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 7,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  }
+}

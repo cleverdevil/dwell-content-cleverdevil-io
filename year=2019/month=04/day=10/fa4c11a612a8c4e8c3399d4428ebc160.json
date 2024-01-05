@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-240-dance-on-the-grave-of-itunes"
+    ],
+    "published": [
+      "2019-04-10T15:38:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.68\u00b0F and 35% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.68\u00b0F and 35% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.68\u00b0F and 35% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-240-dance-on-the-grave-of-itunes/annotations/7f2d59d79adbe9ef4598680ed9412d82"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-240-dance-on-the-grave-of-itunes/annotations/7f2d59d79adbe9ef4598680ed9412d82"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fa4c11a612a8c4e8c3399d4428ebc160"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-10T16:00:23Z",
+      "year": 2019,
+      "month": 4,
+      "day": 10,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.37025349639764,
+      "y": 33.81536200051985,
+      "altitude": 52,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 240: Dance on the Grave of iTunes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5486b739b1519a8dfb1e4bff3777519e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9GPMJ0"
+        ],
+        "content": [
+          {
+            "html": "<p>John Siracusa joins Jason to discuss how 2019 is potentially an enormous year for the Mac in both hardware and software. Also, we make time to swap TiVo stories and generate John\u2019s Hierarchy of Mac Pro Needs.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "John Siracusa joins Jason to discuss how 2019 is potentially an enormous year for the Mac in both hardware and software. Also, we make time to swap TiVo stories and generate John\u2019s Hierarchy of Mac Pro Needs.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

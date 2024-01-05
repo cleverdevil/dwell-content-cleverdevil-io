@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Catal Restaurant"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Catal Restaurant"
+          ],
+          "latitude": [
+            "33.808857"
+          ],
+          "longitude": [
+            "-117.92285"
+          ]
+        },
+        "value": "Catal Restaurant"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Catal Restaurant"
+          ],
+          "latitude": [
+            "33.808857"
+          ],
+          "longitude": [
+            "-117.92285"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-catal-restaurant"
+    ],
+    "published": [
+      "2018-10-25T02:02:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Mediterranean Restaurant check-in in one year!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Mediterranean Restaurant check-in in one year!</p>",
+              "value": "First Mediterranean Restaurant check-in in one year!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bd1242ac0cacb002c369c75/54d05d9be3e28841750cbcebbde85461"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bd1242ac0cacb002c369c75/54d05d9be3e28841750cbcebbde85461"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bd1242ac0cacb002c369c75"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bc5d20de83c0af72230c5b4caca5c2d9"
+    ]
+  }
+}

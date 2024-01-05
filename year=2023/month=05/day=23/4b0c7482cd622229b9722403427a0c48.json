@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/535-my-computer-supports-math"
+    ],
+    "published": [
+      "2023-05-23T20:27:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4b0c7482cd622229b9722403427a0c48"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-23T10:14:15Z",
+      "year": 2023,
+      "month": 5,
+      "day": 23,
+      "hour": 10,
+      "minute": 14,
+      "x": -118.37047902391132,
+      "y": 33.8153316969213,
+      "altitude": 51,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 535: My Computer Supports Math"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5060de9fa9c09f942b2e95573226d4a9/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJgqlGI"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC expectations, the Callsheet paywall, that Dell monitor, whatever whatever, and three olds trying to figure out what a \u201cvibe check\u201d is.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "WWDC expectations, the Callsheet paywall, that Dell monitor, whatever whatever, and three olds trying to figure out what a \u201cvibe check\u201d is.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

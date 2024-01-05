@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/541-make-a-little-maze"
+    ],
+    "published": [
+      "2023-07-02T07:55:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1d7685661089a6c6108ddfb489ae59ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-01T23:43:01Z",
+      "year": 2023,
+      "month": 7,
+      "day": 1,
+      "hour": 23,
+      "minute": 43,
+      "x": -116.38109783333333,
+      "y": 33.702703166666666,
+      "altitude": 129,
+      "motion": [
+        "driving"
+      ],
+      "speed": 8,
+      "battery_state": "charging",
+      "battery_level": 0.5199999809265137,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 541: Make a Little Maze"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0fc65620c96ac1fbfbe940241e629e63/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUImLRz4"
+        ],
+        "content": [
+          {
+            "html": "<p>Varifocal displays, Reddit and Apollo, modular laptops, camera bags, and the emotional roller-coaster of owning AirPods.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Varifocal displays, Reddit and Apollo, modular laptops, camera bags, and the emotional roller-coaster of owning AirPods.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

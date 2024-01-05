@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Retiro Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": "El Retiro Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Birthday party for the boy!</p>",
+        "value": "Birthday party for the boy!"
+      }
+    ],
+    "url": [
+      "/2023/checked-into-el-retiro-park-8"
+    ],
+    "published": [
+      "2023-10-01T21:12:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Park check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Park check-in in 3 months!</p>",
+              "value": "First Park check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6519e0c4e86b7b6179950851/31efa856b02734e51f383539c88d8a3c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6519e0c4e86b7b6179950851/31efa856b02734e51f383539c88d8a3c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to El Retiro Park since January."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to El Retiro Park since January.</p>",
+              "value": "Welcome back! You haven't checked in to El Retiro Park since January."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6519e0c4e86b7b6179950851/01f6a2dccd14c39ec5e75736f5762b8f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6519e0c4e86b7b6179950851/01f6a2dccd14c39ec5e75736f5762b8f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6519e0c4e86b7b6179950851"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d79b264afd4d948e57df7b6f2b5725fd"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-01T20:23:59Z",
+      "year": 2023,
+      "month": 10,
+      "day": 1,
+      "hour": 20,
+      "minute": 23,
+      "x": -118.37713469353685,
+      "y": 33.81604317212178,
+      "altitude": 40,
+      "motion": [
+        "driving"
+      ],
+      "speed": 12,
+      "battery_state": "charging",
+      "battery_level": 0.75,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

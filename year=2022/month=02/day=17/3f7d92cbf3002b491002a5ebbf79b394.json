@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Merriman's Fish House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Merriman's Fish House"
+          ],
+          "latitude": [
+            "21.883677283836"
+          ],
+          "longitude": [
+            "-159.46975186481"
+          ]
+        },
+        "value": "Merriman's Fish House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Merriman's Fish House"
+          ],
+          "latitude": [
+            "21.883677283836"
+          ],
+          "longitude": [
+            "-159.46975186481"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-merrimans-fish-house"
+    ],
+    "published": [
+      "2022-02-17T04:14:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Seafood Restaurant check-in in 4 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Seafood Restaurant check-in in 4 months!</p>",
+              "value": "First Seafood Restaurant check-in in 4 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/620dcba154c4c727a6a93c20/23dd4c22ec991a0a04fccc1cb6b30d54"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/620dcba154c4c727a6a93c20/23dd4c22ec991a0a04fccc1cb6b30d54"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/620dcba154c4c727a6a93c20"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3f7d92cbf3002b491002a5ebbf79b394"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-17T04:13:24Z",
+      "year": 2022,
+      "month": 2,
+      "day": 17,
+      "hour": 4,
+      "minute": 13,
+      "x": -159.4696152277405,
+      "y": 21.883638719839173,
+      "altitude": 14,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  }
+}

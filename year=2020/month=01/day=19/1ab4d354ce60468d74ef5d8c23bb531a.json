@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Michael Tsai - Blog - The Flask Mega-Tutorial"
+    ],
+    "like-of": [
+      "https://mjtsai.com/blog/2020/01/17/the-flask-mega-tutorial/"
+    ],
+    "url": [
+      "/2020/michael-tsai---blog---the-flask-mega-tutorial"
+    ],
+    "published": [
+      "2020-01-19T05:01:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.7\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.7\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.7\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/michael-tsai---blog---the-flask-mega-tutorial/annotations/4c76c4f99e8076791e227fd34122b65c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/michael-tsai---blog---the-flask-mega-tutorial/annotations/4c76c4f99e8076791e227fd34122b65c"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "1ab4d354ce60468d74ef5d8c23bb531a"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-19T04:56:41Z",
+      "year": 2020,
+      "month": 1,
+      "day": 19,
+      "hour": 4,
+      "minute": 56,
+      "x": -118.37033530601892,
+      "y": 33.81543961354772,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4000000059604645,
+      "wifi": "LaCour"
+    }
+  }
+}

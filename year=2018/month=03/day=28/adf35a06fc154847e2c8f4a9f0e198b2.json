@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bask"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bask"
+          ],
+          "latitude": [
+            "37.796179184427"
+          ],
+          "longitude": [
+            "-122.40428297166"
+          ]
+        },
+        "value": "Bask"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bask"
+          ],
+          "latitude": [
+            "37.796179184427"
+          ],
+          "longitude": [
+            "-122.40428297166"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner.</p>",
+        "value": "Dinner."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-bask"
+    ],
+    "published": [
+      "2018-03-28T02:36:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Spanish Restaurant check-in in 6 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Spanish Restaurant check-in in 6 months!</p>",
+              "value": "First Spanish Restaurant check-in in 6 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5abaffada4ba7c002be8125b/38acbbe57db0f5695b7e00dc9d921c84"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5abaffada4ba7c002be8125b/38acbbe57db0f5695b7e00dc9d921c84"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Jackson Square."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Jackson Square.</p>",
+              "value": "First check-in in Jackson Square."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5abaffada4ba7c002be8125b/bd873aa373a7b9a7e19cce72bf47b8b8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5abaffada4ba7c002be8125b/bd873aa373a7b9a7e19cce72bf47b8b8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5abaffada4ba7c002be8125b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "adf35a06fc154847e2c8f4a9f0e198b2"
+    ]
+  }
+}

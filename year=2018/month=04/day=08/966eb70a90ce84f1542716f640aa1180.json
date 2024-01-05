@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/4-raise-a-glass-to-freedom"
+    ],
+    "published": [
+      "2018-04-08T14:59:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "966eb70a90ce84f1542716f640aa1180"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 4: Raise a Glass to Freedom"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/14d18c0b6caf6322c7c68bd90d1624cf/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F_wtSk_dQ"
+        ],
+        "content": [
+          {
+            "html": "<p>\u201cThe Story of Tonight\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Pod4Ham - a podcast about the musical Hamilton</p>",
+            "value": "\u201cThe Story of Tonight\u201d\nBy Pod4Ham - a podcast about the musical Hamilton"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

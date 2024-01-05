@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/15-the-motorola-razr"
+    ],
+    "published": [
+      "2021-04-20T00:41:20+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d33ea10edfb9cf1268290ec0f5272504"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-20T04:03:22Z",
+      "year": 2021,
+      "month": 4,
+      "day": 20,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37031703520975,
+      "y": 33.81543666420873,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 15: The Motorola RAZR"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f291af0663ef011bf55e0f5641865521/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2zAL1vY"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Quinn and Stephen talk about one of the world\u2019s first cool phones, and how its parent company was bent on destroying its good name.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "This week, Quinn and Stephen talk about one of the world\u2019s first cool phones, and how its parent company was bent on destroying its good name.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

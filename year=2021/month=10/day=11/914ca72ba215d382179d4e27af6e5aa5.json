@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/451-a-series-of-terrible-magic-tricks"
+    ],
+    "published": [
+      "2021-10-11T19:36:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "914ca72ba215d382179d4e27af6e5aa5"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-11T20:04:21Z",
+      "year": 2021,
+      "month": 10,
+      "day": 11,
+      "hour": 20,
+      "minute": 4,
+      "x": -117.31578233972351,
+      "y": 33.096720541051205,
+      "altitude": 32,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 451: A Series of Terrible Magic Tricks"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/867d0ecfae2412153b6a4cbefa63dc15/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKglAqI"
+        ],
+        "content": [
+          {
+            "html": "<p>Facebook\u2019s outage, A15 analysis, the latest MacBook Pro rumors, and a surprise mid-show Neutral.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Facebook\u2019s outage, A15 analysis, the latest MacBook Pro rumors, and a surprise mid-show Neutral.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Proud Bird"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Proud Bird"
+          ],
+          "latitude": [
+            "33.935900033618"
+          ],
+          "longitude": [
+            "-118.37789800677"
+          ]
+        },
+        "value": "Proud Bird"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Proud Bird"
+          ],
+          "latitude": [
+            "33.935900033618"
+          ],
+          "longitude": [
+            "-118.37789800677"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Proud Bird\" src=\"https://cleverdevil.io/file/01593d4155d49e79bb207e6877a7c783\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "Proud Bird"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-proud-bird"
+    ],
+    "published": [
+      "2017-09-17T00:11:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're gonna need a frame for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>You're gonna need a frame for that photo.</p>",
+              "value": "You're gonna need a frame for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/23f8cee0d7772beccef14dfed8aa3b24"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/23f8cee0d7772beccef14dfed8aa3b24"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Proud Bird!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Proud Bird!</p>",
+              "value": "Your first check-in at Proud Bird!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/87256817b8abb6c919a99425788d15e9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/87256817b8abb6c919a99425788d15e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bdbdb8f8cbd440ea54afac/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59bdbdb8f8cbd440ea54afac"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c338e67594ba7f958a066cc958ef1f47"
+    ]
+  }
+}

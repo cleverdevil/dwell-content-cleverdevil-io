@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Little Damage"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Little Damage"
+          ],
+          "latitude": [
+            "34.044591716062"
+          ],
+          "longitude": [
+            "-118.25228458274"
+          ]
+        },
+        "value": "Little Damage"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Little Damage"
+          ],
+          "latitude": [
+            "34.044591716062"
+          ],
+          "longitude": [
+            "-118.25228458274"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Little Damage\" src=\"https://cleverdevil.io/file/599aabc2859ba274b179e90d4c3c31e8\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Little break!</p>",
+        "value": "Little Damage\nLittle break!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-little-damage"
+    ],
+    "published": [
+      "2017-10-17T22:16:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Channeling your inner Ansel Adams with that photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Channeling your inner Ansel Adams with that photo!</p>",
+              "value": "Channeling your inner Ansel Adams with that photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/a39a3df47f73f20f63566b894108ae5a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/a39a3df47f73f20f63566b894108ae5a"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/298d1d38300e94108a614bfe5e113b11"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Little Damage!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Little Damage!</p>",
+              "value": "Your first check-in at Little Damage!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/e13a3eba7851638f08cf55d9ac30df61"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59e6812860d11b4351d82828/e13a3eba7851638f08cf55d9ac30df61"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59e6812860d11b4351d82828"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ce1ee18d57ca76dbda971551c55e691a"
+    ]
+  }
+}

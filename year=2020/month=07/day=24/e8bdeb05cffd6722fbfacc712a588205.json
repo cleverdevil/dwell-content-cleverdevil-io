@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/388-riding-the-autocomplete-1"
+    ],
+    "published": [
+      "2020-07-24T00:14:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 100.92\u00b0F and 20% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 100.92\u00b0F and 20% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 100.92\u00b0F and 20% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/388-riding-the-autocomplete-1/annotations/70d43ed26290ca03e0f1fa5aec9f6802"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/388-riding-the-autocomplete-1/annotations/70d43ed26290ca03e0f1fa5aec9f6802"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e8bdeb05cffd6722fbfacc712a588205"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-24T19:16:34Z",
+      "year": 2020,
+      "month": 7,
+      "day": 24,
+      "hour": 19,
+      "minute": 16,
+      "x": -116.31675109958962,
+      "y": 33.737842142885015,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "GPS"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 388: Riding the Autocomplete"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6e7889dae884058299be7994c620dc45/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKkwpaI"
+        ],
+        "content": [
+          {
+            "html": "<p>How many podcasters does it take to open a bottle of seltzer?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "How many podcasters does it take to open a bottle of seltzer?\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

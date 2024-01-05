@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-234-the-ideological-folding-wars"
+    ],
+    "published": [
+      "2019-02-26T18:26:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "559f49503791bbf57fad5b259064434a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-26T19:54:23Z",
+      "year": 2019,
+      "month": 2,
+      "day": 26,
+      "hour": 19,
+      "minute": 54,
+      "x": -118.37033964178286,
+      "y": 33.8154966693956,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 234: The Ideological Folding Wars"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9b42287744fe0e295e4981c78232c2cc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_VHQ7I"
+        ],
+        "content": [
+          {
+            "html": "<p>This week Myke is excited about Samsung and Huawei\u2019s folding phones and Jason wonders if this is technology consumers actually want. Plus we take some time to contemplate the planned roll-out of Marzipan for macOS.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week Myke is excited about Samsung and Huawei\u2019s folding phones and Jason wonders if this is technology consumers actually want. Plus we take some time to contemplate the planned roll-out of Marzipan for macOS.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

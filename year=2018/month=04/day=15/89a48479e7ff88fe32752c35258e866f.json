@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-1-intros-and-going-serverless"
+    ],
+    "published": [
+      "2018-04-15T05:05:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "89a48479e7ff88fe32752c35258e866f"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 1: Intros and Going Serverless"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/67bd584c12ed581ef135779b6bb9c92f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+MvWTGW83M"
+        ],
+        "content": [
+          {
+            "html": "<p>This time, on clevercast, I introduce the show, and then talk about a topic that I\u2019ve been thinking about a lot lately: going serverless for my personal website.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  clevercast</p>",
+            "value": "This time, on clevercast, I introduce the show, and then talk about a topic that I\u2019ve been thinking about a lot lately: going serverless for my personal website.\nBy clevercast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

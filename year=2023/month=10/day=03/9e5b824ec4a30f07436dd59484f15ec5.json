@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/live-from-london-2023"
+    ],
+    "published": [
+      "2023-10-03T20:44:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9e5b824ec4a30f07436dd59484f15ec5"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-03T20:25:45Z",
+      "year": 2023,
+      "month": 10,
+      "day": 3,
+      "hour": 20,
+      "minute": 25,
+      "x": -116.38090430172795,
+      "y": 33.701563250088356,
+      "altitude": 133,
+      "motion": [
+        "driving"
+      ],
+      "speed": 11,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "Smartphone_connect_cdcb42"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Live From London 2023"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0114c9124367e1d0de1842af7c6424bc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1ZxGbs"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s episode was recorded LIVE from the London Podcast Festival! First up is \u201cUndergrounds for Dismissal.\u201d Mae likes to ride the bus. Paul likes to ride the tube. Then we hear from Tim and Belle about whether or not Belle can call herself a vegetarian if she eats an occasional steak. Finally, a case about \u201cthe best sandwich.\u201d Who\u2019s right? Who\u2019s wrong? With guests Benjamin Partridge (Beef &amp; Dairy Network) and Emma-Lee Moss (fka Emmy the Great)!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "This week\u2019s episode was recorded LIVE from the London Podcast Festival! First up is \u201cUndergrounds for Dismissal.\u201d Mae likes to ride the bus. Paul likes to ride the tube. Then we hear from Tim and Belle about whether or not Belle can call herself a vegetarian if she eats an occasional steak. Finally, a case about \u201cthe best sandwich.\u201d Who\u2019s right? Who\u2019s wrong? With guests Benjamin Partridge (Beef & Dairy Network) and Emma-Lee Moss (fka Emmy the Great)!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "33.946336278479"
+          ],
+          "longitude": [
+            "-118.40423129304"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "33.946336278479"
+          ],
+          "longitude": [
+            "-118.40423129304"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-delta-sky-club-64"
+    ],
+    "published": [
+      "2021-12-13T21:20:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Los Angeles International Airport for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Los Angeles International Airport for more coins!</p>",
+              "value": "Keep checking in to places inside Los Angeles International Airport for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61b7b91307fcd445f5e10dfb/dea409fc73ac832f0b507cce4ad5c23f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61b7b91307fcd445f5e10dfb/dea409fc73ac832f0b507cce4ad5c23f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61b7b91307fcd445f5e10dfb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e25fd44667abca3ba7fe66778ef71087"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-13T21:20:00Z",
+      "year": 2021,
+      "month": 12,
+      "day": 13,
+      "hour": 21,
+      "minute": 20,
+      "x": -118.40411491482571,
+      "y": 33.946565826599446,
+      "altitude": 48,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "Passpoint Secure"
+    }
+  }
+}

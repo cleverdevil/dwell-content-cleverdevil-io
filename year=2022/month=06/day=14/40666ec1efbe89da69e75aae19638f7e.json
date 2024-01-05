@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/410-apple-park-vibe-check"
+    ],
+    "published": [
+      "2022-06-14T06:53:19+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "40666ec1efbe89da69e75aae19638f7e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-14T07:16:07Z",
+      "year": 2022,
+      "month": 6,
+      "day": 14,
+      "hour": 7,
+      "minute": 16,
+      "x": -116.38033601896547,
+      "y": 33.70170720598997,
+      "altitude": 128,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.18000000715255737,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 410: Apple Park Vibe Check"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2ab32f79d4c073e78a1eb1878fe7383c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9PwsUM"
+        ],
+        "content": [
+          {
+            "html": "<p>Live from Apple Park, Jason has a first-hand report from the WWDC Keynote. (Myke was nearby, but that\u2019s a whole other story.)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Live from Apple Park, Jason has a first-hand report from the WWDC Keynote. (Myke was nearby, but that\u2019s a whole other story.)\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

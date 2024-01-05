@@ -1,0 +1,110 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://jgregorymcverry.com/lofilearningmozillagrant"
+    ],
+    "name": [
+      "I also fully endorse this promising project."
+    ],
+    "content": [
+      {
+        "html": "I also fully endorse this promising project.",
+        "value": "I also fully endorse this promising project."
+      }
+    ],
+    "url": [
+      "/2020/i-also-fully-endorse-this-promising-project"
+    ],
+    "published": [
+      "2020-04-07T19:07:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Light Rain with a temperature of 61.75\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Light Rain with a temperature of 61.75\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Light Rain with a temperature of 61.75\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/i-also-fully-endorse-this-promising-project/annotations/e991888cc8c8d234e07911bf5c27e318"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/i-also-fully-endorse-this-promising-project/annotations/e991888cc8c8d234e07911bf5c27e318"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "1d1a3a9ba0eb60fc3123e523755b7701"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-07T19:00:57Z",
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "hour": 19,
+      "minute": 0,
+      "x": -118.37039080393725,
+      "y": 33.81539570910842,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

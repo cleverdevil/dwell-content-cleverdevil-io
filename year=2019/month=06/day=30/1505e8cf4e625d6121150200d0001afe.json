@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Plaidophile: IndieWeb Summit 2019, day 1"
+    ],
+    "like-of": [
+      "http://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1"
+    ],
+    "url": [
+      "/2019/plaidophile-indieweb-summit-2019-day-1"
+    ],
+    "published": [
+      "2019-06-30T19:32:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.92\u00b0F and 47% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.92\u00b0F and 47% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.92\u00b0F and 47% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/plaidophile-indieweb-summit-2019-day-1/annotations/5029d36da90064f2cfd40906439a35e7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/plaidophile-indieweb-summit-2019-day-1/annotations/5029d36da90064f2cfd40906439a35e7"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "1505e8cf4e625d6121150200d0001afe"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T19:27:54Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 19,
+      "minute": 27,
+      "x": -122.68234941486227,
+      "y": 45.523375967473484,
+      "altitude": 18,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "Mozilla Guest"
+    }
+  }
+}

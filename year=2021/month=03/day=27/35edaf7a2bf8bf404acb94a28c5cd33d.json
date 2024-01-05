@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/423-fort-of-homepods"
+    ],
+    "published": [
+      "2021-03-27T06:26:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "35edaf7a2bf8bf404acb94a28c5cd33d"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-27T07:45:12Z",
+      "year": 2021,
+      "month": 3,
+      "day": 27,
+      "hour": 7,
+      "minute": 45,
+      "x": -118.37054635792238,
+      "y": 33.815340267603304,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 423: Fort of HomePods"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9ff438d054ad2668ac168a75332cce47/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJFjNSQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Our walls are full of pipes and wires, our wheels are covered in spray paint, our photos have left the filesystem behind, and our HomePods need to lose a few amps.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Our walls are full of pipes and wires, our wheels are covered in spray paint, our photos have left the filesystem behind, and our HomePods need to lose a few amps.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

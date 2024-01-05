@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/315-i-dont-know-how-to-read-with-joanna-stern"
+    ],
+    "published": [
+      "2021-06-06T03:32:05+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fbe2ed1ed6ff183221b65d6c8a371215"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-05T04:06:33Z",
+      "year": 2021,
+      "month": 6,
+      "day": 5,
+      "hour": 4,
+      "minute": 6,
+      "x": -118.37031774885232,
+      "y": 33.81546207626148,
+      "altitude": 54,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.49000000953674316,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 315: \u2018I Don\u2019t Know How to Read\u2019, With Joanna Stern"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/97fc1009f682da98386f49ca9a45dac8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBxMOyY"
+        ],
+        "content": [
+          {
+            "html": "<p>315: \u2018I Don\u2019t Know How to Read\u2019, With Joanna Stern</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "315: \u2018I Don\u2019t Know How to Read\u2019, With Joanna Stern\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

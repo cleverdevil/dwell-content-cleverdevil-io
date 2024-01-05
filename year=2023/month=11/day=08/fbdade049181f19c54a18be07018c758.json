@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/559-the-tall-lettuce"
+    ],
+    "published": [
+      "2023-11-08T09:49:26+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fbdade049181f19c54a18be07018c758"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-08T10:52:58Z",
+      "year": 2023,
+      "month": 11,
+      "day": 8,
+      "hour": 10,
+      "minute": 52,
+      "x": -118.37050310682282,
+      "y": 33.81533184859042,
+      "altitude": 50,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 559: The Tall Lettuce"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0895d3bb5508e82589bba42ef0b742e5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULvsVbo"
+        ],
+        "content": [
+          {
+            "html": "<p>The M3 family, the new MacBook Pro lineup, and the updated iMac from Apple\u2019s Scary Fast event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The M3 family, the new MacBook Pro lineup, and the updated iMac from Apple\u2019s Scary Fast event.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

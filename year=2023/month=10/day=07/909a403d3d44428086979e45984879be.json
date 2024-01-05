@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/episode-1---dr-david-pin"
+    ],
+    "published": [
+      "2023-10-07T08:51:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "909a403d3d44428086979e45984879be"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-07T09:44:46Z",
+      "year": 2023,
+      "month": 10,
+      "day": 7,
+      "hour": 9,
+      "minute": 44,
+      "x": -116.38034214014091,
+      "y": 33.701721242675156,
+      "altitude": 124,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 1 - Dr David Pin"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c15912a09b98b306de1fa31773d6d5de/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E8qTKIaZM"
+        ],
+        "content": [
+          {
+            "html": "<p>Mike Wozniak joins in for this month\u2019s episode in which we interview Dr David Pin from the European Space Agency and hear your letters about getting too attached to meat beasts. By Benjamin Partridge and Mike Wozniak. Stock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Beef And Dairy Network</p>",
+            "value": "Mike Wozniak joins in for this month\u2019s episode in which we interview Dr David Pin from the European Space Agency and hear your letters about getting too attached to meat beasts. By Benjamin Partridge and Mike Wozniak. Stock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com.\nBy Beef And Dairy Network"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

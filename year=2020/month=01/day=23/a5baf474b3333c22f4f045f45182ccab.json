@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tin Roof Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": "Tin Roof Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-tin-roof-bistro-6"
+    ],
+    "published": [
+      "2020-01-23T01:54:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Wine Bar check-in in 5 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Wine Bar check-in in 5 months!</p>",
+              "value": "First Wine Bar check-in in 5 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e28fcf06dfc060008e5fd5f/c38d66e1d1df856c345b773cf6afad00"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e28fcf06dfc060008e5fd5f/c38d66e1d1df856c345b773cf6afad00"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.19\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.19\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.19\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-tin-roof-bistro-6/annotations/adb873a32916068aded8c46dd90456c4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-tin-roof-bistro-6/annotations/adb873a32916068aded8c46dd90456c4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e28fcf06dfc060008e5fd5f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a5baf474b3333c22f4f045f45182ccab"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-23T01:50:25Z",
+      "year": 2020,
+      "month": 1,
+      "day": 23,
+      "hour": 1,
+      "minute": 50,
+      "x": -118.39534618771437,
+      "y": 33.89978236852766,
+      "altitude": 44,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  }
+}

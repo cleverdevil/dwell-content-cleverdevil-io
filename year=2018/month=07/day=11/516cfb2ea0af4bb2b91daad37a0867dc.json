@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into At The Top"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "At The Top"
+          ],
+          "latitude": [
+            "25.19718480448"
+          ],
+          "longitude": [
+            "55.274258531588"
+          ]
+        },
+        "value": "At The Top"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "At The Top"
+          ],
+          "latitude": [
+            "25.19718480448"
+          ],
+          "longitude": [
+            "55.274258531588"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Headed to the top \ud83d\ude00</p>",
+        "value": "Headed to the top \ud83d\ude00"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-at-the-top"
+    ],
+    "published": [
+      "2018-07-11T14:08:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Burj Khalifa for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Burj Khalifa for more coins!</p>",
+              "value": "Keep checking in to places inside Burj Khalifa for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b460f5790d1ed0039c49a8d/d9ccc8db8bd43c538921357bdc8538b2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b460f5790d1ed0039c49a8d/d9ccc8db8bd43c538921357bdc8538b2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Scenic Lookout check-in in 8 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Scenic Lookout check-in in 8 months!</p>",
+              "value": "First Scenic Lookout check-in in 8 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b460f5790d1ed0039c49a8d/5aa6ffebd5899feea96ced3914571c0f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b460f5790d1ed0039c49a8d/5aa6ffebd5899feea96ced3914571c0f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b460f5790d1ed0039c49a8d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "516cfb2ea0af4bb2b91daad37a0867dc"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/"
+          ],
+          "published": [
+            "2018-07-11T14:51:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/332-the-2020-upgradies"
+    ],
+    "published": [
+      "2021-01-03T00:11:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "79b5ea5d4ad6b389a7d7c1c7fbf36b9a"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-03T03:23:29Z",
+      "year": 2021,
+      "month": 1,
+      "day": 3,
+      "hour": 3,
+      "minute": 23,
+      "x": -118.37054523030395,
+      "y": 33.81532066850713,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 332: The 2020 Upgradies"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/173213b48bf30c80f87d38e236a71889/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_g75R4"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s the 7th annual Upgradies! Myke and Jason discuss their favorites of 2020 across many categories.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s the 7th annual Upgradies! Myke and Jason discuss their favorites of 2020 across many categories.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

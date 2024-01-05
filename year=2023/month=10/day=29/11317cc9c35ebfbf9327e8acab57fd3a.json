@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/558-multilevel-pizza-oven"
+    ],
+    "published": [
+      "2023-10-29T08:23:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "11317cc9c35ebfbf9327e8acab57fd3a"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-29T10:11:04Z",
+      "year": 2023,
+      "month": 10,
+      "day": 29,
+      "hour": 10,
+      "minute": 11,
+      "x": -118.37049877200019,
+      "y": 33.8153242693895,
+      "altitude": 58,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 558: Multilevel Pizza Oven"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ac6c34dbfeb1899bf797276eac4d5c30/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJe9424"
+        ],
+        "content": [
+          {
+            "html": "<p>Another Apple Pencil (?!), a surprise Scary Fast announcement, and finding a Sonos oasis after years in the HomePod wilderness.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Another Apple Pencil (?!), a surprise Scary Fast announcement, and finding a Sonos oasis after years in the HomePod wilderness.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

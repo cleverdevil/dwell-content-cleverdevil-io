@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/554-is-this-your-dog"
+    ],
+    "published": [
+      "2023-09-28T07:10:06+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d2db1ead667c2faf251b07f62f354888"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-28T07:48:43Z",
+      "year": 2023,
+      "month": 9,
+      "day": 28,
+      "hour": 7,
+      "minute": 48,
+      "x": -118.37045369736764,
+      "y": 33.815314695050255,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.550000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 554: Is This Your Dog?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a2b4808a2947960fe63d036a38c193b3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKF1zp4"
+        ],
+        "content": [
+          {
+            "html": "<p>Our iPhone 15 Pro impressions, case options, size choices, and an unexpected recording location.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Our iPhone 15 Pro impressions, case options, size choices, and an unexpected recording location.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hartsfield-Jackson Atlanta International Airport (ATL)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640544065929"
+          ],
+          "longitude": [
+            "-84.433407783508"
+          ]
+        },
+        "value": "Hartsfield-Jackson Atlanta International Airport (ATL)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640544065929"
+          ],
+          "longitude": [
+            "-84.433407783508"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-hartsfield-jackson-atlanta-international-airport-atl-6"
+    ],
+    "published": [
+      "2018-12-18T21:56:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 523 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 523 people are here!</p>",
+              "value": "This place is swarming! 523 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c196cf7c876c8002ca8aaec/b21321f3e3e160ebaaa0093a6c2979ea"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c196cf7c876c8002ca8aaec/b21321f3e3e160ebaaa0093a6c2979ea"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c196cf7c876c8002ca8aaec"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "180c0fdb693078d35f938ddd5a248035"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/343-the-stand-is-your-hand"
+    ],
+    "published": [
+      "2019-09-17T01:45:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.28\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.28\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.28\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/343-the-stand-is-your-hand/annotations/e5491f2983e3e3ee4394b54b5516cdd4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/343-the-stand-is-your-hand/annotations/e5491f2983e3e3ee4394b54b5516cdd4"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "41f9b3898df7dd3e39b176984cf640b1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-17T04:01:21Z",
+      "year": 2019,
+      "month": 9,
+      "day": 17,
+      "hour": 4,
+      "minute": 1,
+      "x": -77.05130900846645,
+      "y": 38.90505985714439,
+      "altitude": 26,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5299999713897705,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 343: The Stand Is Your Hand"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5ff640733b5a873f50222818156de705/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DVigOHA"
+        ],
+        "content": [
+          {
+            "html": "<p>iPhone 11, iPhone 11 Pro, Apple Watch Series 5, and our impressions of the event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "iPhone 11, iPhone 11 Pro, Apple Watch Series 5, and our impressions of the event.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

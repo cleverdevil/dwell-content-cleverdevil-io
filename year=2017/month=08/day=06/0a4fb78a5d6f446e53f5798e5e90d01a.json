@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into krust"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": "krust"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Breakfast with Colette!</p>",
+        "value": "Breakfast with Colette!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-krust-1"
+    ],
+    "published": [
+      "2017-08-06T15:35:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Bakery check-in in 4 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Bakery check-in in 4 months!</p>",
+              "value": "First Bakery check-in in 4 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/66870d3088addd985d8383c636c6582b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5987372f356b4951db1886ba/a1d4dbf4ed771f07b3336a607142d989"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5987372f356b4951db1886ba/a1d4dbf4ed771f07b3336a607142d989"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5987372f356b4951db1886ba"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0a4fb78a5d6f446e53f5798e5e90d01a"
+    ]
+  }
+}

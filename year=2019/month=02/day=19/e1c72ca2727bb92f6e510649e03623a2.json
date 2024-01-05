@@ -1,0 +1,270 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "At some point in the last few weeks, #Firefox has completely stopped passing keyboard shortcuts through to Google Apps. I can't format text, undo/redo, etc. Seems like a bug somewhere!"
+    ],
+    "content": [
+      {
+        "html": "At some point in the last few weeks, <a class=\"p-category\" href=\"/tag/Firefox\" rel=\"tag\">#Firefox</a> has completely stopped passing keyboard shortcuts through to Google Apps. I can't format text, undo/redo, etc. Seems like a bug somewhere!",
+        "value": "At some point in the last few weeks, #Firefox has completely stopped passing keyboard shortcuts through to Google Apps. I can't format text, undo/redo, etc. Seems like a bug somewhere!"
+      }
+    ],
+    "category": [
+      "#Firefox"
+    ],
+    "url": [
+      "/2019/at-some-point-in-the-last-few"
+    ],
+    "published": [
+      "2019-02-19T23:00:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 56.32\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 56.32\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 56.32\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/758b490129058c62ec5d1f2cee920930"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/758b490129058c62ec5d1f2cee920930"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Some relevant details:\n\u2022 macOS Mojave 10.14.2\n\u2022\u00a0Firefox 65.0.1\n\u2022 Firefox extensions \u2013\u00a0Change Geolocation, Custom Style Script, Omnibear, PostrChild, Privacy Badger, Snooze Tabs, StopTheMadness, uBlock Origin, Zoom Scheduler"
+          ],
+          "content": [
+            {
+              "html": "<p>Some relevant details:</p>\n\n<p>\u2022 macOS Mojave 10.14.2<br/>\u2022\u00a0Firefox 65.0.1<br/>\u2022 Firefox extensions \u2013\u00a0Change Geolocation, Custom Style Script, Omnibear, PostrChild, Privacy Badger, Snooze Tabs, StopTheMadness, uBlock Origin, Zoom Scheduler</p>",
+              "value": "Some relevant details:\n\u2022 macOS Mojave 10.14.2\n\u2022\u00a0Firefox 65.0.1\n\u2022 Firefox extensions \u2013\u00a0Change Geolocation, Custom Style Script, Omnibear, PostrChild, Privacy Badger, Snooze Tabs, StopTheMadness, uBlock Origin, Zoom Scheduler"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/fdbc7696a5f73864ea11a828c861e138/thumb.jpg"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io/profile/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/b72fa0c20d04a38fce20c8d089438c27"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/b72fa0c20d04a38fce20c8d089438c27"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Looks like it was a conflict with the \"StopTheMadness\" extension, which I've had installed for some time without issue. I didn't notice that there was a problem with the extension because I failed to reload open websites after disabling the extensions. Oops!"
+          ],
+          "content": [
+            {
+              "html": "<p>Looks like it was a conflict with the \"StopTheMadness\" extension, which I've had installed for some time without issue. I didn't notice that there was a problem with the extension because I failed to reload open websites after disabling the extensions. Oops!</p>",
+              "value": "Looks like it was a conflict with the \"StopTheMadness\" extension, which I've had installed for some time without issue. I didn't notice that there was a problem with the extension because I failed to reload open websites after disabling the extensions. Oops!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/fdbc7696a5f73864ea11a828c861e138/thumb.jpg"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io/profile/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/80bb103e4716b398b6ccb0f2d44c8f81"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/at-some-point-in-the-last-few/annotations/80bb103e4716b398b6ccb0f2d44c8f81"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There is quite the history of Google changing things in their apps in ways that break things in other browsers. As I understand it, Firefox is contently playing whack-a-mole with these hijinks"
+          ],
+          "content": [
+            {
+              "html": "<p>There is quite the history of Google changing things in their apps in ways that break things in other browsers. As I understand it, Firefox is contently playing whack-a-mole with these hijinks</p>",
+              "value": "There is quite the history of Google changing things in their apps in ways that break things in other browsers. As I understand it, Firefox is contently playing whack-a-mole with these hijinks"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODYyNjg4MzQzMjU1NDQ5Ny91T3duWks0aS5qcGc,/300/square"
+                ],
+                "name": [
+                  "keith\u2022j\u2022grant"
+                ],
+                "url": [
+                  "https://twitter.com/keithjgrant"
+                ]
+              },
+              "value": "keith\u2022j\u2022grant"
+            }
+          ],
+          "url": [
+            "https://twitter.com/keithjgrant/status/1098006612445417472"
+          ]
+        },
+        "value": "https://twitter.com/keithjgrant/status/1098006612445417472"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Yup. I've updated the original post and sent an additional tweet. Turns out this was an extension doing something silly. Nothing nefarious here \ud83d\ude00"
+          ],
+          "content": [
+            {
+              "html": "<p>Yup. I've updated the original post and sent an additional tweet. Turns out this was an extension doing something silly. Nothing nefarious here \ud83d\ude00</p>",
+              "value": "Yup. I've updated the original post and sent an additional tweet. Turns out this was an extension doing something silly. Nothing nefarious here \ud83d\ude00"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1098008106934591488"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1098008106934591488"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1097994279027384320",
+      "https://mastodon.social/@cleverdevil/101621249567829861"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e1c72ca2727bb92f6e510649e03623a2"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-19T22:59:12Z",
+      "year": 2019,
+      "month": 2,
+      "day": 19,
+      "hour": 22,
+      "minute": 59,
+      "x": -118.41132010403138,
+      "y": 33.91741451071374,
+      "altitude": 28,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "Mission"
+    }
+  }
+}

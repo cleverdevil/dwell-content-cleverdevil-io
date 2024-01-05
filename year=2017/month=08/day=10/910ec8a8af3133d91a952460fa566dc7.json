@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Seaside Torrance\" src=\"https://cleverdevil.io/file/83bb1a3e3ea2ad6066c1bcc51c169d00\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Home again.</p>",
+        "value": "Seaside Torrance\nHome again."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-104"
+    ],
+    "published": [
+      "2017-08-10T00:41:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4a01aa87deccd69dc306348370714579"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/598baba2fe374011a48967d6/af7faf388927878e86471cb4a2e36241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/598baba2fe374011a48967d6/af7faf388927878e86471cb4a2e36241"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f8356a61cce83d3a667410d9d6e8cd81"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/598baba2fe374011a48967d6/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/598baba2fe374011a48967d6/aca2ca94a4c8a62cae875b2803e8ec0c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/598baba2fe374011a48967d6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "910ec8a8af3133d91a952460fa566dc7"
+    ]
+  }
+}

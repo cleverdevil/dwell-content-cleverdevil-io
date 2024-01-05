@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fergio Bungy"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fergio Bungy"
+          ],
+          "latitude": [
+            "33.726214060197"
+          ],
+          "longitude": [
+            "-116.39736341288"
+          ]
+        },
+        "value": "Fergio Bungy"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fergio Bungy"
+          ],
+          "latitude": [
+            "33.726214060197"
+          ],
+          "longitude": [
+            "-116.39736341288"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-fergio-bungy"
+    ],
+    "published": [
+      "2022-07-17T20:21:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 20 check-ins at Theme Parks!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 20 check-ins at Theme Parks!</p>",
+              "value": "Wow! That's 20 check-ins at Theme Parks!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62d46f3376eaf23041737360/fdf417cae659e2c260424c297d5c2dad"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62d46f3376eaf23041737360/fdf417cae659e2c260424c297d5c2dad"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Fergio Bungy!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Fergio Bungy!</p>",
+              "value": "Your first check-in at Fergio Bungy!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62d46f3376eaf23041737360/e57b052f9ce480475eede5c76ae691c1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62d46f3376eaf23041737360/e57b052f9ce480475eede5c76ae691c1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62d46f3376eaf23041737360"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9f206a1cbb7c0fd7cd71ea4ef04cc59c"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-17T20:19:48Z",
+      "year": 2022,
+      "month": 7,
+      "day": 17,
+      "hour": 20,
+      "minute": 19,
+      "x": -116.39396405247446,
+      "y": 33.72367322504904,
+      "altitude": 69,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": ""
+    }
+  }
+}

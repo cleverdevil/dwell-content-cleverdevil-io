@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/dear-internet-episode-132-magic-mansion"
+    ],
+    "published": [
+      "2022-10-09T20:52:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1abd20c90e460f5360fbe391ec9e2315"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-09T23:46:56Z",
+      "year": 2022,
+      "month": 10,
+      "day": 9,
+      "hour": 23,
+      "minute": 46,
+      "x": -116.38040433782075,
+      "y": 33.70164814957063,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 132: Magic Mansion"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/63408b04b80ed834b0947292d6859601/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_5_VPpfw"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,On this week\u2019s show, we talk about watching scary anime, a cool mansion, and a mimic.Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,On this week\u2019s show, we talk about watching scary anime, a cool mansion, and a mimic.Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-111-brackets-around-the-brackets"
+    ],
+    "published": [
+      "2019-08-29T16:13:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 78.03\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 78.03\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 78.03\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-111-brackets-around-the-brackets/annotations/50054fcf024cb3975a50ead06520d7d5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-111-brackets-around-the-brackets/annotations/50054fcf024cb3975a50ead06520d7d5"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6eaf05c1d6284903fd05a1e9a002875f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-29T20:00:49Z",
+      "year": 2019,
+      "month": 8,
+      "day": 29,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.39549268807528,
+      "y": 33.91914790557972,
+      "altitude": 30,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 111: Brackets Around the Brackets"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/da204b48e6e10362634a348e86aad13e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IOkgCuw"
+        ],
+        "content": [
+          {
+            "html": "<p>John interrogates Merlin about his weekly reminder errand.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John interrogates Merlin about his weekly reminder errand.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

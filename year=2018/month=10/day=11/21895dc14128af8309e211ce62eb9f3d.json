@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>\ud83c\udfe1 \ud83c\udf34</p>",
+        "value": "\ud83c\udfe1 \ud83c\udf34"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-los-angeles-international-airport-lax-52"
+    ],
+    "published": [
+      "2018-10-11T02:27:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming!</p>",
+              "value": "This place is swarming!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bbeb527345cbe002c74d05b/482bd2a0114d66419384ffc33f0b2c47"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bbeb527345cbe002c74d05b/482bd2a0114d66419384ffc33f0b2c47"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 954 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 954 miles since your last check-in!</p>",
+              "value": "You've traveled 954 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bbeb527345cbe002c74d05b/5ca47538bcb24286dec58896e8d63fd0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bbeb527345cbe002c74d05b/5ca47538bcb24286dec58896e8d63fd0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bbeb527345cbe002c74d05b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "21895dc14128af8309e211ce62eb9f3d"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/10/10/40/like/"
+          ],
+          "published": [
+            "2018-10-11T03:41:20+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

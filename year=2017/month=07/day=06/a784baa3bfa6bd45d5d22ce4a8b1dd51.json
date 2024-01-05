@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Seaside Torrance\" src=\"https://cleverdevil.io/file/fa58bd899caab8059105f7818ae95f23\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Fire pit. Post-dinner haze. Cocktail. Kids playing outside. \u2764\ufe0f</p>",
+        "value": "Seaside Torrance\nFire pit. Post-dinner haze. Cocktail. Kids playing outside. \u2764\ufe0f"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-84"
+    ],
+    "published": [
+      "2017-07-06T01:37:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Channeling your inner Ansel Adams with that photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Channeling your inner Ansel Adams with that photo!</p>",
+              "value": "Channeling your inner Ansel Adams with that photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/cff76df5830e5f5a0294e9300a0276f2"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595d945cc0f163481b43868c/70dd506890589d783d03ab1d8affbccf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595d945cc0f163481b43868c/70dd506890589d783d03ab1d8affbccf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595d945cc0f163481b43868c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a784baa3bfa6bd45d5d22ce4a8b1dd51"
+    ]
+  }
+}

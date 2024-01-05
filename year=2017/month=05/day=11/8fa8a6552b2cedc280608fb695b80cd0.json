@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sheraton Boston Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": "Sheraton Boston Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sheraton-boston-hotel-1"
+    ],
+    "published": [
+      "2017-05-11T06:15:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Do Not Disturb sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Do Not Disturb sticker bonus!</p>",
+              "value": "Do Not Disturb sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/98eb1645966db6274cd759ec8fd9066e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/591401532a7ab665f42e71a4/672bdd3484532201fbcba9fcde3fc6cf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/591401532a7ab665f42e71a4/672bdd3484532201fbcba9fcde3fc6cf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/591401532a7ab665f42e71a4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8fa8a6552b2cedc280608fb695b80cd0"
+    ]
+  }
+}

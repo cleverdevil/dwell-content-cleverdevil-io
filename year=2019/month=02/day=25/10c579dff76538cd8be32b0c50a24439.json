@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Micro Monday - Episode 50: Jonathan LaCour, aka @cleverdevil"
+    ],
+    "like-of": [
+      "https://monday.micro.blog/2019/02/25/episode-jonathan-lacour.html"
+    ],
+    "url": [
+      "/2019/micro-monday--episode-50-jonathan-lacour-aka-cleverdevil"
+    ],
+    "published": [
+      "2019-02-25T18:51:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.4\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.4\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.4\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/micro-monday--episode-50-jonathan-lacour-aka-cleverdevil/annotations/237660f632db182dba16cc9d54621734"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/micro-monday--episode-50-jonathan-lacour-aka-cleverdevil/annotations/237660f632db182dba16cc9d54621734"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101654247193608874"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "10c579dff76538cd8be32b0c50a24439"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-25T18:45:18Z",
+      "year": 2019,
+      "month": 2,
+      "day": 25,
+      "hour": 18,
+      "minute": 45,
+      "x": -118.37037934782234,
+      "y": 33.81543249755285,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  }
+}

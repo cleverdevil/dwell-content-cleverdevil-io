@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Starbucks"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Starbucks"
+          ],
+          "latitude": [
+            "33.946512"
+          ],
+          "longitude": [
+            "-118.403856"
+          ]
+        },
+        "value": "Starbucks"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Starbucks"
+          ],
+          "latitude": [
+            "33.946512"
+          ],
+          "longitude": [
+            "-118.403856"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Charge up</p>",
+        "value": "Charge up"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-starbucks-3"
+    ],
+    "published": [
+      "2017-08-16T21:27:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Starbucks!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Starbucks!</p>",
+              "value": "Your first check-in at this Starbucks!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bbed818d0a4ba6fede66a672eee23670"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5994b8c059fe5c7aac049f7d/579cd801b3522fdd5f2e94f5116e56f3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5994b8c059fe5c7aac049f7d/579cd801b3522fdd5f2e94f5116e56f3"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 2 check-ins inside Los Angeles International Airport today! Keep going for more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>That's 2 check-ins inside Los Angeles International Airport today! Keep going for more coins.</p>",
+              "value": "That's 2 check-ins inside Los Angeles International Airport today! Keep going for more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e9ba89713bacb3c66dfcc2a13a700c2b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5994b8c059fe5c7aac049f7d/b28cce78f7204da29145f8ba2e462825"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5994b8c059fe5c7aac049f7d/b28cce78f7204da29145f8ba2e462825"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5994b8c059fe5c7aac049f7d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e86a13e1ee97f91857e04870e3fe7c1f"
+    ]
+  }
+}

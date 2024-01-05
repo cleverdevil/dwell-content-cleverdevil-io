@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-256-switch-on"
+    ],
+    "published": [
+      "2019-08-20T20:35:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.02\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.02\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.02\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-256-switch-on/annotations/1d4d49a7bdbf3181dad3dd403f6d4bae"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-256-switch-on/annotations/1d4d49a7bdbf3181dad3dd403f6d4bae"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6c9876c7434b37304275e9a5183943ef"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-20T23:56:10Z",
+      "year": 2019,
+      "month": 8,
+      "day": 20,
+      "hour": 23,
+      "minute": 56,
+      "x": -118.37034934082362,
+      "y": 33.815382186708085,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.550000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 256: Switch On"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8e37b66bb71cd58c92716da45602ba84/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx71ceu8"
+        ],
+        "content": [
+          {
+            "html": "<p>After Myke breaks the news about his back, he and Stephen undertake their annual tradition of <a class=\"p-category\" href=\"/tag/RelayQA\" rel=\"tag\">#RelayQA</a>.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "After Myke breaks the news about his back, he and Stephen undertake their annual tradition of #RelayQA.\nBy Connected"
+          }
+        ],
+        "category": [
+          "#RelayQA"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

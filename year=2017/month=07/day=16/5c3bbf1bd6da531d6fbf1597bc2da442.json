@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sweet Paradise Chocolatier"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sweet Paradise Chocolatier"
+          ],
+          "latitude": [
+            "20.688841"
+          ],
+          "longitude": [
+            "-156.431186"
+          ]
+        },
+        "value": "Sweet Paradise Chocolatier"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sweet Paradise Chocolatier"
+          ],
+          "latitude": [
+            "20.688841"
+          ],
+          "longitude": [
+            "-156.431186"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Post dinner delights.</p>",
+        "value": "Post dinner delights."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sweet-paradise-chocolatier"
+    ],
+    "published": [
+      "2017-07-16T04:36:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Sweet Paradise Chocolatier!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Sweet Paradise Chocolatier!</p>",
+              "value": "Your first check-in at Sweet Paradise Chocolatier!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1373c6efc32f7d545773c3cc218df8ca"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596aed2b6bd36b33adf3b8c5/ae4c7b58c49d43924edf8dc714889675"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596aed2b6bd36b33adf3b8c5/ae4c7b58c49d43924edf8dc714889675"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596aed2b6bd36b33adf3b8c5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5c3bbf1bd6da531d6fbf1597bc2da442"
+    ]
+  }
+}

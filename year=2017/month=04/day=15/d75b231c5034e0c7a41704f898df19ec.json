@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Umami Burger"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Umami Burger"
+          ],
+          "latitude": [
+            "34.098816244076"
+          ],
+          "longitude": [
+            "-118.32915512499"
+          ]
+        },
+        "value": "Umami Burger"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Umami Burger"
+          ],
+          "latitude": [
+            "34.098816244076"
+          ],
+          "longitude": [
+            "-118.32915512499"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Burrrrrrrrrgrs</p>",
+        "value": "Burrrrrrrrrgrs"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-umami-burger"
+    ],
+    "published": [
+      "2017-04-15T03:36:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Umami Burger!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Umami Burger!</p>",
+              "value": "Your first check-in at this Umami Burger!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0c529fd318a3da4db1d221d0fb336dfd"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58f19537b3cdc808a768acde/3a86013944c917fb489ba1640618bcf1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58f19537b3cdc808a768acde/3a86013944c917fb489ba1640618bcf1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58f19537b3cdc808a768acde"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d75b231c5034e0c7a41704f898df19ec"
+    ]
+  }
+}

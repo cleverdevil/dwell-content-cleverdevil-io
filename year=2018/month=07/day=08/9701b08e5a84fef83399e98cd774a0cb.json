@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into KLM Crown Lounge 52 (Intercontinental)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "KLM Crown Lounge 52 (Intercontinental)"
+          ],
+          "latitude": [
+            "52.31126769739"
+          ],
+          "longitude": [
+            "4.7619581860113"
+          ]
+        },
+        "value": "KLM Crown Lounge 52 (Intercontinental)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "KLM Crown Lounge 52 (Intercontinental)"
+          ],
+          "latitude": [
+            "52.31126769739"
+          ],
+          "longitude": [
+            "4.7619581860113"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-klm-crown-lounge-52-intercontinental"
+    ],
+    "published": [
+      "2018-07-08T09:53:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Hoofddorp."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Hoofddorp.</p>",
+              "value": "First check-in in Hoofddorp."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b41df0b872f7d002cf262ce/321cef3e09c349dd6ae599d8b1c9423b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b41df0b872f7d002cf262ce/321cef3e09c349dd6ae599d8b1c9423b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b41df0b872f7d002cf262ce"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9701b08e5a84fef83399e98cd774a0cb"
+    ]
+  }
+}

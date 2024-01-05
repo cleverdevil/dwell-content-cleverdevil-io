@@ -1,0 +1,70 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "So far I have built a data model supporting all of the kinds of content that my current site offers, with micropub support, including a media endpoint. Lots still to do. Very much a long-term background project."
+    ],
+    "content": [
+      {
+        "html": "So far I have built a data model supporting all of the kinds of content that my current site offers, with micropub support, including a media endpoint. Lots still to do. Very much a long-term background project.",
+        "value": "So far I have built a data model supporting all of the kinds of content that my current site offers, with micropub support, including a media endpoint. Lots still to do. Very much a long-term background project."
+      }
+    ],
+    "url": [
+      "/2023/so-far-i-have-built-a-data"
+    ],
+    "published": [
+      "2023-11-13T04:19:17+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111401314379549854",
+      "https://bsky.app/profile/cleverdevil.io/post/3ke25wneq3d2s"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "f2e191a0f3b08c56337c438608bfc980"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-13T04:16:49Z",
+      "year": 2023,
+      "month": 11,
+      "day": 13,
+      "hour": 4,
+      "minute": 16,
+      "x": -118.39318981687148,
+      "y": 33.86507847979941,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

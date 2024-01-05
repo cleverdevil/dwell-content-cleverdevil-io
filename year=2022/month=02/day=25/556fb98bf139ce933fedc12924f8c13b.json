@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Ave"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Ave"
+          ],
+          "latitude": [
+            "33.818956"
+          ],
+          "longitude": [
+            "-118.387444"
+          ]
+        },
+        "value": "The Ave"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Ave"
+          ],
+          "latitude": [
+            "33.818956"
+          ],
+          "longitude": [
+            "-118.387444"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-ave"
+    ],
+    "published": [
+      "2022-02-25T22:21:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Redondo Beach was in September '21 at Handel's Homemade Ice Cream & Yogurt."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Redondo Beach was in September '21 at Handel's Homemade Ice Cream &amp; Yogurt.</p>",
+              "value": "Your last check-in in Redondo Beach was in September '21 at Handel's Homemade Ice Cream & Yogurt."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62195670dfde77732974daf0/7539863ca160f2bca5728f37cad49120"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62195670dfde77732974daf0/7539863ca160f2bca5728f37cad49120"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62195670dfde77732974daf0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "556fb98bf139ce933fedc12924f8c13b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-25T22:18:25Z",
+      "year": 2022,
+      "month": 2,
+      "day": 25,
+      "hour": 22,
+      "minute": 18,
+      "x": -118.38760994135042,
+      "y": 33.818958997839104,
+      "altitude": 22,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

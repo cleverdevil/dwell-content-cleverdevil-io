@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/sing-the-wall-song"
+    ],
+    "published": [
+      "2023-01-08T22:19:27+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2e6b5a96487287bbb9e8c580dfed3484"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-08T22:56:17Z",
+      "year": 2023,
+      "month": 1,
+      "day": 8,
+      "hour": 22,
+      "minute": 56,
+      "x": -118.37048197319358,
+      "y": 33.81533438820698,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Sing the Wall Song"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dafbb81c06240d4ca3dd544e1f45cfa7/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0ZRzdg"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! It\u2019s another edition of JUVENILE COURT with Guest Judge Oscar Thorn (age 9). Time travel artifacts, parents singing in public, swearing along to song lyrics, cat limits, banana bread, and text interpretation. Plus much more! Do parents understand? Oscar will be the judge!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! It\u2019s another edition of JUVENILE COURT with Guest Judge Oscar Thorn (age 9). Time travel artifacts, parents singing in public, swearing along to song lyrics, cat limits, banana bread, and text interpretation. Plus much more! Do parents understand? Oscar will be the judge!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

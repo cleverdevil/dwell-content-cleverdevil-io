@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/318-come-on-fe-its-a-qi"
+    ],
+    "published": [
+      "2020-11-05T15:45:08+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b6c41dee0510bade2e861fd8a3ae0720"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-05T15:59:59Z",
+      "year": 2020,
+      "month": 11,
+      "day": 5,
+      "hour": 15,
+      "minute": 59,
+      "x": -118.37046764835223,
+      "y": 33.81535323867349,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 318: Come On Fe, It\u2019s a Qi"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/09cc8420edbe04f4cb56deb0411186f4/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx770H9U"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen is not here this week, but that doesn\u2019t stop the Europeans from discussing headphones, wireless charging, new app updates, and the iPhone 12 Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen is not here this week, but that doesn\u2019t stop the Europeans from discussing headphones, wireless charging, new app updates, and the iPhone 12 Pro.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

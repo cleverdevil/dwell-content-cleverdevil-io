@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/474-thats-where-the-magic-happens"
+    ],
+    "published": [
+      "2022-03-21T01:03:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "591964ae3a4d33be54b5687a5024c268"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-21T04:03:34Z",
+      "year": 2022,
+      "month": 3,
+      "day": 21,
+      "hour": 4,
+      "minute": 3,
+      "x": -116.38042769650433,
+      "y": 33.70163420783148,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 474: That\u2019s Where the Magic Happens"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/feb4e48d919cca846e689d9d6b92689f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULORP08"
+        ],
+        "content": [
+          {
+            "html": "<p>Universal Control, display rumors (already?), an update on MaskerAid, and wondering where the Mac Pro might go.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Universal Control, display rumors (already?), an update on MaskerAid, and wondering where the Mac Pro might go.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

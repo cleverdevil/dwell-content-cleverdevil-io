@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/pilot-with-laura-donnelly-and-ann-skelly"
+    ],
+    "published": [
+      "2021-05-04T15:07:52+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3bca7e1b502ff695883d99cc594f56e7"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-04T16:04:40Z",
+      "year": 2021,
+      "month": 5,
+      "day": 4,
+      "hour": 16,
+      "minute": 4,
+      "x": -118.37037934232406,
+      "y": 33.81541502942899,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to \u201cPilot\u201d with Laura Donnelly and Ann Skelly"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8f5829c17d18aa29dadb2c26e4880350/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+speZOCntI"
+        ],
+        "content": [
+          {
+            "html": "<p>In the first episode of The Touch Base, hosts Barbara Dunkelman and Jessica Vasami discuss episode one of The Nevers: \u201cPilot.\u201d They recap the biggest jaw-dropping moments from the series premiere and talk about everything The Nevers with special guests Laura Donnelly and Ann Skelly, who play Amalia True and Penance Adair. See omnystudio.com/listener for privacy information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Touch Base: The Official Nevers Podcast</p>",
+            "value": "In the first episode of The Touch Base, hosts Barbara Dunkelman and Jessica Vasami discuss episode one of The Nevers: \u201cPilot.\u201d They recap the biggest jaw-dropping moments from the series premiere and talk about everything The Nevers with special guests Laura Donnelly and Ann Skelly, who play Amalia True and Penance Adair. See omnystudio.com/listener for privacy information.\nBy The Touch Base: The Official Nevers Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

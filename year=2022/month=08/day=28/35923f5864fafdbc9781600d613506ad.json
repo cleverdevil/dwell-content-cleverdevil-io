@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/dear-internet-episode-124-the-longest-underwear"
+    ],
+    "published": [
+      "2022-08-28T22:28:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "35923f5864fafdbc9781600d613506ad"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-28T23:22:15Z",
+      "year": 2022,
+      "month": 8,
+      "day": 28,
+      "hour": 23,
+      "minute": 22,
+      "x": -118.3703861463887,
+      "y": 33.81540925896952,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 124: The longest underwear"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/54d9bd065f9b80abd781e000e9e6624b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Rjk3IrDVY"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,On this week\u2019s episode we discuss saving your SO from Star Wars, showing your butt crack on accident, and fun nicknames. Edited by Stephen Garcia Our GDPR privacy policy was updated on August 8, 2022. Visit acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,On this week\u2019s episode we discuss saving your SO from Star Wars, showing your butt crack on accident, and fun nicknames. Edited by Stephen Garcia Our GDPR privacy policy was updated on August 8, 2022. Visit acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

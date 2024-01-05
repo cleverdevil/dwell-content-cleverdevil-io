@@ -1,0 +1,110 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I don't like how much technical debt I have with my website. I love it, but need to spend a weekend getting it all cleaned up."
+    ],
+    "content": [
+      {
+        "html": "I don't like how much technical debt I have with my website. I love it, but need to spend a weekend getting it all cleaned up.",
+        "value": "I don't like how much technical debt I have with my website. I love it, but need to spend a weekend getting it all cleaned up."
+      }
+    ],
+    "url": [
+      "/2022/i-dont-like-how-much-technical-debt"
+    ],
+    "published": [
+      "2022-11-21T23:52:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan Mine\u2019s on an all-Python static site generator that doesn\u2019t support Python 3. I\u2019ve been putting off replatforming for sooo long. \ud83d\ude05"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan Mine\u2019s on an all-Python static site generator that doesn\u2019t support Python 3. I\u2019ve been putting off replatforming for sooo long. \ud83d\ude05</p>",
+              "value": "@jonathan Mine\u2019s on an all-Python static site generator that doesn\u2019t support Python 3. I\u2019ve been putting off replatforming for sooo long. \ud83d\ude05"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNTgxLzQ2NS81MTAvNDk2L29yaWdpbmFsLzBlOTE0NWFhNDlhNjhhNjYuanBlZw,,/300/square"
+                ],
+                "name": [
+                  "Mike Pirnat"
+                ],
+                "url": [
+                  "https://mas.to/@mpirnat"
+                ]
+              },
+              "value": "Mike Pirnat"
+            }
+          ],
+          "url": [
+            "https://mas.to/@mpirnat/109384572894569479"
+          ]
+        },
+        "value": "https://mas.to/@mpirnat/109384572894569479"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109384486874382488"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "1e843a916f673b14e97f08d5a1b215a1"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-11T02:00:50Z",
+      "year": 2022,
+      "month": 11,
+      "day": 11,
+      "hour": 2,
+      "minute": 0,
+      "x": -116.38042972582298,
+      "y": 33.7016010011756,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  }
+}

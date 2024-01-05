@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-2-restoration"
+    ],
+    "published": [
+      "2018-04-17T01:06:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ad6ae20cbb1aca19269f9680847ef622"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 2: Restoration"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a8ca9495ce8da002cea94fe5fb567f4e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+MvWQsnaeI"
+        ],
+        "content": [
+          {
+            "html": "<p>This time, on clevercast, I reminisce about one of my earliest personal websites. What happened to its content? How did I create it? Is there any chance of restoring it back to greatness?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  clevercast</p>",
+            "value": "This time, on clevercast, I reminisce about one of my earliest personal websites. What happened to its content? How did I create it? Is there any chance of restoring it back to greatness?\nBy clevercast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

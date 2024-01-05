@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Working from home.</p>",
+        "value": "Working from home."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-31"
+    ],
+    "published": [
+      "2017-04-26T22:18:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still the Mayor! They might as well name the place after you!"
+          ],
+          "content": [
+            {
+              "html": "<p>Still the Mayor! They might as well name the place after you!</p>",
+              "value": "Still the Mayor! They might as well name the place after you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a0eca35cd433d4f7830a102e0f297f5f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59011c9fbed483647bcafe4f/86f59f5294580a5981c07adf2bae9cac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59011c9fbed483647bcafe4f/86f59f5294580a5981c07adf2bae9cac"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59011c9fbed483647bcafe4f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "22abd2cc765ae07f3badd87847d1cf44"
+    ]
+  }
+}

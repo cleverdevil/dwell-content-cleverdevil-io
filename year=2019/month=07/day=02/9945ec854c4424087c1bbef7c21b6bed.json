@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "inessential: No Algorithms"
+    ],
+    "like-of": [
+      "https://inessential.com/2019/07/02/no_algorithms"
+    ],
+    "url": [
+      "/2019/inessential-no-algorithms"
+    ],
+    "published": [
+      "2019-07-02T21:45:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.37\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.37\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.37\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/inessential-no-algorithms/annotations/b94b1571af2af15e9ac4a823718af778"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/inessential-no-algorithms/annotations/b94b1571af2af15e9ac4a823718af778"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "9945ec854c4424087c1bbef7c21b6bed"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-02T21:42:57Z",
+      "year": 2019,
+      "month": 7,
+      "day": 2,
+      "hour": 21,
+      "minute": 42,
+      "x": -118.39499661662921,
+      "y": 33.91959931817709,
+      "altitude": 32,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "WeWork"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Interestingly, the \"Object Tagging\" features added to S3 in 2017 make it very close to what I am looking for as a simple JSON DB. That said, afaict you can't yet query for objects in a bucket that have a certain key/value tag. /cc @awscloud"
+    ],
+    "content": [
+      {
+        "html": "Interestingly, the \"Object Tagging\" features added to S3 in 2017 make it very close to what I am looking for as a simple JSON DB. That said, afaict you can't yet query for objects in a bucket that have a certain key/value tag. /cc @awscloud",
+        "value": "Interestingly, the \"Object Tagging\" features added to S3 in 2017 make it very close to what I am looking for as a simple JSON DB. That said, afaict you can't yet query for objects in a bucket that have a certain key/value tag. /cc @awscloud"
+      }
+    ],
+    "url": [
+      "/2018/interestingly-the-object-tagging-features-added-to"
+    ],
+    "published": [
+      "2018-04-11T20:16:15+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/984163242980372483"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e9ec36dc307aff9904b02a0082d08383"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Nelson's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736717070088"
+          ],
+          "longitude": [
+            "-118.39913506881"
+          ]
+        },
+        "value": "Nelson's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736717070088"
+          ],
+          "longitude": [
+            "-118.39913506881"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-nelsons-9"
+    ],
+    "published": [
+      "2020-02-17T19:40:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First American Restaurant check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First American Restaurant check-in in 2 months!</p>",
+              "value": "First American Restaurant check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e4aec20763649000729b119/971a9cb03534a3d187a434fd4b3b4616"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e4aec20763649000729b119/971a9cb03534a3d187a434fd4b3b4616"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.98\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.98\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.98\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-nelsons-9/annotations/86cd9fd4195261ff6d7bf57acafe0c75"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-nelsons-9/annotations/86cd9fd4195261ff6d7bf57acafe0c75"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e4aec20763649000729b119"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d55f69f3b9237429b39cfd884648b0fb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-17T19:38:47Z",
+      "year": 2020,
+      "month": 2,
+      "day": 17,
+      "hour": 19,
+      "minute": 38,
+      "x": -118.39888593933287,
+      "y": 33.73665085633065,
+      "altitude": 17,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": ""
+    }
+  }
+}

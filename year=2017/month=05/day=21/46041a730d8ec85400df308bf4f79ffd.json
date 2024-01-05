@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Village"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": "Riviera Village"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Farmers market!</p>",
+        "value": "Farmers market!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-village-1"
+    ],
+    "published": [
+      "2017-05-21T18:18:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!</p>",
+              "value": "Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2204c232287eab779216a5567001fdc6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5921d9d769e77b617f317802/2abb11f1a3ad1d7f93942e01a3671e2d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5921d9d769e77b617f317802/2abb11f1a3ad1d7f93942e01a3671e2d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5921d9d769e77b617f317802"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "46041a730d8ec85400df308bf4f79ffd"
+    ]
+  }
+}

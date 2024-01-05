@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/357-collaborative-calculating"
+    ],
+    "published": [
+      "2021-06-16T19:39:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cb2b9934b7d0fdea1093476d79898230"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-16T19:09:35Z",
+      "year": 2021,
+      "month": 6,
+      "day": 16,
+      "hour": 19,
+      "minute": 9,
+      "x": -118.34425734915304,
+      "y": 33.841427209628975,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 357: Collaborative Calculating"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f2d05fafbd5752f211bf5fad19de4409/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm89gi64"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2021 is over! This week we discuss a lot of the hidden details of Apple\u2019s announcements, and share our first reactions to using the first developer betas. (Jason isn\u2019t mad at Safari, just disappointed.)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "WWDC 2021 is over! This week we discuss a lot of the hidden details of Apple\u2019s announcements, and share our first reactions to using the first developer betas. (Jason isn\u2019t mad at Safari, just disappointed.)\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

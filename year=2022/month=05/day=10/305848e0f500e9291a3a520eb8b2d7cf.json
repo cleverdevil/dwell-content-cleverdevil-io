@@ -1,0 +1,695 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "It would be super cool if the Micro.blog client was embedded directly into NetNewsWire as an option, with the ability to post and reply."
+    ],
+    "content": [
+      {
+        "html": "It would be super cool if the Micro.blog client was embedded directly into NetNewsWire as an option, with the ability to post and reply.",
+        "value": "It would be super cool if the Micro.blog client was embedded directly into NetNewsWire as an option, with the ability to post and reply."
+      }
+    ],
+    "url": [
+      "/2022/it-would-be-super-cool-if-the"
+    ],
+    "published": [
+      "2022-05-10T22:00:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil love this idea"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil love this idea</p>",
+              "value": "@cleverdevil love this idea"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2U2MTllYjNiZmFiMGY0YjExYjUzNDIzNjA4OGVkMjc1P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "toddgrotenhuis"
+                ],
+                "url": [
+                  "https://micro.blog/toddgrotenhuis"
+                ]
+              },
+              "value": "toddgrotenhuis"
+            }
+          ],
+          "url": [
+            "https://micro.blog/toddgrotenhuis/12856522"
+          ]
+        },
+        "value": "https://micro.blog/toddgrotenhuis/12856522"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@toddgrotenhuis me too! I\u2019m curious what @manton and @brentsimmons think. Would be a nice option, IMO."
+          ],
+          "content": [
+            {
+              "html": "<p>@toddgrotenhuis me too! I\u2019m curious what @manton and @brentsimmons think. Would be a nice option, IMO.</p>",
+              "value": "@toddgrotenhuis me too! I\u2019m curious what @manton and @brentsimmons think. Would be a nice option, IMO."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/12856563"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/12856563"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil very clever ... you devil you!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil very clever ... you devil you!</p>",
+              "value": "@cleverdevil very clever ... you devil you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDE2NS5qcGc,/300/square"
+                ],
+                "name": [
+                  "JohnPhilpin"
+                ],
+                "url": [
+                  "https://micro.blog/JohnPhilpin"
+                ]
+              },
+              "value": "JohnPhilpin"
+            }
+          ],
+          "url": [
+            "https://micro.blog/JohnPhilpin/12856567"
+          ]
+        },
+        "value": "https://micro.blog/JohnPhilpin/12856567"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil That would be great! Not sure it fits with the current vision for NNW but I think it could be really interesting. Also in some ways similar to early versions of NNW that could post to blogs."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil That would be great! Not sure it fits with the current vision for NNW but I think it could be really interesting. Also in some ways similar to early versions of NNW that could post to blogs.</p>",
+              "value": "@cleverdevil That would be great! Not sure it fits with the current vision for NNW but I think it could be really interesting. Also in some ways similar to early versions of NNW that could post to blogs."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMy5qcGc,/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/12859128"
+          ]
+        },
+        "value": "https://micro.blog/manton/12859128"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton Oh, that takes me back. I'd completely forgotten that MarsEdit has its roots in the NNW in-app posting client. Wow, that feels like another life now. Back when I was posting to Movable Type\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton Oh, that takes me back. I'd completely forgotten that MarsEdit has its roots in the NNW in-app posting client. Wow, that feels like another life now. Back when I was posting to Movable Type\u2026</p>",
+              "value": "@manton Oh, that takes me back. I'd completely forgotten that MarsEdit has its roots in the NNW in-app posting client. Wow, that feels like another life now. Back when I was posting to Movable Type\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvYWRkZXJzL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "adders"
+                ],
+                "url": [
+                  "https://micro.blog/adders"
+                ]
+              },
+              "value": "adders"
+            }
+          ],
+          "url": [
+            "https://micro.blog/adders/12859739"
+          ]
+        },
+        "value": "https://micro.blog/adders/12859739"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@adders Yeah, it was forever ago now. Don't forget it also used to have a built-in outliner!"
+          ],
+          "content": [
+            {
+              "html": "<p>@adders Yeah, it was forever ago now. Don't forget it also used to have a built-in outliner!</p>",
+              "value": "@adders Yeah, it was forever ago now. Don't forget it also used to have a built-in outliner!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMy5qcGc,/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/12859800"
+          ]
+        },
+        "value": "https://micro.blog/manton/12859800"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton this came up because I am changing up how I consume both feeds and Micro.blog. I have noticed that reading Micro.blog feeds in NNW and Reeder isn\u2019t ideal, in part because of how the feeds are formatted.\nThis could be fixed on the reader side, but it might be a cool feature to have a specialized timeline feed that is tailored specifically to consumption in a feed reader."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton this came up because I am changing up how I consume both feeds and Micro.blog. I have noticed that reading Micro.blog feeds in NNW and Reeder isn\u2019t ideal, in part because of how the feeds are formatted.<br/>This could be fixed on the reader side, but it might be a cool feature to have a specialized timeline feed that is tailored specifically to consumption in a feed reader.</p>",
+              "value": "@manton this came up because I am changing up how I consume both feeds and Micro.blog. I have noticed that reading Micro.blog feeds in NNW and Reeder isn\u2019t ideal, in part because of how the feeds are formatted.\nThis could be fixed on the reader side, but it might be a cool feature to have a specialized timeline feed that is tailored specifically to consumption in a feed reader."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/12872156"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/12872156"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Gotcha. By the way, are you subscribing to individual blog feeds, or the timeline feeds like /feeds/username.xml that include posts from many users? It would be interesting to experiment with specialized versions of those with reply links, etc."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Gotcha. By the way, are you subscribing to individual blog feeds, or the timeline feeds like /feeds/username.xml that include posts from many users? It would be interesting to experiment with specialized versions of those with reply links, etc.</p>",
+              "value": "@cleverdevil Gotcha. By the way, are you subscribing to individual blog feeds, or the timeline feeds like /feeds/username.xml that include posts from many users? It would be interesting to experiment with specialized versions of those with reply links, etc."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMy5qcGc,/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/12872497"
+          ]
+        },
+        "value": "https://micro.blog/manton/12872497"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton I am subscribing to my timeline \u2013 micro.blog/feeds/cle...\nYes, a specialized feed would be really interesting, IMO. Some ideas:\nCustomizable links for reply/bookmark/like, etc. I would likely use the Shortcuts URL scheme to make this really a great experience.\nTweaks to titles/content/author to make the feed easier to consume in readers. For reference, this is what my timeline looks like in Reeder:\ncleverdevil.io/s/Oa7G45F...\nEven better would be integration with NNW, of course. I am still searching for a native macOS experience to replace my use of Together."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton I am subscribing to my timeline \u2013 micro.blog/feeds/cle...<br/>Yes, a specialized feed would be really interesting, IMO. Some ideas:<br/>Customizable links for reply/bookmark/like, etc. I would likely use the Shortcuts URL scheme to make this really a great experience.<br/>Tweaks to titles/content/author to make the feed easier to consume in readers. For reference, this is what my timeline looks like in Reeder:<br/>cleverdevil.io/s/Oa7G45F...<br/>Even better would be integration with NNW, of course. I am still searching for a native macOS experience to replace my use of Together.</p>",
+              "value": "@manton I am subscribing to my timeline \u2013 micro.blog/feeds/cle...\nYes, a specialized feed would be really interesting, IMO. Some ideas:\nCustomizable links for reply/bookmark/like, etc. I would likely use the Shortcuts URL scheme to make this really a great experience.\nTweaks to titles/content/author to make the feed easier to consume in readers. For reference, this is what my timeline looks like in Reeder:\ncleverdevil.io/s/Oa7G45F...\nEven better would be integration with NNW, of course. I am still searching for a native macOS experience to replace my use of Together."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/12872933"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/12872933"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I entirely read M.b in Reeder having subscribed to my timeline in Feedbin. I don't really run into any trouble except the use of the canonical link versus M.b. link results in having to do a dance if I do want to reply. So I do love the idea of having the timeline feed including the cannonical link, the link to the post on M.b, (and possibly bookmark... that's not a feature I use personally)."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I entirely read M.b in Reeder having subscribed to my timeline in Feedbin. I don't really run into any trouble except the use of the canonical link versus M.b. link results in having to do a dance if I do want to reply. So I do love the idea of having the timeline feed including the cannonical link, the link to the post on M.b, (and possibly bookmark... that's not a feature I use personally).</p>",
+              "value": "@cleverdevil I entirely read M.b in Reeder having subscribed to my timeline in Feedbin. I don't really run into any trouble except the use of the canonical link versus M.b. link results in having to do a dance if I do want to reply. So I do love the idea of having the timeline feed including the cannonical link, the link to the post on M.b, (and possibly bookmark... that's not a feature I use personally)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzZkMWM4MDc1YmUyMGFjNzI5MDI2NDIwZDg2OGIxMmY3P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/12873411"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/12873411"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker I\u2019ve been reading my Micro.blog Timeline via Feedbin as well and been wondering how to solve this exact problem. How do you do this dance from a Feedbin entry to the Micro.blog page for a post where you can Reply? Also, can I ask you to share a screenshot of how Reeder renders Micro.blog feeds via Feedbin? Does it show the conversation natively just like Feedbin does with its nifty little feature?"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker I\u2019ve been reading my Micro.blog Timeline via Feedbin as well and been wondering how to solve this exact problem. How do you do this dance from a Feedbin entry to the Micro.blog page for a post where you can Reply? Also, can I ask you to share a screenshot of how Reeder renders Micro.blog feeds via Feedbin? Does it show the conversation natively just like Feedbin does with its nifty little feature?</p>",
+              "value": "@jsonbecker I\u2019ve been reading my Micro.blog Timeline via Feedbin as well and been wondering how to solve this exact problem. How do you do this dance from a Feedbin entry to the Micro.blog page for a post where you can Reply? Also, can I ask you to share a screenshot of how Reeder renders Micro.blog feeds via Feedbin? Does it show the conversation natively just like Feedbin does with its nifty little feature?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMjI4OTMuanBn/300/square"
+                ],
+                "name": [
+                  "moonmehta"
+                ],
+                "url": [
+                  "https://micro.blog/moonmehta"
+                ]
+              },
+              "value": "moonmehta"
+            }
+          ],
+          "url": [
+            "https://micro.blog/moonmehta/14964041"
+          ]
+        },
+        "value": "https://micro.blog/moonmehta/14964041"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@moonmehta images aren\u2019t really possible in replies so sharing a screenshot is kind of hard but it just shows @-user and content of the reply and not the whole conversation. There is currently no good solution to this problem IMO, but I just deal with it, as I use MB the same way. I probably reply less on here than I would if I read within the apps, but I consider that an ok trade. The only good solution is platform level. I mentioned to Vincent or Manton once a desire for timeline feeds to include links to posts in timeline/micro.blog at the end of the content as a help."
+          ],
+          "content": [
+            {
+              "html": "<p>@moonmehta images aren\u2019t really possible in replies so sharing a screenshot is kind of hard but it just shows @-user and content of the reply and not the whole conversation. There is currently no good solution to this problem IMO, but I just deal with it, as I use MB the same way. I probably reply less on here than I would if I read within the apps, but I consider that an ok trade. The only good solution is platform level. I mentioned to Vincent or Manton once a desire for timeline feeds to include links to posts in timeline/micro.blog at the end of the content as a help.</p>",
+              "value": "@moonmehta images aren\u2019t really possible in replies so sharing a screenshot is kind of hard but it just shows @-user and content of the reply and not the whole conversation. There is currently no good solution to this problem IMO, but I just deal with it, as I use MB the same way. I probably reply less on here than I would if I read within the apps, but I consider that an ok trade. The only good solution is platform level. I mentioned to Vincent or Manton once a desire for timeline feeds to include links to posts in timeline/micro.blog at the end of the content as a help."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzZkMWM4MDc1YmUyMGFjNzI5MDI2NDIwZDg2OGIxMmY3P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/14966064"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/14966064"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker @moonmehta Didn't @sod share an RSS feed that had links to reply in the timeline for each post? Or was that only for the Discover section?"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker @moonmehta Didn't @sod share an RSS feed that had links to reply in the timeline for each post? Or was that only for the Discover section?</p>",
+              "value": "@jsonbecker @moonmehta Didn't @sod share an RSS feed that had links to reply in the timeline for each post? Or was that only for the Discover section?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjEvMjM4Mi5qcGc,/300/square"
+                ],
+                "name": [
+                  "pratik"
+                ],
+                "url": [
+                  "https://micro.blog/pratik"
+                ]
+              },
+              "value": "pratik"
+            }
+          ],
+          "url": [
+            "https://micro.blog/pratik/14966290"
+          ]
+        },
+        "value": "https://micro.blog/pratik/14966290"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker Thank you for your response Jason. I agree it would be really useful to have Micro.blog itself make it easier to reply to posts from virtually anywhere, including feeds, and to virtually anywhere!\nBTW you we share images in Replies in at least two ways: 1. Using the tag apparently works 2. Uploading an image in the Uploads section of Micro.blog and sharing the direct link"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker Thank you for your response Jason. I agree it would be really useful to have Micro.blog itself make it easier to reply to posts from virtually anywhere, including feeds, and to virtually anywhere!<br/>BTW you we share images in Replies in at least two ways: 1. Using the  tag apparently works 2. Uploading an image in the Uploads section of Micro.blog and sharing the direct link</p>",
+              "value": "@jsonbecker Thank you for your response Jason. I agree it would be really useful to have Micro.blog itself make it easier to reply to posts from virtually anywhere, including feeds, and to virtually anywhere!\nBTW you we share images in Replies in at least two ways: 1. Using the tag apparently works 2. Uploading an image in the Uploads section of Micro.blog and sharing the direct link"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMjI4OTMuanBn/300/square"
+                ],
+                "name": [
+                  "moonmehta"
+                ],
+                "url": [
+                  "https://micro.blog/moonmehta"
+                ]
+              },
+              "value": "moonmehta"
+            }
+          ],
+          "url": [
+            "https://micro.blog/moonmehta/14966455"
+          ]
+        },
+        "value": "https://micro.blog/moonmehta/14966455"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik Yes, that was only for the Discover feed, at least at that point: micro.blog/sod/14620..."
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik Yes, that was only for the Discover feed, at least at that point: micro.blog/sod/14620...</p>",
+              "value": "@pratik Yes, that was only for the Discover feed, at least at that point: micro.blog/sod/14620..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMjI4OTMuanBn/300/square"
+                ],
+                "name": [
+                  "moonmehta"
+                ],
+                "url": [
+                  "https://micro.blog/moonmehta"
+                ]
+              },
+              "value": "moonmehta"
+            }
+          ],
+          "url": [
+            "https://micro.blog/moonmehta/14966513"
+          ]
+        },
+        "value": "https://micro.blog/moonmehta/14966513"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@moonmehta I was wondering how to share images in replies. Thank you!"
+          ],
+          "content": [
+            {
+              "html": "<p>@moonmehta I was wondering how to share images in replies. Thank you!</p>",
+              "value": "@moonmehta I was wondering how to share images in replies. Thank you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvOTc5NjQuanBn/300/square"
+                ],
+                "name": [
+                  "UndamnedOne"
+                ],
+                "url": [
+                  "https://micro.blog/UndamnedOne"
+                ]
+              },
+              "value": "UndamnedOne"
+            }
+          ],
+          "url": [
+            "https://micro.blog/UndamnedOne/14970754"
+          ]
+        },
+        "value": "https://micro.blog/UndamnedOne/14970754"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1524147475354898440"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "305848e0f500e9291a3a520eb8b2d7cf"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-10T21:57:47Z",
+      "year": 2022,
+      "month": 5,
+      "day": 10,
+      "hour": 21,
+      "minute": 57,
+      "x": -118.37036049722519,
+      "y": 33.81538932817913,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

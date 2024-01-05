@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-230-heres-the-thing-about-code-names"
+    ],
+    "published": [
+      "2019-02-17T00:22:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Breezy with a temperature of 53.98\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Breezy with a temperature of 53.98\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Breezy with a temperature of 53.98\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/wind.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-230-heres-the-thing-about-code-names/annotations/7fb4b09b1b66b84b47ef84efe56529a3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-230-heres-the-thing-about-code-names/annotations/7fb4b09b1b66b84b47ef84efe56529a3"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e9528825d12516be4a9148282e05f289"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-17T04:03:18Z",
+      "year": 2019,
+      "month": 2,
+      "day": 17,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37037319234804,
+      "y": 33.8154103651326,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 230: Here\u2019s the Thing About Code Names"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e42c8d4516968137e95773f30767dbb7/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4aNDzk"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen solves a problem that has been plaguing the podcast, Federico has concerns about Apple\u2019s rumored news service and Myke is fighting a losing battle with AirPlay 2.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen solves a problem that has been plaguing the podcast, Federico has concerns about Apple\u2019s rumored news service and Myke is fighting a losing battle with AirPlay 2.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

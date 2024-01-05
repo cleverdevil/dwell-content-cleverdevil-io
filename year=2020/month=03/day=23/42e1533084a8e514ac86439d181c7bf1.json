@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/370-ghost-finger"
+    ],
+    "published": [
+      "2020-03-23T04:50:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.48\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.48\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.48\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/370-ghost-finger/annotations/82946638482c6c03e76443ec072401ab"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/370-ghost-finger/annotations/82946638482c6c03e76443ec072401ab"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "42e1533084a8e514ac86439d181c7bf1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-23T06:41:23Z",
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "hour": 6,
+      "minute": 41,
+      "x": -118.37028810948895,
+      "y": 33.81541678441423,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 370: Ghost Finger"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fa66d7705c38e4d2cfc6f1dcf81d26d7/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DWNl508"
+        ],
+        "content": [
+          {
+            "html": "<p>New MacBook Air and iPad Pro, and Magic Keyboards for (almost) everyone!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "New MacBook Air and iPad Pro, and Magic Keyboards for (almost) everyone!\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

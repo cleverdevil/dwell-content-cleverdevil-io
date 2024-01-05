@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/184-back-door-preparation"
+    ],
+    "published": [
+      "2022-06-20T20:56:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7fa4e4a6ab80fa88f3d4e6bf422c54ce"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-21T00:02:14Z",
+      "year": 2022,
+      "month": 6,
+      "day": 21,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.37031422200805,
+      "y": 33.815438671820175,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.1599999964237213,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 184: Back Door Preparation"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/98eccbc329f9321d7c1e545d025f5e5a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IO1ATBY"
+        ],
+        "content": [
+          {
+            "html": "<p>How to Talk to People.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "How to Talk to People.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

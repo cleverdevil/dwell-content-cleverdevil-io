@@ -1,0 +1,173 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into suburbia"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "suburbia"
+          ],
+          "latitude": [
+            "33.818449"
+          ],
+          "longitude": [
+            "-118.386867"
+          ]
+        },
+        "value": "suburbia"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "suburbia"
+          ],
+          "latitude": [
+            "33.818449"
+          ],
+          "longitude": [
+            "-118.386867"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"suburbia\" src=\"https://cleverdevil.io/file/d8da9220b3751cdc90879f3825ad6586\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Dinner with the besties! <a class=\"p-category\" href=\"/tag/quatgoals\" rel=\"tag\">#quatgoals</a></p>\n<p> <a class=\"p-category\" href=\"/tag/quatgoals\" rel=\"tag\">#quatgoals</a></p>",
+        "value": "suburbia\nDinner with the besties! #quatgoals\n#quatgoals"
+      }
+    ],
+    "category": [
+      "#quatgoals",
+      "#quatgoals"
+    ],
+    "url": [
+      "/2017/checked-into-suburbia"
+    ],
+    "published": [
+      "2017-04-03T00:51:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at suburbia!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at suburbia!</p>",
+              "value": "Your first check-in at suburbia!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/dd74d9c6a03c8da3c31d6228d96fe015"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e19c91297c161c1857f5b3/31276f955a1b09aedda6e4a6da845fa4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e19c91297c161c1857f5b3/31276f955a1b09aedda6e4a6da845fa4"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nice photo. You're gonna want some 3x5 glossy doubles."
+          ],
+          "content": [
+            {
+              "html": "<p>Nice photo. You're gonna want some 3x5 glossy doubles.</p>",
+              "value": "Nice photo. You're gonna want some 3x5 glossy doubles."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/dd74d9c6a03c8da3c31d6228d96fe015"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e19c91297c161c1857f5b3/82871940353a5f97608d81fd0e67a930"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e19c91297c161c1857f5b3/82871940353a5f97608d81fd0e67a930"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e19c91297c161c1857f5b3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "96834e8056a95475f89b1810aeaea5c7"
+    ]
+  }
+}

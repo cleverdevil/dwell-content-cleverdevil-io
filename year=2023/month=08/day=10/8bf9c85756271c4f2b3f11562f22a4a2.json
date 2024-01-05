@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/266-ai-camerabot"
+    ],
+    "published": [
+      "2023-08-10T02:09:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8bf9c85756271c4f2b3f11562f22a4a2"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-09T22:58:34Z",
+      "year": 2023,
+      "month": 8,
+      "day": 9,
+      "hour": 22,
+      "minute": 58,
+      "x": -73.78143807302115,
+      "y": 40.63985400567461,
+      "altitude": 13,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5099999904632568,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 266: AI Camerabot"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9d6582c71a504028dd9dad85d7673845/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2R9lGfk"
+        ],
+        "content": [
+          {
+            "html": "<p>Finally we talk about robots again. If a robot controls a camera, is it a camera robot?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "Finally we talk about robots again. If a robot controls a camera, is it a camera robot?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

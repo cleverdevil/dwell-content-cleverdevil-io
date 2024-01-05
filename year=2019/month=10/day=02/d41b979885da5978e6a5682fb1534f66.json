@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "inessential: 01 Oct 2019 09:19:33 -0700"
+    ],
+    "like-of": [
+      "https://inessential.com/2019/10/01/this_leaked_audio_from_facebook_https_ww"
+    ],
+    "url": [
+      "/2019/inessential-01-oct-2019-091933--0700"
+    ],
+    "published": [
+      "2019-10-02T01:35:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 80.8\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 80.8\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 80.8\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/inessential-01-oct-2019-091933--0700/annotations/18cd159872c7e08c1f2668d01bc77fd8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/inessential-01-oct-2019-091933--0700/annotations/18cd159872c7e08c1f2668d01bc77fd8"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "d41b979885da5978e6a5682fb1534f66"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-02T01:31:30Z",
+      "year": 2019,
+      "month": 10,
+      "day": 2,
+      "hour": 1,
+      "minute": 31,
+      "x": -85.55156317403419,
+      "y": 38.296095297847074,
+      "altitude": 210,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  }
+}

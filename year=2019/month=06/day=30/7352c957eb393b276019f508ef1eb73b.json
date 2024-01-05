@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "micro.burk.io -"
+    ],
+    "like-of": [
+      "https://micro.burk.io/2019/06/30/guest-at-the.html"
+    ],
+    "url": [
+      "/2019/microburkio"
+    ],
+    "published": [
+      "2019-06-30T19:23:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.42\u00b0F and 48% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.42\u00b0F and 48% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.42\u00b0F and 48% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/microburkio/annotations/7696cc0a01cac060ef3888ac141b3d7b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/microburkio/annotations/7696cc0a01cac060ef3888ac141b3d7b"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "7352c957eb393b276019f508ef1eb73b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T19:22:52Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 19,
+      "minute": 22,
+      "x": -122.68238517254366,
+      "y": 45.523392600254844,
+      "altitude": 18,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "Mozilla Guest"
+    }
+  }
+}

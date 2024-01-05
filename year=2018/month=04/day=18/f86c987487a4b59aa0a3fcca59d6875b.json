@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-98-to-really-value-it"
+    ],
+    "published": [
+      "2018-04-18T14:57:53+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f86c987487a4b59aa0a3fcca59d6875b"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 98: To really value it"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/68b2b696716908a4c56377cddadf1314/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18eJ5DDM"
+        ],
+        "content": [
+          {
+            "html": "<p>Wrapping up the release of Wavelength and microcast support in Micro.blog.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "Wrapping up the release of Wavelength and microcast support in Micro.blog.\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

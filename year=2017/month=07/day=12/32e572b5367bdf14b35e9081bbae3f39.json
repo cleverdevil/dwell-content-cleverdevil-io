@@ -1,0 +1,160 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "This is what *real* high quality people look like.\n\nhttps://twitter.com/macgenie/status/884977304535019523"
+    ],
+    "content": [
+      {
+        "html": "This is what *real* high quality people look like.<br/>\n<br/>\n<a href=\"https://twitter.com/macgenie/status/884977304535019523\" target=\"_blank\">https://<wbr/>twitter.com/<wbr/>macgenie/<wbr/>status/<wbr/>884977304535019523</a>",
+        "value": "This is what *real* high quality people look like.\n\nhttps://twitter.com/macgenie/status/884977304535019523"
+      }
+    ],
+    "url": [
+      "/2017/this-is-what-real-high-quality-people-look-likemacgeniestatus884977304535019523"
+    ],
+    "published": [
+      "2017-07-12T03:48:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil We missed you and the rest of the #indieweb gang."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil We missed you and the rest of the #indieweb gang.</p>",
+              "value": "@cleverdevil We missed you and the rest of the #indieweb gang."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/520f64ebbc081ca268afd4a33a42338a"
+                ],
+                "name": [
+                  "macgenie"
+                ],
+                "url": [
+                  "https://micro.blog/macgenie"
+                ]
+              },
+              "value": "macgenie"
+            }
+          ],
+          "url": [
+            "https://micro.blog/macgenie/113473"
+          ]
+        },
+        "value": "https://micro.blog/macgenie/113473"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/884982740994666497"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "32e572b5367bdf14b35e9081bbae3f39"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2017/07/11/21/"
+          ],
+          "published": [
+            "2017-07-12T03:59:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/87992ad128c9cc7d5f1361ac7d42021b"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/87992ad128c9cc7d5f1361ac7d42021b Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/884982740994666497?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F884982740994666497%2F8940312"
+          ],
+          "published": [
+            "2017-07-12T04:09:55+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jean MacDonald"
+                ],
+                "url": [
+                  "https://twitter.com/macgenie"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/b1e09fa4ad2af9d835c74c54f469f8b8/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/b1e09fa4ad2af9d835c74c54f469f8b8/thumb.jpg Jean MacDonald"
+            }
+          ]
+        },
+        "value": "Jean MacDonald"
+      }
+    ]
+  }
+}

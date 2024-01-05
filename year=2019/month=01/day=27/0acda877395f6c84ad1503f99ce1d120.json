@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sansei Seafood Restaurant & Sushi Bar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sansei Seafood Restaurant & Sushi Bar"
+          ],
+          "latitude": [
+            "20.998347985814"
+          ],
+          "longitude": [
+            "-156.65448635903"
+          ]
+        },
+        "value": "Sansei Seafood Restaurant & Sushi Bar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sansei Seafood Restaurant & Sushi Bar"
+          ],
+          "latitude": [
+            "20.998347985814"
+          ],
+          "longitude": [
+            "-156.65448635903"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Soooo sheeee</p>",
+        "value": "Soooo sheeee"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-sansei-seafood-restaurant-sushi-bar-1"
+    ],
+    "published": [
+      "2019-01-27T03:02:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Sansei Seafood Restaurant & Sushi Bar since July '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Sansei Seafood Restaurant &amp; Sushi Bar since July '17.</p>",
+              "value": "Welcome back! You haven't checked in to Sansei Seafood Restaurant & Sushi Bar since July '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c4d1f32916bc1002ca1d975/993bd244065d4ebf995cddc8fdcb53af"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c4d1f32916bc1002ca1d975/993bd244065d4ebf995cddc8fdcb53af"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 71.43\u00b0F and 53% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 71.43\u00b0F and 53% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 71.43\u00b0F and 53% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-sansei-seafood-restaurant-sushi-bar-1/annotations/047ce9ce707c8e32d622fc79627ecfb2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-sansei-seafood-restaurant-sushi-bar-1/annotations/047ce9ce707c8e32d622fc79627ecfb2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c4d1f32916bc1002ca1d975"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0acda877395f6c84ad1503f99ce1d120"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-27T02:58:42Z",
+      "year": 2019,
+      "month": 1,
+      "day": 27,
+      "hour": 2,
+      "minute": 58,
+      "x": -156.6643060790763,
+      "y": 20.984553108270006,
+      "altitude": 54,
+      "motion": [
+        "driving"
+      ],
+      "speed": 20,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  }
+}

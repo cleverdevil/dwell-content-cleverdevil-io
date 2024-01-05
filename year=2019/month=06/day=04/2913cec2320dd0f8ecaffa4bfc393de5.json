@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Jean MacDonald"
+    ],
+    "like-of": [
+      "https://micro.welltempered.net/2019/06/03/i-liked-what.html"
+    ],
+    "url": [
+      "/2019/jean-macdonald"
+    ],
+    "published": [
+      "2019-06-04T02:41:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.6\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.6\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.6\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/jean-macdonald/annotations/7a6d81b2ee3d818cec3859985e1fffe6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/jean-macdonald/annotations/7a6d81b2ee3d818cec3859985e1fffe6"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "2913cec2320dd0f8ecaffa4bfc393de5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-04T02:36:57Z",
+      "year": 2019,
+      "month": 6,
+      "day": 4,
+      "hour": 2,
+      "minute": 36,
+      "x": -118.37033196369845,
+      "y": 33.81542703597111,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": "LaCour"
+    }
+  }
+}

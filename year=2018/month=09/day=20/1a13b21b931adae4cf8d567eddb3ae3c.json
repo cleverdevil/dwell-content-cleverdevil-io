@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Segundo Fish Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Segundo Fish Company"
+          ],
+          "latitude": [
+            "33.918848512149"
+          ],
+          "longitude": [
+            "-118.41426371383"
+          ]
+        },
+        "value": "El Segundo Fish Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Segundo Fish Company"
+          ],
+          "latitude": [
+            "33.918848512149"
+          ],
+          "longitude": [
+            "-118.41426371383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>My favorite lunch place near the office.</p>",
+        "value": "My favorite lunch place near the office."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-el-segundo-fish-company"
+    ],
+    "published": [
+      "2018-09-20T18:20:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at El Segundo Fish Company!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at El Segundo Fish Company!</p>",
+              "value": "Your first check-in at El Segundo Fish Company!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba3e4f316ef67002c040db9/2b43821c2f9891f1e142f93fca73eaa1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba3e4f316ef67002c040db9/2b43821c2f9891f1e142f93fca73eaa1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba3e4f316ef67002c040db9/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba3e4f316ef67002c040db9/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba3e4f316ef67002c040db9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1a13b21b931adae4cf8d567eddb3ae3c"
+    ]
+  }
+}

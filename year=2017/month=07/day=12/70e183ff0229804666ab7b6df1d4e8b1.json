@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lahaina, HI"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lahaina, HI"
+          ],
+          "latitude": [
+            "20.877358146277"
+          ],
+          "longitude": [
+            "-156.67701244354"
+          ]
+        },
+        "value": "Lahaina, HI"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lahaina, HI"
+          ],
+          "latitude": [
+            "20.877358146277"
+          ],
+          "longitude": [
+            "-156.67701244354"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-lahaina-hi"
+    ],
+    "published": [
+      "2017-07-12T20:27:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Bees kill more people each year than snakes. But still way less than sharks with lasers."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Bees kill more people each year than snakes. But still way less than sharks with lasers.</p>",
+              "value": "Fun Fact! Bees kill more people each year than snakes. But still way less than sharks with lasers."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/07c4d7304ca17f8ec258e77052ddd000"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5966862fa6ec987ccc93b7fe/5a03daa19e84c818cd4033ce58b52df6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5966862fa6ec987ccc93b7fe/5a03daa19e84c818cd4033ce58b52df6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5966862fa6ec987ccc93b7fe"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "70e183ff0229804666ab7b6df1d4e8b1"
+    ]
+  }
+}

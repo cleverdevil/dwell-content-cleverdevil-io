@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/435-a-strong-number-four"
+    ],
+    "published": [
+      "2021-06-19T07:04:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "41fd91a59d8ffa9e28ae06c242060f91"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-16T19:09:35Z",
+      "year": 2021,
+      "month": 6,
+      "day": 16,
+      "hour": 19,
+      "minute": 9,
+      "x": -118.34425734915304,
+      "y": 33.841427209628975,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 435: A Strong Number Four"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d545b4aa7a17e9429744be6019a15e3a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIljUBQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Our childhood sports achievements, plus a ton more from WWDC.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Our childhood sports achievements, plus a ton more from WWDC.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

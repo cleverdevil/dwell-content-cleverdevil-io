@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Paia Gelato"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Paia Gelato"
+          ],
+          "latitude": [
+            "20.916119250583"
+          ],
+          "longitude": [
+            "-156.38117750004"
+          ]
+        },
+        "value": "Paia Gelato"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Paia Gelato"
+          ],
+          "latitude": [
+            "20.916119250583"
+          ],
+          "longitude": [
+            "-156.38117750004"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Nom</p>",
+        "value": "Nom"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-paia-gelato"
+    ],
+    "published": [
+      "2017-07-15T00:40:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Paia Gelato!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Paia Gelato!</p>",
+              "value": "Your first check-in at Paia Gelato!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/901d672e16781bcecff7b9bb66d8a865"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596964624aa3f811411180d7/15621be35648c1f766c8ca68e286b10f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596964624aa3f811411180d7/15621be35648c1f766c8ca68e286b10f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596964624aa3f811411180d7"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d61a838bf83e2c13e2614f03cb8377c1"
+    ]
+  }
+}

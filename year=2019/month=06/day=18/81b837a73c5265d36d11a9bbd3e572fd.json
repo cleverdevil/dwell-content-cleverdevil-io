@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Mario Kart 8 Deluxe\nPlayed on the Nintendo Switch.\nPlayed for 5 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/19ff6065f0b19286ff13943c1fd81ec6/thumb.jpg"
+    ],
+    "name": [
+      "Mario Kart 8 Deluxe"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 5 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 5 minutes."
+      }
+    ],
+    "url": [
+      "/2019/mario-kart-8-deluxe-25"
+    ],
+    "published": [
+      "2019-06-18T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.77\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.77\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.77\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/mario-kart-8-deluxe-25/annotations/9bab5e4e4238a98453c6451b22eb141d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/mario-kart-8-deluxe-25/annotations/9bab5e4e4238a98453c6451b22eb141d"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "81b837a73c5265d36d11a9bbd3e572fd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-27T07:41:24Z",
+      "year": 2019,
+      "month": 6,
+      "day": 27,
+      "hour": 7,
+      "minute": 41,
+      "x": -118.37052085769947,
+      "y": 33.815326396551995,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  }
+}

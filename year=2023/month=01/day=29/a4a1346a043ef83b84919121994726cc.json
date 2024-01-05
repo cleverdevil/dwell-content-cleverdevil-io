@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Magic Key Terrace"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Magic Key Terrace"
+          ],
+          "latitude": [
+            "33.806596"
+          ],
+          "longitude": [
+            "-117.919777"
+          ]
+        },
+        "value": "Magic Key Terrace"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Magic Key Terrace"
+          ],
+          "latitude": [
+            "33.806596"
+          ],
+          "longitude": [
+            "-117.919777"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-magic-key-terrace"
+    ],
+    "published": [
+      "2023-01-29T02:11:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63d5d5e2bbb93707f6b84c12/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63d5d5e2bbb93707f6b84c12/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63d5d5e2bbb93707f6b84c12"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a4a1346a043ef83b84919121994726cc"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-29T02:10:26Z",
+      "year": 2023,
+      "month": 1,
+      "day": 29,
+      "hour": 2,
+      "minute": 10,
+      "x": -117.9200459416497,
+      "y": 33.806391941905574,
+      "altitude": 36,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6200000047683716,
+      "wifi": ""
+    }
+  }
+}

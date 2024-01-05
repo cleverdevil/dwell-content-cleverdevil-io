@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/361-its-not-an-artistic-exercise"
+    ],
+    "published": [
+      "2021-07-15T21:57:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b742a69180e5f8edfafe025180bd1bf7"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-13T17:10:18Z",
+      "year": 2021,
+      "month": 7,
+      "day": 13,
+      "hour": 17,
+      "minute": 10,
+      "x": -118.3703993021535,
+      "y": 33.8153986127737,
+      "altitude": 57,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 361: It\u2019s Not an Artistic Exercise"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/179871ff556328e0c60df1c6d13f7d91/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8xnDq8"
+        ],
+        "content": [
+          {
+            "html": "<p>For the first time Jason is (mostly) off this week! After discussing who\u2019s winning the streaming wars, Myke challenges John Siracusa to describe his ideal Mac, asks Merlin Mann to share what he\u2019s excited about, and answers a <a class=\"p-category\" href=\"/tag/myketalk\" rel=\"tag\">#myketalk</a> from Jay Miller.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "For the first time Jason is (mostly) off this week! After discussing who\u2019s winning the streaming wars, Myke challenges John Siracusa to describe his ideal Mac, asks Merlin Mann to share what he\u2019s excited about, and answers a #myketalk from Jay Miller.\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#myketalk"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

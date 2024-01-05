@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sea Beans"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sea Beans"
+          ],
+          "latitude": [
+            "33.738735128235"
+          ],
+          "longitude": [
+            "-118.39785783147"
+          ]
+        },
+        "value": "Sea Beans"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sea Beans"
+          ],
+          "latitude": [
+            "33.738735128235"
+          ],
+          "longitude": [
+            "-118.39785783147"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-sea-beans-3"
+    ],
+    "published": [
+      "2019-09-13T15:52:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Coffee Shop check-in in 7 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Coffee Shop check-in in 7 months!</p>",
+              "value": "First Coffee Shop check-in in 7 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d7bbb404e97e40007a4063a/e02822c20035baca9d2943d41dd20cc7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d7bbb404e97e40007a4063a/e02822c20035baca9d2943d41dd20cc7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.34\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.34\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.34\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-sea-beans-3/annotations/62dfd6d7c9e0bf69964ae284d30b8235"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-sea-beans-3/annotations/62dfd6d7c9e0bf69964ae284d30b8235"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d7bbb404e97e40007a4063a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e4b69daeecdcf6ed1625fdc0e5b8898d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-13T15:50:02Z",
+      "year": 2019,
+      "month": 9,
+      "day": 13,
+      "hour": 15,
+      "minute": 50,
+      "x": -118.39694851148496,
+      "y": 33.73998495869685,
+      "altitude": 38,
+      "motion": [
+        "driving"
+      ],
+      "speed": 4,
+      "battery_state": "charging",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  }
+}

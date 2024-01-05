@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/episode-7-making-micropub-more-useful"
+    ],
+    "published": [
+      "2017-10-13T15:57:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5582cdd4591c13770e98e6c01ddcaf46"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 7: Making Micropub More Useful"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/23b42cc4fc945126da6d451985702efb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+KZH-GzCY0"
+        ],
+        "content": [
+          {
+            "html": "<p>Thinking about what is needed for the Micropub spec for it to be even more useful. Links Quill - a web-based Micropub app Micro.blog Omnibear - a Micropub browser extension POSSE - Publish On your Own Site, Syndicate Elsewhere IndieAuth Micropub</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Percolator</p>",
+            "value": "Thinking about what is needed for the Micropub spec for it to be even more useful. Links Quill - a web-based Micropub app Micro.blog Omnibear - a Micropub browser extension POSSE - Publish On your Own Site, Syndicate Elsewhere IndieAuth Micropub\nBy Percolator"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

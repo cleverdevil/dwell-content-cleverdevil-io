@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-silver-spur-ranch-8"
+    ],
+    "published": [
+      "2022-01-29T06:29:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a new Mayor in town!"
+          ],
+          "content": [
+            {
+              "html": "<p>There's a new Mayor in town!</p>",
+              "value": "There's a new Mayor in town!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61f4dee1f4ee066a41424159/59431d234cd87da24e041c1ff69c52b6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61f4dee1f4ee066a41424159/59431d234cd87da24e041c1ff69c52b6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61f4dee1f4ee066a41424159"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fd04b735e3cb46650c616cf905ab2025"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-29T06:28:28Z",
+      "year": 2022,
+      "month": 1,
+      "day": 29,
+      "hour": 6,
+      "minute": 28,
+      "x": -116.38044326026719,
+      "y": 33.7016244861838,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.41999998688697815,
+      "wifi": "DesertSun"
+    }
+  }
+}

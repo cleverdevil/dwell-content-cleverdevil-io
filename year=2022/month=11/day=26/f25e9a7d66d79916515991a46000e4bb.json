@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/510-its-occupied-by-bears"
+    ],
+    "published": [
+      "2022-11-26T18:35:24+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f25e9a7d66d79916515991a46000e4bb"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-11T02:00:50Z",
+      "year": 2022,
+      "month": 11,
+      "day": 11,
+      "hour": 2,
+      "minute": 0,
+      "x": -116.38042972582298,
+      "y": 33.7016010011756,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 510: It\u2019s Occupied by Bears"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9f44c8659de8c03d435e822339c4792d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIZ4xdQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Mastodon, date formats, testing, and what we\u2019re thankful for.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Mastodon, date formats, testing, and what we\u2019re thankful for.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

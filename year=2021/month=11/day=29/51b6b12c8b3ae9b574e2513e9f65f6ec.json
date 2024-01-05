@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into McCarran International Airport (LAS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.083814936605"
+          ],
+          "longitude": [
+            "-115.14206171036"
+          ]
+        },
+        "value": "McCarran International Airport (LAS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.083814936605"
+          ],
+          "longitude": [
+            "-115.14206171036"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-mccarran-international-airport-las-9"
+    ],
+    "published": [
+      "2021-11-29T20:57:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to McCarran International Airport since December '19."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to McCarran International Airport since December '19.</p>",
+              "value": "Welcome back! You haven't checked in to McCarran International Airport since December '19."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61a53ed65f48bb29d848d6e9/6f74f061f78f9bee29917cfa9c1ee31b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61a53ed65f48bb29d848d6e9/6f74f061f78f9bee29917cfa9c1ee31b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61a53ed65f48bb29d848d6e9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "51b6b12c8b3ae9b574e2513e9f65f6ec"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-29T20:56:08Z",
+      "year": 2021,
+      "month": 11,
+      "day": 29,
+      "hour": 20,
+      "minute": 56,
+      "x": -115.14258579420324,
+      "y": 36.07908255334697,
+      "altitude": 634,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/441-meals-at-home"
+    ],
+    "published": [
+      "2021-08-13T03:13:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b1d26418b19bfa034c6846117a16c6d7"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-13T04:01:20Z",
+      "year": 2021,
+      "month": 8,
+      "day": 13,
+      "hour": 4,
+      "minute": 1,
+      "x": -116.30593502866084,
+      "y": 33.656633335302395,
+      "altitude": 60,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.25999999046325684,
+      "wifi": "Desert Escape Guest "
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 441: Meals at Home"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6cce6182c0663122f2680061f0fd37f5/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI4Updc"
+        ],
+        "content": [
+          {
+            "html": "<p>Playdate, Photo Memories, MagSafe Battery review, and the \u201cquick, very very brief topic\u201d of Apple Music and Spotify.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Playdate, Photo Memories, MagSafe Battery review, and the \u201cquick, very very brief topic\u201d of Apple Music and Spotify.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

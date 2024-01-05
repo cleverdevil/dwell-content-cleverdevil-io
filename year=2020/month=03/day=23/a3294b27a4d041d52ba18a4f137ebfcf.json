@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 10x16 \"Flat-Top O' the Morning to Ya\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/36b88e2b7b346bbdc7bc0505623d978d/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 10x16 \"Flat-Top O' the Morning to Ya\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/4016381"
+          ]
+        },
+        "value": "Bob's Burgers 10x16 \"Flat-Top O' the Morning to Ya\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bob and the kids help a down-on-his-luck restaurant owner while Linda and Teddy celebrate St. Patrick\u2019s Day.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Bob and the kids help a down-on-his-luck restaurant owner while Linda and Teddy celebrate St. Patrick\u2019s Day.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/bobs-burgers-10x16-flat-top-o-the-morning-to-ya"
+    ],
+    "published": [
+      "2020-03-23T05:15:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 57.26\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 57.26\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 57.26\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/bobs-burgers-10x16-flat-top-o-the-morning-to-ya/annotations/3e40f42a7e6ca2678e76fc56017c7668"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/bobs-burgers-10x16-flat-top-o-the-morning-to-ya/annotations/3e40f42a7e6ca2678e76fc56017c7668"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "a3294b27a4d041d52ba18a4f137ebfcf"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-23T05:12:16Z",
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "hour": 5,
+      "minute": 12,
+      "x": -118.37032715690263,
+      "y": 33.815432545837986,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  }
+}

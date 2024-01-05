@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/81-halloween-monsters"
+    ],
+    "published": [
+      "2021-11-05T03:50:05+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7e29f8ad0b1b58058b2340d0df9ac528"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-05T03:14:56Z",
+      "year": 2021,
+      "month": 11,
+      "day": 5,
+      "hour": 3,
+      "minute": 14,
+      "x": -116.38032945052277,
+      "y": 33.70169050538969,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.38999998569488525,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 81: Halloween Monsters \ud83e\udddf\ud83e\udddb\ud83c\udffb\u200d\u2640\ufe0f\ud83e\udd21\ud83d\udc7b\ud83d\udd77\ud83e\udd87\ud83d\udc3a"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4db3f507fb37cbb14db1d4c9a3846092/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDZS6Y_4"
+        ],
+        "content": [
+          {
+            "html": "<p>Tiff\u2019s favorite Halloween monsters, and the \u201cmonsters\u201d that most scare Marco.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Tiff\u2019s favorite Halloween monsters, and the \u201cmonsters\u201d that most scare Marco.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

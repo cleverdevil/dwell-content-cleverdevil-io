@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Meetable: An Open Source Events Aggregator &bull; Aaron Parecki"
+    ],
+    "like-of": [
+      "https://aaronparecki.com/2020/01/14/13/meetable"
+    ],
+    "url": [
+      "/2020/meetable-an-open-source-events-aggregator-bull-aaron-parecki"
+    ],
+    "published": [
+      "2020-01-16T03:03:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 32.83\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 32.83\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 32.83\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/meetable-an-open-source-events-aggregator-bull-aaron-parecki/annotations/dbfab83552149e7ab61948328f419f69"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/meetable-an-open-source-events-aggregator-bull-aaron-parecki/annotations/dbfab83552149e7ab61948328f419f69"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "e3f823815ac6613d53d7c53d59d62cbc"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-16T02:58:17Z",
+      "year": 2020,
+      "month": 1,
+      "day": 16,
+      "hour": 2,
+      "minute": 58,
+      "x": -87.63750188371631,
+      "y": 41.89153132302641,
+      "altitude": 181,
+      "motion": [
+        "driving"
+      ],
+      "speed": 9,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  }
+}

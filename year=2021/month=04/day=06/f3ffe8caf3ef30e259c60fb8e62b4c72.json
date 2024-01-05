@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/14-os2"
+    ],
+    "published": [
+      "2021-04-06T22:23:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f3ffe8caf3ef30e259c60fb8e62b4c72"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-06T23:29:47Z",
+      "year": 2021,
+      "month": 4,
+      "day": 6,
+      "hour": 23,
+      "minute": 29,
+      "x": -118.37038357116302,
+      "y": 33.8154125997226,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 14: OS/2"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/17e6aebbbea6a9c117177a49ab3a7d09/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2w5F-co"
+        ],
+        "content": [
+          {
+            "html": "<p>In an effort to keep Microsoft from controlling the PC software industry, in the 1980s, IBM created OS/2, an operating system meant to give its computers a competitive advantage.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "In an effort to keep Microsoft from controlling the PC software industry, in the 1980s, IBM created OS/2, an operating system meant to give its computers a competitive advantage.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

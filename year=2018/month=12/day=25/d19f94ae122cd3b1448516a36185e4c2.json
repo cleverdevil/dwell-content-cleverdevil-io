@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/connected-223-damaged-beyond-delivery"
+    ],
+    "published": [
+      "2018-12-25T19:00:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d19f94ae122cd3b1448516a36185e4c2"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 223: Damaged Beyond Delivery"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/922b75195e662d6ca6449bb1fe289298/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7bM7So"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen priced out a MacBook Air, Myke almost got a new iPad stand and Federico reviewed Launch Center Pro 3.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen priced out a MacBook Air, Myke almost got a new iPad stand and Federico reviewed Launch Center Pro 3.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

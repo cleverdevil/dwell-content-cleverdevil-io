@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/top-golf-mansion"
+    ],
+    "published": [
+      "2022-07-12T07:31:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e0dc724138fe5a65fe83346fde1825ff"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-12T07:49:24Z",
+      "year": 2022,
+      "month": 7,
+      "day": 12,
+      "hour": 7,
+      "minute": 49,
+      "x": -116.38031571884031,
+      "y": 33.70177169164657,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Golf Mansion"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/74e1b1d709c8588a9708049ec64add0e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2gDUqI"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket with Guest Bailiff Jean Grae! Jean and Judge Hodgman discuss beans on display, grammar correcting, Top Golf competition, wedding dress donating, and complicated pizza math!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket with Guest Bailiff Jean Grae! Jean and Judge Hodgman discuss beans on display, grammar correcting, Top Golf competition, wedding dress donating, and complicated pizza math!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

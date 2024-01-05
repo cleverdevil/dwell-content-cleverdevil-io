@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lihue Airport (LIH)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lihue Airport (LIH)"
+          ],
+          "latitude": [
+            "21.978379088881"
+          ],
+          "longitude": [
+            "-159.3487680601"
+          ]
+        },
+        "value": "Lihue Airport (LIH)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lihue Airport (LIH)"
+          ],
+          "latitude": [
+            "21.978379088881"
+          ],
+          "longitude": [
+            "-159.3487680601"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Heading home</p>",
+        "value": "Heading home"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-lihue-airport-lih-1"
+    ],
+    "published": [
+      "2022-02-21T08:11:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Lihue Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Lihue Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Lihue Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62134917b180a15895bcaf92/3339a72b1e85b3cbfacda5e18397b16c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62134917b180a15895bcaf92/3339a72b1e85b3cbfacda5e18397b16c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62134917b180a15895bcaf92"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b880352afb88b76fe61c929e980038f1"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-21T08:10:11Z",
+      "year": 2022,
+      "month": 2,
+      "day": 21,
+      "hour": 8,
+      "minute": 10,
+      "x": -159.3491542829663,
+      "y": 21.977580362302117,
+      "altitude": 47,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  }
+}

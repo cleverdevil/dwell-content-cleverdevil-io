@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mendocino Farms"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mendocino Farms"
+          ],
+          "latitude": [
+            "34.051450496457"
+          ],
+          "longitude": [
+            "-118.25593471527"
+          ]
+        },
+        "value": "Mendocino Farms"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mendocino Farms"
+          ],
+          "latitude": [
+            "34.051450496457"
+          ],
+          "longitude": [
+            "-118.25593471527"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Mendocino Farms\" src=\"https://cleverdevil.io/file/cbfe921569752a99641287dd19ba830c\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Sammy with Kris!</p>",
+        "value": "Mendocino Farms\nSammy with Kris!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-mendocino-farms-1"
+    ],
+    "published": [
+      "2017-08-14T19:14:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Mendocino Farms since April."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Mendocino Farms since April.</p>",
+              "value": "You haven't checked in to Mendocino Farms since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/247d1a01971d4e4d764fbcb051768c1d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5991f69d3d47915590cb44fb/280e6a04c93632c23a8f62a52847e5ba"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5991f69d3d47915590cb44fb/280e6a04c93632c23a8f62a52847e5ba"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5991f69d3d47915590cb44fb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "62610ac7cee4d9ce68f1235072677162"
+    ]
+  }
+}

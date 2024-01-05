@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-260-the-most-golden-master"
+    ],
+    "published": [
+      "2019-09-13T22:24:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 78.36\u00b0F and 51% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 78.36\u00b0F and 51% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 78.36\u00b0F and 51% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-260-the-most-golden-master/annotations/535e5561d3e47306b30f5e87a7363342"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-260-the-most-golden-master/annotations/535e5561d3e47306b30f5e87a7363342"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b360a7283dc154ca06e7a9b1966d0e98"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-13T22:17:05Z",
+      "year": 2019,
+      "month": 9,
+      "day": 13,
+      "hour": 22,
+      "minute": 17,
+      "x": -118.39645941387238,
+      "y": 33.73988349575483,
+      "altitude": 36,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.49000000953674316,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 260: The Most Golden Master"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9aaf2c1839066e036e708832b6cf6f15/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx61sqT4"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, a new Chairman Ricky is named victorious and Apple\u2019s new products are discussed, as are the leaks concerning the company\u2019s AR headset plans.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, a new Chairman Ricky is named victorious and Apple\u2019s new products are discussed, as are the leaks concerning the company\u2019s AR headset plans.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

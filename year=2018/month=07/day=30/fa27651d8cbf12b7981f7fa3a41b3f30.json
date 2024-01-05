@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Hollywood Bowl"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.113132536322"
+          ],
+          "longitude": [
+            "-118.33862185478"
+          ]
+        },
+        "value": "The Hollywood Bowl"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.113132536322"
+          ],
+          "longitude": [
+            "-118.33862185478"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-hollywood-bowl-5"
+    ],
+    "published": [
+      "2018-07-30T01:59:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to The Hollywood Bowl since September '17."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to The Hollywood Bowl since September '17.</p>",
+              "value": "You haven't checked in to The Hollywood Bowl since September '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b5e710b6a5950002cb12a1f/c2be4e4e02079b4d392b2774ea216e4f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b5e710b6a5950002cb12a1f/c2be4e4e02079b4d392b2774ea216e4f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b5e710b6a5950002cb12a1f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fa27651d8cbf12b7981f7fa3a41b3f30"
+    ]
+  }
+}

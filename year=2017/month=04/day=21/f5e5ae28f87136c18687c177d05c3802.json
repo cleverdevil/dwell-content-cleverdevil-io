@@ -1,0 +1,260 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Owning My Memories"
+    ],
+    "content": [
+      {
+        "html": "<p>My quest to own more of my digital identity continues, as I continue to search for ways in which I depend on social media silos like <a href=\"http://facebook.com\">Facebook</a>, <a href=\"http://instagram.com\">Instagram</a>, and <a href=\"http://twitter.com\">Twitter</a>. One feature of Facebook that I actually find quite delightful is <em>On This Day</em>, which shows you content and interactions over the years on the current day of the month. I like this feature so much, I felt like I should have it for my website, in the spirit of the <a href=\"http://indieweb.org\">IndieWeb</a>. I'm happy to say, I've got <a href=\"https://cleverdevil.io/onthisday/\">an initial implementation in place on my site</a>!</p><p>I've created a plugin for <a href=\"https://withknown.com\">Known</a>, the CMS for this site,\u00a0that collects a few of my own customizations, including <a href=\"https://github.com/cleverdevil/CleverCustomize/blob/master/Pages/OnThisDay.php\">my\u00a0<em>On This Day</em> implementation</a>, and its <a href=\"https://github.com/cleverdevil/CleverCustomize\">available on my GitHub</a>. Currently, the\u00a0<em>On This Day</em> functionality requires a patch to Known core that isn't yet open source, but I'm hoping to polish that up and attempt to get it into Known sometime in the next few weeks.</p><p>Three cheers to owning my own memories!</p>",
+        "value": "My quest to own more of my digital identity continues, as I continue to search for ways in which I depend on social media silos like Facebook, Instagram, and Twitter. One feature of Facebook that I actually find quite delightful is On This Day, which shows you content and interactions over the years on the current day of the month. I like this feature so much, I felt like I should have it for my website, in the spirit of the IndieWeb. I'm happy to say, I've got an initial implementation in place on my site!\nI've created a plugin for Known, the CMS for this site,\u00a0that collects a few of my own customizations, including my\u00a0On This Day implementation, and its available on my GitHub. Currently, the\u00a0On This Day functionality requires a patch to Known core that isn't yet open source, but I'm hoping to polish that up and attempt to get it into Known sometime in the next few weeks.\nThree cheers to owning my own memories!"
+      }
+    ],
+    "url": [
+      "/2017/owning-my-memories"
+    ],
+    "published": [
+      "2017-04-21T05:16:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I think I'll wait until @cleverdevil's memory thing tweaks are in the Known core before adopting -- but I like the idea."
+          ],
+          "content": [
+            {
+              "html": "<p>I think I'll wait until @cleverdevil's memory thing tweaks are in the Known core before adopting -- but I like the idea.</p>",
+              "value": "I think I'll wait until @cleverdevil's memory thing tweaks are in the Known core before adopting -- but I like the idea."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5a7f0f668f2cea368ad2f62d9e7f925c"
+                ],
+                "name": [
+                  "Jeremy Cherfas"
+                ],
+                "url": [
+                  "https://stream.jeremycherfas.net/profile/jeremy"
+                ]
+              },
+              "value": "Jeremy Cherfas"
+            }
+          ],
+          "url": [
+            "https://stream.jeremycherfas.net/2017/i-think-ill-wait-until-cleverdevils-memory-thing-tweaks-are"
+          ]
+        },
+        "value": "https://stream.jeremycherfas.net/2017/i-think-ill-wait-until-cleverdevils-memory-thing-tweaks-are"
+      }
+    ],
+    "syndication": [
+      "https://facebook.com/10101416927213429/posts/10102262289894839",
+      "https://twitter.com/cleverdevil/status/855289131676585985"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "f5e5ae28f87136c18687c177d05c3802"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102262289894839?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102262289894839%2F10151979431780906"
+          ],
+          "published": [
+            "2017-04-21T05:56:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Robert Parker"
+                ],
+                "url": [
+                  "https://www.facebook.com/10151979431780906"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/094dc43cbe927e02376743ae1e1c064d"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/094dc43cbe927e02376743ae1e1c064d Robert Parker"
+            }
+          ]
+        },
+        "value": "Robert Parker"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102262289894839?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102262289894839%2F10103717336260153"
+          ],
+          "published": [
+            "2017-04-21T08:31:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://www.facebook.com/10103717336260153"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/dede1427cb6b198bc9916bc8db89947f"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/dede1427cb6b198bc9916bc8db89947f Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102262289894839?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102262289894839%2F10152980455081516"
+          ],
+          "published": [
+            "2017-04-23T22:08:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Elaine LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10152980455081516"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/6d98a26681b220ca0e7bb956fb84cf4b"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/6d98a26681b220ca0e7bb956fb84cf4b Elaine LaCour"
+            }
+          ]
+        },
+        "value": "Elaine LaCour"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://michael.runcieman.com/2017/liked-jonathan-lacours-owning-my-memories-da83a3eb2d"
+          ],
+          "published": [
+            "2017-04-21T14:46:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Michael Runcieman"
+                ],
+                "url": [
+                  "https://michael.runcieman.com/profile/mruncieman"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/fa47db16861fd965adc6ad06019f49cf"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/fa47db16861fd965adc6ad06019f49cf Michael Runcieman"
+            }
+          ]
+        },
+        "value": "Michael Runcieman"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://idallas.com/notes/owning-my-memories/"
+          ],
+          "published": [
+            "2017-04-24T16:57:53+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "https://secure.gravatar.com/avatar/04fe5fdd5a8bfae8802f9fffe28e856e?s=125&d=mm&r=g"
+                ],
+                "url": [
+                  "https://idallas.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/3eea7a5afb7ba64c3b99293233680842"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/3eea7a5afb7ba64c3b99293233680842 https://secure.gravatar.com/avatar/04fe5fdd5a8bfae8802f9fffe28e856e?s=125&d=mm&r=g"
+            }
+          ]
+        },
+        "value": "https://secure.gravatar.com/avatar/04fe5fdd5a8bfae8802f9fffe28e856e?s=125&d=mm&r=g"
+      }
+    ]
+  }
+}

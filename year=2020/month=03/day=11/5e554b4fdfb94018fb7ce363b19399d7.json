@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/reconcilable-differences-124-figures-of-action"
+    ],
+    "published": [
+      "2020-03-11T20:28:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.01\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.01\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.01\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/reconcilable-differences-124-figures-of-action/annotations/90dcc779dd35697e79422c7f31af14ec"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/reconcilable-differences-124-figures-of-action/annotations/90dcc779dd35697e79422c7f31af14ec"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5e554b4fdfb94018fb7ce363b19399d7"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-11T22:35:25Z",
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "hour": 22,
+      "minute": 35,
+      "x": -118.37045195588425,
+      "y": 33.81538220301495,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 124: Figures of Action"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f11a98565fe9b1e3eb2cee749e65568d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IPf6lEY"
+        ],
+        "content": [
+          {
+            "html": "<p>Some back-door Secret Weird Things People Do about the cadences that trigger stuff in your head.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Some back-door Secret Weird Things People Do about the cadences that trigger stuff in your head.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

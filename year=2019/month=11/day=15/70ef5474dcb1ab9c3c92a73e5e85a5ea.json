@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "32.892155538024"
+          ],
+          "longitude": [
+            "-97.036415934563"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "32.892155538024"
+          ],
+          "longitude": [
+            "-97.036415934563"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-delta-sky-club-50"
+    ],
+    "published": [
+      "2019-11-15T17:38:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Grapevine."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Grapevine.</p>",
+              "value": "First check-in in Grapevine."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dcee28ce3c9920008e6482b/782b47654e483f7632e8ef16fea47207"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dcee28ce3c9920008e6482b/782b47654e483f7632e8ef16fea47207"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.76\u00b0F and 43% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.76\u00b0F and 43% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.76\u00b0F and 43% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-delta-sky-club-50/annotations/1d5f1bbd6a5c30c70abcda1925456ef1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-delta-sky-club-50/annotations/1d5f1bbd6a5c30c70abcda1925456ef1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dcee28ce3c9920008e6482b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "70ef5474dcb1ab9c3c92a73e5e85a5ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-15T17:33:39Z",
+      "year": 2019,
+      "month": 11,
+      "day": 15,
+      "hour": 17,
+      "minute": 33,
+      "x": -97.0357005113213,
+      "y": 32.89051813246604,
+      "altitude": -1,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  }
+}

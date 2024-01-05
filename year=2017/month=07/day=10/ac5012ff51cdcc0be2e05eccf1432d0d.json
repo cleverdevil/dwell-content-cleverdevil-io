@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kapalua Bay Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Bay Beach"
+          ],
+          "latitude": [
+            "20.999115634692"
+          ],
+          "longitude": [
+            "-156.66640162468"
+          ]
+        },
+        "value": "Kapalua Bay Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Bay Beach"
+          ],
+          "latitude": [
+            "20.999115634692"
+          ],
+          "longitude": [
+            "-156.66640162468"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Hiking!</p>",
+        "value": "Hiking!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-kapalua-bay-beach-1"
+    ],
+    "published": [
+      "2017-07-10T19:07:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Coffee with added cream cools about 20% slower than plain black coffee."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Coffee with added cream cools about 20% slower than plain black coffee.</p>",
+              "value": "Fun Fact! Coffee with added cream cools about 20% slower than plain black coffee."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/73bf2217673074f1e2edb0b8f4edb1d4"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5963d0693c858d704e2ab199/e6ad95711205ea5301d5f94efc7f5ca2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5963d0693c858d704e2ab199/e6ad95711205ea5301d5f94efc7f5ca2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5963d0693c858d704e2ab199"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ac5012ff51cdcc0be2e05eccf1432d0d"
+    ]
+  }
+}

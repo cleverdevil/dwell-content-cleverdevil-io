@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/mac-power-users-504-the-release-of-macos-catalina"
+    ],
+    "published": [
+      "2019-10-09T05:07:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.25\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.25\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.25\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/mac-power-users-504-the-release-of-macos-catalina/annotations/7eff3dd8fac672c75d855106b32fa995"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/mac-power-users-504-the-release-of-macos-catalina/annotations/7eff3dd8fac672c75d855106b32fa995"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "39604e1f00a492ea30a276bed8cecbba"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-09T08:01:43Z",
+      "year": 2019,
+      "month": 10,
+      "day": 9,
+      "hour": 8,
+      "minute": 1,
+      "x": -71.04487093117481,
+      "y": 42.34341037707012,
+      "altitude": 12,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "Aloft_Guest"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Mac Power Users 504: The Release of macOS Catalina"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/963e3047180c8012609b8af1bd0aa21a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FrCHmetSE"
+        ],
+        "content": [
+          {
+            "html": "<p>macOS Catalina is here. It breaks with a lot of the past, while showing us a bit of what the future of the Mac may hold. In this special bonus episode, David and Stephen dive into what\u2019s what in this year\u2019s release of macOS.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Mac Power Users</p>",
+            "value": "macOS Catalina is here. It breaks with a lot of the past, while showing us a bit of what the future of the Mac may hold. In this special bonus episode, David and Stephen dive into what\u2019s what in this year\u2019s release of macOS.\nBy Mac Power Users"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

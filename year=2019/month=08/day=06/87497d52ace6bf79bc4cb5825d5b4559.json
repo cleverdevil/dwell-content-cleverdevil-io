@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Swagtron, maker of scooters and skateboards, unveils its first electric city bike - The Verge"
+    ],
+    "like-of": [
+      "https://www.theverge.com/2019/8/6/20757383/swagtron-ebike-eb12-city-bike-price"
+    ],
+    "url": [
+      "/2019/swagtron-maker-of-scooters-and-skateboards-unveils-its-first-electric"
+    ],
+    "published": [
+      "2019-08-06T20:00:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 78.33\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 78.33\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 78.33\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/swagtron-maker-of-scooters-and-skateboards-unveils-its-first-electric/annotations/1941bce3b1ba4e3c775963cde3e3b6b4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/swagtron-maker-of-scooters-and-skateboards-unveils-its-first-electric/annotations/1941bce3b1ba4e3c775963cde3e3b6b4"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "87497d52ace6bf79bc4cb5825d5b4559"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-06T19:58:24Z",
+      "year": 2019,
+      "month": 8,
+      "day": 6,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.39513432668919,
+      "y": 33.919784315630785,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "WeWork"
+    }
+  }
+}

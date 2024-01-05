@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/live-miami-hurricanes-scrimmage-report-with-peter-ariz-episode-58"
+    ],
+    "published": [
+      "2023-08-13T03:01:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a3a20f82964f40328affe467a73acc20"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-13T03:24:21Z",
+      "year": 2023,
+      "month": 8,
+      "day": 13,
+      "hour": 3,
+      "minute": 24,
+      "x": -118.37033785978869,
+      "y": 33.81541675219005,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to LIVE Miami Hurricanes Scrimmage Report With Peter Ariz (EPISODE 58)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8cfdd986143339bc14acdea654c7ca99/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kRHZrV8"
+        ],
+        "content": [
+          {
+            "html": "<p>LIVE Miami Hurricanes Scrimmage Report With Peter Ariz (EPISODE 58)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The CanesInSight Podcast</p>",
+            "value": "LIVE Miami Hurricanes Scrimmage Report With Peter Ariz (EPISODE 58)\nBy The CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

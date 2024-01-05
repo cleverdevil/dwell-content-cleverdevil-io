@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/350-a-setup-of-optimism"
+    ],
+    "published": [
+      "2021-06-18T09:34:07+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "53df2d47f6abd5664bd72a78d2ba23ad"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-16T19:09:35Z",
+      "year": 2021,
+      "month": 6,
+      "day": 16,
+      "hour": 19,
+      "minute": 9,
+      "x": -118.34425734915304,
+      "y": 33.841427209628975,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 350: A Setup of Optimism"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/78618e2f2973ef5ee752f7f6e0c48981/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5GIE_c"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Myke, Stephen and Federico gather from across the globe to discuss iPadOS 15 multitasking and some sad Mac news.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Myke, Stephen and Federico gather from across the globe to discuss iPadOS 15 multitasking and some sad Mac news.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

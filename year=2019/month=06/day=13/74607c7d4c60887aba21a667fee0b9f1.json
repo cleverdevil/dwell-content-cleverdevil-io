@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Keanu Reeves Keeps His Hands to Himself"
+    ],
+    "like-of": [
+      "https://kottke.org/19/06/keanu-reeves-keeps-his-hands-to-himself"
+    ],
+    "url": [
+      "/2019/keanu-reeves-keeps-his-hands-to-himself"
+    ],
+    "published": [
+      "2019-06-13T00:43:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.97\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.97\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.97\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/keanu-reeves-keeps-his-hands-to-himself/annotations/4b6f15d3e17bf4f6f69f3ac7343c536b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/keanu-reeves-keeps-his-hands-to-himself/annotations/4b6f15d3e17bf4f6f69f3ac7343c536b"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "74607c7d4c60887aba21a667fee0b9f1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-12T23:04:44Z",
+      "year": 2019,
+      "month": 6,
+      "day": 12,
+      "hour": 23,
+      "minute": 4,
+      "x": -118.39358010868024,
+      "y": 33.93347182844365,
+      "altitude": 33,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

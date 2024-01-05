@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/309-a-honeycomb-of-circuits-and-coils"
+    ],
+    "published": [
+      "2020-08-31T17:01:20+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ee40836cc4885a6aed604cdf871cd0bb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-31T19:19:32Z",
+      "year": 2020,
+      "month": 8,
+      "day": 31,
+      "hour": 19,
+      "minute": 19,
+      "x": -118.37039778230745,
+      "y": 33.815438665561445,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 309: A Honeycomb of Circuits and Coils"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5dc264cc1ff119434547108e720d33db/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5_CsHw"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple and Epic continue to fight; we continue to have opinions. Wireless chargers continue to be released, but Apple doesn\u2019t have an option. iOS betas are appearing at an increasing rate, and Federico has anxiety.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple and Epic continue to fight; we continue to have opinions. Wireless chargers continue to be released, but Apple doesn\u2019t have an option. iOS betas are appearing at an increasing rate, and Federico has anxiety.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

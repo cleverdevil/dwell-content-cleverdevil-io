@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/414-promoted-onto-the-roof"
+    ],
+    "published": [
+      "2021-01-21T20:53:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5cce37194d5afb7af5a5a7fabef5d050"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-21T23:00:33Z",
+      "year": 2021,
+      "month": 1,
+      "day": 21,
+      "hour": 23,
+      "minute": 0,
+      "x": -118.37041499244249,
+      "y": 33.81540839345962,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 414: Promoted Onto the Roof"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b80b1aae92b7d38f9c5694f864b850a0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJPAZnM"
+        ],
+        "content": [
+          {
+            "html": "<p>How much could we possibly say about the rumored 2021 Mac changes?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "How much could we possibly say about the rumored 2021 Mac changes?\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

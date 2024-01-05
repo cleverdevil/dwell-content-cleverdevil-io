@@ -1,0 +1,127 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hey, cool, now I am able to syndicate from my website to Mastodon, thanks to - https://github.com/danito/KnownMastodon"
+    ],
+    "content": [
+      {
+        "html": "Hey, cool, now I am able to syndicate from my website to Mastodon, thanks to - <a href=\"https://github.com/danito/KnownMastodon\" target=\"_blank\">https://<wbr/>github.com/<wbr/>danito/<wbr/>KnownMastodon</a>",
+        "value": "Hey, cool, now I am able to syndicate from my website to Mastodon, thanks to - https://github.com/danito/KnownMastodon"
+      }
+    ],
+    "url": [
+      "/2019/hey-cool-now-i-am-able-to"
+    ],
+    "published": [
+      "2019-01-15T01:08:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thank you for the tip Jonathan! Danito's \"KnownMastodon\" plug-in still works fine on Known v1.2.4."
+          ],
+          "content": [
+            {
+              "html": "<p>Thank you for the tip Jonathan! Danito's \"KnownMastodon\" plug-in still works fine on Known v1.2.4.</p>",
+              "value": "Thank you for the tip Jonathan! Danito's \"KnownMastodon\" plug-in still works fine on Known v1.2.4."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS8xNDVlNjhmMzNiMDFiMGZjYThhNGYyNzNlMzU3M2FhZg,,/300/square"
+                ],
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ]
+              },
+              "value": "Johan Bov\u00e9"
+            }
+          ],
+          "url": [
+            "https://social.johanbove.info/2021/03/13/thank-you-for-the-tip-jonathan-danitos"
+          ]
+        },
+        "value": "https://social.johanbove.info/2021/03/13/thank-you-for-the-tip-jonathan-danitos"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101417909915082961"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "6068e34b985cc2532e8163ec3985496b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2021/03/13/hey-cool-now-i-am-able-to"
+          ],
+          "published": [
+            "2021-03-13T21:41:36+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      }
+    ]
+  }
+}

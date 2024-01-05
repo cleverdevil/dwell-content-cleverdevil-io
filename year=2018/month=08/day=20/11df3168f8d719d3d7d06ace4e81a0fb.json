@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Arthur J"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Arthur J"
+          ],
+          "latitude": [
+            "33.883037511601"
+          ],
+          "longitude": [
+            "-118.40994122116"
+          ]
+        },
+        "value": "The Arthur J"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Arthur J"
+          ],
+          "latitude": [
+            "33.883037511601"
+          ],
+          "longitude": [
+            "-118.40994122116"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Birthday dinner for Lacey \u2764\ufe0f</p>",
+        "value": "Birthday dinner for Lacey \u2764\ufe0f"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-arthur-j"
+    ],
+    "published": [
+      "2018-08-20T01:43:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Downtown Manhattan Beach was in May at The Strand House."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Downtown Manhattan Beach was in May at The Strand House.</p>",
+              "value": "Your last check-in in Downtown Manhattan Beach was in May at The Strand House."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b7a1cd951950e002cdab040/6c0febe6ec943b1cfc0d090d51701fd2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b7a1cd951950e002cdab040/6c0febe6ec943b1cfc0d090d51701fd2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b7a1cd951950e002cdab040"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "11df3168f8d719d3d7d06ace4e81a0fb"
+    ]
+  }
+}

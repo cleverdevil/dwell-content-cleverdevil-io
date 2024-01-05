@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-235-stephens-hellish-nightmare-of-dates"
+    ],
+    "published": [
+      "2019-03-21T15:34:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 54.2\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 54.2\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 54.2\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-235-stephens-hellish-nightmare-of-dates/annotations/b3fc4d5ff5f79c81d9d96e31a6c38ac3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-235-stephens-hellish-nightmare-of-dates/annotations/b3fc4d5ff5f79c81d9d96e31a6c38ac3"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c6a12cd92961a039ded87c96a6e5d1da"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-21T16:02:05Z",
+      "year": 2019,
+      "month": 3,
+      "day": 21,
+      "hour": 16,
+      "minute": 2,
+      "x": -118.39426819642303,
+      "y": 33.9189223570303,
+      "altitude": 34,
+      "motion": [
+        "driving"
+      ],
+      "speed": 5,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 235: Stephen\u2019s Hellish Nightmare of Dates"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f5f74ae274e0a157b34554c4c967a86d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4SLgn4"
+        ],
+        "content": [
+          {
+            "html": "<p>The boys take some time to mark National Ravioli Day, then dive into Apple\u2019s new iPads and iMacs before making predictions for the company\u2019s upcoming media event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The boys take some time to mark National Ravioli Day, then dive into Apple\u2019s new iPads and iMacs before making predictions for the company\u2019s upcoming media event.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

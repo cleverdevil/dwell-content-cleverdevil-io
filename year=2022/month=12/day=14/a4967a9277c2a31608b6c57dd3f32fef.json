@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/437-luxury-car-for-nerds"
+    ],
+    "published": [
+      "2022-12-14T16:00:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a4967a9277c2a31608b6c57dd3f32fef"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-12-14T16:04:33Z",
+      "year": 2022,
+      "month": 12,
+      "day": 14,
+      "hour": 16,
+      "minute": 4,
+      "x": -117.15942322973743,
+      "y": 32.707797229839116,
+      "altitude": 33,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 437: Luxury Car for Nerds"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/068e0c73fae9effc49b442772a54d3d3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_kT4dE"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke has returned, and so have the Apple Car rumors. But before we try to figure those out, we\u2019ve got to consider Apple\u2019s encryption announcements, Tim Cook\u2019s appearance at a chip factory in Arizona, and John Siracusa\u2019s appearance in our show document.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Myke has returned, and so have the Apple Car rumors. But before we try to figure those out, we\u2019ve got to consider Apple\u2019s encryption announcements, Tim Cook\u2019s appearance at a chip factory in Arizona, and John Siracusa\u2019s appearance in our show document.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

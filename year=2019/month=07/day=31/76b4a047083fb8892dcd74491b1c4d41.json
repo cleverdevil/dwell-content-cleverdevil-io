@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dessert and armagnac.</p>",
+        "value": "Dessert and armagnac."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-bouzy-gastropub-20"
+    ],
+    "published": [
+      "2019-07-31T04:00:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d4112495d85df0008e3f450/8c5bc2565071b260a9a382ea560ed6ab"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d4112495d85df0008e3f450/8c5bc2565071b260a9a382ea560ed6ab"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.05\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.05\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.05\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-bouzy-gastropub-20/annotations/2607ac709493565eeed7d54d232ceeae"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-bouzy-gastropub-20/annotations/2607ac709493565eeed7d54d232ceeae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d4112495d85df0008e3f450"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "76b4a047083fb8892dcd74491b1c4d41"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-31T03:57:57Z",
+      "year": 2019,
+      "month": 7,
+      "day": 31,
+      "hour": 3,
+      "minute": 57,
+      "x": -118.38858937542506,
+      "y": 33.81931316775309,
+      "altitude": 20,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": ""
+    }
+  }
+}

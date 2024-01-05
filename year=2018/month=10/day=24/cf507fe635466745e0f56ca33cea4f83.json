@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/query-42-from-blue-to-yellow-and-back-again"
+    ],
+    "published": [
+      "2018-10-24T23:11:26+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cf507fe635466745e0f56ca33cea4f83"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Query 42: From Blue to Yellow and Back Again"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7805a36edb1685eda8f3ffc3ba98e7ce/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Jd9Y2I388"
+        ],
+        "content": [
+          {
+            "html": "<p>Mikah and Stephen go through a few HomeKit questions, then pack their bags and go on the Speed Run.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Query</p>",
+            "value": "Mikah and Stephen go through a few HomeKit questions, then pack their bags and go on the Speed Run.\nBy Query"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

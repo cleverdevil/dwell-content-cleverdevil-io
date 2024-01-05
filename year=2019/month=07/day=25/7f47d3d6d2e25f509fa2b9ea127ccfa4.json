@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/336-your-face-is-not-your-face"
+    ],
+    "published": [
+      "2019-07-25T22:58:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 82.43\u00b0F and 50% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 82.43\u00b0F and 50% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 82.43\u00b0F and 50% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/336-your-face-is-not-your-face/annotations/9c32944de58fdc0a6ea1f43b4f49d50f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/336-your-face-is-not-your-face/annotations/9c32944de58fdc0a6ea1f43b4f49d50f"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7f47d3d6d2e25f509fa2b9ea127ccfa4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-26T00:04:10Z",
+      "year": 2019,
+      "month": 7,
+      "day": 26,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.34374207162908,
+      "y": 33.87268505101288,
+      "altitude": 21,
+      "motion": [
+        "driving"
+      ],
+      "speed": 4,
+      "battery_state": "charging",
+      "battery_level": 0.8399999737739563,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 336: Your Face Is Not Your Face"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4b1e15548608b7a96a917c0504ee7cd2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DVPiXvc"
+        ],
+        "content": [
+          {
+            "html": "<p>Why wait for Apple\u2019s not-canceled project when you can get your own AR glasses today?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Why wait for Apple\u2019s not-canceled project when you can get your own AR glasses today?\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

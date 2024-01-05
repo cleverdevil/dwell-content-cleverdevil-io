@@ -1,0 +1,226 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Il Punto Ristorante"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Il Punto Ristorante"
+          ],
+          "latitude": [
+            "40.756079458048"
+          ],
+          "longitude": [
+            "-73.9945936203"
+          ]
+        },
+        "value": "Il Punto Ristorante"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Il Punto Ristorante"
+          ],
+          "latitude": [
+            "40.756079458048"
+          ],
+          "longitude": [
+            "-73.9945936203"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with AWS Heroes and Community speakers!</p>",
+        "value": "Dinner with AWS Heroes and Community speakers!"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-il-punto-ristorante"
+    ],
+    "published": [
+      "2019-07-11T22:40:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Il Punto Ristorante!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Il Punto Ristorante!</p>",
+              "value": "Your first check-in at Il Punto Ristorante!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d27bae841a502000726e42c/1a62f5c0daf04349cd256f9586e02001"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d27bae841a502000726e42c/1a62f5c0daf04349cd256f9586e02001"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d27bae841a502000726e42c/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d27bae841a502000726e42c/298d1d38300e94108a614bfe5e113b11"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Rain and Humid with a temperature of 74.55\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Rain and Humid with a temperature of 74.55\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Rain and Humid with a temperature of 74.55\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-il-punto-ristorante/annotations/576758c76af8adec3346eddf182a02f2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-il-punto-ristorante/annotations/576758c76af8adec3346eddf182a02f2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d27bae841a502000726e42c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0c58ad09dc4746a6a85d48a15fe94f69"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-12T00:03:10Z",
+      "year": 2019,
+      "month": 7,
+      "day": 12,
+      "hour": 0,
+      "minute": 3,
+      "x": -73.99446135396626,
+      "y": 40.75614121871019,
+      "altitude": 17,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

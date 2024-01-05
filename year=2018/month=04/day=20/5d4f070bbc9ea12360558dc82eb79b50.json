@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Tavern on Main"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Tavern on Main"
+          ],
+          "latitude": [
+            "33.91731643238"
+          ],
+          "longitude": [
+            "-118.41607403065"
+          ]
+        },
+        "value": "The Tavern on Main"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Tavern on Main"
+          ],
+          "latitude": [
+            "33.91731643238"
+          ],
+          "longitude": [
+            "-118.41607403065"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-tavern-on-main"
+    ],
+    "published": [
+      "2018-04-20T01:15:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ad93f3fa5a315002cc017cc/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ad93f3fa5a315002cc017cc/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ad93f3fa5a315002cc017cc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5d4f070bbc9ea12360558dc82eb79b50"
+    ]
+  }
+}

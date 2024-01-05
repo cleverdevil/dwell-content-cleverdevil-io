@@ -1,0 +1,287 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "@zzzeek have you checked out EdgeDB? I'd be curious to hear your thoughts, and any musings on how SQLAlchemy may (or may not) interact with it."
+    ],
+    "content": [
+      {
+        "html": "@zzzeek have you checked out EdgeDB? I'd be curious to hear your thoughts, and any musings on how SQLAlchemy may (or may not) interact with it.",
+        "value": "@zzzeek have you checked out EdgeDB? I'd be curious to hear your thoughts, and any musings on how SQLAlchemy may (or may not) interact with it."
+      }
+    ],
+    "url": [
+      "/2018/zzzeek-have-you-checked-out-edgedb-id"
+    ],
+    "published": [
+      "2018-05-25T16:59:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I looked and I have thoughts, yes. They are going to release object layer of their own, right ?"
+          ],
+          "content": [
+            {
+              "html": "<p>I looked and I have thoughts, yes.  They are going to release object layer of their own, right ?</p>",
+              "value": "I looked and I have thoughts, yes. They are going to release object layer of their own, right ?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNjc2ODQ1MTcwOTkyMzMyOC9lanFnRXpjTi5wbmc,/300/square"
+                ],
+                "name": [
+                  "mike bayer"
+                ],
+                "url": [
+                  "http://techspot.zzzeek.org"
+                ]
+              },
+              "value": "mike bayer"
+            }
+          ],
+          "url": [
+            "https://twitter.com/zzzeek/status/1000074972868603904"
+          ]
+        },
+        "value": "https://twitter.com/zzzeek/status/1000074972868603904"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "my recent rants on asyncio are related."
+          ],
+          "content": [
+            {
+              "html": "<p>my recent rants on asyncio are related.</p>",
+              "value": "my recent rants on asyncio are related."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNjc2ODQ1MTcwOTkyMzMyOC9lanFnRXpjTi5wbmc,/300/square"
+                ],
+                "name": [
+                  "mike bayer"
+                ],
+                "url": [
+                  "http://techspot.zzzeek.org"
+                ]
+              },
+              "value": "mike bayer"
+            }
+          ],
+          "url": [
+            "https://twitter.com/zzzeek/status/1000075047686623232"
+          ]
+        },
+        "value": "https://twitter.com/zzzeek/status/1000075047686623232"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Yeah, I saw something in the docs about EdgeDB having their own Python \"ORM\" but I can't find any code anywhere."
+          ],
+          "content": [
+            {
+              "html": "<p>Yeah, I saw something in the docs about EdgeDB having their own Python \"ORM\" but I can't find any code anywhere.</p>",
+              "value": "Yeah, I saw something in the docs about EdgeDB having their own Python \"ORM\" but I can't find any code anywhere."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1000080781413253120"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1000080781413253120"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fair enough on asyncio :)"
+          ],
+          "content": [
+            {
+              "html": "<p>Fair enough on asyncio :)</p>",
+              "value": "Fair enough on asyncio :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1000080812828573696"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1000080812828573696"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "the design of EdgeDB and the query language and the source code is all very beautiful. it looks very nice and the way it works is kind of enviable. But it is an enormous codebase to maintain and it's not clear what the advantages to its approach would be in practice."
+          ],
+          "content": [
+            {
+              "html": "<p>the design of EdgeDB and the query language and the source code is all very beautiful.  it looks very nice and the way it works is kind of enviable.  But it is an enormous codebase to maintain and it's not clear what the advantages to its approach would be in practice.</p>",
+              "value": "the design of EdgeDB and the query language and the source code is all very beautiful. it looks very nice and the way it works is kind of enviable. But it is an enormous codebase to maintain and it's not clear what the advantages to its approach would be in practice."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNjc2ODQ1MTcwOTkyMzMyOC9lanFnRXpjTi5wbmc,/300/square"
+                ],
+                "name": [
+                  "mike bayer"
+                ],
+                "url": [
+                  "http://techspot.zzzeek.org"
+                ]
+              },
+              "value": "mike bayer"
+            }
+          ],
+          "url": [
+            "https://twitter.com/zzzeek/status/1000138823345504256"
+          ]
+        },
+        "value": "https://twitter.com/zzzeek/status/1000138823345504256"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "the author was asked on Reddit as to the advantages vs. a SQLAlchemy-like ORM and they only offered the tired old \"sometimes you have to drop into raw SQL\" which is not really true of modern SQLAlchemy."
+          ],
+          "content": [
+            {
+              "html": "<p>the author was asked on Reddit as to the advantages vs. a SQLAlchemy-like ORM and they only offered the tired old \"sometimes you have to drop into raw SQL\" which is not really true of modern SQLAlchemy.</p>",
+              "value": "the author was asked on Reddit as to the advantages vs. a SQLAlchemy-like ORM and they only offered the tired old \"sometimes you have to drop into raw SQL\" which is not really true of modern SQLAlchemy."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNjc2ODQ1MTcwOTkyMzMyOC9lanFnRXpjTi5wbmc,/300/square"
+                ],
+                "name": [
+                  "mike bayer"
+                ],
+                "url": [
+                  "http://techspot.zzzeek.org"
+                ]
+              },
+              "value": "mike bayer"
+            }
+          ],
+          "url": [
+            "https://twitter.com/zzzeek/status/1000139017218940928"
+          ]
+        },
+        "value": "https://twitter.com/zzzeek/status/1000139017218940928"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1000058737191776257"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "31afe1d0cbe8b5094889fcdcabcd4498"
+    ]
+  }
+}

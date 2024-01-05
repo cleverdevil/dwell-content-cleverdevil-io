@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/548-starting-to-count-chickens"
+    ],
+    "published": [
+      "2023-08-20T03:26:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7ed3bf8389ce7cc96a3a55e6106aa752"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-20T00:16:06Z",
+      "year": 2023,
+      "month": 8,
+      "day": 20,
+      "hour": 0,
+      "minute": 16,
+      "x": -118.37039614316475,
+      "y": 33.815401877365346,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 548: Starting to Count Chickens"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4a05f7aa036b7b0065be130752cd16f6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKBLKDQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Callsheet\u2019s first week, why Apple might (or might not) want to buy Disney, and the state of the podcast-ad market.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Callsheet\u2019s first week, why Apple might (or might not) want to buy Disney, and the state of the podcast-ad market.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

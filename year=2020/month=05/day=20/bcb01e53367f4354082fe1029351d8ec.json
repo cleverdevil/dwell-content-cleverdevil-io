@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-294-software-firmware-situation-update"
+    ],
+    "published": [
+      "2020-05-20T14:40:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.87\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.87\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.87\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-294-software-firmware-situation-update/annotations/eefc345b93d1625f4e3d7567bd90c1a2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-294-software-firmware-situation-update/annotations/eefc345b93d1625f4e3d7567bd90c1a2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bcb01e53367f4354082fe1029351d8ec"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-20T14:49:35Z",
+      "year": 2020,
+      "month": 5,
+      "day": 20,
+      "hour": 14,
+      "minute": 49,
+      "x": -118.37029910047744,
+      "y": 33.81540323666678,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3400000035762787,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 294: Software, Firmware, Situation, Update"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/76867f4d7a461a111c3cf59791ac2c2b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6cBFM0"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen\u2019s iPhone screen is turning green. Myke turns down the opportunity to host a Round Robin of weird WWDC predictions, then Federico tries to answer a Zoom call. Then, a discussion of the rumored AirPods Studio and file formats within DEVONthink.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen\u2019s iPhone screen is turning green. Myke turns down the opportunity to host a Round Robin of weird WWDC predictions, then Federico tries to answer a Zoom call. Then, a discussion of the rumored AirPods Studio and file formats within DEVONthink.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

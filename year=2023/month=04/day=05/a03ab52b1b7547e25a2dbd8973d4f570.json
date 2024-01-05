@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seattle-Tacoma International Airport (SEA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": "Seattle-Tacoma International Airport (SEA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-seattle-tacoma-international-airport-sea-11"
+    ],
+    "published": [
+      "2023-04-05T03:03:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 955 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 955 miles since your last check-in!</p>",
+              "value": "You've traveled 955 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/642ce51f45f86f536c4f51bc/fd55346d9ddf25824cbabc3eaa58e3aa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/642ce51f45f86f536c4f51bc/fd55346d9ddf25824cbabc3eaa58e3aa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/642ce51f45f86f536c4f51bc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a03ab52b1b7547e25a2dbd8973d4f570"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-05T03:02:25Z",
+      "year": 2023,
+      "month": 4,
+      "day": 5,
+      "hour": 3,
+      "minute": 2,
+      "x": -122.31722351839105,
+      "y": 47.49372968532704,
+      "altitude": 1142,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": "DeltaWiFi.com"
+    }
+  }
+}

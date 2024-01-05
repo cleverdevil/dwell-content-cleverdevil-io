@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Corner Bakery"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Corner Bakery"
+          ],
+          "latitude": [
+            "33.816412"
+          ],
+          "longitude": [
+            "-118.378285"
+          ]
+        },
+        "value": "Corner Bakery"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Corner Bakery"
+          ],
+          "latitude": [
+            "33.816412"
+          ],
+          "longitude": [
+            "-118.378285"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Corner Bakery\" src=\"https://cleverdevil.io/file/3decccd4ca14c85eb8ccb807840d8c4a\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Breakfast with the kids!</p>",
+        "value": "Corner Bakery\nBreakfast with the kids!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-corner-bakery"
+    ],
+    "published": [
+      "2017-09-16T17:19:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Corner Bakery since May."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Corner Bakery since May.</p>",
+              "value": "You haven't checked in to Corner Bakery since May."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bd5d20a6fe4d59868af055/2239a99b08cfd2bb699a45f0db63a800"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bd5d20a6fe4d59868af055/2239a99b08cfd2bb699a45f0db63a800"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo. Maybe order some wallet sized for Gramps."
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo. Maybe order some wallet sized for Gramps.</p>",
+              "value": "Great photo. Maybe order some wallet sized for Gramps."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bd5d20a6fe4d59868af055/29be8d26c5049bfc25b8bce0e467054b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bd5d20a6fe4d59868af055/29be8d26c5049bfc25b8bce0e467054b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59bd5d20a6fe4d59868af055"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1339558974a2160367d587c555c22f03"
+    ]
+  }
+}

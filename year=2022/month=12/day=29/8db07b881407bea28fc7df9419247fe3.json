@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/515-the-elder-programmer-look"
+    ],
+    "published": [
+      "2022-12-29T20:29:33+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8db07b881407bea28fc7df9419247fe3"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-12-30T00:00:57Z",
+      "year": 2022,
+      "month": 12,
+      "day": 30,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.3704040177955,
+      "y": 33.81542368897935,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.2199999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 515: The Elder Programmer Look"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a5d7d71399baab039be4d3be9519650d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKw6FKY"
+        ],
+        "content": [
+          {
+            "html": "<p>AI training and copyright, a pair of Apple-device mysteries, and the \u201cscaled back\u201d car project.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AI training and copyright, a pair of Apple-device mysteries, and the \u201cscaled back\u201d car project.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

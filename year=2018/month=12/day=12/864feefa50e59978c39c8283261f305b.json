@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.6167130001"
+          ],
+          "longitude": [
+            "-122.38709449768"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.6167130001"
+          ],
+          "longitude": [
+            "-122.38709449768"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-san-francisco-international-airport-sfo-9"
+    ],
+    "published": [
+      "2018-12-12T18:10:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c114ef889e490002ce8731f/a391c3bcdd00572f8eb646881b99ffa1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c114ef889e490002ce8731f/a391c3bcdd00572f8eb646881b99ffa1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c114ef889e490002ce8731f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "864feefa50e59978c39c8283261f305b"
+    ]
+  }
+}

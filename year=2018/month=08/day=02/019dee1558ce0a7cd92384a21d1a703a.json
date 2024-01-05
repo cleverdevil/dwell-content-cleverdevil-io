@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Cassidy's Bar & Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cassidy's Bar & Grill"
+          ],
+          "latitude": [
+            "33.611950672169"
+          ],
+          "longitude": [
+            "-117.92916446781"
+          ]
+        },
+        "value": "Cassidy's Bar & Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cassidy's Bar & Grill"
+          ],
+          "latitude": [
+            "33.611950672169"
+          ],
+          "longitude": [
+            "-117.92916446781"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-cassidys-bar-grill"
+    ],
+    "published": [
+      "2018-08-02T05:58:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Dive Bar!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Dive Bar!</p>",
+              "value": "Your first Dive Bar!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b629d7fa4ba7c002cb454df/010f1c0937b8764ffe366a7306840e79"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b629d7fa4ba7c002cb454df/010f1c0937b8764ffe366a7306840e79"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b629d7fa4ba7c002cb454df"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "019dee1558ce0a7cd92384a21d1a703a"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Cafe Campagne"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cafe Campagne"
+          ],
+          "latitude": [
+            "47.609653870588"
+          ],
+          "longitude": [
+            "-122.34148136821"
+          ]
+        },
+        "value": "Cafe Campagne"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cafe Campagne"
+          ],
+          "latitude": [
+            "47.609653870588"
+          ],
+          "longitude": [
+            "-122.34148136821"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Brunch!</p>",
+        "value": "Brunch!"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-cafe-campagne"
+    ],
+    "published": [
+      "2019-09-29T17:43:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Cafe Campagne!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Cafe Campagne!</p>",
+              "value": "Your first check-in at Cafe Campagne!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d90ed442f1e3900081eb216/b23a384a2b8f0682415cb232def37c15"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d90ed442f1e3900081eb216/b23a384a2b8f0682415cb232def37c15"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.66\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.66\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.66\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-cafe-campagne/annotations/00b8f35d984d028ac7474309263c333a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-cafe-campagne/annotations/00b8f35d984d028ac7474309263c333a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d90ed442f1e3900081eb216"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4467797c237be88a0bde829bf946445c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-29T17:38:28Z",
+      "year": 2019,
+      "month": 9,
+      "day": 29,
+      "hour": 17,
+      "minute": 38,
+      "x": -122.34106627287409,
+      "y": 47.608532815751886,
+      "altitude": 29,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

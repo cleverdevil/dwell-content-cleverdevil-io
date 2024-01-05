@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into La Forchetta"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Forchetta"
+          ],
+          "latitude": [
+            "23.047345237526"
+          ],
+          "longitude": [
+            "-109.69492840712"
+          ]
+        },
+        "value": "La Forchetta"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Forchetta"
+          ],
+          "latitude": [
+            "23.047345237526"
+          ],
+          "longitude": [
+            "-109.69492840712"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-la-forchetta"
+    ],
+    "published": [
+      "2019-10-15T01:12:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5da51d0117c9ff0008e0da9e/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5da51d0117c9ff0008e0da9e/298d1d38300e94108a614bfe5e113b11"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.22\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.22\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.22\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-la-forchetta/annotations/bf9a877be1fe46d5e7e03f575c89fd52"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-la-forchetta/annotations/bf9a877be1fe46d5e7e03f575c89fd52"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5da51d0117c9ff0008e0da9e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1d7638a3067fb8a047672fe57af12761"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-15T01:08:37Z",
+      "year": 2019,
+      "month": 10,
+      "day": 15,
+      "hour": 1,
+      "minute": 8,
+      "x": -109.69489451685443,
+      "y": 23.04730546627394,
+      "altitude": 17,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-293-mytaskmanager"
+    ],
+    "published": [
+      "2020-05-13T17:05:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 66.68\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 66.68\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 66.68\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-293-mytaskmanager/annotations/44da37d285dc3f2d81b131803cc7a54e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-293-mytaskmanager/annotations/44da37d285dc3f2d81b131803cc7a54e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b345e84a1ff941b2adffef23e1e016e4"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-13T20:02:50Z",
+      "year": 2020,
+      "month": 5,
+      "day": 13,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37034413142091,
+      "y": 33.81539270631416,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 293: myTASK\u00b0MANAGER"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b314c9f588f22fe6acb92b3a33cadb9f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6l6A3I"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Stephen identifies some adaptors, while Federico is in search of answers and Myke butts in about something else. Then, a discussion of WWDC 2020, and what they guys would like to see in terms of home screen widgets on the iPhone and iPad.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Stephen identifies some adaptors, while Federico is in search of answers and Myke butts in about something else. Then, a discussion of WWDC 2020, and what they guys would like to see in terms of home screen widgets on the iPhone and iPad.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

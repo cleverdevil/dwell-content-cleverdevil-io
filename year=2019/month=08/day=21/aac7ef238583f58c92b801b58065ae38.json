@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/340-you-are-a-computer-athlete"
+    ],
+    "published": [
+      "2019-08-21T23:46:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76.79\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76.79\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76.79\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/340-you-are-a-computer-athlete/annotations/b46c609bd0c60bea5036ca499b71b57a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/340-you-are-a-computer-athlete/annotations/b46c609bd0c60bea5036ca499b71b57a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "aac7ef238583f58c92b801b58065ae38"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-22T00:02:49Z",
+      "year": 2019,
+      "month": 8,
+      "day": 22,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.37033780249023,
+      "y": 33.81543001146369,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 340: You Are a Computer Athlete"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e1950b73f765a99b7c5e2d58aa3e5cbe/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DUak8VE"
+        ],
+        "content": [
+          {
+            "html": "<p>Rainbow Apple logos, RSI treatment and prevention, game-console hardware, store-brand cheese* loafs, and breaking Marco\u2019s silence on fancy watches.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Rainbow Apple logos, RSI treatment and prevention, game-console hardware, store-brand cheese* loafs, and breaking Marco\u2019s silence on fancy watches.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Introducing JSON Feed"
+    ],
+    "bookmark-of": [
+      "http://inessential.com/2017/05/17/json_feed"
+    ],
+    "content": [
+      {
+        "html": "<p>Interesting <a href=\"https://jsonfeed.org/version/1\">JSON-based feed standard</a>\u00a0by <a href=\"http://manton.org\">Manton Reece</a>\u00a0and <a href=\"http://inessential.com\">Brent Simmons</a>. Looking forward to seeing where it goes! I think I'll implement this for my site next time I have a chance to sit down and hack on some code.</p>",
+        "value": "Interesting JSON-based feed standard\u00a0by Manton Reece\u00a0and Brent Simmons. Looking forward to seeing where it goes! I think I'll implement this for my site next time I have a chance to sit down and hack on some code."
+      }
+    ],
+    "url": [
+      "/2017/introducing-json-feed"
+    ],
+    "published": [
+      "2017-05-17T20:56:12+0000"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "94c8f27bace4286da076ddc2fa73c802"
+    ]
+  }
+}

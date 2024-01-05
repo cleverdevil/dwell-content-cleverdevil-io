@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/01-its-summer-and-were-running-out-of-ice"
+    ],
+    "published": [
+      "2019-11-12T01:06:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.49\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.49\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.49\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/01-its-summer-and-were-running-out-of-ice/annotations/3e7d08b7e95e7697de86ff8a50cebbae"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/01-its-summer-and-were-running-out-of-ice/annotations/3e7d08b7e95e7697de86ff8a50cebbae"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1a284b5b773ee20739866a24787d9a05"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-12T04:01:30Z",
+      "year": 2019,
+      "month": 11,
+      "day": 12,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37037191063716,
+      "y": 33.815344806418295,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 01. It\u2019s Summer and We\u2019re Running Out of Ice"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file//thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+VJ9EEc8mk"
+        ],
+        "content": [
+          {
+            "html": "<p>IT NEVER ENDS! The HBO show starts the feels and the deep thoughts! The gang discusses how they differ from each other regarding Watchmen mythos. Some are Watchmen nerds\u2026 and some are neophytes! Episode one of the HBO show is broken down! 14:10 Katie recaps Watchmen TopgallantRadio.com - Radio for sailors</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Watchmen: On the Clock</p>",
+            "value": "IT NEVER ENDS! The HBO show starts the feels and the deep thoughts! The gang discusses how they differ from each other regarding Watchmen mythos. Some are Watchmen nerds\u2026 and some are neophytes! Episode one of the HBO show is broken down! 14:10 Katie recaps Watchmen TopgallantRadio.com - Radio for sailors\nBy Watchmen: On the Clock"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

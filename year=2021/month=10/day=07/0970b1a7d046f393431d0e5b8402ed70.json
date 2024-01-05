@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/80-hals-pairings"
+    ],
+    "published": [
+      "2021-10-07T15:02:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0970b1a7d046f393431d0e5b8402ed70"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-07T16:01:43Z",
+      "year": 2021,
+      "month": 10,
+      "day": 7,
+      "hour": 16,
+      "minute": 1,
+      "x": -116.38379378420137,
+      "y": 33.72006426876289,
+      "altitude": 74,
+      "motion": [
+        "walking"
+      ],
+      "speed": 2,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 80: Hal\u2019s Pairings"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0865ccafc62edd5d08c280a10de5b74a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDbby7hQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Join your favorite \u201cseltziers\u201d (or \u201ccrunchographers\u201d?) as we discover amazing culinary pairings between Hal\u2019s seltzer flavors and Hal\u2019s potato chips.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Join your favorite \u201cseltziers\u201d (or \u201ccrunchographers\u201d?) as we discover amazing culinary pairings between Hal\u2019s seltzer flavors and Hal\u2019s potato chips.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

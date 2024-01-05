@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/259-start-a-bakin-timer-with-special-guest-marco-arment"
+    ],
+    "published": [
+      "2019-08-02T17:44:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76.77\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76.77\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76.77\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/259-start-a-bakin-timer-with-special-guest-marco-arment/annotations/15fe5fe07d49e7d62bcc6cfba29e9ea3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/259-start-a-bakin-timer-with-special-guest-marco-arment/annotations/15fe5fe07d49e7d62bcc6cfba29e9ea3"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f013298383a1d7eea4b8a21f51ca92c4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-02T19:59:13Z",
+      "year": 2019,
+      "month": 8,
+      "day": 2,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.18910883409605,
+      "y": 33.82149723011537,
+      "altitude": 29,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6200000047683716,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 259: \u2018Start a Bakin\u2019 Timer\u2019, With Special Guest Marco Arment"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/52f0c1e4a2011edd1561fce852d9b014/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCuEKf0"
+        ],
+        "content": [
+          {
+            "html": "<p>259: \u2018Start a Bakin\u2019 Timer\u2019, With Special Guest Marco Arment</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "259: \u2018Start a Bakin\u2019 Timer\u2019, With Special Guest Marco Arment\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

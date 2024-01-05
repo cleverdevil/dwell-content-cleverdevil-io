@@ -1,0 +1,149 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2020/01/08/11/"
+    ],
+    "name": [
+      "It turns out that youtube-dl has a \"--mark-watched\" parameter that I believe will track the download as a view :)"
+    ],
+    "content": [
+      {
+        "html": "It turns out that youtube-dl has a \"--mark-watched\" parameter that I believe will track the download as a view :)",
+        "value": "It turns out that youtube-dl has a \"--mark-watched\" parameter that I believe will track the download as a view :)"
+      }
+    ],
+    "url": [
+      "/2020/it-turns-out-that-youtube-dl-has-a"
+    ],
+    "published": [
+      "2020-01-08T21:02:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.98\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.98\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 62.98\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/it-turns-out-that-youtube-dl-has-a/annotations/c3b3dbce6c4c4c6efcb2a71179e588d2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/it-turns-out-that-youtube-dl-has-a/annotations/c3b3dbce6c4c4c6efcb2a71179e588d2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "ooh that's something"
+          ],
+          "content": [
+            {
+              "html": "<p>ooh that's something</p>",
+              "value": "ooh that's something"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2020/01/08/15/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2020/01/08/15/"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "6ffcd83ef0455b3c12d9c268a1b9e04d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-08T20:58:55Z",
+      "year": 2020,
+      "month": 1,
+      "day": 8,
+      "hour": 20,
+      "minute": 58,
+      "x": -118.39511363301321,
+      "y": 33.919644592732816,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "WeWork"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Martin Chevrolet"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Martin Chevrolet"
+          ],
+          "latitude": [
+            "33.81223027436"
+          ],
+          "longitude": [
+            "-118.35184540421"
+          ]
+        },
+        "value": "Martin Chevrolet"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Martin Chevrolet"
+          ],
+          "latitude": [
+            "33.81223027436"
+          ],
+          "longitude": [
+            "-118.35184540421"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-martin-chevrolet"
+    ],
+    "published": [
+      "2017-10-16T15:08:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Who said time travel was impossible?! Remember to check in when you\u2019re at a place for even more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Who said time travel was impossible?! Remember to check in when you\u2019re at a place for even more coins!</p>",
+              "value": "Who said time travel was impossible?! Remember to check in when you\u2019re at a place for even more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59e3c91109e28358e4581912/bf7dc4841345dea505204414d6c1a7eb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59e3c91109e28358e4581912/bf7dc4841345dea505204414d6c1a7eb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59e3c91109e28358e4581912"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "268b28a6ab31683f926aead584002d8f"
+    ]
+  }
+}

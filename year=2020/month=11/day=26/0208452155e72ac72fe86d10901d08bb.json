@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/322-ismhheycom"
+    ],
+    "published": [
+      "2020-11-26T05:53:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0208452155e72ac72fe86d10901d08bb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-26T08:01:29Z",
+      "year": 2020,
+      "month": 11,
+      "day": 26,
+      "hour": 8,
+      "minute": 1,
+      "x": -118.37054182706156,
+      "y": 33.81530325328654,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 322: ismh@hey.com"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d4c113a1cd4ea52e9520a484a2950148/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4MG4Xw"
+        ],
+        "content": [
+          {
+            "html": "<p>There\u2019s a lot of follow-up this week, then conversations about company retreats, Mac OS 9, password management, MagSafe and the Mac App Store. Then, Federico talks through his new email system. Myke and Stephen have feelings about it.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "There\u2019s a lot of follow-up this week, then conversations about company retreats, Mac OS 9, password management, MagSafe and the Mac App Store. Then, Federico talks through his new email system. Myke and Stephen have feelings about it.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

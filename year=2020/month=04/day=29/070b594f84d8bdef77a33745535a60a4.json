@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/375-wobbly-goblin"
+    ],
+    "published": [
+      "2020-04-29T17:24:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 67.62\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 67.62\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 67.62\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/375-wobbly-goblin/annotations/627bd53e909367a28eef4909962fafc2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/375-wobbly-goblin/annotations/627bd53e909367a28eef4909962fafc2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "070b594f84d8bdef77a33745535a60a4"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-29T20:01:39Z",
+      "year": 2020,
+      "month": 4,
+      "day": 29,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.37034011227715,
+      "y": 33.81539039078967,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 375: Wobbly Goblin"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fd0966cb474d9a48b68ba7a5474c24d5/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DWcwip8"
+        ],
+        "content": [
+          {
+            "html": "<p>Magic Keyboard for iPad impressions, getting your first job after college, and corrupting your homeowner association from the inside.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Magic Keyboard for iPad impressions, getting your first job after college, and corrupting your homeowner association from the inside.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

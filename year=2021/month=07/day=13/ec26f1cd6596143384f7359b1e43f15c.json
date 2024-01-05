@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/353-88xx-bane"
+    ],
+    "published": [
+      "2021-07-13T16:01:42+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ec26f1cd6596143384f7359b1e43f15c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-13T16:00:34Z",
+      "year": 2021,
+      "month": 7,
+      "day": 13,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.37053051591427,
+      "y": 33.8153367972948,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 353: 88XX BANE"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/03187b38e290d9b07e05848a02769cfc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7YI_JI"
+        ],
+        "content": [
+          {
+            "html": "<p>A ceramic Apple Watch. A calendar Kickstarter. A review update. An Apple Watch. A Kickstarter. An update. This is not three episodes of Connected. It\u2019s one episode, and we call it 88XX BANE.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "A ceramic Apple Watch. A calendar Kickstarter. A review update. An Apple Watch. A Kickstarter. An update. This is not three episodes of Connected. It\u2019s one episode, and we call it 88XX BANE.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

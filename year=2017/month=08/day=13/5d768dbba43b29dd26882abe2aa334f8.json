@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Manhattan House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan House"
+          ],
+          "latitude": [
+            "33.8876"
+          ],
+          "longitude": [
+            "-118.397"
+          ]
+        },
+        "value": "Manhattan House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan House"
+          ],
+          "latitude": [
+            "33.8876"
+          ],
+          "longitude": [
+            "-118.397"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Manhattan House\" src=\"https://cleverdevil.io/file/57aae9c677211df93111170a03df1149\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Brunch \ud83c\udf36</p>",
+        "value": "Manhattan House\nBrunch \ud83c\udf36"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-manhattan-house"
+    ],
+    "published": [
+      "2017-08-13T19:08:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bcbce227fbb608f8aaf06c9a9d91132a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check into Tree Section!"
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check into Tree Section!</p>",
+              "value": "First of your friends to check into Tree Section!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a961b19672015dc595c3c1bdece55825"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/5ea79000f864832528a51f1a34712844"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/5ea79000f864832528a51f1a34712844"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Channeling your inner Ansel Adams with that photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Channeling your inner Ansel Adams with that photo!</p>",
+              "value": "Channeling your inner Ansel Adams with that photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/b05055634075d422e6431b0fb0585a99"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/70dd506890589d783d03ab1d8affbccf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5990a393c21cb129db20ccdf/70dd506890589d783d03ab1d8affbccf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5990a393c21cb129db20ccdf"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5d768dbba43b29dd26882abe2aa334f8"
+    ]
+  }
+}

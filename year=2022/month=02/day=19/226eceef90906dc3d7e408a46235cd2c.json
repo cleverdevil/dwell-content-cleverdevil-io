@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Right Slice"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Right Slice"
+          ],
+          "latitude": [
+            "21.925672"
+          ],
+          "longitude": [
+            "-159.526818"
+          ]
+        },
+        "value": "The Right Slice"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Right Slice"
+          ],
+          "latitude": [
+            "21.925672"
+          ],
+          "longitude": [
+            "-159.526818"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-right-slice"
+    ],
+    "published": [
+      "2022-02-19T21:15:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Right Slice!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Right Slice!</p>",
+              "value": "Your first check-in at The Right Slice!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62115df152490007bfd3f9ac/28068185be9021eeb4c3a4df2d96d5c4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62115df152490007bfd3f9ac/28068185be9021eeb4c3a4df2d96d5c4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62115df152490007bfd3f9ac"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "226eceef90906dc3d7e408a46235cd2c"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-19T21:10:00Z",
+      "year": 2022,
+      "month": 2,
+      "day": 19,
+      "hour": 21,
+      "minute": 10,
+      "x": -159.52700659326027,
+      "y": 21.925789980975175,
+      "altitude": 213,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  }
+}

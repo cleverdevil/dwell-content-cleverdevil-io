@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Chillin</p>",
+        "value": "Chillin"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-3"
+    ],
+    "published": [
+      "2017-04-01T02:34:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A duck\u2019s quack doesn\u2019t echo, and no one knows why. Except for the duck, but you know how that convo went."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A duck\u2019s quack doesn\u2019t echo, and no one knows why. Except for the duck, but you know how that convo went.</p>",
+              "value": "Fun Fact! A duck\u2019s quack doesn\u2019t echo, and no one knows why. Except for the duck, but you know how that convo went."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7242c0ae328c3b2915023648e244b5b4"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58df11c6964d7820404ccb5b/5988fcb5e0a08cd9f736d5a4261b3350"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58df11c6964d7820404ccb5b/5988fcb5e0a08cd9f736d5a4261b3350"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58df11c6964d7820404ccb5b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c989668aa230f3780f4097ee47490a64"
+    ]
+  }
+}

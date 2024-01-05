@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/241-voltron"
+    ],
+    "published": [
+      "2022-08-22T15:29:16+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7c968e58ad3e036f5bb325796e659379"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-22T16:03:39Z",
+      "year": 2022,
+      "month": 8,
+      "day": 22,
+      "hour": 16,
+      "minute": 3,
+      "x": -116.38035890657117,
+      "y": 33.70166143871257,
+      "altitude": 125,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 241: Voltron"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e7234ef83e464b23612dadf5e7f6c287/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2SFraXE"
+        ],
+        "content": [
+          {
+            "html": "<p>Many robots, one robot, or no robots?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "Many robots, one robot, or no robots?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

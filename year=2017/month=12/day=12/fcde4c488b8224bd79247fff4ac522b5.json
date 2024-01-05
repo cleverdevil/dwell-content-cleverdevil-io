@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Disneyland Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disneyland Park"
+          ],
+          "latitude": [
+            "33.810485"
+          ],
+          "longitude": [
+            "-117.918989"
+          ]
+        },
+        "value": "Disneyland Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disneyland Park"
+          ],
+          "latitude": [
+            "33.810485"
+          ],
+          "longitude": [
+            "-117.918989"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with the fam.</p>",
+        "value": "Dinner with the fam."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-disneyland-park-1"
+    ],
+    "published": [
+      "2017-12-12T01:11:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Disneyland Resort for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Disneyland Resort for more coins!</p>",
+              "value": "Keep checking in to places inside Disneyland Resort for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2f2c9e62420b3fc66a2c37/80ce0aebf34360e066b117a5c30c7fe1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a2f2c9e62420b3fc66a2c37/80ce0aebf34360e066b117a5c30c7fe1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a2f2c9e62420b3fc66a2c37"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fcde4c488b8224bd79247fff4ac522b5"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2f2c9e62420b3fc66a2c37/332a6d47a874133d0c2ba2159a87131e"
+          ],
+          "published": [
+            "2017-12-12T01:10:54+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Brett Dunst"
+                ],
+                "url": [
+                  "https://foursquare.com/user/451511955"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC80NTE1MTE5NTVfSG1pbWVpelpfcDV5X2llN1VvR1FSOXhXZ2l2R0owaVRQRVRHU1dEVVQtTzVIOWxjdkRVbWpuUjNlMzNQUVF4R0hUUnZGSEhleC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC80NTE1MTE5NTVfSG1pbWVpelpfcDV5X2llN1VvR1FSOXhXZ2l2R0owaVRQRVRHU1dEVVQtTzVIOWxjdkRVbWpuUjNlMzNQUVF4R0hUUnZGSEhleC5qcGc,/300/square Brett Dunst"
+            }
+          ]
+        },
+        "value": "Brett Dunst"
+      }
+    ]
+  }
+}

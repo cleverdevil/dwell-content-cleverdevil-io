@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Maderos"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Maderos"
+          ],
+          "latitude": [
+            "33.838894"
+          ],
+          "longitude": [
+            "-118.385663"
+          ]
+        },
+        "value": "Maderos"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Maderos"
+          ],
+          "latitude": [
+            "33.838894"
+          ],
+          "longitude": [
+            "-118.385663"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night.</p>",
+        "value": "Date night."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-maderos-1"
+    ],
+    "published": [
+      "2018-09-26T02:16:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5baaebe092e7a9002c424a25/5edb62ca8fbe70f132c7670628819145"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5baaebe092e7a9002c424a25/5edb62ca8fbe70f132c7670628819145"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5baaebe092e7a9002c424a25"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "baf1e4ff994ab6dea521a8448627d0d0"
+    ]
+  }
+}

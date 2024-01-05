@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/402-im-starting-to-have-that-feeling-again"
+    ],
+    "published": [
+      "2022-06-20T06:07:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fd834eed5b66227cc3cae7037c9f4b7d"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-20T08:02:59Z",
+      "year": 2022,
+      "month": 6,
+      "day": 20,
+      "hour": 8,
+      "minute": 2,
+      "x": -118.37041324941566,
+      "y": 33.81538612587417,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 402: I\u2019m Starting to Have That Feeling Again"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1a30a1ffcf196e007888afd97b474082/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6Y4pH4"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico and Stephen explore the new Books UI and some MacBook rumors, before celebrating the return of Clarus the Dogcow. Then, a discussion of Stage Manager\u2019s system requirements and how Apple could approach future WWDC keynotes.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico and Stephen explore the new Books UI and some MacBook rumors, before celebrating the return of Clarus the Dogcow. Then, a discussion of Stage Manager\u2019s system requirements and how Apple could approach future WWDC keynotes.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

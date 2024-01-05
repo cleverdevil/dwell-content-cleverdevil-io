@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jimmy's Famous American Tavern"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy's Famous American Tavern"
+          ],
+          "latitude": [
+            "34.009167949344"
+          ],
+          "longitude": [
+            "-118.49215302824"
+          ]
+        },
+        "value": "Jimmy's Famous American Tavern"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy's Famous American Tavern"
+          ],
+          "latitude": [
+            "34.009167949344"
+          ],
+          "longitude": [
+            "-118.49215302824"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with the exec team.</p>",
+        "value": "Dinner with the exec team."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-jimmys-famous-american-tavern"
+    ],
+    "published": [
+      "2018-01-19T02:15:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Jimmy's Famous American Tavern!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Jimmy's Famous American Tavern!</p>",
+              "value": "Your first check-in at Jimmy's Famous American Tavern!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6154c4e7a237109b27fe14/303418d78f0091e2309cf7538d8888ef"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6154c4e7a237109b27fe14/303418d78f0091e2309cf7538d8888ef"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6154c4e7a237109b27fe14/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6154c4e7a237109b27fe14/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6154c4e7a237109b27fe14"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "66097c63c5d985f38008820cadb76f62"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-269-a-beep-beep-from-far-away"
+    ],
+    "published": [
+      "2019-10-31T19:20:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.17\u00b0F and 12% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.17\u00b0F and 12% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.17\u00b0F and 12% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-269-a-beep-beep-from-far-away/annotations/bc5b0884db67f245362b04cf5f8037bd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-269-a-beep-beep-from-far-away/annotations/bc5b0884db67f245362b04cf5f8037bd"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d8a47ac12d5e9114e63efc27ec1143a7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-31T20:03:21Z",
+      "year": 2019,
+      "month": 10,
+      "day": 31,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.39511963599253,
+      "y": 33.91968369838737,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 269: A Beep Beep from Far Away"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e55ae46871b4f464c44b4a3d667aa2ee/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8YYz14"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason has no power or Internet, so this week Myke gives him the details about the new AirPods Pro, the first reviews of Apple TV+ shows, iOS 13.2 and a perplexing HomePod software update, and Apple\u2019s rumored reboot of its smart-home initiative.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason has no power or Internet, so this week Myke gives him the details about the new AirPods Pro, the first reviews of Apple TV+ shows, iOS 13.2 and a perplexing HomePod software update, and Apple\u2019s rumored reboot of its smart-home initiative.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

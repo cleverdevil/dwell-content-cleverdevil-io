@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jo's Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jo's Coffee"
+          ],
+          "latitude": [
+            "30.264910671198"
+          ],
+          "longitude": [
+            "-97.746100549238"
+          ]
+        },
+        "value": "Jo's Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jo's Coffee"
+          ],
+          "latitude": [
+            "30.264910671198"
+          ],
+          "longitude": [
+            "-97.746100549238"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Free coffee on the Haas gang! \ud83c\udfce\ufe0f\ud83d\udca8</p>",
+        "value": "Free coffee on the Haas gang! \ud83c\udfce\ufe0f\ud83d\udca8"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-jos-coffee-1"
+    ],
+    "published": [
+      "2022-10-20T18:30:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Jo's Coffee! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Jo's Coffee! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Jo's Coffee! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/635193ab3777b16b61289e76/48fc44778a2cecb0515be47648d00100"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/635193ab3777b16b61289e76/48fc44778a2cecb0515be47648d00100"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/635193ab3777b16b61289e76"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "58967f28003841a6144bbd5fc1bad3a9"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-20T18:28:54Z",
+      "year": 2022,
+      "month": 10,
+      "day": 20,
+      "hour": 18,
+      "minute": 28,
+      "x": -97.74627025087909,
+      "y": 30.26493694203072,
+      "altitude": 146,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": ""
+    }
+  }
+}

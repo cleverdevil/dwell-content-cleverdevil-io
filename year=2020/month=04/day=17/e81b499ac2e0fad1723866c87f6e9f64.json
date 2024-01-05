@@ -1,0 +1,182 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://snarfed.org/2020-04-16_41149"
+    ],
+    "name": [
+      "I feel your pain. It does get better as you get used to it!"
+    ],
+    "content": [
+      {
+        "html": "I feel your pain. It does get better as you get used to it!",
+        "value": "I feel your pain. It does get better as you get used to it!"
+      }
+    ],
+    "url": [
+      "/2020/i-feel-your-pain-it-does-get"
+    ],
+    "published": [
+      "2020-04-17T00:37:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.87\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.87\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.87\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/i-feel-your-pain-it-does-get/annotations/0c4a1404630a565630aafde417201870"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/i-feel-your-pain-it-does-get/annotations/0c4a1404630a565630aafde417201870"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1250946412310867970",
+      "https://mastodon.social/@cleverdevil/104011126689583793"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e81b499ac2e0fad1723866c87f6e9f64"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1250946412310867970?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1250946412310867970%2F139199211"
+          ],
+          "published": [
+            "2020-04-17T01:07:24+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://twitter.com/schnarfed"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzE3ODYwMzE4MzI0MjAzNTIvdzJFeW94YmkuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzE3ODYwMzE4MzI0MjAzNTIvdzJFeW94YmkuanBn/300/square Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1250946412310867970?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1250946412310867970%2F1375400023"
+          ],
+          "published": [
+            "2020-04-17T03:14:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Lisa B"
+                ],
+                "url": [
+                  "https://twitter.com/gtmbagirl"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDU3Mzc4NzU3NS9lZDUxMjE5MGZhMjNkZTAxZTdjNGQ1ODBmNTZiNWU5ZS5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDU3Mzc4NzU3NS9lZDUxMjE5MGZhMjNkZTAxZTdjNGQ1ODBmNTZiNWU5ZS5qcGVn/300/square Lisa B"
+            }
+          ]
+        },
+        "value": "Lisa B"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-17T00:17:56Z",
+      "year": 2020,
+      "month": 4,
+      "day": 17,
+      "hour": 0,
+      "minute": 17,
+      "x": -118.3704161954494,
+      "y": 33.815401878999495,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

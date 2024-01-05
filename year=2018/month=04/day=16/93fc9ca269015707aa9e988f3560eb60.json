@@ -1,0 +1,101 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Podcast"
+    ],
+    "url": [
+      "/pages/podcast"
+    ],
+    "published": [
+      "2018-04-16T16:33:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.98\u00b0F and 94% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.98\u00b0F and 94% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.98\u00b0F and 94% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/pages/podcast/annotations/9cc906190560779571d5350367188adf"
+          ]
+        },
+        "value": "https://cleverdevil.io/pages/podcast/annotations/9cc906190560779571d5350367188adf"
+      }
+    ],
+    "post-kind": [
+      "StaticPage"
+    ],
+    "post-id": [
+      "93fc9ca269015707aa9e988f3560eb60"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-13T06:07:54Z",
+      "year": 2019,
+      "month": 5,
+      "day": 13,
+      "hour": 6,
+      "minute": 7,
+      "x": -118.37025994010271,
+      "y": 33.81542440295396,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  }
+}

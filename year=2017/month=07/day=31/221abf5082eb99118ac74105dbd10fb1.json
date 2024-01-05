@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"DreamHost West\" src=\"https://cleverdevil.io/file/0a5847a5406aa47c69053fa66554d2c1\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>A little foggy today.</p>",
+        "value": "DreamHost West\nA little foggy today."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-46"
+    ],
+    "published": [
+      "2017-07-31T16:45:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Channeling your inner Ansel Adams with that photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Channeling your inner Ansel Adams with that photo!</p>",
+              "value": "Channeling your inner Ansel Adams with that photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/559a62f118165974c52d674e901a47d5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597f5eb342d8c21adf096470/a39a3df47f73f20f63566b894108ae5a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597f5eb342d8c21adf096470/a39a3df47f73f20f63566b894108ae5a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597f5eb342d8c21adf096470"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "221abf5082eb99118ac74105dbd10fb1"
+    ]
+  }
+}

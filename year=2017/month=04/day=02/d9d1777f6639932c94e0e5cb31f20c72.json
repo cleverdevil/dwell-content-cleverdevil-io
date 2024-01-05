@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into krust"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": "krust"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Pastries and coffee \u2764\ufe0f</p>",
+        "value": "Pastries and coffee \u2764\ufe0f"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-krust"
+    ],
+    "published": [
+      "2017-04-02T16:33:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at krust!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at krust!</p>",
+              "value": "Your first check-in at krust!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/271cfc78e79fb244f1ab6e379adc0f4c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e127cded0a324a8c003228/b5b59b62c28d5e65d077a48e1404e2ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e127cded0a324a8c003228/b5b59b62c28d5e65d077a48e1404e2ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e127cded0a324a8c003228"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d9d1777f6639932c94e0e5cb31f20c72"
+    ]
+  }
+}

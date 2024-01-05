@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.615940213843"
+          ],
+          "longitude": [
+            "-122.38863787561"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.615940213843"
+          ],
+          "longitude": [
+            "-122.38863787561"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Late AF.</p>",
+        "value": "Late AF."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-san-francisco-international-airport-sfo"
+    ],
+    "published": [
+      "2017-06-12T18:32:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in San Francisco was in January '11 at San Francisco International Airport."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in San Francisco was in January '11 at San Francisco International Airport.</p>",
+              "value": "Your last check-in in San Francisco was in January '11 at San Francisco International Airport."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/23a6805541cb3ff87bec1dead82634b0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593ede28e97dfb356f6f6aa8/bff2b2bc0a6c953e79a7b7201731aa79"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593ede28e97dfb356f6f6aa8/bff2b2bc0a6c953e79a7b7201731aa79"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to San Francisco International Airport since January '11."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to San Francisco International Airport since January '11.</p>",
+              "value": "You haven't checked in to San Francisco International Airport since January '11."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7b024d3d28a1f55fafb70732ffcfb51e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593ede28e97dfb356f6f6aa8/b22d0a036fde52ca36d2c20e12c2a574"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593ede28e97dfb356f6f6aa8/b22d0a036fde52ca36d2c20e12c2a574"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/593ede28e97dfb356f6f6aa8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6f30790359c4e0339e6e8ca404fb4c2d"
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "33.640496365534"
+          ],
+          "longitude": [
+            "-84.439136045038"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "33.640496365534"
+          ],
+          "longitude": [
+            "-84.439136045038"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-delta-sky-club-10"
+    ],
+    "published": [
+      "2018-04-14T17:50:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Delta Sky Club!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Delta Sky Club!</p>",
+              "value": "Your first check-in at Delta Sky Club!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ad23f7164c8e1002ca9db46/e04de0c9453bbdf6ac7ff0822a2ccff6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ad23f7164c8e1002ca9db46/e04de0c9453bbdf6ac7ff0822a2ccff6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ad23f7164c8e1002ca9db46"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0635984e82f1fd2dd1976c8ac36b9491"
+    ]
+  }
+}

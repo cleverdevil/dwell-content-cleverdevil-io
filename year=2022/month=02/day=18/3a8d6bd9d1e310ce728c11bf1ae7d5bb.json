@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Brennecke's Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Brennecke's Beach"
+          ],
+          "latitude": [
+            "21.873198070621"
+          ],
+          "longitude": [
+            "-159.45110321045"
+          ]
+        },
+        "value": "Brennecke's Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Brennecke's Beach"
+          ],
+          "latitude": [
+            "21.873198070621"
+          ],
+          "longitude": [
+            "-159.45110321045"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-brenneckes-beach"
+    ],
+    "published": [
+      "2022-02-18T21:44:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6210133441532f1d66147a4c/af7faf388927878e86471cb4a2e36241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6210133441532f1d66147a4c/af7faf388927878e86471cb4a2e36241"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6210133441532f1d66147a4c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3a8d6bd9d1e310ce728c11bf1ae7d5bb"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-18T21:41:54Z",
+      "year": 2022,
+      "month": 2,
+      "day": 18,
+      "hour": 21,
+      "minute": 41,
+      "x": -159.45197461374414,
+      "y": 21.873385064081052,
+      "altitude": 7,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night.</p>",
+        "value": "Date night."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-bouzy-gastropub"
+    ],
+    "published": [
+      "2017-05-01T01:02:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ec0aa651f3dd337aa0509248bf9adaae"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5906891c3d47913c7b77559a/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5906891c3d47913c7b77559a/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Bouzy Gastropub!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Bouzy Gastropub!</p>",
+              "value": "Your first check-in at Bouzy Gastropub!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a42430680448ef6a8f04cf2b49bc370a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5906891c3d47913c7b77559a/e6613f3cda314350ee9dcee89c723bdd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5906891c3d47913c7b77559a/e6613f3cda314350ee9dcee89c723bdd"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5906891c3d47913c7b77559a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e3c0f04ac3deeb664c0c9fa22499ca6a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5906891c3d47913c7b77559a/d82e8e2b39bd43a7190bf6c9d19ee929"
+          ],
+          "published": [
+            "2017-05-01T01:02:20+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike P"
+                ],
+                "url": [
+                  "https://foursquare.com/user/325140"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/673c57e6f1078728b79e0db1175c650d"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/673c57e6f1078728b79e0db1175c650d Mike P"
+            }
+          ]
+        },
+        "value": "Mike P"
+      }
+    ]
+  }
+}

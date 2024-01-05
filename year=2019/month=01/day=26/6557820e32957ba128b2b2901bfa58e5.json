@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lahaina Cannery Mall"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lahaina Cannery Mall"
+          ],
+          "latitude": [
+            "20.886274482697"
+          ],
+          "longitude": [
+            "-156.68393555139"
+          ]
+        },
+        "value": "Lahaina Cannery Mall"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lahaina Cannery Mall"
+          ],
+          "latitude": [
+            "20.886274482697"
+          ],
+          "longitude": [
+            "-156.68393555139"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-lahaina-cannery-mall"
+    ],
+    "published": [
+      "2019-01-26T02:45:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Lahaina Cannery Mall!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Lahaina Cannery Mall!</p>",
+              "value": "Your first check-in at Lahaina Cannery Mall!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c4bc9aeacb00b002cdf9d3d/e59e533ccebb74f4bc0c85f3220811ec"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c4bc9aeacb00b002cdf9d3d/e59e533ccebb74f4bc0c85f3220811ec"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 78.85\u00b0F and 55% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 78.85\u00b0F and 55% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 78.85\u00b0F and 55% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-lahaina-cannery-mall/annotations/dc1b3579cd8f9a308c51a93740ee89af"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-lahaina-cannery-mall/annotations/dc1b3579cd8f9a308c51a93740ee89af"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c4bc9aeacb00b002cdf9d3d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6557820e32957ba128b2b2901bfa58e5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-26T02:32:49Z",
+      "year": 2019,
+      "month": 1,
+      "day": 26,
+      "hour": 2,
+      "minute": 32,
+      "x": -156.68681038717318,
+      "y": 20.90637455643123,
+      "altitude": 21,
+      "motion": [
+        "driving"
+      ],
+      "speed": 26,
+      "battery_state": "charging",
+      "battery_level": 0.6600000262260437,
+      "wifi": ""
+    }
+  }
+}

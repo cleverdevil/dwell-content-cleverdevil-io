@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Rockefeller Redondo Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Rockefeller Redondo Beach"
+          ],
+          "latitude": [
+            "33.818415300159"
+          ],
+          "longitude": [
+            "-118.38841384654"
+          ]
+        },
+        "value": "The Rockefeller Redondo Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Rockefeller Redondo Beach"
+          ],
+          "latitude": [
+            "33.818415300159"
+          ],
+          "longitude": [
+            "-118.38841384654"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Biz Lunch</p>",
+        "value": "Biz Lunch"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-rockefeller-redondo-beach-3"
+    ],
+    "published": [
+      "2022-05-24T19:00:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Gastropub check-in in 2 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Gastropub check-in in 2 years!</p>",
+              "value": "First Gastropub check-in in 2 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/628d2b62ad3d561004821fe2/c2bc850d8784a70738d5b6fcc8bebbac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/628d2b62ad3d561004821fe2/c2bc850d8784a70738d5b6fcc8bebbac"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/628d2b62ad3d561004821fe2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "be3f5d98dbb2570969493f88b2563fa8"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-24T18:58:03Z",
+      "year": 2022,
+      "month": 5,
+      "day": 24,
+      "hour": 18,
+      "minute": 58,
+      "x": -118.38811411036282,
+      "y": 33.81935299370492,
+      "altitude": 21,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": ""
+    }
+  }
+}

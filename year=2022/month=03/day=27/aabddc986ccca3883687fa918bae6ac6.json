@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/390-the-permanence-of-objects"
+    ],
+    "published": [
+      "2022-03-27T18:48:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "aabddc986ccca3883687fa918bae6ac6"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-27T20:02:57Z",
+      "year": 2022,
+      "month": 3,
+      "day": 27,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37033543997067,
+      "y": 33.81544285816821,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 390: The Permanence of Objects"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/02b50b27f89bfc8855c21c08bde0328c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7vDugc"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke has questions about the Mac Studio, Federico was right about Workflow and Stephen has some suggestions for the Bill of Rickies.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke has questions about the Mac Studio, Federico was right about Workflow and Stephen has some suggestions for the Bill of Rickies.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2018/01/29/2/"
+    ],
+    "name": [
+      "@aaronparecki.com Haha, same issue here. It\u2019s a bit too aggressive on transitions at the moment, too. I\u2019m thinking of adding a delay or some additional smarts. Fun stuff. Are you using homebridge?"
+    ],
+    "content": [
+      {
+        "html": "@aaronparecki.com Haha, same issue here. It\u2019s a bit too aggressive on transitions at the moment, too. I\u2019m thinking of adding a delay or some additional smarts. Fun stuff. Are you using homebridge?",
+        "value": "@aaronparecki.com Haha, same issue here. It\u2019s a bit too aggressive on transitions at the moment, too. I\u2019m thinking of adding a delay or some additional smarts. Fun stuff. Are you using homebridge?"
+      }
+    ],
+    "url": [
+      "/2018/aaronpareckicom-haha-same-issue-here-its-a"
+    ],
+    "published": [
+      "2018-01-29T15:20:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nah, I have Hue lights which have a nice (local) hub with an HTTP API, so I made a little PHP script that Plex hits as a web hook and it talks to the Hue bridge directly.\nI'm not sure what other information I could use to avoid blacking out the room at inopportune times. Maybe a motion sensor in the kitchen? Tho my kitchen and living room are basically the same room. Maybe a motion sensor aimed just at the kitchen counter?"
+          ],
+          "content": [
+            {
+              "html": "<p>Nah, I have Hue lights which have a nice (local) hub with an HTTP API, so I made a little PHP script that Plex hits as a web hook and it talks to the Hue bridge directly.</p>\n\n<p>I'm not sure what other information I could use to avoid blacking out the room at inopportune times. Maybe a motion sensor in the kitchen? Tho my kitchen and living room are basically the same room. Maybe a motion sensor aimed just at the kitchen counter?</p>",
+              "value": "Nah, I have Hue lights which have a nice (local) hub with an HTTP API, so I made a little PHP script that Plex hits as a web hook and it talks to the Hue bridge directly.\nI'm not sure what other information I could use to avoid blacking out the room at inopportune times. Maybe a motion sensor in the kitchen? Tho my kitchen and living room are basically the same room. Maybe a motion sensor aimed just at the kitchen counter?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2018/01/29/4/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2018/01/29/4/"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "d7bed8ebe373b3abb3ebac0e8bfd59a4"
+    ]
+  }
+}

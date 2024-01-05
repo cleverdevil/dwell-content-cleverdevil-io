@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Air France Lounge"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Air France Lounge"
+          ],
+          "latitude": [
+            "49.002443129471"
+          ],
+          "longitude": [
+            "2.5784489836871"
+          ]
+        },
+        "value": "Air France Lounge"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Air France Lounge"
+          ],
+          "latitude": [
+            "49.002443129471"
+          ],
+          "longitude": [
+            "2.5784489836871"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-air-france-lounge"
+    ],
+    "published": [
+      "2017-06-19T09:11:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Paris Charles de Gaulle Airport for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Paris Charles de Gaulle Airport for more coins!</p>",
+              "value": "Keep checking in to places inside Paris Charles de Gaulle Airport for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/78966a484bf7fc0ba2807a34b414be1d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5947954cd69ed0066b1afd47/748990b7a24718b8bc22dc6f7dad5415"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5947954cd69ed0066b1afd47/748990b7a24718b8bc22dc6f7dad5415"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5947954cd69ed0066b1afd47"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "33d0bdb99721fafdd52e67cf7d83a816"
+    ]
+  }
+}

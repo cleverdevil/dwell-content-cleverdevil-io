@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sacks On The Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": "Sacks On The Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Sacks On The Beach\" src=\"https://cleverdevil.io/file/14c7f734fcaa4452f5b1069a2a988f13\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Breffis.</p>",
+        "value": "Sacks On The Beach\nBreffis."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sacks-on-the-beach-6"
+    ],
+    "published": [
+      "2017-07-29T17:18:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a new Mayor in town!"
+          ],
+          "content": [
+            {
+              "html": "<p>There's a new Mayor in town!</p>",
+              "value": "There's a new Mayor in town!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7b3616d1293aeec74e34cd53b4d993bd"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597cc348ba4a645bcd87825f/59431d234cd87da24e041c1ff69c52b6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597cc348ba4a645bcd87825f/59431d234cd87da24e041c1ff69c52b6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597cc348ba4a645bcd87825f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3fc1235560550bebbc9f3f3d484413db"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-249-a-bridge-to-the-future"
+    ],
+    "published": [
+      "2019-06-15T15:14:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 85.1\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 85.1\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 85.1\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-249-a-bridge-to-the-future/annotations/2a0d442fef4b1aa4b0936c492b01f146"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-249-a-bridge-to-the-future/annotations/2a0d442fef4b1aa4b0936c492b01f146"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d3771269749875b2c9837b9d34c90d89"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-15T16:00:54Z",
+      "year": 2019,
+      "month": 6,
+      "day": 15,
+      "hour": 16,
+      "minute": 0,
+      "x": -81.47043221093622,
+      "y": 28.45028750863946,
+      "altitude": 38,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 249: A Bridge to the Future"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/70e7c0bfb3845581d9d26ae454afdd83/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9G0uG8"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we get over our WWDC hangover with a discussion of our favorite new iPadOS 13 features, then we take a look at Catalyst and SwiftUI, featuring an exclusive interview with Apple\u2019s Wiley Hodges and Josh Shaffer.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we get over our WWDC hangover with a discussion of our favorite new iPadOS 13 features, then we take a look at Catalyst and SwiftUI, featuring an exclusive interview with Apple\u2019s Wiley Hodges and Josh Shaffer.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

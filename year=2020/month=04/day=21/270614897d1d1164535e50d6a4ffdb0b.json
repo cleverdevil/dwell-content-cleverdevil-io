@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daring Fireball: The iPad Magic Keyboard"
+    ],
+    "like-of": [
+      "https://daringfireball.net/2020/04/the_ipad_magic_keyboard"
+    ],
+    "url": [
+      "/2020/daring-fireball-the-ipad-magic-keyboard"
+    ],
+    "published": [
+      "2020-04-21T03:50:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.95\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.95\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.95\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/daring-fireball-the-ipad-magic-keyboard/annotations/c218511fc301376bf0b0e6bb0ad09a57"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/daring-fireball-the-ipad-magic-keyboard/annotations/c218511fc301376bf0b0e6bb0ad09a57"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "270614897d1d1164535e50d6a4ffdb0b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-21T03:46:26Z",
+      "year": 2020,
+      "month": 4,
+      "day": 21,
+      "hour": 3,
+      "minute": 46,
+      "x": -118.37027190757374,
+      "y": 33.81542999622572,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  }
+}

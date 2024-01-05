@@ -1,0 +1,183 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Monkeypod Kitchen by Merriman"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Monkeypod Kitchen by Merriman"
+          ],
+          "latitude": [
+            "20.688531273445"
+          ],
+          "longitude": [
+            "-156.43095666661"
+          ]
+        },
+        "value": "Monkeypod Kitchen by Merriman"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Monkeypod Kitchen by Merriman"
+          ],
+          "latitude": [
+            "20.688531273445"
+          ],
+          "longitude": [
+            "-156.43095666661"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Last dinner in Maui at one of our all time faves.</p>",
+        "value": "Last dinner in Maui at one of our all time faves."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-monkeypod-kitchen-by-merriman-1"
+    ],
+    "published": [
+      "2019-01-30T04:31:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First New American Restaurant check-in in 5 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First New American Restaurant check-in in 5 months!</p>",
+              "value": "First New American Restaurant check-in in 5 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c5128a042d8c2002c2fb42a/153b20780f95ac04b0a200717c154f38"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c5128a042d8c2002c2fb42a/153b20780f95ac04b0a200717c154f38"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c5128a042d8c2002c2fb42a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a977fcf9390dbe4c331a0e69117ed0ef"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2019/01/30/3/like/"
+          ],
+          "published": [
+            "2019-01-30T14:20:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://eddiehinkle.com"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-29T15:36:16Z",
+      "year": 2019,
+      "month": 1,
+      "day": 29,
+      "hour": 15,
+      "minute": 36,
+      "x": -156.44161021386475,
+      "y": 20.674682400912204,
+      "altitude": 41,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "Fairmont"
+    }
+  }
+}

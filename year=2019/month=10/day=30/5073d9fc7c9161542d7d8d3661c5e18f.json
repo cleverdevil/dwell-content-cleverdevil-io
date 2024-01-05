@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Halcyon Coffee, Bar & Lounge"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Halcyon Coffee, Bar & Lounge"
+          ],
+          "latitude": [
+            "30.266934758405"
+          ],
+          "longitude": [
+            "-97.745716605621"
+          ]
+        },
+        "value": "Halcyon Coffee, Bar & Lounge"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Halcyon Coffee, Bar & Lounge"
+          ],
+          "latitude": [
+            "30.266934758405"
+          ],
+          "longitude": [
+            "-97.745716605621"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-halcyon-coffee-bar-lounge"
+    ],
+    "published": [
+      "2019-10-30T01:31:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Downtown Austin."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Downtown Austin.</p>",
+              "value": "First check-in in Downtown Austin."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5db8e7e5a51a8400085a8478/b94ff783dd4c444ef09811d58ca51ab2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5db8e7e5a51a8400085a8478/b94ff783dd4c444ef09811d58ca51ab2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 51.81\u00b0F and 97% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 51.81\u00b0F and 97% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 51.81\u00b0F and 97% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-halcyon-coffee-bar-lounge/annotations/e013ae319cca44df5ea59e0536ab91cd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-halcyon-coffee-bar-lounge/annotations/e013ae319cca44df5ea59e0536ab91cd"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5db8e7e5a51a8400085a8478"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5073d9fc7c9161542d7d8d3661c5e18f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-30T01:30:19Z",
+      "year": 2019,
+      "month": 10,
+      "day": 30,
+      "hour": 1,
+      "minute": 30,
+      "x": -97.7456137402938,
+      "y": 30.266842424964153,
+      "altitude": 149,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": ""
+    }
+  }
+}

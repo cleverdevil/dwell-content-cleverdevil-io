@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Terry Black's BBQ"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terry Black's BBQ"
+          ],
+          "latitude": [
+            "30.25986"
+          ],
+          "longitude": [
+            "-97.75496"
+          ]
+        },
+        "value": "Terry Black's BBQ"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terry Black's BBQ"
+          ],
+          "latitude": [
+            "30.25986"
+          ],
+          "longitude": [
+            "-97.75496"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-terry-blacks-bbq"
+    ],
+    "published": [
+      "2021-11-19T18:09:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Bouldin Creek."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Bouldin Creek.</p>",
+              "value": "First check-in in Bouldin Creek."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6197e86e3f830b40f3acf3e4/85313a5e16d6b30bccf38ee00ed1ef9a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6197e86e3f830b40f3acf3e4/85313a5e16d6b30bccf38ee00ed1ef9a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6197e86e3f830b40f3acf3e4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fbf0edc3b0fbab9219b77ef44474160c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-19T18:09:55Z",
+      "year": 2021,
+      "month": 11,
+      "day": 19,
+      "hour": 18,
+      "minute": 9,
+      "x": -97.75487468186734,
+      "y": 30.259708728299227,
+      "altitude": 139,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kapalua Villas"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": "Kapalua Villas"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Quick shower before lunch.</p>",
+        "value": "Quick shower before lunch."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-kapalua-villas-1"
+    ],
+    "published": [
+      "2017-07-08T23:22:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "New Mayor! That crown looks better on you!"
+          ],
+          "content": [
+            {
+              "html": "<p>New Mayor! That crown looks better on you!</p>",
+              "value": "New Mayor! That crown looks better on you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/15341229e6e698bf1a636e0629ff9396"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5961691e4ce066333b2eeb9e/6909265c0684c740c957703b16072e20"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5961691e4ce066333b2eeb9e/6909265c0684c740c957703b16072e20"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5961691e4ce066333b2eeb9e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6a131168f49406ed84a0e6bd30b93a1d"
+    ]
+  }
+}

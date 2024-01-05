@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dessert and whiskey.</p>",
+        "value": "Dessert and whiskey."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-bouzy-gastropub-14"
+    ],
+    "published": [
+      "2019-04-24T03:05:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still got the crown! Just don't get Joffrey'd."
+          ],
+          "content": [
+            {
+              "html": "<p>Still got the crown! Just don't get Joffrey'd.</p>",
+              "value": "Still got the crown! Just don't get Joffrey'd."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5cbfd288787dba002b682a97/dd89c26d2842cc18cba26a7cd2b831da"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5cbfd288787dba002b682a97/dd89c26d2842cc18cba26a7cd2b831da"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.77\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.77\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.77\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-bouzy-gastropub-14/annotations/13274c2f043a4a21233b4fe7153b3702"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-bouzy-gastropub-14/annotations/13274c2f043a4a21233b4fe7153b3702"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5cbfd288787dba002b682a97"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "be13a106f16d024b79918d05510f64ee"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-24T03:05:30Z",
+      "year": 2019,
+      "month": 4,
+      "day": 24,
+      "hour": 3,
+      "minute": 5,
+      "x": -118.38849462952207,
+      "y": 33.819367088406054,
+      "altitude": 28,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": "sacksotb"
+    }
+  }
+}

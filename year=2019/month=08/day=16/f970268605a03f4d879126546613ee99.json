@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daring Fireball: Siri, Privacy, and Trust"
+    ],
+    "like-of": [
+      "https://daringfireball.net/2019/08/siri_privacy_trust"
+    ],
+    "url": [
+      "/2019/daring-fireball-siri-privacy-and-trust"
+    ],
+    "published": [
+      "2019-08-16T23:34:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.92\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.92\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.92\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/daring-fireball-siri-privacy-and-trust/annotations/44af3d01601ea2ecbcdebfea723ebfbb"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/daring-fireball-siri-privacy-and-trust/annotations/44af3d01601ea2ecbcdebfea723ebfbb"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "f970268605a03f4d879126546613ee99"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-16T23:05:30Z",
+      "year": 2019,
+      "month": 8,
+      "day": 16,
+      "hour": 23,
+      "minute": 5,
+      "x": -118.37031650400813,
+      "y": 33.815423240556825,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": "LaCour"
+    }
+  }
+}

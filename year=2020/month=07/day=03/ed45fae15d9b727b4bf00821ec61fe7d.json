@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/385-temporal-smear"
+    ],
+    "published": [
+      "2020-07-03T19:41:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 90.69\u00b0F and 19% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 90.69\u00b0F and 19% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 90.69\u00b0F and 19% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/385-temporal-smear/annotations/c376f7130638bd86f36e669162095879"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/385-temporal-smear/annotations/c376f7130638bd86f36e669162095879"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ed45fae15d9b727b4bf00821ec61fe7d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-03T20:01:48Z",
+      "year": 2020,
+      "month": 7,
+      "day": 3,
+      "hour": 20,
+      "minute": 1,
+      "x": -117.52451863590085,
+      "y": 33.88410410994183,
+      "altitude": 207,
+      "motion": [
+        "driving"
+      ],
+      "speed": 38,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 385: Temporal Smear"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/77981576c82eb02691213aa3af1522c8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJkAxcs"
+        ],
+        "content": [
+          {
+            "html": "<p>Audio nerdery, choosing an Apple UI framework, and filesystem changes in Big Sur.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Audio nerdery, choosing an Apple UI framework, and filesystem changes in Big Sur.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

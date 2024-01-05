@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/467-the-natural-boys"
+    ],
+    "published": [
+      "2023-09-19T08:28:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7ffc124d20927517ead3b3ef5041535a"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-19T09:31:47Z",
+      "year": 2023,
+      "month": 9,
+      "day": 19,
+      "hour": 9,
+      "minute": 31,
+      "x": -122.33621977999995,
+      "y": 47.62236021999998,
+      "altitude": 0,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "Tribute_GUEST"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 467: The Natural Boys"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5e7948486f11c6819484adbe694073ea/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4c3VV0"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke, Federico and Stephen grade their picks for Apple\u2019s Wonderlust event and talk about the iPhone 15 line, the new Apple Watches and more.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke, Federico and Stephen grade their picks for Apple\u2019s Wonderlust event and talk about the iPhone 15 line, the new Apple Watches and more.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

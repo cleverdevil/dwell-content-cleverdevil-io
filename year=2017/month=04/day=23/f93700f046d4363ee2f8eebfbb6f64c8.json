@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-27"
+    ],
+    "published": [
+      "2017-04-23T02:37:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Bees communicate through special dances and chemical scents called pheromones. Kinda like those creepy bros over there."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Bees communicate through special dances and chemical scents called pheromones. Kinda like those creepy bros over there.</p>",
+              "value": "Fun Fact! Bees communicate through special dances and chemical scents called pheromones. Kinda like those creepy bros over there."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6bc7c2f769c2822accd0e888c94e0777"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fc134bc8b2fb5ce99e131f/c08628ff2b0dad6ba4e875f80a4678db"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fc134bc8b2fb5ce99e131f/c08628ff2b0dad6ba4e875f80a4678db"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fc134bc8b2fb5ce99e131f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f93700f046d4363ee2f8eebfbb6f64c8"
+    ]
+  }
+}

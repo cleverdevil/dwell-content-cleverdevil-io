@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I&#39;m pretty excited! Today I rolled out &quot;Play posts&quot; on my website. After watching traffic between the Nintendo Switch Parental App on iOS, I was able to utilize the API calls to write a script that runs periodically and creates Play posts on my website with the information about what I played and how long I played it."
+    ],
+    "like-of": [
+      "https://eddiehinkle.com/2019/03/12/13/photo/"
+    ],
+    "url": [
+      "/2019/i39m-pretty-excited-today-i-rolled-out-quotplay-postsquot-on"
+    ],
+    "published": [
+      "2019-03-12T21:35:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.44\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.44\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.44\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i39m-pretty-excited-today-i-rolled-out-quotplay-postsquot-on/annotations/b8ef41bcf25abd0f50ac2707e7c51ab0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i39m-pretty-excited-today-i-rolled-out-quotplay-postsquot-on/annotations/b8ef41bcf25abd0f50ac2707e7c51ab0"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "03e1fa2c34766df4c6eee2e9aa223a66"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-12T21:34:15Z",
+      "year": 2019,
+      "month": 3,
+      "day": 12,
+      "hour": 21,
+      "minute": 34,
+      "x": -118.39518815279607,
+      "y": 33.919733505071086,
+      "altitude": 32,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "Mission"
+    }
+  }
+}

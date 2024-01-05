@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-287-constant-applause"
+    ],
+    "published": [
+      "2020-03-05T16:25:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.71\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.71\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.71\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-287-constant-applause/annotations/5e13a0d7b691ff0301052edb2dded053"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-287-constant-applause/annotations/5e13a0d7b691ff0301052edb2dded053"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6666010601719c7fd84dfe8041d37676"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-05T20:00:12Z",
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.39514425743506,
+      "y": 33.91962075737076,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 287: Constant Applause"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/44967165407f1da636e2d3436f5d450c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_ExTA8"
+        ],
+        "content": [
+          {
+            "html": "<p>So is Apple really releasing a Smart Keyboard with a built-in trackpad? That\u2019s the latest report, and Jason and Myke have a lot of questions about it. And in Upstream, Disney+ gets its \u201cexpensive NBC\u201d moment on Instagram.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "So is Apple really releasing a Smart Keyboard with a built-in trackpad? That\u2019s the latest report, and Jason and Myke have a lot of questions about it. And in Upstream, Disney+ gets its \u201cexpensive NBC\u201d moment on Instagram.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

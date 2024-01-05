@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Chez Melange"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez Melange"
+          ],
+          "latitude": [
+            "33.819673125048"
+          ],
+          "longitude": [
+            "-118.38875922042"
+          ]
+        },
+        "value": "Chez Melange"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez Melange"
+          ],
+          "latitude": [
+            "33.819673125048"
+          ],
+          "longitude": [
+            "-118.38875922042"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-chez-melange-2"
+    ],
+    "published": [
+      "2018-04-26T01:43:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ae12ea4b8fd9d00398c1398/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ae12ea4b8fd9d00398c1398/aca2ca94a4c8a62cae875b2803e8ec0c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ae12ea4b8fd9d00398c1398"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e597cd0be90372fe416f79cce85b5bb6"
+    ]
+  }
+}

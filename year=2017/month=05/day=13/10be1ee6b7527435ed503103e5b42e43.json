@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Landed</p>",
+        "value": "Landed"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-los-angeles-international-airport-lax-1"
+    ],
+    "published": [
+      "2017-05-13T04:49:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming!</p>",
+              "value": "This place is swarming!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/730911bb7f1de0a29a80e200f42bdb10"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5916903cfd16bb3e974a19f0/482bd2a0114d66419384ffc33f0b2c47"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5916903cfd16bb3e974a19f0/482bd2a0114d66419384ffc33f0b2c47"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 2607 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 2607 miles since your last check-in!</p>",
+              "value": "You've traveled 2607 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/391991d89cd2bdd0e1313d635b45ef1a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5916903cfd16bb3e974a19f0/2ebf4caa6964fad2fb5a01cb685eaaf2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5916903cfd16bb3e974a19f0/2ebf4caa6964fad2fb5a01cb685eaaf2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5916903cfd16bb3e974a19f0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "10be1ee6b7527435ed503103e5b42e43"
+    ]
+  }
+}

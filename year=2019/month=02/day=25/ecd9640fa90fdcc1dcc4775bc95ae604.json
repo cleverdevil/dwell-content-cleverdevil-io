@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I just launched my favorite new feature on my website: emoji ... &bull; Aaron Parecki"
+    ],
+    "like-of": [
+      "https://aaronparecki.com/2019/02/25/10/emoji"
+    ],
+    "url": [
+      "/2019/i-just-launched-my-favorite-new-feature-on-my-website"
+    ],
+    "published": [
+      "2019-02-25T16:49:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.05\u00b0F and 69% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.05\u00b0F and 69% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.05\u00b0F and 69% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i-just-launched-my-favorite-new-feature-on-my-website/annotations/0931b4d2db268aa32549f448a784fece"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i-just-launched-my-favorite-new-feature-on-my-website/annotations/0931b4d2db268aa32549f448a784fece"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101653767602724041"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "ecd9640fa90fdcc1dcc4775bc95ae604"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-25T16:44:01Z",
+      "year": 2019,
+      "month": 2,
+      "day": 25,
+      "hour": 16,
+      "minute": 44,
+      "x": -118.37050867642108,
+      "y": 33.815366288376104,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  }
+}

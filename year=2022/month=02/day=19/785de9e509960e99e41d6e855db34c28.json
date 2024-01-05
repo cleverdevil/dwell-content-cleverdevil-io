@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Pietro\u2019s Pizza + Pasta"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pietro\u2019s Pizza + Pasta"
+          ],
+          "latitude": [
+            "21.879336"
+          ],
+          "longitude": [
+            "-159.459228"
+          ]
+        },
+        "value": "Pietro\u2019s Pizza + Pasta"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pietro\u2019s Pizza + Pasta"
+          ],
+          "latitude": [
+            "21.879336"
+          ],
+          "longitude": [
+            "-159.459228"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-pietros-pizza-pasta"
+    ],
+    "published": [
+      "2022-02-19T04:37:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/621073efc6285d3119d5e2a6/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/621073efc6285d3119d5e2a6/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/621073efc6285d3119d5e2a6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "785de9e509960e99e41d6e855db34c28"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-19T04:35:44Z",
+      "year": 2022,
+      "month": 2,
+      "day": 19,
+      "hour": 4,
+      "minute": 35,
+      "x": -159.45931536646515,
+      "y": 21.8793911961903,
+      "altitude": 13,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  }
+}

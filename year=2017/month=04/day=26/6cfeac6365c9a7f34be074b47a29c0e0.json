@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Boy and the Bear Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Boy and the Bear Coffee"
+          ],
+          "latitude": [
+            "33.847072"
+          ],
+          "longitude": [
+            "-118.387694"
+          ]
+        },
+        "value": "The Boy and the Bear Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Boy and the Bear Coffee"
+          ],
+          "latitude": [
+            "33.847072"
+          ],
+          "longitude": [
+            "-118.387694"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Boy and the Bear Coffee\" src=\"https://cleverdevil.io/file/d51d33df6d519d6f03989689379cc7eb\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "The Boy and the Bear Coffee"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-boy-and-the-bear-coffee-1"
+    ],
+    "published": [
+      "2017-04-26T15:48:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo!</p>",
+              "value": "Great photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0c56bf85a4df20c38eeee0635cd5ab19"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5900c157da2e000f3841ca3b/2cb42aac853575838111bb997babe436"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5900c157da2e000f3841ca3b/2cb42aac853575838111bb997babe436"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Caf\u00e9s!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Caf\u00e9s!</p>",
+              "value": "Wow! That's 5 check-ins at Caf\u00e9s!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/16510cea8e3b80e32a89465f4585cec9"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5900c157da2e000f3841ca3b/d0739582a5c0809ae2872f3afa27d4d5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5900c157da2e000f3841ca3b/d0739582a5c0809ae2872f3afa27d4d5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5900c157da2e000f3841ca3b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6cfeac6365c9a7f34be074b47a29c0e0"
+    ]
+  }
+}

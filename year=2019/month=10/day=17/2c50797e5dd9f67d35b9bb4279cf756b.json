@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Vip Lounge Los Cabos International Terminal 2"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Vip Lounge Los Cabos International Terminal 2"
+          ],
+          "latitude": [
+            "23.156514017523"
+          ],
+          "longitude": [
+            "-109.71696956572"
+          ]
+        },
+        "value": "Vip Lounge Los Cabos International Terminal 2"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Vip Lounge Los Cabos International Terminal 2"
+          ],
+          "latitude": [
+            "23.156514017523"
+          ],
+          "longitude": [
+            "-109.71696956572"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-vip-lounge-los-cabos-international-terminal-2"
+    ],
+    "published": [
+      "2019-10-17T18:54:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5da8b8e74e8d48000829fbd9/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5da8b8e74e8d48000829fbd9/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 88.68\u00b0F and 52% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 88.68\u00b0F and 52% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 88.68\u00b0F and 52% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-vip-lounge-los-cabos-international-terminal-2/annotations/6f18beaea3e23718611e93a1bf9cfc89"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-vip-lounge-los-cabos-international-terminal-2/annotations/6f18beaea3e23718611e93a1bf9cfc89"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5da8b8e74e8d48000829fbd9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2c50797e5dd9f67d35b9bb4279cf756b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-17T18:50:12Z",
+      "year": 2019,
+      "month": 10,
+      "day": 17,
+      "hour": 18,
+      "minute": 50,
+      "x": -109.71705621890163,
+      "y": 23.156563061170548,
+      "altitude": 106,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": ""
+    }
+  }
+}

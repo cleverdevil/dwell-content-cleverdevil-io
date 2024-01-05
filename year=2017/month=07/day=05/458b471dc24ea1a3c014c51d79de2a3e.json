@@ -1,0 +1,123 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "My grill is now updating its own site via #micropub, posting to Twitter and Micro.blog. #Indieweb"
+    ],
+    "content": [
+      {
+        "html": "My grill is now updating its own site via <a class=\"p-category\" href=\"/tag/micropub\" rel=\"tag\">#micropub</a>, posting to Twitter and Micro.blog. <a class=\"p-category\" href=\"/tag/Indieweb\" rel=\"tag\">#Indieweb</a>",
+        "value": "My grill is now updating its own site via #micropub, posting to Twitter and Micro.blog. #Indieweb"
+      }
+    ],
+    "category": [
+      "#micropub",
+      "#Indieweb"
+    ],
+    "url": [
+      "/2017/my-grill-is-now-updating-its-own-website-via-micropub"
+    ],
+    "published": [
+      "2017-07-05T23:05:40+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/882738141207175168"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "458b471dc24ea1a3c014c51d79de2a3e"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2017/07/05/21/like/"
+          ],
+          "published": [
+            "2017-07-06T02:10:16+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/a782d1d07487ceabf6a8793d35c8b214/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/a782d1d07487ceabf6a8793d35c8b214/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/882738141207175168?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F882738141207175168%2F13645402"
+          ],
+          "published": [
+            "2017-07-07T17:45:56+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "ChrisAldrich"
+                ],
+                "url": [
+                  "https://twitter.com/ChrisAldrich"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/0427647a866d952f472aafbe2d7923a5"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/0427647a866d952f472aafbe2d7923a5 ChrisAldrich"
+            }
+          ]
+        },
+        "value": "ChrisAldrich"
+      }
+    ]
+  }
+}

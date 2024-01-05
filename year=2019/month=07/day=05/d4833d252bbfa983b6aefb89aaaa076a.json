@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-252-the-hippie-gets-a-haircut"
+    ],
+    "published": [
+      "2019-07-05T15:44:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-252-the-hippie-gets-a-haircut/annotations/e4d1eed7ddcf671b0ad91a6960b0f379"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-252-the-hippie-gets-a-haircut/annotations/e4d1eed7ddcf671b0ad91a6960b0f379"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d4833d252bbfa983b6aefb89aaaa076a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-05T16:01:28Z",
+      "year": 2019,
+      "month": 7,
+      "day": 5,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.37035114161084,
+      "y": 33.81542396575955,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 252: The Hippie Gets a Haircut"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6ebd5a7a233107e160b38b7e91e2a830/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8KWWNE"
+        ],
+        "content": [
+          {
+            "html": "<p>The Summer of Fun goes old school, as two of Jason\u2019s colleagues from back in the 1990s compare Apple\u2019s many transitions over the years to the ones Apple faces today. Also, if movies and TV shows aren\u2019t available via streaming, do they even exist?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The Summer of Fun goes old school, as two of Jason\u2019s colleagues from back in the 1990s compare Apple\u2019s many transitions over the years to the ones Apple faces today. Also, if movies and TV shows aren\u2019t available via streaming, do they even exist?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

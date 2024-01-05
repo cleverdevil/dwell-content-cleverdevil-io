@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Varraco Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Varraco Coffee"
+          ],
+          "latitude": [
+            "33.720944"
+          ],
+          "longitude": [
+            "-116.375358"
+          ]
+        },
+        "value": "Varraco Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Varraco Coffee"
+          ],
+          "latitude": [
+            "33.720944"
+          ],
+          "longitude": [
+            "-116.375358"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-varraco-coffee"
+    ],
+    "published": [
+      "2023-05-29T19:38:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Coffee Shop check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Coffee Shop check-in in 3 months!</p>",
+              "value": "First Coffee Shop check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6474ff3f45cbb30e4e6cc2a5/bd6681b60cea378d3bbdfc3df79c5fc5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6474ff3f45cbb30e4e6cc2a5/bd6681b60cea378d3bbdfc3df79c5fc5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Trendsetter! You're one of the first 50 people to check in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Trendsetter! You're one of the first 50 people to check in here!</p>",
+              "value": "Trendsetter! You're one of the first 50 people to check in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZmxhZy5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6474ff3f45cbb30e4e6cc2a5/981b2cba194858f819fa7be92605dffa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6474ff3f45cbb30e4e6cc2a5/981b2cba194858f819fa7be92605dffa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6474ff3f45cbb30e4e6cc2a5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "833391197722b129915f94536b4b1ed2"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-29T19:29:19Z",
+      "year": 2023,
+      "month": 5,
+      "day": 29,
+      "hour": 19,
+      "minute": 29,
+      "x": -116.37537555074326,
+      "y": 33.72063584987025,
+      "altitude": 75,
+      "motion": [
+        "driving"
+      ],
+      "speed": 2,
+      "battery_state": "charging",
+      "battery_level": 0.8100000023841858,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into 222 Pacific Corporate Towers"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "222 Pacific Corporate Towers"
+          ],
+          "latitude": [
+            "33.918606847144"
+          ],
+          "longitude": [
+            "-118.39533519368"
+          ]
+        },
+        "value": "222 Pacific Corporate Towers"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "222 Pacific Corporate Towers"
+          ],
+          "latitude": [
+            "33.918606847144"
+          ],
+          "longitude": [
+            "-118.39533519368"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Vistage meeting</p>",
+        "value": "Vistage meeting"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-222-pacific-corporate-towers"
+    ],
+    "published": [
+      "2017-04-20T17:38:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in El Segundo."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in El Segundo.</p>",
+              "value": "First check-in in El Segundo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/19741e5d61bb620cebc536ac764de14f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58f8f1f2c8b2fb5a0ea89191/ef81d01bf30e34c5a03acd34856dfc69"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58f8f1f2c8b2fb5a0ea89191/ef81d01bf30e34c5a03acd34856dfc69"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58f8f1f2c8b2fb5a0ea89191"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "20bf8a1302bbf6f1c0395091ee14978d"
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Verso"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Verso"
+          ],
+          "latitude": [
+            "37.773669533567"
+          ],
+          "longitude": [
+            "-122.41735163843"
+          ]
+        },
+        "value": "Verso"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Verso"
+          ],
+          "latitude": [
+            "37.773669533567"
+          ],
+          "longitude": [
+            "-122.41735163843"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>After party \ud83c\udf89</p>",
+        "value": "After party \ud83c\udf89"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-verso"
+    ],
+    "published": [
+      "2017-06-14T02:27:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/65711640eaa48108aff731086e82f3d5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59409efe6fa81f3162d66e98/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59409efe6fa81f3162d66e98/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59409efe6fa81f3162d66e98"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9b80d354000677209a1c9406288febb9"
+    ]
+  }
+}

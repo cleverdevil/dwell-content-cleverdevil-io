@@ -1,0 +1,284 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I wonder if @manton knows the folks behind Twitterific, Tweetbot, et al? Would be amazing if he could convince them to support Micro.blog."
+    ],
+    "content": [
+      {
+        "html": "I wonder if @manton knows the folks behind Twitterific, Tweetbot, et al? Would be amazing if he could convince them to support Micro.blog.",
+        "value": "I wonder if @manton knows the folks behind Twitterific, Tweetbot, et al? Would be amazing if he could convince them to support Micro.blog."
+      }
+    ],
+    "url": [
+      "/2017/i-wonder-if-manton-knows-the-folks-behind-twitterific-tweetbot"
+    ],
+    "published": [
+      "2017-12-26T18:08:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil That would be amazing. I haven't asked, but I hope that as the Micro.blog community grows and the platform becomes more mature, it will be more attractive to third-party support."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil That would be amazing. I haven't asked, but I hope that as the Micro.blog community grows and the platform becomes more mature, it will be more attractive to third-party support.</p>",
+              "value": "@cleverdevil That would be amazing. I haven't asked, but I hope that as the Micro.blog community grows and the platform becomes more mature, it will be more attractive to third-party support."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL21hbnRvbi9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/238172"
+          ]
+        },
+        "value": "https://micro.blog/manton/238172"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton @cleverdevil To be a bit of a debbie downer, I wonder if Tapbot got burned by their ADN client?"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton @cleverdevil To be a bit of a debbie downer, I wonder if Tapbot got burned by their ADN client?</p>",
+              "value": "@manton @cleverdevil To be a bit of a debbie downer, I wonder if Tapbot got burned by their ADN client?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9mYzdhNDhkMDhhZmY0YTZiNjdhZTFlMzUzZGU1Zjc0Yj9zPTk2/300/square"
+                ],
+                "name": [
+                  "Bruce"
+                ],
+                "url": [
+                  "https://micro.blog/Bruce"
+                ]
+              },
+              "value": "Bruce"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Bruce/238178"
+          ]
+        },
+        "value": "https://micro.blog/Bruce/238178"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Bruce @cleverdevil Yeah, that is my guess as well, and Iconfactory was busy with Twitterrific 5 this year. But who knows what 2018 will bring."
+          ],
+          "content": [
+            {
+              "html": "<p>@Bruce @cleverdevil Yeah, that is my guess as well, and Iconfactory was busy with Twitterrific 5 this year. But who knows what 2018 will bring.</p>",
+              "value": "@Bruce @cleverdevil Yeah, that is my guess as well, and Iconfactory was busy with Twitterrific 5 this year. But who knows what 2018 will bring."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL21hbnRvbi9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/238200"
+          ]
+        },
+        "value": "https://micro.blog/manton/238200"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Bruce @manton @cleverdevil Quite a few ADNers are over on pnut, an invite-only network that's a one-man show, albeit with a ever-growing API. Jamin Guy recoded Riposte to run as a pnut client. So I still get to use one of my favorite social network apps ever. \nI'll ask Paul at Tapbots what he thinks about a Micro.blog client. May be an issue of what else is in their pipeline."
+          ],
+          "content": [
+            {
+              "html": "<p>@Bruce @manton @cleverdevil Quite a few ADNers are over on pnut, an invite-only network that's a one-man show, albeit with a ever-growing API. Jamin Guy recoded Riposte to run as a pnut client. So I still get to use one of my favorite social network apps ever. </p>\n\n<p>I'll ask Paul at Tapbots what he thinks about a Micro.blog client. May be an issue of what else is in their pipeline.</p>",
+              "value": "@Bruce @manton @cleverdevil Quite a few ADNers are over on pnut, an invite-only network that's a one-man show, albeit with a ever-growing API. Jamin Guy recoded Riposte to run as a pnut client. So I still get to use one of my favorite social network apps ever. \nI'll ask Paul at Tapbots what he thinks about a Micro.blog client. May be an issue of what else is in their pipeline."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85OTY0MzgxY2RjY2ZmNWZlZDI4YTJmODViZDZmZGMzNj9zPTk2/300/square"
+                ],
+                "name": [
+                  "retrophisch"
+                ],
+                "url": [
+                  "https://micro.blog/retrophisch"
+                ]
+              },
+              "value": "retrophisch"
+            }
+          ],
+          "url": [
+            "https://micro.blog/retrophisch/239840"
+          ]
+        },
+        "value": "https://micro.blog/retrophisch/239840"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@retrophisch @Bruce @cleverdevil I love Riposte too. The \"problem\" is that Micro.blog is a significant departure from Twitter or ADN clients because Micro.blog uses HTML. No porting shortcuts."
+          ],
+          "content": [
+            {
+              "html": "<p>@retrophisch @Bruce @cleverdevil I love Riposte too. The \"problem\" is that Micro.blog is a significant departure from Twitter or ADN clients because Micro.blog uses HTML. No porting shortcuts.</p>",
+              "value": "@retrophisch @Bruce @cleverdevil I love Riposte too. The \"problem\" is that Micro.blog is a significant departure from Twitter or ADN clients because Micro.blog uses HTML. No porting shortcuts."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL21hbnRvbi9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/239864"
+          ]
+        },
+        "value": "https://micro.blog/manton/239864"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton You and your standards, Manton. It's almost like you want an open garden full of flourishing flowers/vegetables!"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton You and your standards, Manton. It's almost like you want an open garden full of flourishing flowers/vegetables!</p>",
+              "value": "@manton You and your standards, Manton. It's almost like you want an open garden full of flourishing flowers/vegetables!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9mYzdhNDhkMDhhZmY0YTZiNjdhZTFlMzUzZGU1Zjc0Yj9zPTk2/300/square"
+                ],
+                "name": [
+                  "Bruce"
+                ],
+                "url": [
+                  "https://micro.blog/Bruce"
+                ]
+              },
+              "value": "Bruce"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Bruce/239873"
+          ]
+        },
+        "value": "https://micro.blog/Bruce/239873"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "2cdc833d257938a5e09645191b1a8c14"
+    ]
+  }
+}

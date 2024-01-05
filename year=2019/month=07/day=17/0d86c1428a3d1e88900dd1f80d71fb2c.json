@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-254-downgrade"
+    ],
+    "published": [
+      "2019-07-17T15:32:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.41\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.41\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.41\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-254-downgrade/annotations/00514a717bb895b4c7a55a3f4e002e15"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-254-downgrade/annotations/00514a717bb895b4c7a55a3f4e002e15"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0d86c1428a3d1e88900dd1f80d71fb2c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-17T16:01:55Z",
+      "year": 2019,
+      "month": 7,
+      "day": 17,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.39533910669775,
+      "y": 33.919620998755676,
+      "altitude": 30,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 254: Downgrade"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/328728217c29322370c470509e5bdd05/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9Aw7Pc"
+        ],
+        "content": [
+          {
+            "html": "<p>Normal episode\u2019s this. <a class=\"p-category\" href=\"/tag/askupgrade\" rel=\"tag\">#askupgrade</a>, Apple laptops and retail changes, Warner Media\u2019s HBO Max, and <a class=\"p-category\" href=\"/tag/snelltalk\" rel=\"tag\">#snelltalk</a>. Back are @imyke and @jsnell! Listen!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Normal episode\u2019s this. #askupgrade, Apple laptops and retail changes, Warner Media\u2019s HBO Max, and #snelltalk. Back are @imyke and @jsnell! Listen!\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#askupgrade",
+          "#snelltalk"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

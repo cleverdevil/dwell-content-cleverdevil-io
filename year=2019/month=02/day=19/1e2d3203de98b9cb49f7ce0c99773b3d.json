@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Why Foursquare refuses to sell user data - The Verge"
+    ],
+    "like-of": [
+      "https://www.theverge.com/2019/2/19/18231985/foursquare-user-data-ceo-jeff-glueck-vergecast"
+    ],
+    "url": [
+      "/2019/why-foursquare-refuses-to-sell-user-data---the-verge"
+    ],
+    "published": [
+      "2019-02-19T21:23:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.57\u00b0F and 28% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.57\u00b0F and 28% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.57\u00b0F and 28% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/why-foursquare-refuses-to-sell-user-data---the-verge/annotations/83aa5581ce0d0b045dc661b07a5ddd53"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/why-foursquare-refuses-to-sell-user-data---the-verge/annotations/83aa5581ce0d0b045dc661b07a5ddd53"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101620870983796320"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "1e2d3203de98b9cb49f7ce0c99773b3d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-19T21:21:07Z",
+      "year": 2019,
+      "month": 2,
+      "day": 19,
+      "hour": 21,
+      "minute": 21,
+      "x": -118.41150297314525,
+      "y": 33.91739957888024,
+      "altitude": 28,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "Mission"
+    }
+  }
+}

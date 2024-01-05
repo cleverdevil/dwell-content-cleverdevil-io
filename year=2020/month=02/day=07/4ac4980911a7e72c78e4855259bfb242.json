@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/364-a-casey-settings-screen"
+    ],
+    "published": [
+      "2020-02-07T05:23:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/364-a-casey-settings-screen/annotations/25851538cf250d6627d016e2546e9b5a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/364-a-casey-settings-screen/annotations/25851538cf250d6627d016e2546e9b5a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4ac4980911a7e72c78e4855259bfb242"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-08T16:37:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "hour": 16,
+      "minute": 37,
+      "x": -83.35898008332713,
+      "y": 42.20693489241923,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 364: A Casey Settings Screen"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a28f120387650a912ada11998fac4e3b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DX-nSW4"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey surprises everyone with a new app, John fixes Dock folders, and Marco names Wi-Fi networks.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey surprises everyone with a new app, John fixes Dock folders, and Marco names Wi-Fi networks.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

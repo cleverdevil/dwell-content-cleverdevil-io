@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Armondos"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": "Armondos"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-armondos"
+    ],
+    "published": [
+      "2021-10-30T02:36:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/617cafa37e258867a7e989cc/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/617cafa37e258867a7e989cc/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/617cafa37e258867a7e989cc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "340e3c441011e4fce26fe6a75b6cb368"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-30T02:33:41Z",
+      "year": 2021,
+      "month": 10,
+      "day": 30,
+      "hour": 2,
+      "minute": 33,
+      "x": -116.38657874892732,
+      "y": 33.71985050933751,
+      "altitude": 76,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": "Spectrum"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jimmy John's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": "Jimmy John's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-jimmy-johns-1"
+    ],
+    "published": [
+      "2017-04-27T19:12:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 3 straight weeks at Sandwich Places. You set a new record!"
+          ],
+          "content": [
+            {
+              "html": "<p>That's 3 straight weeks at Sandwich Places. You set a new record!</p>",
+              "value": "That's 3 straight weeks at Sandwich Places. You set a new record!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5dedd89158b1d149fc724295b1fc6f18"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59024272a6fe4d790c99ad5d/7931c9387e28bb6d24e81af00dab9f21"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59024272a6fe4d790c99ad5d/7931c9387e28bb6d24e81af00dab9f21"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at this Jimmy John's."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at this Jimmy John's.</p>",
+              "value": "First check-in at this Jimmy John's."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9f8b11be5c7f3d85c5690ef89be08b9d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59024272a6fe4d790c99ad5d/9a27f423290911bd74d8cb32cf0c8184"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59024272a6fe4d790c99ad5d/9a27f423290911bd74d8cb32cf0c8184"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59024272a6fe4d790c99ad5d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "205bda27ea9e9b1230bfce60ccd971a1"
+    ]
+  }
+}

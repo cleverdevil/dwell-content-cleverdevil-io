@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-118-moment-of-panic"
+    ],
+    "published": [
+      "2018-12-05T05:01:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f12163680f31b36c9ea318b104a2a033"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 118: Moment of panic"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4da255f1e6454ea6b5db80eed9374fb5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18dfLVZE"
+        ],
+        "content": [
+          {
+            "html": "<p>Troubleshooting server problems.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "Troubleshooting server problems.\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

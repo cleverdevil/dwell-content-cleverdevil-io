@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Big Brother 21x15 \"Episode 15\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/e2566152fef9558ad4d75c54896d96a3/thumb.jpg"
+          ],
+          "name": [
+            "Big Brother 21x15 \"Episode 15\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3620236"
+          ]
+        },
+        "value": "Big Brother 21x15 \"Episode 15\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Big Brother 21x15 \"Episode 15\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Big Brother 21x15 \"Episode 15\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/big-brother-21x15-episode-15"
+    ],
+    "published": [
+      "2019-07-29T04:45:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 66.09\u00b0F and 91% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 66.09\u00b0F and 91% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 66.09\u00b0F and 91% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/big-brother-21x15-episode-15/annotations/9dc73ffe5701b5054efa69946f27bde2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/big-brother-21x15-episode-15/annotations/9dc73ffe5701b5054efa69946f27bde2"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "99f3e8c9c5e6cad74ae8349db19951e5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-29T04:40:54Z",
+      "year": 2019,
+      "month": 7,
+      "day": 29,
+      "hour": 4,
+      "minute": 40,
+      "x": -118.37032576922819,
+      "y": 33.81541409293029,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/347-not-enough-carrot-to-take-the-stick"
+    ],
+    "published": [
+      "2019-10-11T20:25:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 53.18\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 53.18\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 53.18\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/347-not-enough-carrot-to-take-the-stick/annotations/39a9cbbac9cb9ea74de9e526ea8b08f7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/347-not-enough-carrot-to-take-the-stick/annotations/39a9cbbac9cb9ea74de9e526ea8b08f7"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "99f1e585ac94b211a23d7fb3635d1418"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-11T19:09:13Z",
+      "year": 2019,
+      "month": 10,
+      "day": 11,
+      "hour": 19,
+      "minute": 9,
+      "x": -71.01233335221772,
+      "y": 42.35591795430592,
+      "altitude": 6,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 347: Not Enough Carrot to Take the Stick"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f1e3b017e2edda9ed5fdc927e83e3b0e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DUTtCqE"
+        ],
+        "content": [
+          {
+            "html": "<p>macOS Catalina, disposable AirPods, and the bells of Arment county.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "macOS Catalina, disposable AirPods, and the bells of Arment county.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

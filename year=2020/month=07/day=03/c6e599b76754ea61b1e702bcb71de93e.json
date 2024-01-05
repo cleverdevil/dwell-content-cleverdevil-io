@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/obb-ep-88-recency-bias"
+    ],
+    "published": [
+      "2020-07-03T20:50:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 106.92\u00b0F and 12% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 106.92\u00b0F and 12% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 106.92\u00b0F and 12% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/obb-ep-88-recency-bias/annotations/4268eb4c28cc699b1b9332cccf06d720"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/obb-ep-88-recency-bias/annotations/4268eb4c28cc699b1b9332cccf06d720"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c6e599b76754ea61b1e702bcb71de93e"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-03T23:58:09Z",
+      "year": 2020,
+      "month": 7,
+      "day": 3,
+      "hour": 23,
+      "minute": 58,
+      "x": -116.31672620402475,
+      "y": 33.73764594315768,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #88: Recency Bias"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/78bac8d9a4443cbc7c8ceda6de25fb8c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf7HZg3o"
+        ],
+        "content": [
+          {
+            "html": "<p>We did a full hour with ESPN\u2019s Roddy Jones and we had an absolute blast! We covered the Canes and the ACC in full. Hope you enjoy!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "We did a full hour with ESPN\u2019s Roddy Jones and we had an absolute blast! We covered the Canes and the ACC in full. Hope you enjoy!\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

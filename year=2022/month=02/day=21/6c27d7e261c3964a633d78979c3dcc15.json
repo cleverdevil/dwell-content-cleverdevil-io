@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/470-computers-can-do-things"
+    ],
+    "published": [
+      "2022-02-21T12:34:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6c27d7e261c3964a633d78979c3dcc15"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-21T16:07:36Z",
+      "year": 2022,
+      "month": 2,
+      "day": 21,
+      "hour": 16,
+      "minute": 7,
+      "x": -118.37030239622621,
+      "y": 33.81543144020299,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 470: Computers Can Do Things"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a5b46bc6740e72b22ae2f94c441e5e87/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL_Kf_M"
+        ],
+        "content": [
+          {
+            "html": "<p>The good old days of video and music apps, web hosting, and manual transmissions.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The good old days of video and music apps, web hosting, and manual transmissions.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

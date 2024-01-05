@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Revere Hotel Boston Common"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Revere Hotel Boston Common"
+          ],
+          "latitude": [
+            "42.350724553971"
+          ],
+          "longitude": [
+            "-71.067191322727"
+          ]
+        },
+        "value": "Revere Hotel Boston Common"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Revere Hotel Boston Common"
+          ],
+          "latitude": [
+            "42.350724553971"
+          ],
+          "longitude": [
+            "-71.067191322727"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-revere-hotel-boston-common"
+    ],
+    "published": [
+      "2018-09-11T20:54:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Bay Village."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Bay Village.</p>",
+              "value": "First check-in in Bay Village."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b982b7f419a9e002cb50635/a44da2998164461d7592d622f53ac5d8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b982b7f419a9e002cb50635/a44da2998164461d7592d622f53ac5d8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b982b7f419a9e002cb50635"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f2495d57c22d76f8d2979a28a1b12c88"
+    ]
+  }
+}

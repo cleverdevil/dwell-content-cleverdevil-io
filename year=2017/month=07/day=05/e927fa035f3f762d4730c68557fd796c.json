@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tower 12"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tower 12"
+          ],
+          "latitude": [
+            "33.862314336957"
+          ],
+          "longitude": [
+            "-118.40085890145"
+          ]
+        },
+        "value": "Tower 12"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tower 12"
+          ],
+          "latitude": [
+            "33.862314336957"
+          ],
+          "longitude": [
+            "-118.40085890145"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch with Lacey on the pier.</p>",
+        "value": "Lunch with Lacey on the pier."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-tower-12"
+    ],
+    "published": [
+      "2017-07-05T19:43:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c257640f0072d800c4f000bd56713ce6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595d4151d41bb731a57b5d76/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595d4151d41bb731a57b5d76/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595d4151d41bb731a57b5d76"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e927fa035f3f762d4730c68557fd796c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595d4151d41bb731a57b5d76/909eb765136192f75bff13be5c183e18"
+          ],
+          "published": [
+            "2017-07-05T19:43:13+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike P"
+                ],
+                "url": [
+                  "https://foursquare.com/user/325140"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/5e4d390b5cc30d4f5f5b3401e7433469"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/5e4d390b5cc30d4f5f5b3401e7433469 Mike P"
+            }
+          ]
+        },
+        "value": "Mike P"
+      }
+    ]
+  }
+}

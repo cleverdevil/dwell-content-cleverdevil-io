@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Skyview Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": "Skyview Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Traffic was terrible today.</p>",
+        "value": "Traffic was terrible today."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-skyview-center-8"
+    ],
+    "published": [
+      "2018-02-07T17:05:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 4 straight weeks at Buildings. You set a new record!"
+          ],
+          "content": [
+            {
+              "html": "<p>That's 4 straight weeks at Buildings. You set a new record!</p>",
+              "value": "That's 4 straight weeks at Buildings. You set a new record!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7b31df5455b203ca4dfa03/55c0bf590cfb66f9405eeb92d84a9316"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7b31df5455b203ca4dfa03/55c0bf590cfb66f9405eeb92d84a9316"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7b31df5455b203ca4dfa03/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7b31df5455b203ca4dfa03/aca2ca94a4c8a62cae875b2803e8ec0c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a7b31df5455b203ca4dfa03"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9da90ae2ab03e89e65c737de626acd54"
+    ]
+  }
+}

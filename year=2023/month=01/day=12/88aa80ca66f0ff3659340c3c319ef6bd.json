@@ -1,0 +1,439 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Someone should create a service that enables people to establish and retain an identity in the Fediverse. Its great that you can move from instance-to-instance on Mastodon, with redirection, but it would be better if the instance that a user was on was largely irrelevant.\n\nYou should be \u201c@ user @ your domain\u201d and seamlessly be able to change backend instances."
+    ],
+    "content": [
+      {
+        "html": "Someone should create a service that enables people to establish and retain an identity in the Fediverse. Its great that you can move from instance-to-instance on Mastodon, with redirection, but it would be better if the instance that a user was on was largely irrelevant.<br/>\n<br/>\nYou should be \u201c@ user @ your domain\u201d and seamlessly be able to change backend instances.",
+        "value": "Someone should create a service that enables people to establish and retain an identity in the Fediverse. Its great that you can move from instance-to-instance on Mastodon, with redirection, but it would be better if the instance that a user was on was largely irrelevant.\n\nYou should be \u201c@ user @ your domain\u201d and seamlessly be able to change backend instances."
+      }
+    ],
+    "url": [
+      "/2023/someone-should-create-a-service-that-enables"
+    ],
+    "published": [
+      "2023-01-12T18:27:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Yes, I want my own domain but without running my own mastodon instance. fed.brid.gy comes close, maybe?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Yes, I want my own domain but without running my own mastodon instance. fed.brid.gy comes close, maybe?</p>",
+              "value": "@cleverdevil Yes, I want my own domain but without running my own mastodon instance. fed.brid.gy comes close, maybe?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2U3NTgwYjYzN2VjN2Q5YzdhMWFiOGRjMzk0ODRjOWZlP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "kwlblt"
+                ],
+                "url": [
+                  "https://micro.blog/kwlblt"
+                ]
+              },
+              "value": "kwlblt"
+            }
+          ],
+          "url": [
+            "https://micro.blog/kwlblt/15912789"
+          ]
+        },
+        "value": "https://micro.blog/kwlblt/15912789"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@kwlblt one option is to use WebFinger, as follows - docs.joinmastodon.org/spec/webf...\nThat said, there are caveats and limitations, and a person needs to be deeply technical to make this work. Web hosts and blogging services with domain registration capabilities are in the best position to make it easy."
+          ],
+          "content": [
+            {
+              "html": "<p>@kwlblt one option is to use WebFinger, as follows - docs.joinmastodon.org/spec/webf...<br/>That said, there are caveats and limitations, and a person needs to be deeply technical to make this work. Web hosts and blogging services with domain registration capabilities are in the best position to make it easy.</p>",
+              "value": "@kwlblt one option is to use WebFinger, as follows - docs.joinmastodon.org/spec/webf...\nThat said, there are caveats and limitations, and a person needs to be deeply technical to make this work. Web hosts and blogging services with domain registration capabilities are in the best position to make it easy."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/15913427"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/15913427"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan you know about https://fed.brid.gy/ ?\ntwo choices for how to do that Bridgy Fed"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan you know about <a href=\"https://fed.brid.gy/\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>fed.brid.gy/<wbr/></a> ?<br/>two choices for how to do that Bridgy Fed</p>",
+              "value": "@jonathan you know about https://fed.brid.gy/ ?\ntwo choices for how to do that Bridgy Fed"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDM1LzM1Ny83OTEvMDc1L29yaWdpbmFsLzg1NTUxODZjMWQyNTkyOTcuanBn/300/square"
+                ],
+                "name": [
+                  "Kevin Marks"
+                ],
+                "url": [
+                  "https://xoxo.zone/@KevinMarks"
+                ]
+              },
+              "value": "Kevin Marks"
+            }
+          ],
+          "url": [
+            "https://xoxo.zone/@KevinMarks/109678867859711491"
+          ]
+        },
+        "value": "https://xoxo.zone/@KevinMarks/109678867859711491"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@KevinMarks yeah, I am thinking more of an all-in-one solution, which probably means it should come from a web host or website platform. Something a mere mortal could easily set up :)"
+          ],
+          "content": [
+            {
+              "html": "<p>@KevinMarks yeah, I am thinking more of an all-in-one solution, which probably means it should come from a web host or website platform. Something a mere mortal could easily set up :)</p>",
+              "value": "@KevinMarks yeah, I am thinking more of an all-in-one solution, which probably means it should come from a web host or website platform. Something a mere mortal could easily set up :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjcvNzU4LzEwMC85MDgvMzQ5L29yaWdpbmFsL2U5NjMzOTE1YmJlMjUzNDEucG5n/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.club/@jonathan"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.club/@jonathan/109678874426738054"
+          ]
+        },
+        "value": "https://cleverdevil.club/@jonathan/109678874426738054"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan @KevinMarks\nQuick and easy solution using redirects:\nhttps://roper.im/@charles/109557660270425428\nAnd\nhttps://roper.im/@charles/109642112497414813 Charles Roper (@charlesroper@indieweb.social)"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan @KevinMarks<br/>Quick and easy solution using redirects:<br/><a href=\"https://roper.im/@charles/109557660270425428\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>roper.im/<wbr/>@charles/<wbr/>109557660270425428</a><br/>And<br/><a href=\"https://roper.im/@charles/109642112497414813\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>roper.im/<wbr/>@charles/<wbr/>109642112497414813</a> Charles Roper (@charlesroper@indieweb.social)</p>",
+              "value": "@jonathan @KevinMarks\nQuick and easy solution using redirects:\nhttps://roper.im/@charles/109557660270425428\nAnd\nhttps://roper.im/@charles/109642112497414813 Charles Roper (@charlesroper@indieweb.social)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDM3LzQwOC82NTIvOTc0L29yaWdpbmFsLzg0M2Q2ZDU5MTY4MzYxODcuanBn/300/square"
+                ],
+                "name": [
+                  "Charles Roper"
+                ],
+                "url": [
+                  "https://indieweb.social/@charlesroper"
+                ]
+              },
+              "value": "Charles Roper"
+            }
+          ],
+          "url": [
+            "https://indieweb.social/@charlesroper/109678883498230451"
+          ]
+        },
+        "value": "https://indieweb.social/@charlesroper/109678883498230451"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@KevinMarks yes! Very much like that! Thanks for sharing."
+          ],
+          "content": [
+            {
+              "html": "<p>@KevinMarks yes! Very much like that! Thanks for sharing.</p>",
+              "value": "@KevinMarks yes! Very much like that! Thanks for sharing."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjcvNzU4LzEwMC85MDgvMzQ5L29yaWdpbmFsL2U5NjMzOTE1YmJlMjUzNDEucG5n/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.club/@jonathan"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.club/@jonathan/109678921106439107"
+          ]
+        },
+        "value": "https://cleverdevil.club/@jonathan/109678921106439107"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109677645463280971"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "88aa80ca66f0ff3659340c3c319ef6bd"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109677645463280971#favorited-by-109368581465510496"
+          ],
+          "published": [
+            "2023-01-12T23:15:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Pirnat"
+                ],
+                "url": [
+                  "https://mas.to/@mpirnat"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNTgxLzQ2NS81MTAvNDk2L29yaWdpbmFsLzBlOTE0NWFhNDlhNjhhNjYuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNTgxLzQ2NS81MTAvNDk2L29yaWdpbmFsLzBlOTE0NWFhNDlhNjhhNjYuanBlZw,,/300/square Mike Pirnat"
+            }
+          ]
+        },
+        "value": "Mike Pirnat"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109677645463280971#favorited-by-109678926897861219"
+          ],
+          "published": [
+            "2023-01-13T00:16:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "xo"
+                ],
+                "url": [
+                  "https://venera.social/profile/xo"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82NzgvOTI2Lzg5Ny84NjEvMjE5L29yaWdpbmFsLzdhNjBmNTAwNDY2Y2NiMDIuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82NzgvOTI2Lzg5Ny84NjEvMjE5L29yaWdpbmFsLzdhNjBmNTAwNDY2Y2NiMDIuanBlZw,,/300/square xo"
+            }
+          ]
+        },
+        "value": "xo"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109677645463280971#favorited-by-109633446783679143"
+          ],
+          "published": [
+            "2023-01-13T18:22:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Tom Brown\ud83c\udfd2"
+                ],
+                "url": [
+                  "https://mastodon.social/@herestomwiththeweather"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82MzMvNDQ2Lzc4My82NzkvMTQzL29yaWdpbmFsLzljNTdjMGFhNmNjN2M2NDAuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82MzMvNDQ2Lzc4My82NzkvMTQzL29yaWdpbmFsLzljNTdjMGFhNmNjN2M2NDAuanBlZw,,/300/square Tom Brown\ud83c\udfd2"
+            }
+          ]
+        },
+        "value": "Tom Brown\ud83c\udfd2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://arush.io/2023/01/13/247284/"
+          ],
+          "published": [
+            "2023-01-14T03:24:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Amanda CAARSON"
+                ],
+                "url": [
+                  "https://arush.io/author/amanda/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NGFlOThjNzMwMmFhNWIxMGYxZDlhNDI1NWNmODNiYT9zPTQwJmQ9bW0mcj1n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NGFlOThjNzMwMmFhNWIxMGYxZDlhNDI1NWNmODNiYT9zPTQwJmQ9bW0mcj1n/300/square Amanda CAARSON"
+            }
+          ]
+        },
+        "value": "Amanda CAARSON"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-12T06:00:33Z",
+      "year": 2023,
+      "month": 1,
+      "day": 12,
+      "hour": 6,
+      "minute": 0,
+      "x": -118.37041106508666,
+      "y": 33.81546074348409,
+      "altitude": 52,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "LaCour"
+    }
+  }
+}

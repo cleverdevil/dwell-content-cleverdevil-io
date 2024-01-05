@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Seaside Torrance\" src=\"https://cleverdevil.io/file/7b9d5550f75d93a2956a19a79540194f\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Home.</p>",
+        "value": "Seaside Torrance\nHome."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-30"
+    ],
+    "published": [
+      "2017-04-26T01:33:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo. Maybe order some wallet sized for Gramps."
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo. Maybe order some wallet sized for Gramps.</p>",
+              "value": "Great photo. Maybe order some wallet sized for Gramps."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/765e5ff1218406f86e0a235cdc88fe14"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fff8cb25ecca2b15f0f6a0/fb821b77fd247edae7d2bf76403209a5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fff8cb25ecca2b15f0f6a0/fb821b77fd247edae7d2bf76403209a5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fff8cb25ecca2b15f0f6a0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cf07b2a30fad093a13c976a30362f629"
+    ]
+  }
+}

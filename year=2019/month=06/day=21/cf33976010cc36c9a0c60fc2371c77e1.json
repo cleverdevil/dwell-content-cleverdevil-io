@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/331-the-technical-burden-of-users"
+    ],
+    "published": [
+      "2019-06-21T21:32:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.98\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.98\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.98\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/331-the-technical-burden-of-users/annotations/5302e1e6075bfc5d2649a90c2271df46"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/331-the-technical-burden-of-users/annotations/5302e1e6075bfc5d2649a90c2271df46"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cf33976010cc36c9a0c60fc2371c77e1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-22T00:02:21Z",
+      "year": 2019,
+      "month": 6,
+      "day": 22,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.32331030602847,
+      "y": 33.831329247847385,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 20,
+      "battery_state": "charging",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 331: The Technical Burden of Users"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d4fb558b57091655102a02f9d41cadc8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXtedXU"
+        ],
+        "content": [
+          {
+            "html": "<p>Bluetooth permission dialogs, Afterburner, Pro Display XDR longevity, mouse pads, and Marco\u2019s fun summer plans.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Bluetooth permission dialogs, Afterburner, Pro Display XDR longevity, mouse pads, and Marco\u2019s fun summer plans.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

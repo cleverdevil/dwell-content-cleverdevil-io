@@ -1,0 +1,248 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Add native support for Indiepaper"
+    ],
+    "content": [
+      {
+        "html": "<p><a class=\"u-in-reply-to\" href=\"https://github.com/cleverdevil/together\">Regarding Together</a></p><p>Now that I've launched <a href=\"https://indiepaper.cleverdevil.io\">Indiepaper</a>, I'd love to see Together\u00a0add native support for sending articles to Indiepaper with the click of a button. This would require a few configuration settings, including the configuration of a bearer token and a target micropub destination.</p>",
+        "value": "Regarding Together\nNow that I've launched Indiepaper, I'd love to see Together\u00a0add native support for sending articles to Indiepaper with the click of a button. This would require a few configuration settings, including the configuration of a bearer token and a target micropub destination."
+      }
+    ],
+    "in-reply-to": [
+      "https://github.com/cleverdevil/together"
+    ],
+    "url": [
+      "/2018/add-native-support-for-indiepaper"
+    ],
+    "published": [
+      "2018-07-02T21:12:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Whoa, indiepaper is cool! Guess I need to start experimenting with Aperture now."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Whoa, indiepaper is cool! Guess I need to start experimenting with Aperture now.</p>",
+              "value": "@cleverdevil Whoa, indiepaper is cool! Guess I need to start experimenting with Aperture now."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2FsYW5zL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "alans"
+                ],
+                "url": [
+                  "https://micro.blog/alans"
+                ]
+              },
+              "value": "alans"
+            }
+          ],
+          "url": [
+            "https://micro.blog/alans/685117"
+          ]
+        },
+        "value": "https://micro.blog/alans/685117"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@alans thank you sir! Yes, you should :) If you don't have or want Aperture, you can also just create a separate site that supports Micropub and use that as your target."
+          ],
+          "content": [
+            {
+              "html": "<p>@alans thank you sir! Yes, you should :) If you don't have or want Aperture, you can also just create a separate site that supports Micropub and use that as your target.</p>",
+              "value": "@alans thank you sir! Yes, you should :) If you don't have or want Aperture, you can also just create a separate site that supports Micropub and use that as your target."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/685122"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/685122"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Awesome. I\u2019d love to figure out a good way to do that token exchange automatically but it\u2019s a good idea to prototype it out manually first!"
+          ],
+          "content": [
+            {
+              "html": "<p>Awesome. I\u2019d love to figure out a good way to do that token exchange automatically but it\u2019s a good idea to prototype it out manually first!</p>",
+              "value": "Awesome. I\u2019d love to figure out a good way to do that token exchange automatically but it\u2019s a good idea to prototype it out manually first!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2018/07/02/28/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2018/07/02/28/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I thought of that, too! (Making a new site with micropub and targeting it.) And, say, since I'm not using my hosted micro.blog blog ... idea: I wonder if I could re-purpose that as the micropup endpoint for indiepaper. That could be cool."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I thought of that, too! (Making a new site with micropub and targeting it.) And, say, since I'm not using my hosted micro.blog blog ... idea: I wonder if I could re-purpose that as the micropup endpoint for indiepaper. That could be cool.</p>",
+              "value": "@cleverdevil I thought of that, too! (Making a new site with micropub and targeting it.) And, say, since I'm not using my hosted micro.blog blog ... idea: I wonder if I could re-purpose that as the micropup endpoint for indiepaper. That could be cool."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2FsYW5zL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "alans"
+                ],
+                "url": [
+                  "https://micro.blog/alans"
+                ]
+              },
+              "value": "alans"
+            }
+          ],
+          "url": [
+            "https://micro.blog/alans/685653"
+          ]
+        },
+        "value": "https://micro.blog/alans/685653"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@alans not a bad idea! Worth a try at least \ud83d\ude00"
+          ],
+          "content": [
+            {
+              "html": "<p>@alans not a bad idea! Worth a try at least \ud83d\ude00</p>",
+              "value": "@alans not a bad idea! Worth a try at least \ud83d\ude00"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/685660"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/685660"
+      }
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "94763211e421a0af86eb7a5cd918bbff"
+    ]
+  }
+}

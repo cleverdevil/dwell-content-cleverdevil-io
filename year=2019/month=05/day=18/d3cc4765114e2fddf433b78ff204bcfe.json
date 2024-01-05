@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "An Invitation to IndieWeb Summit 2019"
+    ],
+    "like-of": [
+      "https://boffosocko.com/2019/05/17/an-invitation-to-indieweb-summit-2019/"
+    ],
+    "url": [
+      "/2019/an-invitation-to-indieweb-summit-2019"
+    ],
+    "published": [
+      "2019-05-18T00:32:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.72\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.72\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.72\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/an-invitation-to-indieweb-summit-2019/annotations/6cb3ad9631834d92120ddb1e151ddec3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/an-invitation-to-indieweb-summit-2019/annotations/6cb3ad9631834d92120ddb1e151ddec3"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "d3cc4765114e2fddf433b78ff204bcfe"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-17T23:44:57Z",
+      "year": 2019,
+      "month": 5,
+      "day": 17,
+      "hour": 23,
+      "minute": 44,
+      "x": -118.37039460539495,
+      "y": 33.815344838027656,
+      "altitude": 49,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "LaCour"
+    }
+  }
+}

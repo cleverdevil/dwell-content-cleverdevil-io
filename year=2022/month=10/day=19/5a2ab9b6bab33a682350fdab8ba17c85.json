@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/504-too-much-apple-in-my-apple"
+    ],
+    "published": [
+      "2022-10-19T13:58:40+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5a2ab9b6bab33a682350fdab8ba17c85"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-19T16:03:09Z",
+      "year": 2022,
+      "month": 10,
+      "day": 19,
+      "hour": 16,
+      "minute": 3,
+      "x": -97.74668722065526,
+      "y": 30.265073854787786,
+      "altitude": 146,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 504: Too Much Apple in My Apple"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4d71f2170585e6c4425e3ec5ec56f314/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULf6nXg"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple adds ads, Casey discovers Sonos, and Marco\u2019s out before we get the check.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple adds ads, Casey discovers Sonos, and Marco\u2019s out before we get the check.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

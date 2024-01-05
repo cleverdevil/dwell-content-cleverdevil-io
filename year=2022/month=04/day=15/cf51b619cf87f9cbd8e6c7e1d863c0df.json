@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/479-never-mind-im-out"
+    ],
+    "published": [
+      "2022-04-15T00:00:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cf51b619cf87f9cbd8e6c7e1d863c0df"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-15T00:00:22Z",
+      "year": 2022,
+      "month": 4,
+      "day": 15,
+      "hour": 0,
+      "minute": 0,
+      "x": -117.25217822640012,
+      "y": 32.789982445719794,
+      "altitude": 4,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "Catamaran Conference"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 479: Never Mind, I\u2019m Out"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4fbcaac4baa31fa7f5d8b1771d50f086/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfcO6aO8"
+        ],
+        "content": [
+          {
+            "html": "<p>479: Never Mind, I\u2019m Out</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "479: Never Mind, I\u2019m Out\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Charles H. Wilson Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825399694173"
+          ],
+          "longitude": [
+            "-118.32537174225"
+          ]
+        },
+        "value": "Charles H. Wilson Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825399694173"
+          ],
+          "longitude": [
+            "-118.32537174225"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Off to the Bowl for Empire Strikes Back!</p>",
+        "value": "Off to the Bowl for Empire Strikes Back!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-charles-h-wilson-park-6"
+    ],
+    "published": [
+      "2018-08-10T00:58:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! No matter what color Froot Loop you eat, they all taste the same. So stop picking out all the red ones."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! No matter what color Froot Loop you eat, they all taste the same. So stop picking out all the red ones.</p>",
+              "value": "Fun Fact! No matter what color Froot Loop you eat, they all taste the same. So stop picking out all the red ones."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b6ce31f60255e002c552c55/9845b1cf71a787667dbecb5f4a6e5e22"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b6ce31f60255e002c552c55/9845b1cf71a787667dbecb5f4a6e5e22"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b6ce31f60255e002c552c55"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3820c5af6a8e69e6e71a98b8c4a13dee"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/08/09/35/like/"
+          ],
+          "published": [
+            "2018-08-10T00:00:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

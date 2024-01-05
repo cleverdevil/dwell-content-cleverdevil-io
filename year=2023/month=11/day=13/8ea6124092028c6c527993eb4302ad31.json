@@ -1,0 +1,70 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Next up will be IndieAuth. Then I\u2019ll need to start working on templating for the HTML so it\u2019s more than just an API for querying and filtering MF2 JSON."
+    ],
+    "content": [
+      {
+        "html": "Next up will be IndieAuth. Then I\u2019ll need to start working on templating for the HTML so it\u2019s more than just an API for querying and filtering MF2 JSON.",
+        "value": "Next up will be IndieAuth. Then I\u2019ll need to start working on templating for the HTML so it\u2019s more than just an API for querying and filtering MF2 JSON."
+      }
+    ],
+    "url": [
+      "/2023/next-up-will-be-indieauth-then-ill"
+    ],
+    "published": [
+      "2023-11-13T04:21:53+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111401324622595171",
+      "https://bsky.app/profile/cleverdevil.io/post/3ke263cgkoo2n"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "8ea6124092028c6c527993eb4302ad31"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-13T04:16:49Z",
+      "year": 2023,
+      "month": 11,
+      "day": 13,
+      "hour": 4,
+      "minute": 16,
+      "x": -118.39318981687148,
+      "y": 33.86507847979941,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

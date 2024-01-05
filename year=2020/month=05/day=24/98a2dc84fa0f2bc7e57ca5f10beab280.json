@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/379-the-everythings-ok-alarm"
+    ],
+    "published": [
+      "2020-05-24T17:18:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.89\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.89\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.89\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/379-the-everythings-ok-alarm/annotations/d01e9d87065dcba5157d4dd027c93085"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/379-the-everythings-ok-alarm/annotations/d01e9d87065dcba5157d4dd027c93085"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "98a2dc84fa0f2bc7e57ca5f10beab280"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-24T20:03:04Z",
+      "year": 2020,
+      "month": 5,
+      "day": 24,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.3704891020277,
+      "y": 33.81524097370987,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 379: The Everything\u2019s OK Alarm"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9411291b31980f0512f057e0efa1a907/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DVsdKvE"
+        ],
+        "content": [
+          {
+            "html": "<p>Our business, the promo-code scammer\u2019s business, Spotify\u2019s business, and Joe Rogan\u2019s business.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Our business, the promo-code scammer\u2019s business, Spotify\u2019s business, and Joe Rogan\u2019s business.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

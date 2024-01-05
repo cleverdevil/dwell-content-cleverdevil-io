@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-234-photo-manage-spotify-out-of-existence"
+    ],
+    "published": [
+      "2019-03-15T15:55:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 40% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 40% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 40% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-234-photo-manage-spotify-out-of-existence/annotations/3c545f8c3f6cdc15c1a77f9a68e6231c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-234-photo-manage-spotify-out-of-existence/annotations/3c545f8c3f6cdc15c1a77f9a68e6231c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d785726ad9d642b27b081e7226273ac3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-15T16:00:17Z",
+      "year": 2019,
+      "month": 3,
+      "day": 15,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.3703538132524,
+      "y": 33.81543990157285,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 234: Photo Manage Spotify Out of Existence"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4c0ebe03362406adddec12735631b6b5/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7y1nA4"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen introduces his co-hosts to a groundbreaking iPad drawing application, Federico starts a new mini-series and Myke buries the lede concerning Spotify.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen introduces his co-hosts to a groundbreaking iPad drawing application, Federico starts a new mini-series and Myke buries the lede concerning Spotify.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

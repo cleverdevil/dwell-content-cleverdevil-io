@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Captain Toad: Treasure Tracker\nPlayed on the Nintendo Switch.\nPlayed for 30 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/dd162e8166830a7134c703a0a8a10e86/thumb.jpg"
+    ],
+    "name": [
+      "Captain Toad: Treasure Tracker"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 30 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 30 minutes."
+      }
+    ],
+    "url": [
+      "/2019/captain-toad-treasure-tracker-10"
+    ],
+    "published": [
+      "2019-05-07T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 57.12\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 57.12\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 57.12\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/captain-toad-treasure-tracker-10/annotations/e0664378726f65af9996e55a0c8357e4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/captain-toad-treasure-tracker-10/annotations/e0664378726f65af9996e55a0c8357e4"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "d3bb8c8790baecbb1734cee5c8942c1e"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://diggingthedigital.com/2754-2/"
+          ],
+          "published": [
+            "2019-05-07T12:45:58+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Frank Meeuwsen"
+                ],
+                "url": [
+                  "https://diggingthedigital.com/author/frank-meeuwsen/"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Frank Meeuwsen"
+            }
+          ]
+        },
+        "value": "Frank Meeuwsen"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-07T08:00:15Z",
+      "year": 2019,
+      "month": 5,
+      "day": 7,
+      "hour": 8,
+      "minute": 0,
+      "x": -118.37052904922513,
+      "y": 33.81529466452602,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9700000286102295,
+      "wifi": "LaCour"
+    }
+  }
+}

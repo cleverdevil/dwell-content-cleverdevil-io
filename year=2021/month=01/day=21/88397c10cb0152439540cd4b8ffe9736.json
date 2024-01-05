@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/335-repudiation-of-a-decade"
+    ],
+    "published": [
+      "2021-01-21T08:26:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "88397c10cb0152439540cd4b8ffe9736"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-21T08:28:28Z",
+      "year": 2021,
+      "month": 1,
+      "day": 21,
+      "hour": 8,
+      "minute": 28,
+      "x": -118.37054944693001,
+      "y": 33.81531794227013,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 335: Repudiation of a Decade"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cf30ac782f103145e98e17509f9aa5df/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9ch2EQ"
+        ],
+        "content": [
+          {
+            "html": "<p>A half-sized Mac Pro? No more Touch Bar? MagSafe is coming back? A consumer Apple display? This week Jason and Myke are partying like it\u2019s 2015 as they analyze all the reports about new Macs coming later this year.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "A half-sized Mac Pro? No more Touch Bar? MagSafe is coming back? A consumer Apple display? This week Jason and Myke are partying like it\u2019s 2015 as they analyze all the reports about new Macs coming later this year.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Columbia Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Columbia Park"
+          ],
+          "latitude": [
+            "33.860546921796"
+          ],
+          "longitude": [
+            "-118.34490784675"
+          ]
+        },
+        "value": "Columbia Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Columbia Park"
+          ],
+          "latitude": [
+            "33.860546921796"
+          ],
+          "longitude": [
+            "-118.34490784675"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Soccer and margaritas!</p>",
+        "value": "Soccer and margaritas!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-columbia-park-1"
+    ],
+    "published": [
+      "2017-04-09T20:15:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta.</p>",
+              "value": "Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a8f5172ccaba2b07652534e13581523c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ea964c37318131f363e764/d8003beac1c1a6b3e2048e7ffe180bfc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ea964c37318131f363e764/d8003beac1c1a6b3e2048e7ffe180bfc"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Two of the players got in a collision and one of them is headed to the hospital in an ambulance. No fun!"
+          ],
+          "content": [
+            {
+              "html": "<p>Two of the players got in a collision and one of them is headed to the hospital in an ambulance. No fun!</p>",
+              "value": "Two of the players got in a collision and one of them is headed to the hospital in an ambulance. No fun!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/74125dd4fa1d2dce4ddc47763b783fe3"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io/"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ea964c37318131f363e764/58ea97b97220e66e124d40da"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ea964c37318131f363e764/58ea97b97220e66e124d40da"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58ea964c37318131f363e764"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "11042b756ac47ecdda272bc0e7f221e8"
+    ]
+  }
+}

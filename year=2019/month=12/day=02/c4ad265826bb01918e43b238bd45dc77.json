@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/07-an-almost-religious-awe"
+    ],
+    "published": [
+      "2019-12-02T20:45:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 54.81\u00b0F and 39% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 54.81\u00b0F and 39% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 54.81\u00b0F and 39% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/07-an-almost-religious-awe/annotations/69ecdc4a48a9943445b0b95a3411c01c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/07-an-almost-religious-awe/annotations/69ecdc4a48a9943445b0b95a3411c01c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c4ad265826bb01918e43b238bd45dc77"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-03T00:01:57Z",
+      "year": 2019,
+      "month": 12,
+      "day": 3,
+      "hour": 0,
+      "minute": 1,
+      "x": -115.14591395584695,
+      "y": 36.10042974094515,
+      "altitude": 625,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 07. An Almost Religious Awe"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file//thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+VJ9HDFO1U"
+        ],
+        "content": [
+          {
+            "html": "<p>Episode seven keeps the gang divided! What does Dr Manhattan\u2019s (possible) return mean to the plots of the Seventh Calvary and Lady Trieu? Also: a game is played based on memory! TopgallantRadio.com - Radio for sailors</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Watchmen: On the Clock</p>",
+            "value": "Episode seven keeps the gang divided! What does Dr Manhattan\u2019s (possible) return mean to the plots of the Seventh Calvary and Lady Trieu? Also: a game is played based on memory! TopgallantRadio.com - Radio for sailors\nBy Watchmen: On the Clock"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

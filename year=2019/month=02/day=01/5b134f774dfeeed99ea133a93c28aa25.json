@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched The Good Place 3x12 \"Pandemonium\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/1830224285f5ab6c808f07f830e643cd/thumb.jpg"
+          ],
+          "name": [
+            "The Good Place 3x12 \"Pandemonium\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3113045"
+          ]
+        },
+        "value": "The Good Place 3x12 \"Pandemonium\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Various events occur, in a certain specific order.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Various events occur, in a certain specific order.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/the-good-place-3x12-pandemonium"
+    ],
+    "published": [
+      "2019-02-01T06:30:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 54.44\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 54.44\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 54.44\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-good-place-3x12-pandemonium/annotations/5e4827ef1b3d55a1ffbe893865fcfa64"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-good-place-3x12-pandemonium/annotations/5e4827ef1b3d55a1ffbe893865fcfa64"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "5b134f774dfeeed99ea133a93c28aa25"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-01T06:25:09Z",
+      "year": 2019,
+      "month": 2,
+      "day": 1,
+      "hour": 6,
+      "minute": 25,
+      "x": -118.3702415788171,
+      "y": 33.8155085197596,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3400000035762787,
+      "wifi": "LaCour"
+    }
+  }
+}

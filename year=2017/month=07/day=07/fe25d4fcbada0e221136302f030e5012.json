@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sacks On The Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": "Sacks On The Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch</p>",
+        "value": "Lunch"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sacks-on-the-beach-4"
+    ],
+    "published": [
+      "2017-07-07T19:52:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Sacks On The Beach 5 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Sacks On The Beach 5 times!</p>",
+              "value": "Wow! You've checked in to Sacks On The Beach 5 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/8ffee0f8fd5ac47472bb396f48752557"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595fe67f72475010e83bbf3d/76b594ae2ac2778ddf37e85347e7d2dd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595fe67f72475010e83bbf3d/76b594ae2ac2778ddf37e85347e7d2dd"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 30 check-ins at Breakfast Spots!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 30 check-ins at Breakfast Spots!</p>",
+              "value": "Wow! That's 30 check-ins at Breakfast Spots!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e06d24bd5d43d5109631a48e630cb1b3"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595fe67f72475010e83bbf3d/1f6452daadb9d36e2853c2e25bad0666"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595fe67f72475010e83bbf3d/1f6452daadb9d36e2853c2e25bad0666"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595fe67f72475010e83bbf3d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fe25d4fcbada0e221136302f030e5012"
+    ]
+  }
+}

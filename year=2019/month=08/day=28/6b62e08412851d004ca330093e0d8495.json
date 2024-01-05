@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-260-its-not-just-a-desk"
+    ],
+    "published": [
+      "2019-08-28T16:01:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.98\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.98\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.98\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-260-its-not-just-a-desk/annotations/4439bc2c9ca588111dd990cdd89b040c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-260-its-not-just-a-desk/annotations/4439bc2c9ca588111dd990cdd89b040c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6b62e08412851d004ca330093e0d8495"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-28T15:59:57Z",
+      "year": 2019,
+      "month": 8,
+      "day": 28,
+      "hour": 15,
+      "minute": 59,
+      "x": -118.37043365322099,
+      "y": 33.815391142272695,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 260: It\u2019s Not Just a Desk"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5b6b6b3a40d60ea10610100546f47321/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-EUad0"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason and Myke can\u2019t agree on the definition of \u201clemonade\u201d but they\u2019re together in Jason\u2019s office this week to discuss the impending iPhone event and reflect on nearly five years of independence and Upgrade.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason and Myke can\u2019t agree on the definition of \u201clemonade\u201d but they\u2019re together in Jason\u2019s office this week to discuss the impending iPhone event and reflect on nearly five years of independence and Upgrade.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

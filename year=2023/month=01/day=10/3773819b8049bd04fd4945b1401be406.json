@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/case-sera-sera"
+    ],
+    "published": [
+      "2023-01-10T16:42:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3773819b8049bd04fd4945b1401be406"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-08T22:56:17Z",
+      "year": 2023,
+      "month": 1,
+      "day": 8,
+      "hour": 22,
+      "minute": 56,
+      "x": -118.37048197319358,
+      "y": 33.81533438820698,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Case Sera, Sera"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/78ba7576fcb1149a0caabb9dbe705cae/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1QTPPA"
+        ],
+        "content": [
+          {
+            "html": "<p>Gillian brings the case against her friend, Courtney. Sometimes Gillian will say that something was \u201cmeant to be.\u201d Courtney bristles at this idea. Gillian wants Courtney to just let her believe what she wants. But Courtney doesn\u2019t think that Gillian truly believes in destiny! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Gillian brings the case against her friend, Courtney. Sometimes Gillian will say that something was \u201cmeant to be.\u201d Courtney bristles at this idea. Gillian wants Courtney to just let her believe what she wants. But Courtney doesn\u2019t think that Gillian truly believes in destiny! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

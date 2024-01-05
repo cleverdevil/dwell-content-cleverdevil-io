@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/under-the-radar-141-implementing-search"
+    ],
+    "published": [
+      "2018-09-23T15:30:33+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9bec2a806213a883f0d59a16666e4da0"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Under the Radar 141: Implementing Search"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8911e58ed4346b6fc8d96282339e4ccc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FgnZEbpYc"
+        ],
+        "content": [
+          {
+            "html": "<p>Concepts and considerations for implementing full-text search in your app, with examples from Overcast 5.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Under the Radar</p>",
+            "value": "Concepts and considerations for implementing full-text search in your app, with examples from Overcast 5.\nBy Under the Radar"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

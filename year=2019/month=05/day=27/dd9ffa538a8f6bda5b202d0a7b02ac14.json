@@ -1,0 +1,261 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Manton Reece on Twitter: \"Disappointed that Ghost created a custom posting API instead of adopting Micropub, which is a W3C recommendation. It\u2019s okay to have Ghost-only APIs as long as you start with standards as a baseline. Now we have fragmented client apps."
+    ],
+    "repost-of": [
+      "https://twitter.com/manton2/status/1133041254877597701"
+    ],
+    "url": [
+      "/2019/manton-reece-on-twitter-disappointed-that-ghost-created-a-custom"
+    ],
+    "published": [
+      "2019-05-27T16:59:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.16\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.16\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.16\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/manton-reece-on-twitter-disappointed-that-ghost-created-a-custom/annotations/ec4396c8a83246aedebc177c927bad7b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/manton-reece-on-twitter-disappointed-that-ghost-created-a-custom/annotations/ec4396c8a83246aedebc177c927bad7b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Link doesn't work."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Link doesn't work.</p>",
+              "value": "@cleverdevil Link doesn't work."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9lOTcxMmRhZmUxYjYxY2YwMTNiNTllYTc1NmY5YjNlZD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Ron"
+                ],
+                "url": [
+                  "https://micro.blog/Ron"
+                ]
+              },
+              "value": "Ron"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Ron/3762203"
+          ]
+        },
+        "value": "https://micro.blog/Ron/3762203"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Ron strange! The link to my site works for me, which should link off to Twitter okay."
+          ],
+          "content": [
+            {
+              "html": "<p>@Ron strange! The link to my site works for me, which should link off to Twitter okay.</p>",
+              "value": "@Ron strange! The link to my site works for me, which should link off to Twitter okay."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/3762207"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/3762207"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil The Twitter link seems to contain the end of quote \u201c encoded as %22."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil The Twitter link seems to contain the end of quote \u201c encoded as %22.</p>",
+              "value": "@cleverdevil The Twitter link seems to contain the end of quote \u201c encoded as %22."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2Z1cnN0ZW5iZXJnL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "furstenberg"
+                ],
+                "url": [
+                  "https://micro.blog/furstenberg"
+                ]
+              },
+              "value": "furstenberg"
+            }
+          ],
+          "url": [
+            "https://micro.blog/furstenberg/3762315"
+          ]
+        },
+        "value": "https://micro.blog/furstenberg/3762315"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@furstenberg hmm, must be something in the Twitter syndication plugin for my CMS."
+          ],
+          "content": [
+            {
+              "html": "<p>@furstenberg hmm, must be something in the Twitter syndication plugin for my CMS.</p>",
+              "value": "@furstenberg hmm, must be something in the Twitter syndication plugin for my CMS."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/3762388"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/3762388"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1133055065319624712"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "dd9ffa538a8f6bda5b202d0a7b02ac14"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-27T16:54:31Z",
+      "year": 2019,
+      "month": 5,
+      "day": 27,
+      "hour": 16,
+      "minute": 54,
+      "x": -118.37036303137235,
+      "y": 33.81540465137723,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "LaCour"
+    }
+  }
+}

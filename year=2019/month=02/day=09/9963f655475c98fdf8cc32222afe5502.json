@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Any Micro.blog users that were noticing problems with my micromemories project for creating an \"On This Day\" page, I finally tracked down the issue and deployed a fix. Let me know if you still run into issues!"
+    ],
+    "content": [
+      {
+        "html": "Any Micro.blog users that were noticing problems with my micromemories project for creating an \"On This Day\" page, I finally tracked down the issue and deployed a fix. Let me know if you still run into issues!",
+        "value": "Any Micro.blog users that were noticing problems with my micromemories project for creating an \"On This Day\" page, I finally tracked down the issue and deployed a fix. Let me know if you still run into issues!"
+      }
+    ],
+    "url": [
+      "/2019/any-microblog-users-that-were-noticing-problems"
+    ],
+    "published": [
+      "2019-02-09T21:35:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.84\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.84\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.84\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/any-microblog-users-that-were-noticing-problems/annotations/f105eb7c43a5eb44790561d016731028"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/any-microblog-users-that-were-noticing-problems/annotations/f105eb7c43a5eb44790561d016731028"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1094349117797617667"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "9963f655475c98fdf8cc32222afe5502"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1094349117797617667?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1094349117797617667%2F67930145"
+          ],
+          "published": [
+            "2019-02-09T22:32:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "KB"
+                ],
+                "url": [
+                  "https://twitter.com/economyofspace"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2NTMwMTQ4NTAyOTk1NzYzMi9NRTBzeWFQRS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2NTMwMTQ4NTAyOTk1NzYzMi9NRTBzeWFQRS5qcGc,/300/square KB"
+            }
+          ]
+        },
+        "value": "KB"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-09T21:34:05Z",
+      "year": 2019,
+      "month": 2,
+      "day": 9,
+      "hour": 21,
+      "minute": 34,
+      "x": -118.37028699605814,
+      "y": 33.8154042940643,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": "LaCour"
+    }
+  }
+}

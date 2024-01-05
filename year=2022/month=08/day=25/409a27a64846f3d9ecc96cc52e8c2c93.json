@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/497-the-hotness-has-to-go-somewhere"
+    ],
+    "published": [
+      "2022-08-25T17:23:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "409a27a64846f3d9ecc96cc52e8c2c93"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-25T20:03:33Z",
+      "year": 2022,
+      "month": 8,
+      "day": 25,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.38041122277265,
+      "y": 33.701649611820194,
+      "altitude": 127,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 497: The Hotness Has to Go Somewhere"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2c28769d0b57f89ac65d1ec0602c345e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfcrvHuA"
+        ],
+        "content": [
+          {
+            "html": "<p>Only on this podcast can a host \u201cget new wheels\u201d and not be referring to an entire vehicle.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "Only on this podcast can a host \u201cget new wheels\u201d and not be referring to an entire vehicle.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

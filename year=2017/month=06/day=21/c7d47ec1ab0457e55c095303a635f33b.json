@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Public School 213"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Public School 213"
+          ],
+          "latitude": [
+            "34.04981724"
+          ],
+          "longitude": [
+            "-118.2576729"
+          ]
+        },
+        "value": "Public School 213"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Public School 213"
+          ],
+          "latitude": [
+            "34.04981724"
+          ],
+          "longitude": [
+            "-118.2576729"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch with Dan.</p>",
+        "value": "Lunch with Dan."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-public-school-213"
+    ],
+    "published": [
+      "2017-06-21T18:57:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Tasty sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Tasty sticker bonus!</p>",
+              "value": "Tasty sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bc9fa434fce773c5759c17927b2f911d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594ac16ec0cacb3c939dd7a3/2258be12437aeafc759f83b60c5cab18"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594ac16ec0cacb3c939dd7a3/2258be12437aeafc759f83b60c5cab18"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594ac16ec0cacb3c939dd7a3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c7d47ec1ab0457e55c095303a635f33b"
+    ]
+  }
+}

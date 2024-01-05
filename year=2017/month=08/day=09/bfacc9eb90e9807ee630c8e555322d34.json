@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Water Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Water Grill"
+          ],
+          "latitude": [
+            "34.049160696034"
+          ],
+          "longitude": [
+            "-118.25509774362"
+          ]
+        },
+        "value": "The Water Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Water Grill"
+          ],
+          "latitude": [
+            "34.049160696034"
+          ],
+          "longitude": [
+            "-118.25509774362"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Water Grill\" src=\"https://cleverdevil.io/file/636981f246db7f52d44bd23d07d2af22\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Partner dinner!</p>",
+        "value": "The Water Grill\nPartner dinner!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-water-grill"
+    ],
+    "published": [
+      "2017-08-09T01:27:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+          ],
+          "content": [
+            {
+              "html": "<p>Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.</p>",
+              "value": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ff965d2902ae3ef1d12e1fabba17a114"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/598a650ca6031c1145e7956b/02c9c54da903dc2ada0368f7b502f3ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/598a650ca6031c1145e7956b/02c9c54da903dc2ada0368f7b502f3ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/598a650ca6031c1145e7956b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bfacc9eb90e9807ee630c8e555322d34"
+    ]
+  }
+}

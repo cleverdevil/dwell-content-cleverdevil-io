@@ -1,0 +1,149 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Gibraltar. Breve. \u2615\ufe0f\ud83e\udd5b"
+    ],
+    "content": [
+      {
+        "html": "<div class=\"photo-view\">\n                <a data-footer=\"\" data-gallery=\"Gibraltar. Breve. \u2615\ufe0f\ud83e\udd5b\" data-original-img=\"https://cleverdevil.io/file/af41b0f518688220c93abf293780ab3e/F5CB2751-88B4-4BD9-A975-E0D3BE07E687.jpeg\" data-title=\"Gibraltar. Breve. \u2615\ufe0f\ud83e\udd5b\" href=\"https://cleverdevil.io/file/af41b0f518688220c93abf293780ab3e/F5CB2751-88B4-4BD9-A975-E0D3BE07E687.jpeg\"><img alt=\"Gibraltar. Breve. \u2615\ufe0f\ud83e\udd5b\" class=\"u-photo\" src=\"https://cleverdevil.io/file/ff69fc5bc62a29ddf9f50ada6b684a5e/thumb.jpg\"/></a>\n            </div>",
+        "value": "Gibraltar. Breve. \u2615\ufe0f\ud83e\udd5b"
+      }
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/af41b0f518688220c93abf293780ab3e/F5CB2751-88B4-4BD9-A975-E0D3BE07E687.jpeg"
+    ],
+    "url": [
+      "/2019/gibraltar-breve"
+    ],
+    "published": [
+      "2019-02-07T22:22:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 30% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 30% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 30% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/gibraltar-breve/annotations/fc2c83e405edca6013cf53224128fbe2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/gibraltar-breve/annotations/fc2c83e405edca6013cf53224128fbe2"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1093636224139620352",
+      "https://mastodon.social/@cleverdevil/101553155291177290"
+    ],
+    "post-kind": [
+      "Photo"
+    ],
+    "post-id": [
+      "4ba17d261990efff520862f5e7fd4481"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1093636224139620352?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1093636224139620352%2F63819362"
+          ],
+          "published": [
+            "2019-02-07T22:45:37+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "VM (Vicky) Brasseur"
+                ],
+                "url": [
+                  "https://twitter.com/vmbrasseur"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square VM (Vicky) Brasseur"
+            }
+          ]
+        },
+        "value": "VM (Vicky) Brasseur"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-07T22:16:46Z",
+      "year": 2019,
+      "month": 2,
+      "day": 7,
+      "hour": 22,
+      "minute": 16,
+      "x": -118.4161637848941,
+      "y": 33.91982153257156,
+      "altitude": 34,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

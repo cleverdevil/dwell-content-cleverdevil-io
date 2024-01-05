@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Origin of 8-Bit Arcade Fonts"
+    ],
+    "like-of": [
+      "https://kottke.org/20/04/the-origin-of-8-bit-arcade-fonts"
+    ],
+    "url": [
+      "/2020/the-origin-of-8-bit-arcade-fonts"
+    ],
+    "published": [
+      "2020-04-13T20:55:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/the-origin-of-8-bit-arcade-fonts/annotations/049599144e554ea85c47f6beec1a71fd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/the-origin-of-8-bit-arcade-fonts/annotations/049599144e554ea85c47f6beec1a71fd"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "bc4cd8deec220513687a01eb8896f061"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-13T20:24:41Z",
+      "year": 2020,
+      "month": 4,
+      "day": 13,
+      "hour": 20,
+      "minute": 24,
+      "x": -118.37045334975507,
+      "y": 33.81539522452943,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

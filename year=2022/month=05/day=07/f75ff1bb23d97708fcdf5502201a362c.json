@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/481-accidentally-made-it-too-good"
+    ],
+    "published": [
+      "2022-05-07T19:14:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f75ff1bb23d97708fcdf5502201a362c"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-07T19:58:51Z",
+      "year": 2022,
+      "month": 5,
+      "day": 7,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.37031304046012,
+      "y": 33.81541894810258,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 481: Accidentally Made It Too Good"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3a8b34311285296e78a062c4a553a7ef/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIhv4kE"
+        ],
+        "content": [
+          {
+            "html": "<p>John vs. technology, Marco vs. technology, and Casey vs. his walls.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John vs. technology, Marco vs. technology, and Casey vs. his walls.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

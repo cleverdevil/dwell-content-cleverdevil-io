@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I added experimental support for IndieAuth in Indiepaper today. Test it out here \u2013 https://www.indiepaper.io/indieauth.html. Once authenticated, you get an automatically generated bookmarklet and a button to click for automatically configuring Indiepaper for macOS."
+    ],
+    "content": [
+      {
+        "html": "I added experimental support for IndieAuth in Indiepaper today. Test it out here \u2013 <a href=\"https://www.indiepaper.io/indieauth.html\" target=\"_blank\">https://<wbr/>www.indiepaper.io/<wbr/>indieauth.html</a>. Once authenticated, you get an automatically generated bookmarklet and a button to click for automatically configuring Indiepaper for macOS.",
+        "value": "I added experimental support for IndieAuth in Indiepaper today. Test it out here \u2013 https://www.indiepaper.io/indieauth.html. Once authenticated, you get an automatically generated bookmarklet and a button to click for automatically configuring Indiepaper for macOS."
+      }
+    ],
+    "url": [
+      "/2018/i-added-experimental-support-for-indieauth-in"
+    ],
+    "published": [
+      "2018-07-07T20:11:16+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1015689745228279811"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "7cbcf3dd72599f4c810b7f82a967ca29"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2018/07/07/21/"
+          ],
+          "published": [
+            "2018-07-07T20:11:16+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1015689745228279811?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1015689745228279811%2F14447132"
+          ],
+          "published": [
+            "2018-07-07T20:45:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1015689745228279811?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1015689745228279811%2F14246556"
+          ],
+          "published": [
+            "2018-07-07T20:46:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Frank Karlitschek"
+                ],
+                "url": [
+                  "https://twitter.com/fkarlitschek"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMDg1ODA0ODU5MDYyMTkwMDgvaFpQN3FLN2guanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMDg1ODA0ODU5MDYyMTkwMDgvaFpQN3FLN2guanBn/300/square Frank Karlitschek"
+            }
+          ]
+        },
+        "value": "Frank Karlitschek"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1015689745228279811?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1015689745228279811%2F9571572"
+          ],
+          "published": [
+            "2018-07-08T17:47:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Adam Johnson"
+                ],
+                "url": [
+                  "https://twitter.com/adjohn"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzUzMzkyODI0MzY1NzU4ODczNi9rcHE3eGpjTS5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzUzMzkyODI0MzY1NzU4ODczNi9rcHE3eGpjTS5qcGVn/300/square Adam Johnson"
+            }
+          ]
+        },
+        "value": "Adam Johnson"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Museum of Pop Culture (MoPOP)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Museum of Pop Culture (MoPOP)"
+          ],
+          "latitude": [
+            "47.621526"
+          ],
+          "longitude": [
+            "-122.348054"
+          ]
+        },
+        "value": "Museum of Pop Culture (MoPOP)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Museum of Pop Culture (MoPOP)"
+          ],
+          "latitude": [
+            "47.621526"
+          ],
+          "longitude": [
+            "-122.348054"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-museum-of-pop-culture-mopop"
+    ],
+    "published": [
+      "2019-09-29T22:50:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Museum of Pop Culture (MoPOP)!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Museum of Pop Culture (MoPOP)!</p>",
+              "value": "Your first check-in at Museum of Pop Culture (MoPOP)!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d91353de466080008f08db1/e46e2290e55abc1a71f190aaed4870d5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d91353de466080008f08db1/e46e2290e55abc1a71f190aaed4870d5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 54.68\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 54.68\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 54.68\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-museum-of-pop-culture-mopop/annotations/3c08fd24f98be7d1182565122a299b55"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-museum-of-pop-culture-mopop/annotations/3c08fd24f98be7d1182565122a299b55"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d91353de466080008f08db1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7445a92f5fca49c8035933106c58cf47"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-29T22:46:26Z",
+      "year": 2019,
+      "month": 9,
+      "day": 29,
+      "hour": 22,
+      "minute": 46,
+      "x": -122.34879870529193,
+      "y": 47.621370593353305,
+      "altitude": 36,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.36000001430511475,
+      "wifi": ""
+    }
+  }
+}

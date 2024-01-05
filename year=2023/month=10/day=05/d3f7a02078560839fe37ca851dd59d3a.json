@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Armondos"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": "Armondos"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-armondos-7"
+    ],
+    "published": [
+      "2023-10-05T01:32:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Mexican Restaurant check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Mexican Restaurant check-in in 3 months!</p>",
+              "value": "First Mexican Restaurant check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/651e12143cf3270c258df9e8/43dfb09cad2f7f07a262643a52e96180"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/651e12143cf3270c258df9e8/43dfb09cad2f7f07a262643a52e96180"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/651e12143cf3270c258df9e8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d3f7a02078560839fe37ca851dd59d3a"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-05T01:28:56Z",
+      "year": 2023,
+      "month": 10,
+      "day": 5,
+      "hour": 1,
+      "minute": 28,
+      "x": -116.39048776065655,
+      "y": 33.719875121400214,
+      "altitude": 75,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "Smartphone_connect_cdcb42"
+    }
+  }
+}

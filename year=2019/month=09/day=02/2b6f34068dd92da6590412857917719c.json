@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Aladdin (2019)"
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/6c03448b0e9c1eec2b3fca3630ac53f6/thumb.jpg"
+          ],
+          "name": [
+            "Aladdin (2019)"
+          ],
+          "url": [
+            "https://trakt.tv/movies/aladdin-2019"
+          ]
+        },
+        "value": "Aladdin (2019)"
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/aladdin-2019"
+    ],
+    "published": [
+      "2019-09-02T05:05:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.6\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.6\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.6\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/aladdin-2019/annotations/5885498304b78b93081293bf9b12648f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/aladdin-2019/annotations/5885498304b78b93081293bf9b12648f"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "2b6f34068dd92da6590412857917719c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-02T05:03:21Z",
+      "year": 2019,
+      "month": 9,
+      "day": 2,
+      "hour": 5,
+      "minute": 3,
+      "x": -118.37028655542366,
+      "y": 33.815448204765104,
+      "altitude": 49,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.36000001430511475,
+      "wifi": "LaCour"
+    }
+  }
+}

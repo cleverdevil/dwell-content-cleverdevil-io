@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/508-later-is-getting-later-and-later"
+    ],
+    "published": [
+      "2022-11-11T17:03:16+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "45c497950fa1211867798dbe47ddb61f"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-11T02:00:50Z",
+      "year": 2022,
+      "month": 11,
+      "day": 11,
+      "hour": 2,
+      "minute": 0,
+      "x": -116.38042972582298,
+      "y": 33.7016010011756,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 508: Later Is Getting Later and Later"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/bf2f37fd2a281020feef70e3bbef1d50/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJPzUvc"
+        ],
+        "content": [
+          {
+            "html": "<p>Twitter, Apple TV setup, a \u201cnew\u201d phone and mouse, and maximizing the value of smart-home gear.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Twitter, Apple TV setup, a \u201cnew\u201d phone and mouse, and maximizing the value of smart-home gear.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

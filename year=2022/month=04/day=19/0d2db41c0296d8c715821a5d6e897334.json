@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/403-this-episode-is-forbidden"
+    ],
+    "published": [
+      "2022-04-19T07:13:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0d2db41c0296d8c715821a5d6e897334"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-19T06:46:46Z",
+      "year": 2022,
+      "month": 4,
+      "day": 19,
+      "hour": 6,
+      "minute": 46,
+      "x": -116.38036364657297,
+      "y": 33.70172115815711,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 403: This Episode is Forbidden"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2a879e8bc3d2f2f88bbf20db8c8058bb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9-RMm4"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we\u2019re imagining the right and wrong improvements for the Apple Watch, speculating about the first wave of M2 Macs, lamenting Apple\u2019s process for replacing a defective product, and buzzing (in a bad way) about CNN+.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we\u2019re imagining the right and wrong improvements for the Apple Watch, speculating about the first wave of M2 Macs, lamenting Apple\u2019s process for replacing a defective product, and buzzing (in a bad way) about CNN+.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

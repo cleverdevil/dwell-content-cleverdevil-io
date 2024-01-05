@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mozilla San Francisco"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla San Francisco"
+          ],
+          "latitude": [
+            "37.789612990711"
+          ],
+          "longitude": [
+            "-122.38882090127"
+          ]
+        },
+        "value": "Mozilla San Francisco"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla San Francisco"
+          ],
+          "latitude": [
+            "37.789612990711"
+          ],
+          "longitude": [
+            "-122.38882090127"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Homebrew Website Club!</p>",
+        "value": "Homebrew Website Club!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-mozilla-san-francisco"
+    ],
+    "published": [
+      "2018-04-05T00:34:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Mozilla San Francisco!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Mozilla San Francisco!</p>",
+              "value": "Your first check-in at Mozilla San Francisco!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ac56f25872f7d002b6ad6ea/b1d4e29693a6c4603036d9c828f7ecf7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ac56f25872f7d002b6ad6ea/b1d4e29693a6c4603036d9c828f7ecf7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Rincon Hill was in June '17 at Terra Gallery & Event Space."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Rincon Hill was in June '17 at Terra Gallery &amp; Event Space.</p>",
+              "value": "Your last check-in in Rincon Hill was in June '17 at Terra Gallery & Event Space."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ac56f25872f7d002b6ad6ea/e72f5c33d7ba0b55360464777bce9b63"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ac56f25872f7d002b6ad6ea/e72f5c33d7ba0b55360464777bce9b63"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ac56f25872f7d002b6ad6ea"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bd605682112da1beb447ba3bba80f22f"
+    ]
+  }
+}

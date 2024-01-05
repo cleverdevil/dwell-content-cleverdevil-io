@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into South Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "South Park"
+          ],
+          "latitude": [
+            "33.857070092739"
+          ],
+          "longitude": [
+            "-118.39533448219"
+          ]
+        },
+        "value": "South Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "South Park"
+          ],
+          "latitude": [
+            "33.857070092739"
+          ],
+          "longitude": [
+            "-118.39533448219"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Picnic!</p>",
+        "value": "Picnic!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-south-park"
+    ],
+    "published": [
+      "2017-07-20T02:38:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/17c5ad11747cb733cae2b564d1843825"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597017a5acb00b3db26a5a69/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597017a5acb00b3db26a5a69/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "The Great Outdoors sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>The Great Outdoors sticker bonus!</p>",
+              "value": "The Great Outdoors sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1e156fd0582fa3a44694f49a4a1125b5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597017a5acb00b3db26a5a69/f0053aaab457cba55c70f286142ec44a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597017a5acb00b3db26a5a69/f0053aaab457cba55c70f286142ec44a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597017a5acb00b3db26a5a69"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "eb9b17e78c5daf044c5a3a9bfdd03014"
+    ]
+  }
+}

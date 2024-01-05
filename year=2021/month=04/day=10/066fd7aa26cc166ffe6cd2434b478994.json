@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/425-hey-billionaire"
+    ],
+    "published": [
+      "2021-04-10T07:01:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "066fd7aa26cc166ffe6cd2434b478994"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-10T07:37:04Z",
+      "year": 2021,
+      "month": 4,
+      "day": 10,
+      "hour": 7,
+      "minute": 37,
+      "x": -118.37054517943236,
+      "y": 33.815342112970455,
+      "altitude": 55,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "charging",
+      "battery_level": 0.28999999165534973,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 425: Hey Billionaire"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/033125158d54abcc14b780d66fd81416/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJtFpKE"
+        ],
+        "content": [
+          {
+            "html": "<p>Oracle v. Google, Tim Cook\u2019s interview, the next Apple CEO, and BMW vs. CarPlay.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Oracle v. Google, Tim Cook\u2019s interview, the next Apple CEO, and BMW vs. CarPlay.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

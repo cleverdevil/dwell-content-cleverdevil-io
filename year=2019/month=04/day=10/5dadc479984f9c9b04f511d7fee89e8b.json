@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-122-video-hosting"
+    ],
+    "published": [
+      "2019-04-10T18:54:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.72\u00b0F and 33% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.72\u00b0F and 33% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.72\u00b0F and 33% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-122-video-hosting/annotations/5645d8be9881b84c786020f1abdbe744"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-122-video-hosting/annotations/5645d8be9881b84c786020f1abdbe744"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5dadc479984f9c9b04f511d7fee89e8b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-10T20:02:02Z",
+      "year": 2019,
+      "month": 4,
+      "day": 10,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37036124827421,
+      "y": 33.81540881873401,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 122: Video hosting"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cac6fd5f83f28680a6dc444f5e4968c2/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18c7lvrc"
+        ],
+        "content": [
+          {
+            "html": "<p>Rolling out video upload and hosting for Micro.blog-hosted sites, why it\u2019s priced the way it is, and more improvements to work on.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "Rolling out video upload and hosting for Micro.blog-hosted sites, why it\u2019s priced the way it is, and more improvements to work on.\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

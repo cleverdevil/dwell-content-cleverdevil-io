@@ -1,0 +1,110 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://mrkapowski.com/2019/07/8826.html"
+    ],
+    "name": [
+      "Great question! I talk to Aperture via the Microsub API. You can check out the code that I use here: https://github.com/cleverdevil/CleverCustomize/blob/master/Pages/Following.php"
+    ],
+    "content": [
+      {
+        "html": "Great question! I talk to Aperture via the Microsub API. You can check out the code that I use here: <a href=\"https://github.com/cleverdevil/CleverCustomize/blob/master/Pages/Following.php\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>CleverCustomize/<wbr/>blob/<wbr/>master/<wbr/>Pages/<wbr/>Following.php</a>",
+        "value": "Great question! I talk to Aperture via the Microsub API. You can check out the code that I use here: https://github.com/cleverdevil/CleverCustomize/blob/master/Pages/Following.php"
+      }
+    ],
+    "url": [
+      "/2019/great-question-i-talk-to-aperture-via"
+    ],
+    "published": [
+      "2019-07-03T18:58:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.96\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.96\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.96\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/great-question-i-talk-to-aperture-via/annotations/2e4355217ea4f9015205eb900b24a509"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/great-question-i-talk-to-aperture-via/annotations/2e4355217ea4f9015205eb900b24a509"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "3999adbf62878b237bc955cf867b28e4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-03T18:48:55Z",
+      "year": 2019,
+      "month": 7,
+      "day": 3,
+      "hour": 18,
+      "minute": 48,
+      "x": -118.37031349031184,
+      "y": 33.81541426355496,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  }
+}

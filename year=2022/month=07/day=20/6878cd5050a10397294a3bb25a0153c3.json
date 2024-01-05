@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/pico-de-trial"
+    ],
+    "published": [
+      "2022-07-20T07:00:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6878cd5050a10397294a3bb25a0153c3"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-20T07:04:18Z",
+      "year": 2022,
+      "month": 7,
+      "day": 20,
+      "hour": 7,
+      "minute": 4,
+      "x": -116.38034320893811,
+      "y": 33.70174128358056,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5099999904632568,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Pico de Trial"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ce66a219fc3cb579f49e86409b423cd8/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2L9tjU"
+        ],
+        "content": [
+          {
+            "html": "<p>Andrew brings the case against his wife, Marilyn. Marilyn is entering a salsa competition at her work. When Andrew noticed her browsing the internet for potential salsa recipes, he accused her of cheating. But Marilyn doesn\u2019t see the problem. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Andrew brings the case against his wife, Marilyn. Marilyn is entering a salsa competition at her work. When Andrew noticed her browsing the internet for potential salsa recipes, he accused her of cheating. But Marilyn doesn\u2019t see the problem. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

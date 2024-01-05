@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into JOEY Manhattan Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JOEY Manhattan Beach"
+          ],
+          "latitude": [
+            "33.8982526"
+          ],
+          "longitude": [
+            "-118.395827"
+          ]
+        },
+        "value": "JOEY Manhattan Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JOEY Manhattan Beach"
+          ],
+          "latitude": [
+            "33.8982526"
+          ],
+          "longitude": [
+            "-118.395827"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-joey-manhattan-beach"
+    ],
+    "published": [
+      "2023-09-03T20:59:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at JOEY Manhattan Beach!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at JOEY Manhattan Beach!</p>",
+              "value": "Your first check-in at JOEY Manhattan Beach!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64f4f39918d36d72301bf17f/7352e64d605436e88ac561b197e34190"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64f4f39918d36d72301bf17f/7352e64d605436e88ac561b197e34190"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64f4f39918d36d72301bf17f/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64f4f39918d36d72301bf17f/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64f4f39918d36d72301bf17f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "65ce5d17c649a636b24af6a0931baef4"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-03T20:23:16Z",
+      "year": 2023,
+      "month": 9,
+      "day": 3,
+      "hour": 20,
+      "minute": 23,
+      "x": -118.39507223767986,
+      "y": 33.899406394959016,
+      "altitude": 44,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  }
+}

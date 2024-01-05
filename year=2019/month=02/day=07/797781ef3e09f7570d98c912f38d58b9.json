@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Manton Reece \u2013\u00a0\"For the last few weeks, Micro.blog has been running with support for both Jekyll and Hugo templates on the backend...\""
+    ],
+    "like-of": [
+      "https://www.manton.org/2019/02/07/for-the-last.html"
+    ],
+    "url": [
+      "/2019/manton-reece---1"
+    ],
+    "published": [
+      "2019-02-07T18:12:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.92\u00b0F and 38% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.92\u00b0F and 38% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.92\u00b0F and 38% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/manton-reece---1/annotations/87bab491322448785207aa3f729b5c1d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/manton-reece---1/annotations/87bab491322448785207aa3f729b5c1d"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101552168847718888"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "797781ef3e09f7570d98c912f38d58b9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-07T18:07:57Z",
+      "year": 2019,
+      "month": 2,
+      "day": 7,
+      "hour": 18,
+      "minute": 7,
+      "x": -118.4114641267839,
+      "y": 33.91744368704376,
+      "altitude": 28,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "Mission"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Electron is flash for the desktop"
+    ],
+    "bookmark-of": [
+      "https://josephg.com/blog/electron-is-flash-for-the-desktop/"
+    ],
+    "content": [
+      {
+        "html": "<p>Great article by Joseph Gentle on the rise of <a href=\"http://electron.atom.io/\">Electron</a>\u00a0for building \"native apps\" for the desktop. Electron certainly makes it easier to leverage existing web application work to create desktop experiences, but the tradeoffs are significant.</p><p>I'm a big believer in <a href=\"http://slack.com\">Slack</a>, and use it on a daily basis, but as a result of it being built on top of Electron, its a huge resource hog, provides little integration with the operating system, and doesn't feel particularly native at all.</p><p>Joseph is careful to point the blame where it belongs:</p><blockquote><p>To be clear, javascript on the desktop isn't the problem. In fact, I think the APIs work with in the modern web are way better than the APIs that exist on desktop. We should use them....</p><p>Developers don't let friends write electron apps. If you want to use JS and react to make a native app, try <a href=\"https://facebook.github.io/react-native/\">react native</a>\u00a0instead. Its like electron, but you don't need to distribute a copy of chrome to all your users, and we don't need to run another copy of chrome to use your app. It turns out modern operating systems already have nice, fast UI libraries. So use them you clod!</p></blockquote><p>The open web is important, and web technologies are fantastic. Leverage them for your desktop experiences, but be smart. Use the REST APIs that you've built. Share JavaScript code, where reasonable and possible. Hell, you can even write your entire app in JavaScript, but don't forget about your users and their experience.</p><p>Joseph summarizes his recommendations\u00a0nicely:</p><blockquote><p><strong>Users</strong>: Please complain more about slow programs. Its 2016. We carry supercomputers in our pockets. Its simply not ok for apps to be sluggish.</p><p><strong>Developers</strong>: Performance matters. Memory usage matters. I don't care if you're the prettiest girl at the dance, slack. I quit you the moment I walk out of the office. I delete you from my computer when I can. Slow is a bug. The fastest program is the one you don't run. So stop embedding the entirety of chrome in your app.</p><p><strong>Also all you web devs</strong>: Go learn C or Rust or something. Your program runs on a computer. Until you know how that computer works, you're doomed. And until then get off my lawn shakes fist.</p></blockquote><p>This reminds me so much of the early days of the \"write once, run everywhere\" Java zealotry. \"Computers are fast now! Don't worry about taking up memory or CPU!\" Get off my lawn, <em>indeed</em>.</p>",
+        "value": "Great article by Joseph Gentle on the rise of Electron\u00a0for building \"native apps\" for the desktop. Electron certainly makes it easier to leverage existing web application work to create desktop experiences, but the tradeoffs are significant.\nI'm a big believer in Slack, and use it on a daily basis, but as a result of it being built on top of Electron, its a huge resource hog, provides little integration with the operating system, and doesn't feel particularly native at all.\nJoseph is careful to point the blame where it belongs:\nTo be clear, javascript on the desktop isn't the problem. In fact, I think the APIs work with in the modern web are way better than the APIs that exist on desktop. We should use them....\nDevelopers don't let friends write electron apps. If you want to use JS and react to make a native app, try react native\u00a0instead. Its like electron, but you don't need to distribute a copy of chrome to all your users, and we don't need to run another copy of chrome to use your app. It turns out modern operating systems already have nice, fast UI libraries. So use them you clod!\nThe open web is important, and web technologies are fantastic. Leverage them for your desktop experiences, but be smart. Use the REST APIs that you've built. Share JavaScript code, where reasonable and possible. Hell, you can even write your entire app in JavaScript, but don't forget about your users and their experience.\nJoseph summarizes his recommendations\u00a0nicely:\nUsers: Please complain more about slow programs. Its 2016. We carry supercomputers in our pockets. Its simply not ok for apps to be sluggish.\nDevelopers: Performance matters. Memory usage matters. I don't care if you're the prettiest girl at the dance, slack. I quit you the moment I walk out of the office. I delete you from my computer when I can. Slow is a bug. The fastest program is the one you don't run. So stop embedding the entirety of chrome in your app.\nAlso all you web devs: Go learn C or Rust or something. Your program runs on a computer. Until you know how that computer works, you're doomed. And until then get off my lawn shakes fist.\nThis reminds me so much of the early days of the \"write once, run everywhere\" Java zealotry. \"Computers are fast now! Don't worry about taking up memory or CPU!\" Get off my lawn, indeed."
+      }
+    ],
+    "url": [
+      "/2017/electron-is-flash-for-the-desktop"
+    ],
+    "published": [
+      "2017-04-11T20:56:26+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/851901780862619648"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "5197df599a2f808197a930fbb9410e7a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/851901780862619648?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F851901780862619648%2F11989152"
+          ],
+          "published": [
+            "2017-04-11T21:27:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris Moyer"
+                ],
+                "url": [
+                  "https://twitter.com/kopertop"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file//thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file//thumb.jpg Chris Moyer"
+            }
+          ]
+        },
+        "value": "Chris Moyer"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/851901780862619648?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F851901780862619648%2F1537525484"
+          ],
+          "published": [
+            "2017-04-12T00:36:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nolan Leake"
+                ],
+                "url": [
+                  "https://twitter.com/NolanCumulus"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file//thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file//thumb.jpg Nolan Leake"
+            }
+          ]
+        },
+        "value": "Nolan Leake"
+      }
+    ]
+  }
+}

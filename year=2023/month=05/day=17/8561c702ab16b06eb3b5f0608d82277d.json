@@ -1,0 +1,103 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I returned from Vegas on Monday night, and I am still feeling it. The dry air and pervasive second hand smoke always do a number on me."
+    ],
+    "content": [
+      {
+        "html": "I returned from Vegas on Monday night, and I am still feeling it. The dry air and pervasive second hand smoke always do a number on me.",
+        "value": "I returned from Vegas on Monday night, and I am still feeling it. The dry air and pervasive second hand smoke always do a number on me."
+      }
+    ],
+    "url": [
+      "/2023/i-returned-from-vegas-on-monday-night"
+    ],
+    "published": [
+      "2023-05-17T17:34:29+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110385225394784771",
+      "https://bsky.app/profile/cleverdevil.io/post/3jvwwgumjb224"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "8561c702ab16b06eb3b5f0608d82277d"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/110385225394784771#favorited-by-109589468921805700"
+          ],
+          "published": [
+            "2023-05-17T18:10:23+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "idallas!"
+                ],
+                "url": [
+                  "https://indieweb.social/@idallas"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81ODkvNDY4LzkyMS84MDUvNzAwL29yaWdpbmFsL2I1MjU1ZmI3ZWFhNzZkNGYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81ODkvNDY4LzkyMS84MDUvNzAwL29yaWdpbmFsL2I1MjU1ZmI3ZWFhNzZkNGYuanBn/300/square idallas!"
+            }
+          ]
+        },
+        "value": "idallas!"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

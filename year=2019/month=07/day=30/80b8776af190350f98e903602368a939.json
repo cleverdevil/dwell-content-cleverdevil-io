@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-109-my-self-hypnosis-period"
+    ],
+    "published": [
+      "2019-07-30T14:42:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.94\u00b0F and 90% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.94\u00b0F and 90% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.94\u00b0F and 90% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-109-my-self-hypnosis-period/annotations/8b3bcde513c2fe713d5ec68120267911"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-109-my-self-hypnosis-period/annotations/8b3bcde513c2fe713d5ec68120267911"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "80b8776af190350f98e903602368a939"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-30T16:01:16Z",
+      "year": 2019,
+      "month": 7,
+      "day": 30,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.39560036749936,
+      "y": 33.91961390524557,
+      "altitude": 29,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 109: My Self-Hypnosis Period"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/90f877593e1f7fce3417126bc27687a4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IP3fE6M"
+        ],
+        "content": [
+          {
+            "html": "<p>John quizzes Merlin about his vacation results.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John quizzes Merlin about his vacation results.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

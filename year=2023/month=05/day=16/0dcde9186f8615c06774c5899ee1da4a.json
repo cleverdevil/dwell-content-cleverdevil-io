@@ -1,0 +1,136 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "For what its worth, I am pretty sure I also got things working with my Micropub endpoint, which makes life a heck of a lot easier for future projects with the AT protocol. Looking forward to being a better citizen of the new social web.\n\nI am still navigating the complexities of embedding content vs. linking to it, etc., but I\u2019m sure I\u2019ll figure it out."
+    ],
+    "content": [
+      {
+        "html": "For what its worth, I am pretty sure I also got things working with my Micropub endpoint, which makes life a heck of a lot easier for future projects with the AT protocol. Looking forward to being a better citizen of the new social web.<br/>\n<br/>\nI am still navigating the complexities of embedding content vs. linking to it, etc., but I\u2019m sure I\u2019ll figure it out.",
+        "value": "For what its worth, I am pretty sure I also got things working with my Micropub endpoint, which makes life a heck of a lot easier for future projects with the AT protocol. Looking forward to being a better citizen of the new social web.\n\nI am still navigating the complexities of embedding content vs. linking to it, etc., but I\u2019m sure I\u2019ll figure it out."
+      }
+    ],
+    "url": [
+      "/2023/for-what-its-worth-i-am-pretty"
+    ],
+    "published": [
+      "2023-05-16T23:59:29+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110381078201827100",
+      "https://bsky.app/profile/cleverdevil.io/post/3jvv4uvrbrd2o"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "0dcde9186f8615c06774c5899ee1da4a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2023-05-16_for-what-its-worth-i-am-pretty"
+          ],
+          "published": [
+            "2023-05-17T00:40:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NDdiNWYzZjMyM2RhMGVmNzg1YjZmMDJkOWMyNjVkNj9zPTk2JmQ9Ymxhbmsmcj1n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NDdiNWYzZjMyM2RhMGVmNzg1YjZmMDJkOWMyNjVkNj9zPTk2JmQ9Ymxhbmsmcj1n/300/square Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/110381078201827100#favorited-by-109589468921805700"
+          ],
+          "published": [
+            "2023-05-17T15:44:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "idallas!"
+                ],
+                "url": [
+                  "https://indieweb.social/@idallas"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81ODkvNDY4LzkyMS84MDUvNzAwL29yaWdpbmFsL2I1MjU1ZmI3ZWFhNzZkNGYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81ODkvNDY4LzkyMS84MDUvNzAwL29yaWdpbmFsL2I1MjU1ZmI3ZWFhNzZkNGYuanBn/300/square idallas!"
+            }
+          ]
+        },
+        "value": "idallas!"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

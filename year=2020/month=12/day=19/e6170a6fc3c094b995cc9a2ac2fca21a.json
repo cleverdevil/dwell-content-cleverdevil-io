@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/409-midrange-snob"
+    ],
+    "published": [
+      "2020-12-19T18:51:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e6170a6fc3c094b995cc9a2ac2fca21a"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-19T19:59:22Z",
+      "year": 2020,
+      "month": 12,
+      "day": 19,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37033260211466,
+      "y": 33.81540625019005,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 409: Midrange Snob"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8f18e17fb764a71acd41d751a8e0969f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKhbjnw"
+        ],
+        "content": [
+          {
+            "html": "<p>AirPods Max review, whether Chrome might be bad, and living the ultra\u2026 fine lifestyle.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AirPods Max review, whether Chrome might be bad, and living the ultra\u2026 fine lifestyle.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

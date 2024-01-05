@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/fsu-victory-lap-with-d-and-lucane"
+    ],
+    "published": [
+      "2018-10-09T15:11:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5568d74bb978f1b015322a327fa30721"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to FSU victory lap with D$ and LuCane"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c7fe4f36ed299f8d10f3d4a0614e51f6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kSUiGOw"
+        ],
+        "content": [
+          {
+            "html": "<p>D$ and LuCane talk FSU win.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  CanesInSight Podcast</p>",
+            "value": "D$ and LuCane talk FSU win.\nBy CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

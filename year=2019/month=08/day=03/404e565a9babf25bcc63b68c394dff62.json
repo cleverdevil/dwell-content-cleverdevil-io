@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-13-crates"
+    ],
+    "published": [
+      "2019-08-03T20:24:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 75.23\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 75.23\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 75.23\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-13-crates/annotations/1ed57737d9775f2153cf045ceb56816a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-13-crates/annotations/1ed57737d9775f2153cf045ceb56816a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "404e565a9babf25bcc63b68c394dff62"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-04T00:03:47Z",
+      "year": 2019,
+      "month": 8,
+      "day": 4,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.37033538972004,
+      "y": 33.81543362504588,
+      "altitude": 53,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode #13 Crates"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/37c1d41bd4c28b5c64a3948ff8cc934b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+RacIYi_NM"
+        ],
+        "content": [
+          {
+            "html": "<p>Learn all about crates and why we use them in puppy training.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Puppy Training Podcast</p>",
+            "value": "Learn all about crates and why we use them in puppy training.\nBy The Puppy Training Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

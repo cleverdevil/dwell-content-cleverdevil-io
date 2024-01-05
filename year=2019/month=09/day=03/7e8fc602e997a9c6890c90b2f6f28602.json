@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-55-lacroix-flavors"
+    ],
+    "published": [
+      "2019-09-03T15:07:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76.35\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76.35\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76.35\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-four-55-lacroix-flavors/annotations/529c65f1b9894fabf6e273103b21e04b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-four-55-lacroix-flavors/annotations/529c65f1b9894fabf6e273103b21e04b"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7e8fc602e997a9c6890c90b2f6f28602"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-03T16:03:23Z",
+      "year": 2019,
+      "month": 9,
+      "day": 3,
+      "hour": 16,
+      "minute": 3,
+      "x": -118.39579523549907,
+      "y": 33.91988166774279,
+      "altitude": 30,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 55: LaCroix Flavors"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2bc8e1717ede80cf98e15d949f051185/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDaiRfwE"
+        ],
+        "content": [
+          {
+            "html": "<p>Lauren and Jason Snell join us to taste-test and rank all 24 flavors of LaCroix seltzer.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Lauren and Jason Snell join us to taste-test and rank all 24 flavors of LaCroix seltzer.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

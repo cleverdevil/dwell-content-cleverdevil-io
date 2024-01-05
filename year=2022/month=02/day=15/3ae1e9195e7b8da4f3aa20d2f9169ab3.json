@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kiahuna Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kiahuna Beach"
+          ],
+          "latitude": [
+            "21.875898825981"
+          ],
+          "longitude": [
+            "-159.45908468635"
+          ]
+        },
+        "value": "Kiahuna Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kiahuna Beach"
+          ],
+          "latitude": [
+            "21.875898825981"
+          ],
+          "longitude": [
+            "-159.45908468635"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-kiahuna-beach"
+    ],
+    "published": [
+      "2022-02-15T00:17:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Beach check-in in 4 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Beach check-in in 4 years!</p>",
+              "value": "First Beach check-in in 4 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/620af137654c0d47df249752/4c0d80b878b0f10ea800f86e31fa2619"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/620af137654c0d47df249752/4c0d80b878b0f10ea800f86e31fa2619"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Beach Bum sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Beach Bum sticker bonus!</p>",
+              "value": "Beach Bum sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3N0aWNrZXIvODAvc3VyZmVyX2VkNjkzMi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/620af137654c0d47df249752/9b390b453c8c74f97416a902ca4c0fc5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/620af137654c0d47df249752/9b390b453c8c74f97416a902ca4c0fc5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/620af137654c0d47df249752"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3ae1e9195e7b8da4f3aa20d2f9169ab3"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-15T00:17:34Z",
+      "year": 2022,
+      "month": 2,
+      "day": 15,
+      "hour": 0,
+      "minute": 17,
+      "x": -159.45870033175447,
+      "y": 21.87542969790445,
+      "altitude": 7,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.10000000149011612,
+      "wifi": "MarriottBonvoy"
+    }
+  }
+}

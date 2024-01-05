@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/meld-in-contempt"
+    ],
+    "published": [
+      "2023-01-16T07:23:24+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9431051e55548d6e47f81000c843ac74"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-16T08:01:02Z",
+      "year": 2023,
+      "month": 1,
+      "day": 16,
+      "hour": 8,
+      "minute": 1,
+      "x": -97.74707331322554,
+      "y": 30.266068582065827,
+      "altitude": 193,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.6800000071525574,
+      "wifi": "W Austin"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Meld in Contempt"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/89c849cbeab1ed4dc32adf6979954c86/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3AZOoM"
+        ],
+        "content": [
+          {
+            "html": "<p>Stacey brings the case against her friend, Ellen. Stacey says that when they play canasta, Ellen changes the rules mid-game. Ellen says that this isn\u2019t true. She\u2019s simply reporting what the rules have always been. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Stacey brings the case against her friend, Ellen. Stacey says that when they play canasta, Ellen changes the rules mid-game. Ellen says that this isn\u2019t true. She\u2019s simply reporting what the rules have always been. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

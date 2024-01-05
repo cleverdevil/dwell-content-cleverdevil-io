@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/reconcilable-differences-62-the-old-lady-and-the-duck"
+    ],
+    "published": [
+      "2017-11-02T19:36:12+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8fb604e7f59eb9cac5cc090dbdeecedb"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 62: The Old Lady and the Duck"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/05425fd67a8cddb84c34c4fb9632740b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMcIKyk"
+        ],
+        "content": [
+          {
+            "html": "<p>The main topic this week is Twitter.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "The main topic this week is Twitter.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

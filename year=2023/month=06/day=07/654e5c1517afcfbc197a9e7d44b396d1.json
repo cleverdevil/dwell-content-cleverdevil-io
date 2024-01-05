@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/538-we-studied-thousands-of-heads"
+    ],
+    "published": [
+      "2023-06-07T03:30:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "654e5c1517afcfbc197a9e7d44b396d1"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-07T02:33:46Z",
+      "year": 2023,
+      "month": 6,
+      "day": 7,
+      "hour": 2,
+      "minute": 33,
+      "x": -118.37040158543962,
+      "y": 33.81539614335523,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 538: We Studied Thousands of Heads"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/796a54f9165991fa749d33d6bbcc1c7b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL7ssYE"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2023! New Macs, new OSes, and the unveiling of Apple Vision Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "WWDC 2023! New Macs, new OSes, and the unveiling of Apple Vision Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

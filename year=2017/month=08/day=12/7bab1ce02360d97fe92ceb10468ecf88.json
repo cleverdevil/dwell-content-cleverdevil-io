@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Casa Playa"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Casa Playa"
+          ],
+          "latitude": [
+            "33.816127181053"
+          ],
+          "longitude": [
+            "-118.387142"
+          ]
+        },
+        "value": "Casa Playa"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Casa Playa"
+          ],
+          "latitude": [
+            "33.816127181053"
+          ],
+          "longitude": [
+            "-118.387142"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Casa Playa\" src=\"https://cleverdevil.io/file/f399ceb2d1288ec638a3b7815e6316df\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Quick bite with Lacey.</p>",
+        "value": "Casa Playa\nQuick bite with Lacey."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-casa-playa"
+    ],
+    "published": [
+      "2017-08-12T20:18:07+0000"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/598f626fdab4b111d1cc0a19"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7bab1ce02360d97fe92ceb10468ecf88"
+    ]
+  }
+}

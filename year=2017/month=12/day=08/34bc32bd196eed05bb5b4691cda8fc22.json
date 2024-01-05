@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into krust"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": "krust"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"krust\" src=\"https://cleverdevil.io/file/fa69764a3fcb03d43889a4c4752e1203\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "krust"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-krust-3"
+    ],
+    "published": [
+      "2017-12-08T16:11:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2ab9ab6bd36b7add324070/1ac8f8e58c0d0711dba54ae1b6a76def"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a2ab9ab6bd36b7add324070/1ac8f8e58c0d0711dba54ae1b6a76def"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Bakery check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Bakery check-in in 3 months!</p>",
+              "value": "First Bakery check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2ab9ab6bd36b7add324070/d79e5b23e0b24d3f96c6f98d4d9a8688"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a2ab9ab6bd36b7add324070/d79e5b23e0b24d3f96c6f98d4d9a8688"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a2ab9ab6bd36b7add324070"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "34bc32bd196eed05bb5b4691cda8fc22"
+    ]
+  }
+}

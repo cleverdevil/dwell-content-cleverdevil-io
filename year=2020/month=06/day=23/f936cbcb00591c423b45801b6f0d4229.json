@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/383-demand-paged-outrage"
+    ],
+    "published": [
+      "2020-06-23T20:02:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.95\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.95\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.95\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/383-demand-paged-outrage/annotations/4698f5e4f549479ef6047409e81c2d05"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/383-demand-paged-outrage/annotations/4698f5e4f549479ef6047409e81c2d05"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f936cbcb00591c423b45801b6f0d4229"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-23T19:56:59Z",
+      "year": 2020,
+      "month": 6,
+      "day": 23,
+      "hour": 19,
+      "minute": 56,
+      "x": -118.37038775212574,
+      "y": 33.815406084731904,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 383: Demand-Paged Outrage"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4c72b90e26f8ac3fb4b6b53e13fbbe07/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIibr1Q"
+        ],
+        "content": [
+          {
+            "html": "<p>Marco discovers restaurants, Casey discovers the Touch Bar, and Hey discovers the App Store.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Marco discovers restaurants, Casey discovers the Touch Bar, and Hey discovers the App Store.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

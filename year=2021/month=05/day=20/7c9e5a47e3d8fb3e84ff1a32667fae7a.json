@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/two-nights-at-the-hell-agio"
+    ],
+    "published": [
+      "2021-05-20T14:29:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7c9e5a47e3d8fb3e84ff1a32667fae7a"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-18T01:47:25Z",
+      "year": 2021,
+      "month": 5,
+      "day": 18,
+      "hour": 1,
+      "minute": 47,
+      "x": -118.37032293797326,
+      "y": 33.81539708999784,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Two Nights at the Hell-agio"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1f44a1c21454838802a683bdca910d2a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+gf2bImaaM"
+        ],
+        "content": [
+          {
+            "html": "<p>Topics of note this week include: 1. The Pac-12 turns itself into an enormous casino 2. What the exact age you became a person was 3. How many hours precisely one can spend in Las Vegas before the sadness sets in 4. Which team should actually get to play home games in The Rose Bowl 5. Nick Saban wants skinnier hosses</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shutdown Fullcast</p>",
+            "value": "Topics of note this week include: 1. The Pac-12 turns itself into an enormous casino 2. What the exact age you became a person was 3. How many hours precisely one can spend in Las Vegas before the sadness sets in 4. Which team should actually get to play home games in The Rose Bowl 5. Nick Saban wants skinnier hosses\nBy Shutdown Fullcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

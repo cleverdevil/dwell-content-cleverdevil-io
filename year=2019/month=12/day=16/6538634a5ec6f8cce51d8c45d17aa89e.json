@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/eggs-episodes-7---9"
+    ],
+    "published": [
+      "2019-12-16T21:53:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.6\u00b0F and 25% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.6\u00b0F and 25% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.6\u00b0F and 25% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/eggs-episodes-7---9/annotations/d9dcc0618683d52071c7fe7272d0e5c2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/eggs-episodes-7---9/annotations/d9dcc0618683d52071c7fe7272d0e5c2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6538634a5ec6f8cce51d8c45d17aa89e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-17T00:02:44Z",
+      "year": 2019,
+      "month": 12,
+      "day": 17,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.37034678875663,
+      "y": 33.815429651445726,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Eggs (Episodes 7 - 9)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file//thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+VEvjka-V4"
+        ],
+        "content": [
+          {
+            "html": "<p>For the podcast finale, host Craig Mazin and Watchmen writer and executive producer Damon Lindelof dive deep into episodes seven, eight and nine. They untie all the knots, from Senator Joe Keene and Judd Crawford, to Dr. Manhattan and Angela Abar, and every plotline in between. Make sure to watch the entire season of Watchmen before listening to this episode. The Official Watchmen Podcast is produced by HBO in conjunction with Pineapple Street Studios.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Official Watchmen Podcast</p>",
+            "value": "For the podcast finale, host Craig Mazin and Watchmen writer and executive producer Damon Lindelof dive deep into episodes seven, eight and nine. They untie all the knots, from Senator Joe Keene and Judd Crawford, to Dr. Manhattan and Angela Abar, and every plotline in between. Make sure to watch the entire season of Watchmen before listening to this episode. The Official Watchmen Podcast is produced by HBO in conjunction with Pineapple Street Studios.\nBy The Official Watchmen Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

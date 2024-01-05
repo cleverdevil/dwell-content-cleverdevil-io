@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Yard House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yard House"
+          ],
+          "latitude": [
+            "34.045373898322"
+          ],
+          "longitude": [
+            "-118.26586695127"
+          ]
+        },
+        "value": "Yard House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yard House"
+          ],
+          "latitude": [
+            "34.045373898322"
+          ],
+          "longitude": [
+            "-118.26586695127"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Post All Hands \ud83d\udd90\ud83c\udffb\ud83d\udd90\ud83c\udffc\ud83d\udd90\ud83c\udffd\ud83d\udd90\ud83c\udffe\ud83d\udd90\ud83c\udfff</p>",
+        "value": "Post All Hands \ud83d\udd90\ud83c\udffb\ud83d\udd90\ud83c\udffc\ud83d\udd90\ud83c\udffd\ud83d\udd90\ud83c\udffe\ud83d\udd90\ud83c\udfff"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-yard-house"
+    ],
+    "published": [
+      "2017-07-19T21:19:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Yard House!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Yard House!</p>",
+              "value": "Your first check-in at this Yard House!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3520be9a5fd4abfc4cdfad111cbd0d74"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596fccbdc9a51719fd387073/e03daf8ef7c9e36e166724c0913e69fb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596fccbdc9a51719fd387073/e03daf8ef7c9e36e166724c0913e69fb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596fccbdc9a51719fd387073"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cd20f873882d5d5d586bd15110adfef2"
+    ]
+  }
+}

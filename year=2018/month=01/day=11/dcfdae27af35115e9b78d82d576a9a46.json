@@ -1,0 +1,127 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Looking for a way to experiment with Lambda functions? Take a few cron jobs that you run on your pet VMs and convert them to scheduled Lamba functions! Your pets will become easier to make cloud native and your \"cron jobs\" will now be reusable."
+    ],
+    "content": [
+      {
+        "html": "Looking for a way to experiment with Lambda functions? Take a few cron jobs that you run on your pet VMs and convert them to scheduled Lamba functions! Your pets will become easier to make cloud native and your \"cron jobs\" will now be reusable.",
+        "value": "Looking for a way to experiment with Lambda functions? Take a few cron jobs that you run on your pet VMs and convert them to scheduled Lamba functions! Your pets will become easier to make cloud native and your \"cron jobs\" will now be reusable."
+      }
+    ],
+    "url": [
+      "/2018/looking-for-a-way-to-experiment-with-lambda-functions-take"
+    ],
+    "published": [
+      "2018-01-11T21:55:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hey, get to work! Oh, wait... \ud83d\ude2d"
+          ],
+          "content": [
+            {
+              "html": "<p>Hey, get to work! Oh, wait... \ud83d\ude2d</p>",
+              "value": "Hey, get to work! Oh, wait... \ud83d\ude2d"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkwOTMwNjcyNzU5MzQ3MjAwMS9TcVdBaGZsSi5qcGc,/300/square"
+                ],
+                "name": [
+                  "Sam"
+                ],
+                "url": [
+                  "https://twitter.com/ssjbeeno"
+                ]
+              },
+              "value": "Sam"
+            }
+          ],
+          "url": [
+            "https://twitter.com/ssjbeeno/status/951584430757302272"
+          ]
+        },
+        "value": "https://twitter.com/ssjbeeno/status/951584430757302272"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/951573233626763266"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "dcfdae27af35115e9b78d82d576a9a46"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/951573233626763266?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F951573233626763266%2F136529416"
+          ],
+          "published": [
+            "2018-01-11T22:08:15+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Michael Langford"
+                ],
+                "url": [
+                  "https://twitter.com/mj_langford"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg4NzM2NzA4MTMwMTMzMTk2OC9JTXA0bkVWSi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg4NzM2NzA4MTMwMTMzMTk2OC9JTXA0bkVWSi5qcGc,/300/square Michael Langford"
+            }
+          ]
+        },
+        "value": "Michael Langford"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "See you later, Portland! It was a blast hanging out with friends old and new at the IndieWeb Summit. I\u2019m hoping to write a recap on my flight! Thanks Delta for the upgrade \ud83d\ude0d"
+    ],
+    "content": [
+      {
+        "html": "See you later, Portland! It was a blast hanging out with friends old and new at the IndieWeb Summit. I\u2019m hoping to write a recap on my flight! Thanks Delta for the upgrade \ud83d\ude0d",
+        "value": "See you later, Portland! It was a blast hanging out with friends old and new at the IndieWeb Summit. I\u2019m hoping to write a recap on my flight! Thanks Delta for the upgrade \ud83d\ude0d"
+      }
+    ],
+    "url": [
+      "/2019/see-you-later-portland-it-was-a"
+    ],
+    "published": [
+      "2019-07-02T00:53:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 77\u00b0F and 47% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 77\u00b0F and 47% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 77\u00b0F and 47% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/see-you-later-portland-it-was-a/annotations/65d408d4d67a553f50c8c917c2ba0d73"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/see-you-later-portland-it-was-a/annotations/65d408d4d67a553f50c8c917c2ba0d73"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Love@Portland...lucky you J"
+          ],
+          "content": [
+            {
+              "html": "<p>Love@Portland...lucky you J</p>",
+              "value": "Love@Portland...lucky you J"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMjAxMjQ4ODczNzYxNzkyMDIvUFdHN2l1dEMuanBn/300/square"
+                ],
+                "name": [
+                  "Bob LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/bob_lacour"
+                ]
+              },
+              "value": "Bob LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/bob_lacour/status/1145871393042681856"
+          ]
+        },
+        "value": "https://twitter.com/bob_lacour/status/1145871393042681856"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1145857947408355329",
+      "https://mastodon.social/@cleverdevil/102369119386001374"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "c85ea3ff8e4a9c584b319bc96c53c350"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2019/07/01/28/"
+          ],
+          "published": [
+            "2019-07-02T00:53:16+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145857947408355329?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145857947408355329%2F14447132"
+          ],
+          "published": [
+            "2019-07-02T02:13:42+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145857947408355329?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145857947408355329%2F9571572"
+          ],
+          "published": [
+            "2019-07-02T04:30:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Adam Johnson"
+                ],
+                "url": [
+                  "https://twitter.com/adjohn"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzUzMzkyODI0MzY1NzU4ODczNi9rcHE3eGpjTS5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzUzMzkyODI0MzY1NzU4ODczNi9rcHE3eGpjTS5qcGVn/300/square Adam Johnson"
+            }
+          ]
+        },
+        "value": "Adam Johnson"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145857947408355329?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145857947408355329%2F15071058"
+          ],
+          "published": [
+            "2019-07-02T06:05:14+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andi Galpern \ud83c\udfb5 \ud83c\udfb9 \ud83c\udfb8"
+                ],
+                "url": [
+                  "https://twitter.com/andigalpern"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTMwNDcxNzY1MTc5NzYwNjQvSHI5bmN2QzkuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTMwNDcxNzY1MTc5NzYwNjQvSHI5bmN2QzkuanBn/300/square Andi Galpern \ud83c\udfb5 \ud83c\udfb9 \ud83c\udfb8"
+            }
+          ]
+        },
+        "value": "Andi Galpern \ud83c\udfb5 \ud83c\udfb9 \ud83c\udfb8"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-02T00:51:53Z",
+      "year": 2019,
+      "month": 7,
+      "day": 2,
+      "hour": 0,
+      "minute": 51,
+      "x": -122.59664856778103,
+      "y": 45.59208408126377,
+      "altitude": 7,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6100000143051147,
+      "wifi": ""
+    }
+  }
+}

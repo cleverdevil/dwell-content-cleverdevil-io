@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://stream.boffosocko.com/2017/andreas-the-best-way-im-aware-of-to-do-read"
+    ],
+    "name": [
+      "@chrisaldrich you're welcome to \"steal\" the code. That's why its on GitHub! That said, I think a more interesting approach would be to make some sort of shared codebase that enables a bunch of different types of posts. Most of my plugins are quite similar under the hood. It would be great to somehow abstract things out a bit to enable additional functionality without duplicating code."
+    ],
+    "content": [
+      {
+        "html": "@chrisaldrich you're welcome to \"steal\" the code. That's why its on GitHub! That said, I think a more interesting approach would be to make some sort of shared codebase that enables a bunch of different types of posts. Most of my plugins are quite similar under the hood. It would be great to somehow abstract things out a bit to enable additional functionality without duplicating code.",
+        "value": "@chrisaldrich you're welcome to \"steal\" the code. That's why its on GitHub! That said, I think a more interesting approach would be to make some sort of shared codebase that enables a bunch of different types of posts. Most of my plugins are quite similar under the hood. It would be great to somehow abstract things out a bit to enable additional functionality without duplicating code."
+      }
+    ],
+    "url": [
+      "/2017/chrisaldrich-youre-welcome-to-steal-the-code-thats-why-its"
+    ],
+    "published": [
+      "2017-06-10T15:58:22+0000"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "0a323d9bf77fa75ab7a25a8cced01b67"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "http://www.petersell.com/2017/liked-jonathan-lacours-post-on-cleverdevilio-730c0f2224"
+          ],
+          "published": [
+            "2017-06-12T09:46:28+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andreas Petersell"
+                ],
+                "url": [
+                  "http://www.petersell.com/profile/petersell"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/e5b7139c4aee7466ec93cb59196eeee7"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/e5b7139c4aee7466ec93cb59196eeee7 Andreas Petersell"
+            }
+          ]
+        },
+        "value": "Andreas Petersell"
+      }
+    ]
+  }
+}

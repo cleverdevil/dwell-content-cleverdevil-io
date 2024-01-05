@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/467-the-strain-provider"
+    ],
+    "published": [
+      "2022-01-29T08:38:26+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bc95990f9464e18215683530f2496533"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-29T09:58:25Z",
+      "year": 2022,
+      "month": 1,
+      "day": 29,
+      "hour": 9,
+      "minute": 58,
+      "x": -116.38035353613589,
+      "y": 33.70173188914864,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.2199999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 467: The Strain Provider"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8ea4f6e3ad0f93a4f38ba9f2a03fd902/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJ9J3UU"
+        ],
+        "content": [
+          {
+            "html": "<p>Once your USB-C setup finally works, never touch anything again.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Once your USB-C setup finally works, never touch anything again.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

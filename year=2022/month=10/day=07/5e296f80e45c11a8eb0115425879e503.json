@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/503-draw-your-own-slice-of-pizza-1"
+    ],
+    "published": [
+      "2022-10-07T05:21:06+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5e296f80e45c11a8eb0115425879e503"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-07T08:04:24Z",
+      "year": 2022,
+      "month": 10,
+      "day": 7,
+      "hour": 8,
+      "minute": 4,
+      "x": -116.38041474430182,
+      "y": 33.701656540359735,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 503: Draw Your Own Slice of Pizza"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8c3a1e29608403d4aea9b6314b60ba77/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL3GGkM"
+        ],
+        "content": [
+          {
+            "html": "<p>AI-generated art, the EU USB-C mandate, and we all definitely agree on macOS window-management techniques.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AI-generated art, the EU USB-C mandate, and we all definitely agree on macOS window-management techniques.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

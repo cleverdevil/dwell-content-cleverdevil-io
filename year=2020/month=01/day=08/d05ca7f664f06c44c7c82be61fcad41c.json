@@ -1,0 +1,296 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "\ud83d\udcfa Automatically Downloading YouTube Content to Plex"
+    ],
+    "content": [
+      {
+        "html": "<p>I have a small number of content creators that I enjoy following on YouTube, but I fundamentally dislike YouTube's shady algorithms, poor user experience, and invasive ads. These days, most of the content I watch is stored on my <a href=\"https://plex.tv\">Plex</a> server, so I decided to find a way to automatically download and add my favorite YouTube content to my Plex server. After a bit of searching, I found <a href=\"https://diyfuturism.com/index.php/2017/12/14/auto-downloading-youtube-videos-for-plex-media-server/\">this guide from DIY Futurism</a> which outlined a nice approach to the problem.</p><p><img alt=\"My Plex YouTube library\" height=\"548\" src=\"https://cleverdevil.io/file/78d6b3d1b917e9aeacc331bd5eb5f7e4/thumb.png\" width=\"1024\"/></p><p>My approach is similar, and makes use of the excellent <a href=\"http://ytdl-org.github.io/youtube-dl/\">youtube-dl</a> project, along with a <a href=\"https://bitbucket.org/mjarends/plex-scanners\">personal media scanner</a> and <a href=\"https://bitbucket.org/mjarends/extendedpersonalmedia-agent.bundle\">personal media agent</a> for Plex. I run my Plex Media Server on my <a href=\"https://www.synology.com/en-us/products/DS1019+\">Synology DS1019+ NAS</a>, which I absolutely adore, so that's where I set everything up. The process was quite simple:</p><ol><li>Installed the aforementioned personal media scanner and personal media agent in my Plex server and enabled them in my Plex server settings.</li>\n<li>Created a \"TV Shows\" library in Plex that uses the scanner and agent. I called mine \"YouTube.\"</li>\n<li>Installed youtube-dl on my Synology. I already have Python installed there, so it was as simple as running <code>pip install youtube-dl</code>.</li>\n</ol><p>At this point, I was ready to create a script that would download the content and add it to Plex. The key is to take advantage of all of the great features in youtube-dl, including the ability to provide a \"batch\" file containing target channels, the ability to embed metadata and download thumbnails, and an \"archive\" feature which tracks what has already been downloaded. My script is a variation on the one from DIY Futurism:</p><pre><code>#!/bin/sh</code><br/><br/><code>cd /var/services/homes/admin/Media/YouTube</code><br/><code>/volume1/@appstore/python3/bin/youtube-dl --playlist-reverse \\</code><br/><code>\t\t \u00a0 --dateafter now-2weeks \\</code><br/><code>\t\t \u00a0 --download-archive /var/services/homes/admin/Media/YouTube/downloaded.txt \\</code><br/><code>\t\t \u00a0 -i \\</code><br/><code>\t\t \u00a0 -o \"%(uploader)s/%(playlist)s/%(playlist)s - S01E%(playlist_index)s - %(title)s [%(id)s].%(ext)s\" \\</code><br/><code>\t\t \u00a0 --add-metadata \\</code><br/><code>\t\t \u00a0 --write-thumbnail \\</code><br/><code>\t\t \u00a0 --batch-file=/var/services/homes/admin/Media/YouTube/channel_list.txt</code></pre><p>Let's walk through the script. First, I change directories to where I want all of my content downloaded. This is the same directory that I configured in Plex for my \"YouTube\" library that I created earlier. Next, I specify that I want to process the videos in the playlist chronologically (in \"reverse\"). I also specify that I only want to download videos that were published in the last two weeks using the <code>--dateafter</code>\u00a0parameter. You can tweak this to download as much or as little of the content as you'd like.</p><p>Next, I point youtube-dl to a text file containing a list of all content that I've already downloaded using the <code>--download-archive</code> parameter, which youtube-dl will automatically maintain for me. Because I am limiting my downloads to the last two weeks, I did need to pre-populate this text file with all of the historical content to avoid having to scan through thousands of videos on each run of the script.</p><p>Next, I specify a format for where to store the downloaded content and what to name the files and directories, instruct youtube-dl to embed metadata, and to write a thumbnail image as well. This data will be used by the personal media scanner and agent to help Plex index the content.</p><p>Finally, I specify a \"batch file,\" which contains a list of channels that I want to download content from. The format is simply one YouTube URL per line.</p><p>After an initial run that I performed manually, I scheduled the script to run every four hours, and now my Plex server is my central location for my YouTube content.</p>",
+        "value": "I have a small number of content creators that I enjoy following on YouTube, but I fundamentally dislike YouTube's shady algorithms, poor user experience, and invasive ads. These days, most of the content I watch is stored on my Plex server, so I decided to find a way to automatically download and add my favorite YouTube content to my Plex server. After a bit of searching, I found this guide from DIY Futurism which outlined a nice approach to the problem.\nMy Plex YouTube library\nMy approach is similar, and makes use of the excellent youtube-dl project, along with a personal media scanner and personal media agent for Plex. I run my Plex Media Server on my Synology DS1019+ NAS, which I absolutely adore, so that's where I set everything up. The process was quite simple:Installed the aforementioned personal media scanner and personal media agent in my Plex server and enabled them in my Plex server settings. Created a \"TV Shows\" library in Plex that uses the scanner and agent. I called mine \"YouTube.\" Installed youtube-dl on my Synology. I already have Python installed there, so it was as simple as running pip install youtube-dl.\nAt this point, I was ready to create a script that would download the content and add it to Plex. The key is to take advantage of all of the great features in youtube-dl, including the ability to provide a \"batch\" file containing target channels, the ability to embed metadata and download thumbnails, and an \"archive\" feature which tracks what has already been downloaded. My script is a variation on the one from DIY Futurism:#!/bin/shcd /var/services/homes/admin/Media/YouTube/volume1/@appstore/python3/bin/youtube-dl --playlist-reverse \\\t\t \u00a0 --dateafter now-2weeks \\\t\t \u00a0 --download-archive /var/services/homes/admin/Media/YouTube/downloaded.txt \\\t\t \u00a0 -i \\\t\t \u00a0 -o \"%(uploader)s/%(playlist)s/%(playlist)s - S01E%(playlist_index)s - %(title)s [%(id)s].%(ext)s\" \\\t\t \u00a0 --add-metadata \\\t\t \u00a0 --write-thumbnail \\\t\t \u00a0 --batch-file=/var/services/homes/admin/Media/YouTube/channel_list.txt\nLet's walk through the script. First, I change directories to where I want all of my content downloaded. This is the same directory that I configured in Plex for my \"YouTube\" library that I created earlier. Next, I specify that I want to process the videos in the playlist chronologically (in \"reverse\"). I also specify that I only want to download videos that were published in the last two weeks using the --dateafter\u00a0parameter. You can tweak this to download as much or as little of the content as you'd like.\nNext, I point youtube-dl to a text file containing a list of all content that I've already downloaded using the --download-archive parameter, which youtube-dl will automatically maintain for me. Because I am limiting my downloads to the last two weeks, I did need to pre-populate this text file with all of the historical content to avoid having to scan through thousands of videos on each run of the script.\nNext, I specify a format for where to store the downloaded content and what to name the files and directories, instruct youtube-dl to embed metadata, and to write a thumbnail image as well. This data will be used by the personal media scanner and agent to help Plex index the content.\nFinally, I specify a \"batch file,\" which contains a list of channels that I want to download content from. The format is simply one YouTube URL per line.\nAfter an initial run that I performed manually, I scheduled the script to run every four hours, and now my Plex server is my central location for my YouTube content."
+      }
+    ],
+    "url": [
+      "/2020/-automatically-downloading-youtube-content-to-plex"
+    ],
+    "published": [
+      "2020-01-08T18:51:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.21\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.21\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.21\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/-automatically-downloading-youtube-content-to-plex/annotations/4f103a52db2c90a0a543633ea2422149"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/-automatically-downloading-youtube-content-to-plex/annotations/4f103a52db2c90a0a543633ea2422149"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Thanks for sharing how you do this \ud83d\udc4f\ud83c\udffd"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Thanks for sharing how you do this \ud83d\udc4f\ud83c\udffd</p>",
+              "value": "@cleverdevil Thanks for sharing how you do this \ud83d\udc4f\ud83c\udffd"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Jvbmd1ZXN0L2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "ronguest"
+                ],
+                "url": [
+                  "https://micro.blog/ronguest"
+                ]
+              },
+              "value": "ronguest"
+            }
+          ],
+          "url": [
+            "https://micro.blog/ronguest/7668962"
+          ]
+        },
+        "value": "https://micro.blog/ronguest/7668962"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@ronguest of course! I hope it works well for others too :)"
+          ],
+          "content": [
+            {
+              "html": "<p>@ronguest of course! I hope it works well for others too :)</p>",
+              "value": "@ronguest of course! I hope it works well for others too :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/7671859"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/7671859"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nice! I\u2019m going to have to look into this myself as well as maybe even Peertube content (thought that might be a bit counterintuitive lol)"
+          ],
+          "content": [
+            {
+              "html": "<p>Nice! I\u2019m going to have to look into this myself as well as maybe even Peertube content (thought that might be a bit counterintuitive lol)</p>",
+              "value": "Nice! I\u2019m going to have to look into this myself as well as maybe even Peertube content (thought that might be a bit counterintuitive lol)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  ""
+                ],
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://v2.jacky.wtf"
+                ]
+              },
+              "value": "Web user"
+            }
+          ],
+          "url": [
+            "https://v2.jacky.wtf/post/c178e3dc-6a5d-4115-8dd0-b440b856c91e"
+          ]
+        },
+        "value": "https://v2.jacky.wtf/post/c178e3dc-6a5d-4115-8dd0-b440b856c91e"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1214984454462230528",
+      "https://mastodon.social/@cleverdevil/103449221912664789"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "d05ca7f664f06c44c7c82be61fcad41c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1214984454462230528?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1214984454462230528%2F14402798"
+          ],
+          "published": [
+            "2020-01-08T20:50:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "JoeJoyce"
+                ],
+                "url": [
+                  "https://twitter.com/JoeJoyce"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjEwNzE2NjczNTM1NDI2NTcvS2pGcUhMUmQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjEwNzE2NjczNTM1NDI2NTcvS2pGcUhMUmQuanBn/300/square JoeJoyce"
+            }
+          ]
+        },
+        "value": "JoeJoyce"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://v2.jacky.wtf/post/e8a74701-a3d2-4a59-80ac-145e6c405300"
+          ],
+          "published": [
+            "2020-01-09T05:26:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://v2.jacky.wtf"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-08T18:50:49Z",
+      "year": 2020,
+      "month": 1,
+      "day": 8,
+      "hour": 18,
+      "minute": 50,
+      "x": -118.39517943076524,
+      "y": 33.91959624630823,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "WeWork"
+    }
+  }
+}

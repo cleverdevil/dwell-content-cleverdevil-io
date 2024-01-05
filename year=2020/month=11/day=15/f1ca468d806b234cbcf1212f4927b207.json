@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/404-with-four-hands-tied-behind-its-back"
+    ],
+    "published": [
+      "2020-11-15T20:47:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f1ca468d806b234cbcf1212f4927b207"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-15T23:55:57Z",
+      "year": 2020,
+      "month": 11,
+      "day": 15,
+      "hour": 23,
+      "minute": 55,
+      "x": -118.37041079896888,
+      "y": 33.815317449689154,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 404: With Four Hands Tied Behind Its Back"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9f32ae3247f73aeeb7274654177e3603/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJUsSEI"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s M1 chip, the first Macs equipped with it, and Casey\u2019s latest \u201coops\u201d.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s M1 chip, the first Macs equipped with it, and Casey\u2019s latest \u201coops\u201d.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

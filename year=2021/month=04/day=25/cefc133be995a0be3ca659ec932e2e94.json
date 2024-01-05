@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/342-mh-ah"
+    ],
+    "published": [
+      "2021-04-25T06:42:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cefc133be995a0be3ca659ec932e2e94"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-25T07:16:09Z",
+      "year": 2021,
+      "month": 4,
+      "day": 25,
+      "hour": 7,
+      "minute": 16,
+      "x": -118.37053549839423,
+      "y": 33.81531807361616,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 342: MH AH \ud83d\udc7b \ud83d\ude2c"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/decb86f0fc83baf664025cc3ce22f453/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6J60tU"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s Spring Event has come and gone, and now the picks must be graded. Will Stephen remain in power as the Keynote Chairman? Can Myke gain access to both Twitter accounts, or is Federico poised for a comeback?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple\u2019s Spring Event has come and gone, and now the picks must be graded. Will Stephen remain in power as the Keynote Chairman? Can Myke gain access to both Twitter accounts, or is Federico poised for a comeback?\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Moxy Boston Downtown"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Moxy Boston Downtown"
+          ],
+          "latitude": [
+            "42.350986"
+          ],
+          "longitude": [
+            "-71.0648041"
+          ]
+        },
+        "value": "Moxy Boston Downtown"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Moxy Boston Downtown"
+          ],
+          "latitude": [
+            "42.350986"
+          ],
+          "longitude": [
+            "-71.0648041"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-moxy-boston-downtown"
+    ],
+    "published": [
+      "2020-02-07T01:08:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Moxy Hotels!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Moxy Hotels!</p>",
+              "value": "Your first check-in at this Moxy Hotels!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e3cb87b56a7d000087e021b/a9233cab6d2916b4d815b03277fdd6c9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e3cb87b56a7d000087e021b/a9233cab6d2916b4d815b03277fdd6c9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 38.17\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 38.17\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 38.17\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-moxy-boston-downtown/annotations/7248ec5a01743ca2f3d2ede26b7b22d3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-moxy-boston-downtown/annotations/7248ec5a01743ca2f3d2ede26b7b22d3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e3cb87b56a7d000087e021b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1a3ee2088d03a99d76c67d88bbf4e5df"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-07T01:03:52Z",
+      "year": 2020,
+      "month": 2,
+      "day": 7,
+      "hour": 1,
+      "minute": 3,
+      "x": -71.06463022584038,
+      "y": 42.35105536696907,
+      "altitude": 12,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

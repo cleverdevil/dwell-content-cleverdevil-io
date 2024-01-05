@@ -1,0 +1,122 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "TIL there's an #IndieWeb Wapuu! https://github.com/pfefferle/indie-wapuu"
+    ],
+    "content": [
+      {
+        "html": "TIL there's an <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a> Wapuu! <a href=\"https://github.com/pfefferle/indie-wapuu\" target=\"_blank\">https://<wbr/>github.com/<wbr/>pfefferle/<wbr/>indie-wapuu</a>",
+        "value": "TIL there's an #IndieWeb Wapuu! https://github.com/pfefferle/indie-wapuu"
+      }
+    ],
+    "category": [
+      "#IndieWeb"
+    ],
+    "url": [
+      "/2017/til-theres-an-indieweb-wapuu-pfefferleindie-wapuu"
+    ],
+    "published": [
+      "2017-06-24T21:44:23+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/878730550298718209"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "2c7d6599cf344e716b936c5a62b97720"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/878730550298718209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F878730550298718209%2F613043"
+          ],
+          "published": [
+            "2017-06-24T21:48:23+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Matthias Pfefferle"
+                ],
+                "url": [
+                  "https://twitter.com/pfefferle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/304f78477ebbe42b743d5efe5ce162d0"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/304f78477ebbe42b743d5efe5ce162d0 Matthias Pfefferle"
+            }
+          ]
+        },
+        "value": "Matthias Pfefferle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/878730550298718209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F878730550298718209%2F2889319752"
+          ],
+          "published": [
+            "2017-06-24T22:20:34+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Haiku for You"
+                ],
+                "url": [
+                  "https://twitter.com/iamhunter_me"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/82baf3e30c1e33f06b2b563826dd2b57/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/82baf3e30c1e33f06b2b563826dd2b57/thumb.jpg Haiku for You"
+            }
+          ]
+        },
+        "value": "Haiku for You"
+      }
+    ]
+  }
+}

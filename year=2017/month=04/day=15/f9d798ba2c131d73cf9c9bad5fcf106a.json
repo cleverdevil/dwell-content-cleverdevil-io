@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hollywood"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hollywood"
+          ],
+          "latitude": [
+            "34.100501530821"
+          ],
+          "longitude": [
+            "-118.3351767191"
+          ]
+        },
+        "value": "Hollywood"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hollywood"
+          ],
+          "latitude": [
+            "34.100501530821"
+          ],
+          "longitude": [
+            "-118.3351767191"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-hollywood"
+    ],
+    "published": [
+      "2017-04-15T01:02:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Central Hollywood was in July '10 at Pig 'N Whistle Hollywood."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Central Hollywood was in July '10 at Pig 'N Whistle Hollywood.</p>",
+              "value": "Your last check-in in Central Hollywood was in July '10 at Pig 'N Whistle Hollywood."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/61e60dd02e4dccfdeb45f42aeaf775ed"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58f1712a488699190835e5da/2669536ceacc0a3792b92b202eb72b45"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58f1712a488699190835e5da/2669536ceacc0a3792b92b202eb72b45"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58f1712a488699190835e5da"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f9d798ba2c131d73cf9c9bad5fcf106a"
+    ]
+  }
+}

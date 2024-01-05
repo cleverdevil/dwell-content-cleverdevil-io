@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/respect-the-lunacy"
+    ],
+    "published": [
+      "2023-10-16T20:14:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ddb108330c030110418440c387ed3bfb"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-16T03:04:31Z",
+      "year": 2023,
+      "month": 10,
+      "day": 16,
+      "hour": 3,
+      "minute": 4,
+      "x": -118.37046372431838,
+      "y": 33.815346694644795,
+      "altitude": 60,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Respect The Lunacy"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/04bcfde40c5e5c31ef0236e370adf8cf/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6Rdr-ddog"
+        ],
+        "content": [
+          {
+            "html": "<p>Jess and Spencer discuss the Qatar GP, Martin Brundle\u2019s recent comments, Oscar Piastri\u2019s development as a driver this season, potential replacement drivers for Lance Stroll such as Wario, Fat Bear Week and Jess vs. Max on equal machinery, equal Miami traffic, and equal destinations. Learn more about your ad choices. Visit megaphone.fm/adchoices</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  DNF</p>",
+            "value": "Jess and Spencer discuss the Qatar GP, Martin Brundle\u2019s recent comments, Oscar Piastri\u2019s development as a driver this season, potential replacement drivers for Lance Stroll such as Wario, Fat Bear Week and Jess vs. Max on equal machinery, equal Miami traffic, and equal destinations. Learn more about your ad choices. Visit megaphone.fm/adchoices\nBy DNF"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

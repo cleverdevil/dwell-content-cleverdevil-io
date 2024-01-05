@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into P\u0101'ia"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "P\u0101'ia"
+          ],
+          "latitude": [
+            "20.915739715167"
+          ],
+          "longitude": [
+            "-156.3806602263"
+          ]
+        },
+        "value": "P\u0101'ia"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "P\u0101'ia"
+          ],
+          "latitude": [
+            "20.915739715167"
+          ],
+          "longitude": [
+            "-156.3806602263"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-p%C4%81ia"
+    ],
+    "published": [
+      "2019-01-28T21:00:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Town!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Town!</p>",
+              "value": "Your first Town!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c4f6d53123a19002c5307d2/54be6369d9a06ace87e7b60a1779833c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c4f6d53123a19002c5307d2/54be6369d9a06ace87e7b60a1779833c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 73.56\u00b0F and 48% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 73.56\u00b0F and 48% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 73.56\u00b0F and 48% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-p%C4%81ia/annotations/67acc1d75ff00764a56a9cc19f2d1229"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-p%C4%81ia/annotations/67acc1d75ff00764a56a9cc19f2d1229"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c4f6d53123a19002c5307d2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "27b6a105b11da7797bc6bfd3648ecc0a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-28T20:59:18Z",
+      "year": 2019,
+      "month": 1,
+      "day": 28,
+      "hour": 20,
+      "minute": 59,
+      "x": -156.37992511124838,
+      "y": 20.915190301969247,
+      "altitude": 17,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  }
+}

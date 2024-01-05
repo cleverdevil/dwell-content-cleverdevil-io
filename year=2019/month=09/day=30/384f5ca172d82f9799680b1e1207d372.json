@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-262-the-ghost-of-bilateral-charging"
+    ],
+    "published": [
+      "2019-09-30T04:58:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 44.13\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 44.13\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 44.13\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-262-the-ghost-of-bilateral-charging/annotations/3f87db60911c48bb003107acf39d4f6f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-262-the-ghost-of-bilateral-charging/annotations/3f87db60911c48bb003107acf39d4f6f"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "384f5ca172d82f9799680b1e1207d372"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-30T07:21:49Z",
+      "year": 2019,
+      "month": 9,
+      "day": 30,
+      "hour": 7,
+      "minute": 21,
+      "x": -122.33320872236001,
+      "y": 47.61048093445589,
+      "altitude": 46,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "SheratonGuest"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 262: The Ghost of Bilateral Charging"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ea0253652c04d0a009fb95b0a670c7ad/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7GvCNQ"
+        ],
+        "content": [
+          {
+            "html": "<p>There\u2019s a lot going on: new iPhones, the new Apple Watch, iOS 13.1, Shortcuts updates and more. That\u2019s not to mention the Galaxy Fold, iCloud woes and whatever Amazon has announced.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "There\u2019s a lot going on: new iPhones, the new Apple Watch, iOS 13.1, Shortcuts updates and more. That\u2019s not to mention the Galaxy Fold, iCloud woes and whatever Amazon has announced.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

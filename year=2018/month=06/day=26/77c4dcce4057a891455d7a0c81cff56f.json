@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Eliot Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eliot Center"
+          ],
+          "latitude": [
+            "45.518610347414"
+          ],
+          "longitude": [
+            "-122.68594895097"
+          ]
+        },
+        "value": "Eliot Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eliot Center"
+          ],
+          "latitude": [
+            "45.518610347414"
+          ],
+          "longitude": [
+            "-122.68594895097"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-eliot-center-1"
+    ],
+    "published": [
+      "2018-06-26T21:27:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hanging out with David, Tantek, Marty, and 2 other friends!"
+          ],
+          "content": [
+            {
+              "html": "<p>Hanging out with David, Tantek, Marty, and 2 other friends!</p>",
+              "value": "Hanging out with David, Tantek, Marty, and 2 other friends!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZmFjZS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b32afd89ba3e5002c89ec62/facbfd81f6a001af3a04a2840a6d6db7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b32afd89ba3e5002c89ec62/facbfd81f6a001af3a04a2840a6d6db7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b32afd89ba3e5002c89ec62"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "77c4dcce4057a891455d7a0c81cff56f"
+    ]
+  }
+}

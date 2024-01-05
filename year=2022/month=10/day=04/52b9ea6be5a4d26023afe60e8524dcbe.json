@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.616763990697"
+          ],
+          "longitude": [
+            "-122.38701939583"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.616763990697"
+          ],
+          "longitude": [
+            "-122.38701939583"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-san-francisco-international-airport-sfo-16"
+    ],
+    "published": [
+      "2022-10-04T00:03:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside San Francisco International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/633b7845fd8b43495da5c950/a391c3bcdd00572f8eb646881b99ffa1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/633b7845fd8b43495da5c950/a391c3bcdd00572f8eb646881b99ffa1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 338 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 338 miles since your last check-in!</p>",
+              "value": "You've traveled 338 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/633b7845fd8b43495da5c950/2ac09fb9d393c24da2135f61161ada7f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/633b7845fd8b43495da5c950/2ac09fb9d393c24da2135f61161ada7f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/633b7845fd8b43495da5c950"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "52b9ea6be5a4d26023afe60e8524dcbe"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-04T00:02:20Z",
+      "year": 2022,
+      "month": 10,
+      "day": 4,
+      "hour": 0,
+      "minute": 2,
+      "x": -122.38367545991541,
+      "y": 37.615298812002074,
+      "altitude": 4,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

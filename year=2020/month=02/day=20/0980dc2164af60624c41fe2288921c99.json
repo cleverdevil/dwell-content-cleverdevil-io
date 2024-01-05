@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Club at SJC - Gate A8"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Club at SJC - Gate A8"
+          ],
+          "latitude": [
+            "37.370493"
+          ],
+          "longitude": [
+            "-121.930695"
+          ]
+        },
+        "value": "The Club at SJC - Gate A8"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Club at SJC - Gate A8"
+          ],
+          "latitude": [
+            "37.370493"
+          ],
+          "longitude": [
+            "-121.930695"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-the-club-at-sjc---gate-a8"
+    ],
+    "published": [
+      "2020-02-20T17:11:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e4ebdb625d10400083dd068/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e4ebdb625d10400083dd068/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.23\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.23\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 52.23\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-the-club-at-sjc---gate-a8/annotations/c0ed2ee00a0a6cd27de227888a34c97f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-the-club-at-sjc---gate-a8/annotations/c0ed2ee00a0a6cd27de227888a34c97f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e4ebdb625d10400083dd068"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0980dc2164af60624c41fe2288921c99"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-20T17:08:48Z",
+      "year": 2020,
+      "month": 2,
+      "day": 20,
+      "hour": 17,
+      "minute": 8,
+      "x": -121.93058240187902,
+      "y": 37.37011380290799,
+      "altitude": -1,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": ""
+    }
+  }
+}

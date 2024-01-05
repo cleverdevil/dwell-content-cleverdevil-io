@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/402-flat-side-promoter"
+    ],
+    "published": [
+      "2020-11-02T16:54:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "14b1d6ea18fe07b475ccef035eab5e3e"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-02T19:48:39Z",
+      "year": 2020,
+      "month": 11,
+      "day": 2,
+      "hour": 19,
+      "minute": 48,
+      "x": -118.37031182494766,
+      "y": 33.815426095395004,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 402: Flat-Side Promoter"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c30560c0734790f038f2667b7e3e6fb4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJESolk"
+        ],
+        "content": [
+          {
+            "html": "<p>iPhone 12 Pro: the official ATP review.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "iPhone 12 Pro: the official ATP review.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

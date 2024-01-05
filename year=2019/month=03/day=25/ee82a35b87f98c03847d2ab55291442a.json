@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Sonic Mania\nPlayed on the Nintendo Switch.\nPlayed for 5 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/64831870cb073039d3feb21d97b270c0/thumb.jpg"
+    ],
+    "name": [
+      "Sonic Mania"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 5 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 5 minutes."
+      }
+    ],
+    "url": [
+      "/2019/sonic-mania-2"
+    ],
+    "published": [
+      "2019-03-25T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.61\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/sonic-mania-2/annotations/0b206e20c122a4b63f3dd42eeaaf2fc3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/sonic-mania-2/annotations/0b206e20c122a4b63f3dd42eeaaf2fc3"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "ee82a35b87f98c03847d2ab55291442a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-25T12:09:30Z",
+      "year": 2019,
+      "month": 3,
+      "day": 25,
+      "hour": 12,
+      "minute": 9,
+      "x": -118.37052070737073,
+      "y": 33.81529041942805,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

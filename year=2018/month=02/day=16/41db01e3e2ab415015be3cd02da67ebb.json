@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Manhattan Village Shopping Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan Village Shopping Center"
+          ],
+          "latitude": [
+            "33.899204135573"
+          ],
+          "longitude": [
+            "-118.39397727173"
+          ]
+        },
+        "value": "Manhattan Village Shopping Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan Village Shopping Center"
+          ],
+          "latitude": [
+            "33.899204135573"
+          ],
+          "longitude": [
+            "-118.39397727173"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-manhattan-village-shopping-center-3"
+    ],
+    "published": [
+      "2018-02-16T01:49:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Manhattan Village Shopping Center since October '17."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Manhattan Village Shopping Center since October '17.</p>",
+              "value": "You haven't checked in to Manhattan Village Shopping Center since October '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a8638a3ff03065c35cfa42a/24b4b3c69744650f4a29ed6dfbfaab39"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a8638a3ff03065c35cfa42a/24b4b3c69744650f4a29ed6dfbfaab39"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a8638a3ff03065c35cfa42a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "41db01e3e2ab415015be3cd02da67ebb"
+    ]
+  }
+}

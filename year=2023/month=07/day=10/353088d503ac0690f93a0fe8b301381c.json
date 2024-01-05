@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/qa-queerphobia-countered-frank-peretti-and-pews-vs-chairs"
+    ],
+    "published": [
+      "2023-07-10T22:27:34+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "353088d503ac0690f93a0fe8b301381c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-10T23:34:34Z",
+      "year": 2023,
+      "month": 7,
+      "day": 10,
+      "hour": 23,
+      "minute": 34,
+      "x": -118.37033343398348,
+      "y": 33.815395779204046,
+      "altitude": 0,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Q&A: Queerphobia countered, Frank Peretti, and pews vs. chairs"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/96fc9a4183ff2bfa8ced327b709c8d54/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6m8A9JPXY"
+        ],
+        "content": [
+          {
+            "html": "<p>Q&amp;A: Queerphobia countered, Frank Peretti, and pews vs. chairs</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vacation Bible School Early Service</p>",
+            "value": "Q&A: Queerphobia countered, Frank Peretti, and pews vs. chairs\nBy Vacation Bible School Early Service"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Legoland California"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Legoland California"
+          ],
+          "latitude": [
+            "33.126302170356"
+          ],
+          "longitude": [
+            "-117.31152717149"
+          ]
+        },
+        "value": "Legoland California"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Legoland California"
+          ],
+          "latitude": [
+            "33.126302170356"
+          ],
+          "longitude": [
+            "-117.31152717149"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-legoland-california"
+    ],
+    "published": [
+      "2018-09-24T18:36:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Splashy sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Splashy sticker bonus!</p>",
+              "value": "Splashy sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3N0aWNrZXIvODAvVGhlbWVQYXJrc18zYzczYzIucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba92eab826444002c7da1fb/d2b00d813906dddb95ff27623f13d7ea"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba92eab826444002c7da1fb/d2b00d813906dddb95ff27623f13d7ea"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba92eab826444002c7da1fb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b288a4abb354e7c73ecb628348f79e6f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/09/24/17/like/"
+          ],
+          "published": [
+            "2018-09-24T18:56:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

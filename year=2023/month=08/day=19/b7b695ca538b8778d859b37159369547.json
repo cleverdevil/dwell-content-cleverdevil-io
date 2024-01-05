@@ -1,0 +1,183 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Boy & The Bear - Coffee Roastery"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Boy & The Bear - Coffee Roastery"
+          ],
+          "latitude": [
+            "33.847047201945"
+          ],
+          "longitude": [
+            "-118.38768853435"
+          ]
+        },
+        "value": "The Boy & The Bear - Coffee Roastery"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Boy & The Bear - Coffee Roastery"
+          ],
+          "latitude": [
+            "33.847047201945"
+          ],
+          "longitude": [
+            "-118.38768853435"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-boy-the-bear---coffee-roastery-19"
+    ],
+    "published": [
+      "2023-08-19T19:21:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Coffee Shop check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Coffee Shop check-in in 2 months!</p>",
+              "value": "First Coffee Shop check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64e1164efe33362a2d4213d5/37a8736b38ce9b20e752df44fe96a1c8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64e1164efe33362a2d4213d5/37a8736b38ce9b20e752df44fe96a1c8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64e1164efe33362a2d4213d5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b7b695ca538b8778d859b37159369547"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64e1164efe33362a2d4213d5/c36f349d206772a4fc1ce24f42190708"
+          ],
+          "published": [
+            "2023-08-19T19:21:50+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-19T19:21:12Z",
+      "year": 2023,
+      "month": 8,
+      "day": 19,
+      "hour": 19,
+      "minute": 21,
+      "x": -118.38759760075023,
+      "y": 33.846947189111745,
+      "altitude": 21,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

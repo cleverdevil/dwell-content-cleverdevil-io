@@ -1,0 +1,131 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I whipped up a quick plugin for @WithKnown to publish GitHub issues and comments on your own site, with automatic syndication to GitHub via Bridgy \u2013\u00a0https://github.com/cleverdevil/Known-GitHub #OwnYourIssues #IndieWeb"
+    ],
+    "content": [
+      {
+        "html": "I whipped up a quick plugin for @WithKnown to publish GitHub issues and comments on your own site, with automatic syndication to GitHub via Bridgy \u2013\u00a0<a href=\"https://github.com/cleverdevil/Known-GitHub\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>Known-GitHub</a> <a class=\"p-category\" href=\"/tag/OwnYourIssues\" rel=\"tag\">#OwnYourIssues</a> <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a>",
+        "value": "I whipped up a quick plugin for @WithKnown to publish GitHub issues and comments on your own site, with automatic syndication to GitHub via Bridgy \u2013\u00a0https://github.com/cleverdevil/Known-GitHub #OwnYourIssues #IndieWeb"
+      }
+    ],
+    "category": [
+      "#OwnYourIssues",
+      "#IndieWeb"
+    ],
+    "url": [
+      "/2018/i-whipped-up-a-quick-plugin-for"
+    ],
+    "published": [
+      "2018-07-03T04:39:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Have you looked at https://github.com/mapkyca/KnownGithub? Are there features in your plugin that are not available in this?"
+          ],
+          "content": [
+            {
+              "html": "<p>Have you looked at <a href=\"https://github.com/mapkyca/KnownGithub\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>github.com/<wbr/>mapkyca/<wbr/>KnownGithub</a>? Are there features in your plugin that are not available in this?</p>",
+              "value": "Have you looked at https://github.com/mapkyca/KnownGithub? Are there features in your plugin that are not available in this?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly96YWNoLm9nbGVzYnkuY28vZmlsZS8xYjNhNjVlM2JmMTU5YjBjOTExNzBkOWQwZjZhMmI3OA,,/300/square"
+                ],
+                "name": [
+                  "Zach Oglesby"
+                ],
+                "url": [
+                  "https://zach.oglesby.co/profile/zach"
+                ]
+              },
+              "value": "Zach Oglesby"
+            }
+          ],
+          "url": [
+            "https://zach.oglesby.co/2018/07/03/have-you-looked-at-mapkycaknowngithub-are-there"
+          ]
+        },
+        "value": "https://zach.oglesby.co/2018/07/03/have-you-looked-at-mapkycaknowngithub-are-there"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1014005695514075136"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ba95057c896b00a116d382c58a64fddd"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1014005695514075136?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1014005695514075136%2F139199211"
+          ],
+          "published": [
+            "2018-07-03T05:04:15+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://twitter.com/schnarfed"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ1OTA0MTY2MjcwNzA2MDczNi9LYjlFeDRYOC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ1OTA0MTY2MjcwNzA2MDczNi9LYjlFeDRYOC5qcGVn/300/square Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      }
+    ]
+  }
+}

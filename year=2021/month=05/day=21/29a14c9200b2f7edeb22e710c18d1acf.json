@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/346-the-hi-res-society"
+    ],
+    "published": [
+      "2021-05-21T23:18:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "29a14c9200b2f7edeb22e710c18d1acf"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-21T23:16:26Z",
+      "year": 2021,
+      "month": 5,
+      "day": 21,
+      "hour": 23,
+      "minute": 16,
+      "x": -118.37056243154376,
+      "y": 33.81531843655042,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 346: The Hi-Res Society"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/83e757061d538d7d8d7575b8de9f9a88/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7dcTvo"
+        ],
+        "content": [
+          {
+            "html": "<p>The M1 iPad Pro is here, and Federico walks Stephen and Myke through his review and thoughts on the new device. Then, a lecture on high-resolution audio in light of the recent Apple Music news. It\u2019s Federico Mania!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The M1 iPad Pro is here, and Federico walks Stephen and Myke through his review and thoughts on the new device. Then, a lecture on high-resolution audio in light of the recent Apple Music news. It\u2019s Federico Mania!\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

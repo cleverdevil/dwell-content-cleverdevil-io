@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/555-a-very-eventful-day"
+    ],
+    "published": [
+      "2023-10-06T08:11:34+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "794a2aa8969fd181020f7e28fdedfa2e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-06T10:00:02Z",
+      "year": 2023,
+      "month": 10,
+      "day": 6,
+      "hour": 10,
+      "minute": 0,
+      "x": -116.38031151437157,
+      "y": 33.70172312850001,
+      "altitude": 126,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 555: A Very Eventful Day"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b684c3aa98c00caad01e0d72a6341683/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKrS5FU"
+        ],
+        "content": [
+          {
+            "html": "<p>John insists on using his computer.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John insists on using his computer.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

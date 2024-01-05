@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/dear-internet-episode-131-cory-and-her"
+    ],
+    "published": [
+      "2022-11-14T23:45:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0eb2b3f4dd8a9718c985dc4df15e5fdb"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-11T02:00:50Z",
+      "year": 2022,
+      "month": 11,
+      "day": 11,
+      "hour": 2,
+      "minute": 0,
+      "x": -116.38042972582298,
+      "y": 33.7016010011756,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 131: Cory and Her"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1283fa5bb64ab97fe9e977aaf01d1ff1/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_58PmHRs"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,On this week\u2019s show, we talk about a love poem, plastic containers, and what to bring to a haunting. Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,On this week\u2019s show, we talk about a love poem, plastic containers, and what to bring to a haunting. Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

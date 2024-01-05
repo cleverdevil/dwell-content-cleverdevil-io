@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/215-they-did-start-tomorrow"
+    ],
+    "published": [
+      "2023-08-22T23:39:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e039ee873580b8c27dc1a7a62df6104a"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-22T23:53:41Z",
+      "year": 2023,
+      "month": 8,
+      "day": 22,
+      "hour": 23,
+      "minute": 53,
+      "x": -118.37039782273506,
+      "y": 33.81539357954176,
+      "altitude": 56,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 215: They Did Start Tomorrow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0f842bfe0e780ac8bda5b3cab24671e2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IPqLono"
+        ],
+        "content": [
+          {
+            "html": "<p>In Follow-Up, John has updates on his omnibus home improvement project. As a main topic, Merlin is interrogated about his AI journey.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "In Follow-Up, John has updates on his omnibus home improvement project. As a main topic, Merlin is interrogated about his AI journey.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

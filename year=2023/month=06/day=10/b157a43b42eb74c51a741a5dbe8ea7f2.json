@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lake Lanier, Georgia"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lake Lanier, Georgia"
+          ],
+          "latitude": [
+            "34.195622364591"
+          ],
+          "longitude": [
+            "-84.112699023174"
+          ]
+        },
+        "value": "Lake Lanier, Georgia"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lake Lanier, Georgia"
+          ],
+          "latitude": [
+            "34.195622364591"
+          ],
+          "longitude": [
+            "-84.112699023174"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-lake-lanier-georgia"
+    ],
+    "published": [
+      "2023-06-10T15:42:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Lake check-in in 7 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Lake check-in in 7 months!</p>",
+              "value": "First Lake check-in in 7 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/648499fd448c0a494febf29a/def2cd3f109813f7f2c29a705d773879"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/648499fd448c0a494febf29a/def2cd3f109813f7f2c29a705d773879"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Cumming."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Cumming.</p>",
+              "value": "First check-in in Cumming."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/648499fd448c0a494febf29a/1fd8aca2dd5cdfa2648b6c2cf1952079"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/648499fd448c0a494febf29a/1fd8aca2dd5cdfa2648b6c2cf1952079"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/648499fd448c0a494febf29a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b157a43b42eb74c51a741a5dbe8ea7f2"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-10T15:33:32Z",
+      "year": 2023,
+      "month": 6,
+      "day": 10,
+      "hour": 15,
+      "minute": 33,
+      "x": -84.09433532690713,
+      "y": 34.192342701246695,
+      "altitude": 326,
+      "motion": [
+        "driving"
+      ],
+      "speed": 8,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

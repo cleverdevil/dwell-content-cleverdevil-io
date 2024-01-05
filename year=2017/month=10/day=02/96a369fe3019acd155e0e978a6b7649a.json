@@ -1,0 +1,160 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Well, that was fun. A missed Ubuntu dep caused SSH not to start on my website's VM. At least I know I still have chroot skillz."
+    ],
+    "content": [
+      {
+        "html": "Well, that was fun. A missed Ubuntu dep caused SSH not to start on my website's VM. At least I know I still have chroot skillz.",
+        "value": "Well, that was fun. A missed Ubuntu dep caused SSH not to start on my website's VM. At least I know I still have chroot skillz."
+      }
+    ],
+    "url": [
+      "/2017/well-that-was-fun-a-missed-ubuntu-dep-caused-ssh"
+    ],
+    "published": [
+      "2017-10-02T23:29:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I was with you through the word \"fun\""
+          ],
+          "content": [
+            {
+              "html": "<p>I was with you through the word \"fun\"</p>",
+              "value": "I was with you through the word \"fun\""
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg4MzA5MTQwMjc5MTU0Njg4MC96anNTb09Rei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Robert Cunningham"
+                ],
+                "url": [
+                  "https://twitter.com/robertcunningha"
+                ]
+              },
+              "value": "Robert Cunningham"
+            }
+          ],
+          "url": [
+            "https://twitter.com/robertcunningha/status/915019732067274752"
+          ]
+        },
+        "value": "https://twitter.com/robertcunningha/status/915019732067274752"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/914996649574977537"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "96a369fe3019acd155e0e978a6b7649a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/914996649574977537?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F914996649574977537%2F76772442"
+          ],
+          "published": [
+            "2017-10-03T02:26:43+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johannes Ernst"
+                ],
+                "url": [
+                  "https://twitter.com/Johannes_Ernst"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square Johannes Ernst"
+            }
+          ]
+        },
+        "value": "Johannes Ernst"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/914996649574977537?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F914996649574977537%2F9085712"
+          ],
+          "published": [
+            "2017-10-03T05:51:23+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Burrito Lee"
+                ],
+                "url": [
+                  "https://twitter.com/slashclee"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square Burrito Lee"
+            }
+          ]
+        },
+        "value": "Burrito Lee"
+      }
+    ]
+  }
+}

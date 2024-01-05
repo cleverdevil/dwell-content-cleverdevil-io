@@ -1,0 +1,283 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I wonder if Twitter\u2019s new character limit will be allowed in third-party clients? So far, I\u2019m not seeing the new limit in Tweetbot iOS."
+    ],
+    "content": [
+      {
+        "html": "I wonder if Twitter\u2019s new character limit will be allowed in third-party clients? So far, I\u2019m not seeing the new limit in Tweetbot iOS.",
+        "value": "I wonder if Twitter\u2019s new character limit will be allowed in third-party clients? So far, I\u2019m not seeing the new limit in Tweetbot iOS."
+      }
+    ],
+    "url": [
+      "/2017/i-wonder-if-twitters-new-character-limit-will-be-allowed"
+    ],
+    "published": [
+      "2017-11-07T22:22:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil As far as I know, there's no timeline for adding 280 to the API. Which is weird, since the API already supports querying for the tweet length."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil As far as I know, there's no timeline for adding 280 to the API. Which is weird, since the API already supports querying for the tweet length.</p>",
+              "value": "@cleverdevil As far as I know, there's no timeline for adding 280 to the API. Which is weird, since the API already supports querying for the tweet length."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9kODQ4YWM5YTNjNjRkMWI3MzU2Mzg5NTg5MmNiMjgxOT9zPTk2/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/186926"
+          ]
+        },
+        "value": "https://micro.blog/manton/186926"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "The API doesn\u2019t support them. Doubt twitter will extend it. They don\u2019t care much for third-party clients."
+          ],
+          "content": [
+            {
+              "html": "<p>The API doesn\u2019t support them. Doubt twitter will extend it. They don\u2019t care much for third-party clients.</p>",
+              "value": "The API doesn\u2019t support them. Doubt twitter will extend it. They don\u2019t care much for third-party clients."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc5MzE2NTA1MDczMTE3NTkzNi80TUxOXzFkcC5qcGc,/300/square"
+                ],
+                "name": [
+                  "Michael \ud83e\uddc0"
+                ],
+                "url": [
+                  "https://singletary.blog"
+                ]
+              },
+              "value": "Michael \ud83e\uddc0"
+            }
+          ],
+          "url": [
+            "https://twitter.com/singletary/status/928037359190466565"
+          ]
+        },
+        "value": "https://twitter.com/singletary/status/928037359190466565"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton @cleverdevil Twitterific just tweeted that they will be adding support."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton @cleverdevil Twitterific just tweeted that they will be adding support.</p>",
+              "value": "@manton @cleverdevil Twitterific just tweeted that they will be adding support."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci84ZjE2ODRhYjk3ZGI0YjYxZTliZGIwZTc1NjEzNmEzMj9zPTk2/300/square"
+                ],
+                "name": [
+                  "craigmcclellan"
+                ],
+                "url": [
+                  "https://micro.blog/craigmcclellan"
+                ]
+              },
+              "value": "craigmcclellan"
+            }
+          ],
+          "url": [
+            "https://micro.blog/craigmcclellan/186994"
+          ]
+        },
+        "value": "https://micro.blog/craigmcclellan/186994"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@craigmcclellan I saw! Pleasantly surprised. I\u2019ll have to update my website\u2019s syndication plug-in once the change is live. I\u2019m guessing @Manton will have to do the same!"
+          ],
+          "content": [
+            {
+              "html": "<p>@craigmcclellan I saw! Pleasantly surprised. I\u2019ll have to update my website\u2019s syndication plug-in once the change is live. I\u2019m guessing @Manton will have to do the same!</p>",
+              "value": "@craigmcclellan I saw! Pleasantly surprised. I\u2019ll have to update my website\u2019s syndication plug-in once the change is live. I\u2019m guessing @Manton will have to do the same!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci83NTVjMmI0NTlkYmZkNDJjOTZhMzA2NmM5NGU5NGEzMT9zPTk2/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/186995"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/186995"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil @craigmcclellan Definitely, I'll update Micro.blog cross-posting whenever the change is live. I had checked the Twitter dev forums earlier and there was no word, but they posted later today. Good news."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil @craigmcclellan Definitely, I'll update Micro.blog cross-posting whenever the change is live. I had checked the Twitter dev forums earlier and there was no word, but they posted later today. Good news.</p>",
+              "value": "@cleverdevil @craigmcclellan Definitely, I'll update Micro.blog cross-posting whenever the change is live. I had checked the Twitter dev forums earlier and there was no word, but they posted later today. Good news."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9kODQ4YWM5YTNjNjRkMWI3MzU2Mzg5NTg5MmNiMjgxOT9zPTk2/300/square"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/187109"
+          ]
+        },
+        "value": "https://micro.blog/manton/187109"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/928024930364555264"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d21a2ffb562c2144a010e6e997542bb1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/928024930364555264?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F928024930364555264%2F2942976018"
+          ],
+          "published": [
+            "2017-11-07T22:25:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "herb's derbs"
+                ],
+                "url": [
+                  "https://twitter.com/squorch"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU0ODE0NDM5NjgxNDY1NTQ4OC93Sk1VSWRNYS5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU0ODE0NDM5NjgxNDY1NTQ4OC93Sk1VSWRNYS5qcGVn/300/square herb's derbs"
+            }
+          ]
+        },
+        "value": "herb's derbs"
+      }
+    ]
+  }
+}

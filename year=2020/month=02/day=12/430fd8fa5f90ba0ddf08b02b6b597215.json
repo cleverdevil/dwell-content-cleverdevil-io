@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-284-were-in-the-ear-business"
+    ],
+    "published": [
+      "2020-02-12T20:34:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-284-were-in-the-ear-business/annotations/7133bc88fb78d9ff01c7e63d61c6856e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-284-were-in-the-ear-business/annotations/7133bc88fb78d9ff01c7e63d61c6856e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "430fd8fa5f90ba0ddf08b02b6b597215"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-13T00:03:48Z",
+      "year": 2020,
+      "month": 2,
+      "day": 13,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.4811589902939,
+      "y": 34.02751848734779,
+      "altitude": 45,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.550000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 284: We\u2019re In the Ear Business"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a62738c327d3f2436bd02eb1b1af1fa6/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-HJkBM"
+        ],
+        "content": [
+          {
+            "html": "<p>Why did Apple release surprising new beta features this month? We discuss what it might mean for the future of Mac app development, iPad Pro accessories, and the processors powering future Macs. And can someone get Taika Waititi a 16-inch MacBook Pro?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Why did Apple release surprising new beta features this month? We discuss what it might mean for the future of Mac app development, iPad Pro accessories, and the processors powering future Macs. And can someone get Taika Waititi a 16-inch MacBook Pro?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

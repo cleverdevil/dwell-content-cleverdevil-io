@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Two Guns Kitchen"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Two Guns Kitchen"
+          ],
+          "latitude": [
+            "33.919827338297"
+          ],
+          "longitude": [
+            "-118.41611664169"
+          ]
+        },
+        "value": "Two Guns Kitchen"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Two Guns Kitchen"
+          ],
+          "latitude": [
+            "33.919827338297"
+          ],
+          "longitude": [
+            "-118.41611664169"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-two-guns-kitchen-2"
+    ],
+    "published": [
+      "2018-09-26T18:42:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been one month since you last checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been one month since you last checked in here!</p>",
+              "value": "Welcome back! It's been one month since you last checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5babd31d5c6838002cee45a3/93a333dfa18d7e0a7b0d460d40639ca4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5babd31d5c6838002cee45a3/93a333dfa18d7e0a7b0d460d40639ca4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5babd31d5c6838002cee45a3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b24ea211a73bd9764dfc51bd7fcb75ea"
+    ]
+  }
+}

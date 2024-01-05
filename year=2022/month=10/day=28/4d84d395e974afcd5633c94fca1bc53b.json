@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/bad-news-heirs"
+    ],
+    "published": [
+      "2022-10-28T16:08:42+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4d84d395e974afcd5633c94fca1bc53b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-28T19:58:34Z",
+      "year": 2022,
+      "month": 10,
+      "day": 28,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.37028544792936,
+      "y": 33.815268011666205,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Bad News, Heirs"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/bea58eee92a16c2b93d6b14360b70dad/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0TDa2s"
+        ],
+        "content": [
+          {
+            "html": "<p>Dan brings the case against his wife, Emily. When their kids are already in a bad mood, Dan believes this is a good time to deliver a piece of news that they may not want to hear. Emily disagrees with Dan\u2019s method and would like him to stop doing it when she is with him. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Dan brings the case against his wife, Emily. When their kids are already in a bad mood, Dan believes this is a good time to deliver a piece of news that they may not want to hear. Emily disagrees with Dan\u2019s method and would like him to stop doing it when she is with him. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

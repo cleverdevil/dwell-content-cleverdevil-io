@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/408-upgrade-vr"
+    ],
+    "published": [
+      "2022-05-30T20:07:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "164d79cfee0343d771f8fd5b27e99b1f"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-31T00:04:49Z",
+      "year": 2022,
+      "month": 5,
+      "day": 31,
+      "hour": 0,
+      "minute": 4,
+      "x": -116.3804517035222,
+      "y": 33.70163594669802,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 408: Upgrade VR"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/77e8b440262c820819d9bd09019fdede/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm97K7Ic"
+        ],
+        "content": [
+          {
+            "html": "<p>The much-rumored Apple AR/VR headset appears to be on the horizon, so Myke and Jason break down several reports about its development and debate what approach Apple should take.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The much-rumored Apple AR/VR headset appears to be on the horizon, so Myke and Jason break down several reports about its development and debate what approach Apple should take.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Loyal Legion"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Loyal Legion"
+          ],
+          "latitude": [
+            "45.517804832265"
+          ],
+          "longitude": [
+            "-122.65952646732"
+          ]
+        },
+        "value": "Loyal Legion"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Loyal Legion"
+          ],
+          "latitude": [
+            "45.517804832265"
+          ],
+          "longitude": [
+            "-122.65952646732"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Loyal Legion\" src=\"https://cleverdevil.io/file/ee9d0e028b30d069b02cddc666369760\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>handsome.af \u2014 with <a href=\"https://aaronparecki.com/\">aaronpk</a>, <a href=\"https://foursquare.com/user/56095\">gRegor</a>, <a href=\"https://martymcgui.re/\">Marty</a>, <a href=\"https://foursquare.com/user/476\">Tantek</a></p>",
+        "value": "Loyal Legion\nhandsome.af \u2014 with aaronpk, gRegor, Marty, Tantek"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-loyal-legion"
+    ],
+    "published": [
+      "2017-06-26T04:17:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Loyal Legion."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Loyal Legion.</p>",
+              "value": "First check-in at Loyal Legion."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0bc8e7fb68121e4359ef16520a503138"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/78a8d58de73e5fa896c4266b243a56ba"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/78a8d58de73e5fa896c4266b243a56ba"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hanging out with aaronpk, gRegor, Marty, and Tantek!"
+          ],
+          "content": [
+            {
+              "html": "<p>Hanging out with aaronpk, gRegor, Marty, and Tantek!</p>",
+              "value": "Hanging out with aaronpk, gRegor, Marty, and Tantek!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2754f9ad44dfcd6243f3c38accd754eb"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/0997de3418550459d9e81d6027b82cf8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/0997de3418550459d9e81d6027b82cf8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59508aaf8a6f176362a79968"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "43e8091eafaed8454115167fedd1412d"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/19c472f44fc4a691fe352aa792603326"
+          ],
+          "published": [
+            "2017-06-26T04:16:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://foursquare.com/user/58143"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/04978a15eafa179e11ea857cc3643e16"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/04978a15eafa179e11ea857cc3643e16 Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/634614507f0df21f28318d29faf230c8"
+          ],
+          "published": [
+            "2017-06-26T04:16:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Tantek \u00c7elik"
+                ],
+                "url": [
+                  "https://foursquare.com/user/476"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/8ebbb2629a48929645f533215f864eb8"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/8ebbb2629a48929645f533215f864eb8 Tantek \u00c7elik"
+            }
+          ]
+        },
+        "value": "Tantek \u00c7elik"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59508aaf8a6f176362a79968/f26af2a958342fb5a2f4bd3551acf5fa"
+          ],
+          "published": [
+            "2017-06-26T04:16:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Christine Tremoulet"
+                ],
+                "url": [
+                  "https://foursquare.com/user/31921"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/e8b581c38e06457a68aaeffba4689978"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/e8b581c38e06457a68aaeffba4689978 Christine Tremoulet"
+            }
+          ]
+        },
+        "value": "Christine Tremoulet"
+      }
+    ]
+  }
+}

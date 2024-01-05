@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-241-123-twitter-client-doesnt-work"
+    ],
+    "published": [
+      "2019-05-03T15:45:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.72\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.72\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.72\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-241-123-twitter-client-doesnt-work/annotations/893b23f96fd629274331a36a8f4b3b14"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-241-123-twitter-client-doesnt-work/annotations/893b23f96fd629274331a36a8f4b3b14"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a66387f30ffb7c9101bc8d358d010bce"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-03T15:59:56Z",
+      "year": 2019,
+      "month": 5,
+      "day": 3,
+      "hour": 15,
+      "minute": 59,
+      "x": -118.37049332126487,
+      "y": 33.815359050488794,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.25,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 241: 123 Twitter Client Doesn\u2019t Work"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/65010a6245d53cae65f363e6f081bb93/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx491Gj4"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen returns order to the podcast after two weeks away, Myke reads some Hex color codes and Federico turns on his hype machine.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen returns order to the podcast after two weeks away, Myke reads some Hex color codes and Federico turns on his hype machine.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

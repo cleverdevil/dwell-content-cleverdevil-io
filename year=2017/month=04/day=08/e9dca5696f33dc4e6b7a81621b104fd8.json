@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Armstrong Garden Centers"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armstrong Garden Centers"
+          ],
+          "latitude": [
+            "33.7950908554"
+          ],
+          "longitude": [
+            "-118.32908663169"
+          ]
+        },
+        "value": "Armstrong Garden Centers"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armstrong Garden Centers"
+          ],
+          "latitude": [
+            "33.7950908554"
+          ],
+          "longitude": [
+            "-118.32908663169"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Getting plants for the garden.</p>",
+        "value": "Getting plants for the garden."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-armstrong-garden-centers"
+    ],
+    "published": [
+      "2017-04-08T19:06:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4e904ecc2913784dd997a0a4e523fe7b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e934ac04ab1a33496394f7/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e934ac04ab1a33496394f7/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Garden check-in in 7 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Garden check-in in 7 years!</p>",
+              "value": "First Garden check-in in 7 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4e904ecc2913784dd997a0a4e523fe7b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e934ac04ab1a33496394f7/f90944f1b4726a1720829b30382c1ef7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e934ac04ab1a33496394f7/f90944f1b4726a1720829b30382c1ef7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e934ac04ab1a33496394f7"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e9dca5696f33dc4e6b7a81621b104fd8"
+    ]
+  }
+}

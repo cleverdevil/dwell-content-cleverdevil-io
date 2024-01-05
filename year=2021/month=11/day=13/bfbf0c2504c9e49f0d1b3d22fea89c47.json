@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/456-the-monitor-situation"
+    ],
+    "published": [
+      "2021-11-13T01:10:52+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bfbf0c2504c9e49f0d1b3d22fea89c47"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-13T04:01:40Z",
+      "year": 2021,
+      "month": 11,
+      "day": 13,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37033567880339,
+      "y": 33.81544850591071,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 456: The Monitor Situation"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e6e771c73138b0cf455447e54ff14987/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIjVHIc"
+        ],
+        "content": [
+          {
+            "html": "<p>More MacBook Pro joy, the future of the iMac, a pile of iPhone 13 Pro cases, and Casey\u2019s new-yet-again setup.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "More MacBook Pro joy, the future of the iMac, a pile of iPhone 13 Pro cases, and Casey\u2019s new-yet-again setup.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

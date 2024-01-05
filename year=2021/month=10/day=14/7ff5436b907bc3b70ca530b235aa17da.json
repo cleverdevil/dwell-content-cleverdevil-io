@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/367-the-rickies-october-2021"
+    ],
+    "published": [
+      "2021-10-14T18:23:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7ff5436b907bc3b70ca530b235aa17da"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-14T19:58:01Z",
+      "year": 2021,
+      "month": 10,
+      "day": 14,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.37056066031656,
+      "y": 33.81535159821409,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 367: The Rickies (October 2021)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/828a69783875dadceddef3b280570d28/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6Hkxs4"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has announced an October event, so the Passionate Ones have gathered to appoint a new Event Chairman through the making of Picks, both Regular and Risky.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple has announced an October event, so the Passionate Ones have gathered to appoint a new Event Chairman through the making of Picks, both Regular and Risky.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

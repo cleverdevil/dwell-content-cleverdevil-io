@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into AMC Del Amo 18"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "AMC Del Amo 18"
+          ],
+          "latitude": [
+            "33.833674874371"
+          ],
+          "longitude": [
+            "-118.34750533104"
+          ]
+        },
+        "value": "AMC Del Amo 18"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "AMC Del Amo 18"
+          ],
+          "latitude": [
+            "33.833674874371"
+          ],
+          "longitude": [
+            "-118.34750533104"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Smurfs!</p>",
+        "value": "Smurfs!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-amc-del-amo-18"
+    ],
+    "published": [
+      "2017-05-05T18:42:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in to see Smurfs: The Lost Village."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in to see Smurfs: The Lost Village.</p>",
+              "value": "First of your friends to check in to see Smurfs: The Lost Village."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/fd0c373df43ed8f355987a1a41fb4595"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590cc76d356b496c8092b2d0/1a90658ec38eaa53d5dc9111a7b7e809"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590cc76d356b496c8092b2d0/1a90658ec38eaa53d5dc9111a7b7e809"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this AMC Theatres!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this AMC Theatres!</p>",
+              "value": "Your first check-in at this AMC Theatres!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7ea02589c1c93683ed361976b35b0b03"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590cc76d356b496c8092b2d0/627a4a6e3b397965cc34e296a50ee26d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590cc76d356b496c8092b2d0/627a4a6e3b397965cc34e296a50ee26d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/590cc76d356b496c8092b2d0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "42e05898c7d05147a801a81655779b04"
+    ]
+  }
+}

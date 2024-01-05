@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Pretty pleased I managed to have this entire conversation with ... &bull; Aaron Parecki"
+    ],
+    "like-of": [
+      "https://aaronparecki.com/2019/02/20/32/twitter"
+    ],
+    "url": [
+      "/2019/pretty-pleased-i-managed-to-have-this-entire-conversation-with"
+    ],
+    "published": [
+      "2019-02-20T17:31:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 50.67\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 50.67\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 50.67\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/pretty-pleased-i-managed-to-have-this-entire-conversation-with/annotations/9c44c273baabcc75d3713f2f798f3d11"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/pretty-pleased-i-managed-to-have-this-entire-conversation-with/annotations/9c44c273baabcc75d3713f2f798f3d11"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101625618421621400"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "2d0bc366609de8485df3c5d279151df8"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-20T17:19:39Z",
+      "year": 2019,
+      "month": 2,
+      "day": 20,
+      "hour": 17,
+      "minute": 19,
+      "x": -118.3703484721351,
+      "y": 33.81537622698731,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "LaCour"
+    }
+  }
+}

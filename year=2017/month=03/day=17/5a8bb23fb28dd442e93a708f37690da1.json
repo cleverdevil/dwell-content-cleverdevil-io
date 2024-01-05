@@ -1,0 +1,153 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Evolution of Hacker Culture"
+    ],
+    "content": [
+      {
+        "html": "<p>Growing up during the 1980's, I quickly developed a fascination for technology and computing. I'm a bit too young to have experienced the very early glory days of the computer revolution, missing the <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Homebrew_Computer_Club\">Homebrew Computer Club</a> and the innovations at <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Bell_Labs\">Bell Labs</a> and <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology\">MIT</a>. That said, my life was greatly influenced by early \"hacker culture.\"</p><div class=\"section\"><h3>The Birth of Hacker Culture</h3><p><a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution\">Steven Levy's \"Hackers: Heroes of the Computer Revolution,\"</a> was published in 1984, and attempts to capture and define what Levy calls \"hacker culture.\" Levy's central concept is that of the <em>Hacker Ethic</em>, a set of principles that he believes will bring forth a better world, if carefully adhered to:</p><blockquote><ol class=\"arabic simple\"><li>\n<p>Access to computers\u2014and anything which might teach you something about the way the world works\u2014should be unlimited and total. Always yield to the Hands-on Imperative!</p>\n</li>\n<li>\n<p>All information should be free.</p>\n</li>\n<li>\n<p>Mistrust authority\u2014promote decentralization.</p>\n</li>\n<li>\n<p>Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.</p>\n</li>\n<li>\n<p>You can create art and beauty on a computer.</p>\n</li>\n<li>\n<p>Computers can change your life for the better.</p>\n</li>\n</ol><p class=\"attribution\">\u2014The \"Hacker Ethic,\" Steven Levy</p></blockquote><p>I didn't hear of the <em>Hacker Ethic</em> until my early teens, but it immediately resonated with me because of my curiousity about technology, mistrust of authority, and <em>Robin Hood</em>-esque desire to hack the world through computing.</p></div><div class=\"section\"><h3>Ocean's Geeky Eleven</h3><p>In my Senior year of High School in 1997-98, I was President of my school's Computer Club (look out, ladies). The list of our exploits was impressive, and included, but was not limited to:</p><ol class=\"arabic simple\"><li>\n<p>Deploying a <a class=\"reference external\" href=\"http://www.slackware.com\">Slackware</a> Linux-powered server on our school's T1 line, which we used to host websites, to learn to program/script, and to host other services. I still remember using upwards of 40 <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/AOL\">AOL</a> free trial floppies to install <a class=\"reference external\" href=\"http://www.slackware.com\">Slackware</a> on that server.</p>\n</li>\n<li>\n<p>Causing an overly-protective <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Microsoft_Certified_Professional\">MCSE</a> administrator at our school so much frustration that he resigned in protest of our continued ability have a Linux server on \"his\" network. Mind you, our server was the most secure device on the network...</p>\n</li>\n<li>\n<p>Providing free training for parents and other students on how to use the Internet, including <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Gopher_(protocol)\">Gopher</a> training, and a comparison of World Wide Web search engines (we were all pretty big on <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/AltaVista\">AltaVista</a>, preferring it to <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Lycos\">Lycos</a> and <a class=\"reference external\" href=\"http://www.yahoo.com\">Yahoo</a>).</p>\n</li>\n</ol><p>I have so many fond memories of those days, where I fed my curiousity, and truly believed that I could change the world with technology.</p><p>My favorite, and perhaps most illustrative, story from that time in my life concerns our Computer Club's participation in the <a class=\"reference external\" href=\"http://www.distributed.net/RC5\">Distributed RC5 challenge</a>.</p><p>Before I recount the story, I'll note that the facts have gone through years of filtration in my brain, and some of the specific numbers may not be accurate. But, the general strucuture and spirit of the story is very much true.</p><p>The goal of the RC5 challenge was to claim a $10,000 prize funded by <a class=\"reference external\" href=\"http://www.rsasecurity.com/rsalabs/\">RSA Labs</a> as part of their \"Secret Key Challenge.\" Teams could register to join a massive distributed computing effort to claim the prize, installing a simple piece of software, an \"agent\", onto computers under their control that would use spare cycles to eventually find the winning key.</p><p>The RC5 challenge embodied everything we cared about: harnessing the power of computing to make a dent in the world. Our merry band of computing misfits had a real chance at hacker glory! The Computer Club attacked the problem in earnest, registering our team, and installing the agent on our Linux server and our home computers.</p><p>The contest had a leaderboard, where you could see how your team stacked up against other teams globally, including a few university and commercial supercomputer projects. At the beginning, our ranking was shamefully low, and we decided that we had to do something about it.</p><p>Our first course of action was, of course, harnessing all of the computing power at our disposal. This involved several weeks of covert effort getting the agent installed on every computer in the school, without any of the teachers or administrators noticing. At the time, it was pretty easy to hide the agent in plain-sight on the vintage Macintosh computers on campus, but the Windows computers were a bit trickier. Through some deft programming, we were eventually able to hide our agents on those as well, and we saw our team begin to rocket up the leaderboard, stalling just outside of the top 25.</p><p>Unsatisfied with our ranking, the Computer Club decided to take radical action. We would break into our rival high school, who had a very large computer lab filled with new computers, and covertly hide our agent on their network. At the time, I felt like <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Danny_Ocean\">Danny Ocean</a> in <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Ocean%27s_Eleven\">Ocean's Eleven</a>. We cleverly disguised ourselves as students, and made our way into the computer lab in the hours after school had closed, but before the doors were locked. Using our Windows and Mac forks of the agents, designed to hide themselves, we were quickly able to deploy our code throughout the entire computer lab.</p><p>The rival high school's network turned out to be locked down a bit more than we planned, and was blocking all outgoing traffic on ports other than the very basic services (HTTP, FTP, SMTP, POP3). We quickly adapted, building new versions of the agents that sent traffic over port 25 (SMTP), and then relayed it through our Linux server.</p><p>Twenty four hours later, our team was ranked in the top 10, alongside supercomputers and massive university-supported teams. We were doing something big! Soon enough, we felt that we'd crack the top 5, and have a real shot at the prize and glory.</p><p>Our excitement was short-lived, and over the next week, we were caught, and nearly expelled from school. We had to apologize to our rival high school, and point out how we exploited their systems. The jig was up.</p></div><div class=\"section\"><h3>Parrish's New Hacker Ethic</h3><p>I was reminded of this time of my life as I recently watched <a class=\"reference external\" href=\"http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/\">Allison Parrish's talk, \"Programming is Forgetting: Toward a New Hacker Ethic\"</a> from the 2016 <a class=\"reference external\" href=\"http://summit.oshwa.org\">Open Hardware Summit</a>. <a class=\"reference external\" href=\"http://www.decontextualize.com\">Allison Parrish</a> is a computer programmer, poet, and educator from Brooklyn, NY.</p><p>In her talk, Parrish shares her experiences with hacker culture, and proposes an evolution toward a new hacker ethic that she believes will \"foster a technology culture in which a high value is placed on understanding and being explicit about your biases about what you\u2019re leaving out, so that computers are used to bring out the richness of the world instead of forcibly overwriting it.\"</p><p>The \"philosophical kernel\" of Levy's hacker ethic that Parrish takes issue with is the \"Hands-On Imperative,\" which is referenced in rule 1 of his hacker ethic.</p><blockquote><p>Hackers believe that essential lessons can be learned about the systems\u2014about the world\u2014from taking things apart, seeing how they work, and using this knowledge to create new and even more interesting things. They resent any person, physical barrier, or law that tries to keep them from doing this.</p><p>This is especially true when a hacker wants to fix something that (from his point of view) is broken or needs improvement. Imperfect systems infuriate hackers, whose primal instinct is to debug them.</p><p class=\"attribution\">\u2014Hackers, p. 28</p></blockquote><p>Parrish asserts that the Hands-On Imperative assumes that the world is a system that can be understood perfectly and broken down into components that can also be understood. When stated this way, its clear that the imperative has inherent hubris. The world is a complex place, and every person has a point of view and bias. In addition to personal bias, the divide between the analog and the digital world is problematic:</p><blockquote><p>The process of computer programming is taking the world, which is infinitely variable, mysterious, and unknowable... and turning it into procedures and data.... The world, which consists of analog phenomena infinite and unknowable, is reduced to the repeatable and the discrete. In the process of programming, or scanning or sampling or digitizing or transcribing, much of the world is left out or forgotten. Programming is an attempt to get a handle on a small part of the world so we can analyze and reason about it. But a computer program is never itself the world.</p><p class=\"attribution\">\u2014Allison Parrish, \"Programming is Forgetting: Toward a New Hacker Ethic\"</p></blockquote><p>Due to this impedence mismatch between reality and the Hands-On Imperative, Parrish proposes a revised hacker ethic which is, instead of a set of black and white assertions, a series of questions more well-suited to the analog and variable world that we live in:</p><blockquote><ol class=\"arabic simple\"><li>\n<p><span style=\"text-decoration:line-through;\"><span class=\"strike\">Access to computers should be unlimited and total.</span></span> Who gets to use what I make? Who am I leaving out? How does what I make facilitate or hinder access?</p>\n</li>\n<li>\n<p><span style=\"text-decoration:line-through;\"><span class=\"strike\">All information should be free.</span></span> What data am I using? Whose labor produced it and what biases and assumptions are built into it? Why choose this particular phenomenon for digitization or transcription? And what do the data leave out?</p>\n</li>\n<li>\n<p><span style=\"text-decoration:line-through;\"><span class=\"strike\">Mistrust authority\u2014promote decentralization.</span></span> What systems of authority am I enacting through what I make? What systems of support do I rely on? How does what I make support other people?</p>\n</li>\n<li>\n<p><span style=\"text-decoration:line-through;\"><span class=\"strike\">Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.</span></span> What kind of community am I assuming? What community do I invite through what I make? How are my own personal values reflected in what I make?</p>\n</li>\n</ol><p class=\"attribution\">\u2014\"Hacker Questions,\" Allison Parrish</p></blockquote><p>Parrish's questions are a direct response to the first four tenets of Levy's Hacker Ethic, but she leaves his last two assertions alone, as she believes that they're valuable:</p><blockquote><ol class=\"arabic simple\" start=\"5\"><li>\n<p>You can create art and beauty on a computer.</p>\n</li>\n<li>\n<p>Computers can change your life for the better.</p>\n</li>\n</ol></blockquote><p>After all, every hacker believes that computers can change lives in real, and beautiful ways.</p></div><div class=\"section\"><h3>Bringing out the Richness of the World</h3><p>I'd encourage you to watch <a class=\"reference external\" href=\"http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/\">Parrish's talk</a> to get the full story, as\u00a0it resonated with me strongly, and caused me to reflect on my own life's journey through hacker culture, and my experiences with the darker and more subtle side-effects of Levy's seminal work on the hacker ethic.</p><p>How would my journey be different if hacker culture had been influenced by Parrish's Hacker Questions, rather than Levy's Hacker Ethic? How would my high school Computer Club story have changed? What would the technology industry look like today if hacker culture looked more like Parrish's vision, rather than Levy's?</p><p>Above all, I share Parrish's desire to shape a hacker culture that \"brings out the richness of the world, instead of forcibly overwriting it.\" The world today is more connected and impacted by technology and computing than ever before, but there are also a lot of truly frightening things happening. Hackers who embrace this new ethic have the potential to change the world for the better: to create opportunities and access for people who may otherwise be left behind; to call out bias and strive to surface more points of view; to invite the formation of more welcoming communities.</p><p>More often than not, the average person engages with computing and the internet through avenues so fundamentally tainted with systematic algorithmic bias, that major governments are capable of being sabatoged by exploiting these systems. I, for one, believe that hackers united around an ethic that surfaces bias, improves access to important and contextualized information, and creates more authentic community, can change the world for the better.</p><p>So, go forth, fellow hackers, and bring out the richness of the world.</p></div>",
+        "value": "Growing up during the 1980's, I quickly developed a fascination for technology and computing. I'm a bit too young to have experienced the very early glory days of the computer revolution, missing the Homebrew Computer Club and the innovations at Bell Labs and MIT. That said, my life was greatly influenced by early \"hacker culture.\"The Birth of Hacker Culture\nSteven Levy's \"Hackers: Heroes of the Computer Revolution,\" was published in 1984, and attempts to capture and define what Levy calls \"hacker culture.\" Levy's central concept is that of the Hacker Ethic, a set of principles that he believes will bring forth a better world, if carefully adhered to:\nAccess to computers\u2014and anything which might teach you something about the way the world works\u2014should be unlimited and total. Always yield to the Hands-on Imperative!\nAll information should be free.\nMistrust authority\u2014promote decentralization.\nHackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.\nYou can create art and beauty on a computer.\nComputers can change your life for the better.\n\u2014The \"Hacker Ethic,\" Steven Levy\nI didn't hear of the Hacker Ethic until my early teens, but it immediately resonated with me because of my curiousity about technology, mistrust of authority, and Robin Hood-esque desire to hack the world through computing.Ocean's Geeky Eleven\nIn my Senior year of High School in 1997-98, I was President of my school's Computer Club (look out, ladies). The list of our exploits was impressive, and included, but was not limited to:\nDeploying a Slackware Linux-powered server on our school's T1 line, which we used to host websites, to learn to program/script, and to host other services. I still remember using upwards of 40 AOL free trial floppies to install Slackware on that server.\nCausing an overly-protective MCSE administrator at our school so much frustration that he resigned in protest of our continued ability have a Linux server on \"his\" network. Mind you, our server was the most secure device on the network...\nProviding free training for parents and other students on how to use the Internet, including Gopher training, and a comparison of World Wide Web search engines (we were all pretty big on AltaVista, preferring it to Lycos and Yahoo).\nI have so many fond memories of those days, where I fed my curiousity, and truly believed that I could change the world with technology.\nMy favorite, and perhaps most illustrative, story from that time in my life concerns our Computer Club's participation in the Distributed RC5 challenge.\nBefore I recount the story, I'll note that the facts have gone through years of filtration in my brain, and some of the specific numbers may not be accurate. But, the general strucuture and spirit of the story is very much true.\nThe goal of the RC5 challenge was to claim a $10,000 prize funded by RSA Labs as part of their \"Secret Key Challenge.\" Teams could register to join a massive distributed computing effort to claim the prize, installing a simple piece of software, an \"agent\", onto computers under their control that would use spare cycles to eventually find the winning key.\nThe RC5 challenge embodied everything we cared about: harnessing the power of computing to make a dent in the world. Our merry band of computing misfits had a real chance at hacker glory! The Computer Club attacked the problem in earnest, registering our team, and installing the agent on our Linux server and our home computers.\nThe contest had a leaderboard, where you could see how your team stacked up against other teams globally, including a few university and commercial supercomputer projects. At the beginning, our ranking was shamefully low, and we decided that we had to do something about it.\nOur first course of action was, of course, harnessing all of the computing power at our disposal. This involved several weeks of covert effort getting the agent installed on every computer in the school, without any of the teachers or administrators noticing. At the time, it was pretty easy to hide the agent in plain-sight on the vintage Macintosh computers on campus, but the Windows computers were a bit trickier. Through some deft programming, we were eventually able to hide our agents on those as well, and we saw our team begin to rocket up the leaderboard, stalling just outside of the top 25.\nUnsatisfied with our ranking, the Computer Club decided to take radical action. We would break into our rival high school, who had a very large computer lab filled with new computers, and covertly hide our agent on their network. At the time, I felt like Danny Ocean in Ocean's Eleven. We cleverly disguised ourselves as students, and made our way into the computer lab in the hours after school had closed, but before the doors were locked. Using our Windows and Mac forks of the agents, designed to hide themselves, we were quickly able to deploy our code throughout the entire computer lab.\nThe rival high school's network turned out to be locked down a bit more than we planned, and was blocking all outgoing traffic on ports other than the very basic services (HTTP, FTP, SMTP, POP3). We quickly adapted, building new versions of the agents that sent traffic over port 25 (SMTP), and then relayed it through our Linux server.\nTwenty four hours later, our team was ranked in the top 10, alongside supercomputers and massive university-supported teams. We were doing something big! Soon enough, we felt that we'd crack the top 5, and have a real shot at the prize and glory.\nOur excitement was short-lived, and over the next week, we were caught, and nearly expelled from school. We had to apologize to our rival high school, and point out how we exploited their systems. The jig was up.Parrish's New Hacker Ethic\nI was reminded of this time of my life as I recently watched Allison Parrish's talk, \"Programming is Forgetting: Toward a New Hacker Ethic\" from the 2016 Open Hardware Summit. Allison Parrish is a computer programmer, poet, and educator from Brooklyn, NY.\nIn her talk, Parrish shares her experiences with hacker culture, and proposes an evolution toward a new hacker ethic that she believes will \"foster a technology culture in which a high value is placed on understanding and being explicit about your biases about what you\u2019re leaving out, so that computers are used to bring out the richness of the world instead of forcibly overwriting it.\"\nThe \"philosophical kernel\" of Levy's hacker ethic that Parrish takes issue with is the \"Hands-On Imperative,\" which is referenced in rule 1 of his hacker ethic.\nHackers believe that essential lessons can be learned about the systems\u2014about the world\u2014from taking things apart, seeing how they work, and using this knowledge to create new and even more interesting things. They resent any person, physical barrier, or law that tries to keep them from doing this.\nThis is especially true when a hacker wants to fix something that (from his point of view) is broken or needs improvement. Imperfect systems infuriate hackers, whose primal instinct is to debug them.\n\u2014Hackers, p. 28\nParrish asserts that the Hands-On Imperative assumes that the world is a system that can be understood perfectly and broken down into components that can also be understood. When stated this way, its clear that the imperative has inherent hubris. The world is a complex place, and every person has a point of view and bias. In addition to personal bias, the divide between the analog and the digital world is problematic:\nThe process of computer programming is taking the world, which is infinitely variable, mysterious, and unknowable... and turning it into procedures and data.... The world, which consists of analog phenomena infinite and unknowable, is reduced to the repeatable and the discrete. In the process of programming, or scanning or sampling or digitizing or transcribing, much of the world is left out or forgotten. Programming is an attempt to get a handle on a small part of the world so we can analyze and reason about it. But a computer program is never itself the world.\n\u2014Allison Parrish, \"Programming is Forgetting: Toward a New Hacker Ethic\"\nDue to this impedence mismatch between reality and the Hands-On Imperative, Parrish proposes a revised hacker ethic which is, instead of a set of black and white assertions, a series of questions more well-suited to the analog and variable world that we live in:\nAccess to computers should be unlimited and total. Who gets to use what I make? Who am I leaving out? How does what I make facilitate or hinder access?\nAll information should be free. What data am I using? Whose labor produced it and what biases and assumptions are built into it? Why choose this particular phenomenon for digitization or transcription? And what do the data leave out?\nMistrust authority\u2014promote decentralization. What systems of authority am I enacting through what I make? What systems of support do I rely on? How does what I make support other people?\nHackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position. What kind of community am I assuming? What community do I invite through what I make? How are my own personal values reflected in what I make?\n\u2014\"Hacker Questions,\" Allison Parrish\nParrish's questions are a direct response to the first four tenets of Levy's Hacker Ethic, but she leaves his last two assertions alone, as she believes that they're valuable:\nYou can create art and beauty on a computer.\nComputers can change your life for the better.\nAfter all, every hacker believes that computers can change lives in real, and beautiful ways.Bringing out the Richness of the World\nI'd encourage you to watch Parrish's talk to get the full story, as\u00a0it resonated with me strongly, and caused me to reflect on my own life's journey through hacker culture, and my experiences with the darker and more subtle side-effects of Levy's seminal work on the hacker ethic.\nHow would my journey be different if hacker culture had been influenced by Parrish's Hacker Questions, rather than Levy's Hacker Ethic? How would my high school Computer Club story have changed? What would the technology industry look like today if hacker culture looked more like Parrish's vision, rather than Levy's?\nAbove all, I share Parrish's desire to shape a hacker culture that \"brings out the richness of the world, instead of forcibly overwriting it.\" The world today is more connected and impacted by technology and computing than ever before, but there are also a lot of truly frightening things happening. Hackers who embrace this new ethic have the potential to change the world for the better: to create opportunities and access for people who may otherwise be left behind; to call out bias and strive to surface more points of view; to invite the formation of more welcoming communities.\nMore often than not, the average person engages with computing and the internet through avenues so fundamentally tainted with systematic algorithmic bias, that major governments are capable of being sabatoged by exploiting these systems. I, for one, believe that hackers united around an ethic that surfaces bias, improves access to important and contextualized information, and creates more authentic community, can change the world for the better.\nSo, go forth, fellow hackers, and bring out the richness of the world."
+      }
+    ],
+    "url": [
+      "/2017/the-evolution-of-hacker-culture"
+    ],
+    "published": [
+      "2017-03-17T03:58:17+0000"
+    ],
+    "syndication": [
+      "https://facebook.com/10101416927213429/posts/10102203074208549",
+      "https://twitter.com/cleverdevil/status/842586125105430528"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "5a8bb23fb28dd442e93a708f37690da1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102203074208549?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102203074208549%2F10206493611912960"
+          ],
+          "published": [
+            "2017-03-17T04:42:36+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Katie Firestone Baad"
+                ],
+                "url": [
+                  "https://www.facebook.com/10206493611912960"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/f293a3067f2674d84cfa7940e52ddb47"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/f293a3067f2674d84cfa7940e52ddb47 Katie Firestone Baad"
+            }
+          ]
+        },
+        "value": "Katie Firestone Baad"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/842586125105430528?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F842586125105430528%2F756778677329862656"
+          ],
+          "published": [
+            "2017-03-17T16:10:53+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nikki Snow"
+                ],
+                "url": [
+                  "https://twitter.com/nikkissnow"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/51a4af1db563bb82b3283f817cce0fc5"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/51a4af1db563bb82b3283f817cce0fc5 Nikki Snow"
+            }
+          ]
+        },
+        "value": "Nikki Snow"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102203074208549?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102203074208549%2F10206591273334085"
+          ],
+          "published": [
+            "2017-03-17T18:17:49+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chad Granum"
+                ],
+                "url": [
+                  "https://www.facebook.com/10206591273334085"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/7e4f4dd1290c1044bc7249921c983583"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/7e4f4dd1290c1044bc7249921c983583 Chad Granum"
+            }
+          ]
+        },
+        "value": "Chad Granum"
+      }
+    ]
+  }
+}

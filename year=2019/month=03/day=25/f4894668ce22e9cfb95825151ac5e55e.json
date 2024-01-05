@@ -1,0 +1,329 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Huzzah! The iOS 12.2 update makes progressive web apps work much better, including Together, which now has a nice place on my home screen."
+    ],
+    "content": [
+      {
+        "html": "Huzzah! The iOS 12.2 update makes progressive web apps work much better, including Together, which now has a nice place on my home screen.",
+        "value": "Huzzah! The iOS 12.2 update makes progressive web apps work much better, including Together, which now has a nice place on my home screen."
+      }
+    ],
+    "url": [
+      "/2019/huzzah-the-ios-122-update-makes-progressive"
+    ],
+    "published": [
+      "2019-03-25T20:30:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.53\u00b0F and 55% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.53\u00b0F and 55% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.53\u00b0F and 55% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/huzzah-the-ios-122-update-makes-progressive/annotations/d33d5f928fd21c536339462ad023e0c7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/huzzah-the-ios-122-update-makes-progressive/annotations/d33d5f928fd21c536339462ad023e0c7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Nice. What's been improved?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Nice. What's been improved?</p>",
+              "value": "@cleverdevil Nice. What's been improved?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NocmlzcGVkZXJpY2svYXZhdGFyLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "chrispederick"
+                ],
+                "url": [
+                  "https://micro.blog/chrispederick"
+                ]
+              },
+              "value": "chrispederick"
+            }
+          ],
+          "url": [
+            "https://micro.blog/chrispederick/2867678"
+          ]
+        },
+        "value": "https://micro.blog/chrispederick/2867678"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@chrispederick performance is significantly better, it does a much better job of handling state, gestures work (back swipe for example), and more. Just a huge step forward."
+          ],
+          "content": [
+            {
+              "html": "<p>@chrispederick performance is significantly better, it does a much better job of handling state, gestures work (back swipe for example), and more. Just a huge step forward.</p>",
+              "value": "@chrispederick performance is significantly better, it does a much better job of handling state, gestures work (back swipe for example), and more. Just a huge step forward."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/2867690"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/2867690"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Very cool!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Very cool!</p>",
+              "value": "@cleverdevil Very cool!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NocmlzcGVkZXJpY2svYXZhdGFyLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "chrispederick"
+                ],
+                "url": [
+                  "https://micro.blog/chrispederick"
+                ]
+              },
+              "value": "chrispederick"
+            }
+          ],
+          "url": [
+            "https://micro.blog/chrispederick/2867776"
+          ]
+        },
+        "value": "https://micro.blog/chrispederick/2867776"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1110277808230666244",
+      "https://mastodon.social/@cleverdevil/101813179712352706"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "f4894668ce22e9cfb95825151ac5e55e"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2019/03/25/13/like/"
+          ],
+          "published": [
+            "2019-03-25T21:09:45+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://eddiehinkle.com"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1110277808230666244?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1110277808230666244%2F308803734"
+          ],
+          "published": [
+            "2019-03-25T21:34:03+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1110277808230666244?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1110277808230666244%2F14096972"
+          ],
+          "published": [
+            "2019-03-26T02:54:55+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eric Erway"
+                ],
+                "url": [
+                  "https://twitter.com/ericerway"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMTQxNDUyMzc1MjA5MzI4NjQvb282TlVJU3AuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMTQxNDUyMzc1MjA5MzI4NjQvb282TlVJU3AuanBn/300/square Eric Erway"
+            }
+          ]
+        },
+        "value": "Eric Erway"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-25T20:12:22Z",
+      "year": 2019,
+      "month": 3,
+      "day": 25,
+      "hour": 20,
+      "minute": 12,
+      "x": -118.39518755579343,
+      "y": 33.91969664998123,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "Mission"
+    }
+  }
+}

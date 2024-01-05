@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/325-johny-for-the-chips"
+    ],
+    "published": [
+      "2020-11-13T02:08:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4ac532091ec60f9bfe1c19e3e44f9d49"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-13T03:56:17Z",
+      "year": 2020,
+      "month": 11,
+      "day": 13,
+      "hour": 3,
+      "minute": 56,
+      "x": -118.37031808790071,
+      "y": 33.815432661638646,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 325: Johny for the Chips"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a9a08abc46f1cd586f4079e93d6f312a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-TMyLM"
+        ],
+        "content": [
+          {
+            "html": "<p>Three new Macs have arrived, and they\u2019ve brought the Apple-designed M1 processor with them. Myke and Jason break down the new chip, the new hardware, and what it all means for the future of the Mac.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Three new Macs have arrived, and they\u2019ve brought the Apple-designed M1 processor with them. Myke and Jason break down the new chip, the new hardware, and what it all means for the future of the Mac.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

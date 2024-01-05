@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-296-gandalf-shot-first"
+    ],
+    "published": [
+      "2020-06-04T21:22:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.91\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.91\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.91\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-296-gandalf-shot-first/annotations/94ad459c25a78115cef157c2f5c19760"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-296-gandalf-shot-first/annotations/94ad459c25a78115cef157c2f5c19760"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "859323c1ad623508fdc7e5689f86e65c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-04T21:23:45Z",
+      "year": 2020,
+      "month": 6,
+      "day": 4,
+      "hour": 21,
+      "minute": 23,
+      "x": -118.37056207027369,
+      "y": 33.81532583534613,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 296: Gandalf Shot First"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0cea266c1aba8a33ff16d04a94d7ee88/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7sI6uc"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen keeps trying to make <a class=\"p-category\" href=\"/tag/GreenGate\" rel=\"tag\">#GreenGate</a> a thing, Federico has a new friend and Myke has large lungs. Then, an in-depth conversation about what should come next for Shortcuts.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen keeps trying to make #GreenGate a thing, Federico has a new friend and Myke has large lungs. Then, an in-depth conversation about what should come next for Shortcuts.\nBy Connected"
+          }
+        ],
+        "category": [
+          "#GreenGate"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

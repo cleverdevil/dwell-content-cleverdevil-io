@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Segundo Fish Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Segundo Fish Company"
+          ],
+          "latitude": [
+            "33.918848512149"
+          ],
+          "longitude": [
+            "-118.41426371383"
+          ]
+        },
+        "value": "El Segundo Fish Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Segundo Fish Company"
+          ],
+          "latitude": [
+            "33.918848512149"
+          ],
+          "longitude": [
+            "-118.41426371383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Late lunch.</p>",
+        "value": "Late lunch."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-el-segundo-fish-company-1"
+    ],
+    "published": [
+      "2018-09-26T20:24:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5babeb1616ef67002c95a09a/5edb62ca8fbe70f132c7670628819145"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5babeb1616ef67002c95a09a/5edb62ca8fbe70f132c7670628819145"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5babeb1616ef67002c95a09a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "42fc3e4f1e7c976231f9a7db2d7c9c07"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/431-city-of-chips"
+    ],
+    "published": [
+      "2021-05-24T07:28:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a178194d265092e82ba654b420ebbfe4"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-23T01:34:40Z",
+      "year": 2021,
+      "month": 5,
+      "day": 23,
+      "hour": 1,
+      "minute": 34,
+      "x": -118.37031071132031,
+      "y": 33.81543365019567,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 431: City of Chips"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/036e7097f2c1d87b88942dccd350d841/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULodPqM"
+        ],
+        "content": [
+          {
+            "html": "<p>Spatial audio, high-resolution music, lossless compression, the appeal of vinyl, and other completely safe topics that nobody will argue about.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Spatial audio, high-resolution music, lossless compression, the appeal of vinyl, and other completely safe topics that nobody will argue about.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

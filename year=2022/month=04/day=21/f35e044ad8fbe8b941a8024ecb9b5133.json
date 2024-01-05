@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/180-im-doing-a-lot-of-stuff-with-computers-right"
+    ],
+    "published": [
+      "2022-04-21T15:44:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f35e044ad8fbe8b941a8024ecb9b5133"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-21T15:52:57Z",
+      "year": 2022,
+      "month": 4,
+      "day": 21,
+      "hour": 15,
+      "minute": 52,
+      "x": -116.38036548947747,
+      "y": 33.70165139262356,
+      "altitude": 128,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 180: I\u2019m Doing a Lot of Stuff with Computers Right Now"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ad4959ad32dd36efbbb1e7bbde7b1c95/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INp8Jjs"
+        ],
+        "content": [
+          {
+            "html": "<p>Your hosts dive into some recent features introduced by Plex\u2014several of which would seem to scratch some of the itches brought up in their recent streaming media discussions.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Your hosts dive into some recent features introduced by Plex\u2014several of which would seem to scratch some of the itches brought up in their recent streaming media discussions.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

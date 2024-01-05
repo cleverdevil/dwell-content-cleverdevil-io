@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Seaside Torrance\" src=\"https://cleverdevil.io/file/a9b056834c875922c3d605ed80755520\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Relaxing at home.</p>",
+        "value": "Seaside Torrance\nRelaxing at home."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-94"
+    ],
+    "published": [
+      "2017-07-28T00:30:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nice photo. You're gonna want some 3x5 glossy doubles."
+          ],
+          "content": [
+            {
+              "html": "<p>Nice photo. You're gonna want some 3x5 glossy doubles.</p>",
+              "value": "Nice photo. You're gonna want some 3x5 glossy doubles."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/76cb09a92bad4ce968a78ed1005c9538"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597a858cf4b5255a322f4cdc/82871940353a5f97608d81fd0e67a930"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597a858cf4b5255a322f4cdc/82871940353a5f97608d81fd0e67a930"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597a858cf4b5255a322f4cdc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "eda622dbb2fbc5d2b21361438573672b"
+    ]
+  }
+}

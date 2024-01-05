@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Le Nemours"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Le Nemours"
+          ],
+          "latitude": [
+            "48.863134450317"
+          ],
+          "longitude": [
+            "2.3360544148158"
+          ]
+        },
+        "value": "Le Nemours"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Le Nemours"
+          ],
+          "latitude": [
+            "48.863134450317"
+          ],
+          "longitude": [
+            "2.3360544148158"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Brunch in Place Colette!</p>",
+        "value": "Brunch in Place Colette!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-le-nemours"
+    ],
+    "published": [
+      "2017-06-18T09:03:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Le Nemours!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Le Nemours!</p>",
+              "value": "Your first check-in at Le Nemours!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7dd33c0088d6a6991c66e675864f90ef"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594641c404d1ae0d0ec5d417/d627d86d2e3f42cb28451a50270a833b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594641c404d1ae0d0ec5d417/d627d86d2e3f42cb28451a50270a833b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594641c404d1ae0d0ec5d417"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e081e9696cfd45e13d674bfc6368d1ab"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594641c404d1ae0d0ec5d417/60c76dfcc3beb2d02e9f81ffdb18274f"
+          ],
+          "published": [
+            "2017-06-18T09:03:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://foursquare.com/user/148783"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/3f6bf5c2416cfc0c8bda82cdeb9302a8"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/3f6bf5c2416cfc0c8bda82cdeb9302a8 Joe Joyce"
+            }
+          ]
+        },
+        "value": "Joe Joyce"
+      }
+    ]
+  }
+}

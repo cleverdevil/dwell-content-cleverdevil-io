@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hey, @jack, I\u2019d like to nominate @aaronpk and @t to lead @bluesky, perhaps with an assist from @benwerd. They\u2019ve got quite the head start with the #IndieWeb!\n\nBy the way, I posted this via my own website... how decentralized of me!"
+    ],
+    "content": [
+      {
+        "html": "Hey, @jack, I\u2019d like to nominate @aaronpk and @t to lead @bluesky, perhaps with an assist from @benwerd. They\u2019ve got quite the head start with the <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a>!<br/>\n<br/>\n By the way, I posted this via my own website... how decentralized of me!",
+        "value": "Hey, @jack, I\u2019d like to nominate @aaronpk and @t to lead @bluesky, perhaps with an assist from @benwerd. They\u2019ve got quite the head start with the #IndieWeb!\n\nBy the way, I posted this via my own website... how decentralized of me!"
+      }
+    ],
+    "category": [
+      "#IndieWeb"
+    ],
+    "url": [
+      "/2019/hey-jack-id-like-to-nominate-aaronpk"
+    ],
+    "published": [
+      "2019-12-11T22:29:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.64\u00b0F and 28% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.64\u00b0F and 28% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.64\u00b0F and 28% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/hey-jack-id-like-to-nominate-aaronpk/annotations/3c9b7631bd5a5d4b1bb874b96bc9606f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/hey-jack-id-like-to-nominate-aaronpk/annotations/3c9b7631bd5a5d4b1bb874b96bc9606f"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1204891020665724932"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "7616259bb440907df8ae186af1f5222d"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1204891020665724932?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1204891020665724932%2F14447132"
+          ],
+          "published": [
+            "2019-12-12T00:30:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-11T22:19:41Z",
+      "year": 2019,
+      "month": 12,
+      "day": 11,
+      "hour": 22,
+      "minute": 19,
+      "x": -116.54473253309861,
+      "y": 33.84552094036439,
+      "altitude": 172,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": ""
+    }
+  }
+}

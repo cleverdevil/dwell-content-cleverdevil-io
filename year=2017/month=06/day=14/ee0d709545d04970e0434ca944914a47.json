@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.617183448718"
+          ],
+          "longitude": [
+            "-122.38534616162"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.617183448718"
+          ],
+          "longitude": [
+            "-122.38534616162"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-san-francisco-international-airport-sfo-1"
+    ],
+    "published": [
+      "2017-06-14T19:02:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jetsetter sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Jetsetter sticker bonus!</p>",
+              "value": "Jetsetter sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/b8a7a3ab3a6f57d94d13c69e52393b33"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59418848c36588592768ff51/5a7c9b2db4bdc137b5751b0bb64293a0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59418848c36588592768ff51/5a7c9b2db4bdc137b5751b0bb64293a0"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 58 people are checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 58 people are checked in here!</p>",
+              "value": "This place is swarming! 58 people are checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/46af38dc6bf6fcda03879c063dde3eae"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59418848c36588592768ff51/0f3e5f50c256e58fb0d3f337cfbf54ac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59418848c36588592768ff51/0f3e5f50c256e58fb0d3f337cfbf54ac"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59418848c36588592768ff51"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ee0d709545d04970e0434ca944914a47"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59418848c36588592768ff51/d1c0ae8f2bc55a78808125a6527cf610"
+          ],
+          "published": [
+            "2017-06-14T19:02:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://foursquare.com/user/148783"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/103faec0f7b83cd295e5b06b93bc12c1"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/103faec0f7b83cd295e5b06b93bc12c1 Joe Joyce"
+            }
+          ]
+        },
+        "value": "Joe Joyce"
+      }
+    ]
+  }
+}

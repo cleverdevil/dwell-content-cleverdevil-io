@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bruuuuuunch!</p>",
+        "value": "Bruuuuuunch!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-bouzy-gastropub-7"
+    ],
+    "published": [
+      "2018-08-05T16:33:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Bouzy Gastropub since March."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Bouzy Gastropub since March.</p>",
+              "value": "Welcome back! You haven't checked in to Bouzy Gastropub since March."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b6726cb3ba76700391d5c2e/263f3f1f711f56f05fd44985adaa1fdf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b6726cb3ba76700391d5c2e/263f3f1f711f56f05fd44985adaa1fdf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b6726cb3ba76700391d5c2e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8b87c51c0b48765516c42884b178e5f1"
+    ]
+  }
+}

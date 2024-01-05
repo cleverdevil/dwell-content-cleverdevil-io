@@ -1,0 +1,112 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Universal Control is a great example of Apple overemphasizing \u201cmagical\u201d features. Its incredibly useful\u2026 when it works. There is no way to enable it manually, instead you are expected to \u201cmagically push through the edge of a display.\u201d"
+    ],
+    "content": [
+      {
+        "html": "Universal Control is a great example of Apple overemphasizing \u201cmagical\u201d features. Its incredibly useful\u2026 when it works. There is no way to enable it manually, instead you are expected to \u201cmagically push through the edge of a display.\u201d",
+        "value": "Universal Control is a great example of Apple overemphasizing \u201cmagical\u201d features. Its incredibly useful\u2026 when it works. There is no way to enable it manually, instead you are expected to \u201cmagically push through the edge of a display.\u201d"
+      }
+    ],
+    "url": [
+      "/2023/universal-control-is-a-great-example-of"
+    ],
+    "published": [
+      "2023-07-21T18:39:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan so frustrating. When I found out about it I thought it would be perfect for my setup... Didn't work.\nSo I installed https://github.com/debauchee/barrier which worked for sharing mouse and keyboard but it wouldn't copy/paste screenshots into Slack correctly.\nWhile debugging my clipboard, I saw when I moved the mouse to another machine, the clipboard updated twice.\nAnd that's how I discovered https://support.apple.com/en-us/HT209460. Which, like Universal Control, doesn't always work but it does work with Slack GitHub - debauchee/barrier: Open-source KVM software"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan so frustrating. When I found out about it I thought it would be perfect for my setup... Didn't work.<br/>So I installed <a href=\"https://github.com/debauchee/barrier\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>github.com/<wbr/>debauchee/<wbr/>barrier</a> which worked for sharing mouse and keyboard but it wouldn't copy/paste screenshots into Slack correctly.<br/>While debugging my clipboard, I saw when I moved the mouse to another machine, the clipboard updated twice.<br/>And that's how I discovered <a href=\"https://support.apple.com/en-us/HT209460\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>support.apple.com/<wbr/>en-us/<wbr/>HT209460</a>. Which, like Universal Control, doesn't always work but it does work with Slack GitHub - debauchee/barrier: Open-source KVM software</p>",
+              "value": "@jonathan so frustrating. When I found out about it I thought it would be perfect for my setup... Didn't work.\nSo I installed https://github.com/debauchee/barrier which worked for sharing mouse and keyboard but it wouldn't copy/paste screenshots into Slack correctly.\nWhile debugging my clipboard, I saw when I moved the mouse to another machine, the clipboard updated twice.\nAnd that's how I discovered https://support.apple.com/en-us/HT209460. Which, like Universal Control, doesn't always work but it does work with Slack GitHub - debauchee/barrier: Open-source KVM software"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81NjYvOTE2LzQxMi82OTEvMzYzL29yaWdpbmFsLzVmOTZjYTkxMmI3ZDZlNDIuanBn/300/square"
+                ],
+                "name": [
+                  "Justin Mancinelli"
+                ],
+                "url": [
+                  "https://fosstodon.org/@piannaf"
+                ]
+              },
+              "value": "Justin Mancinelli"
+            }
+          ],
+          "url": [
+            "https://fosstodon.org/@piannaf/110754938099189865"
+          ]
+        },
+        "value": "https://fosstodon.org/@piannaf/110754938099189865"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110753532752197272",
+      "https://bsky.app/profile/cleverdevil.io/post/3k32ifp236w2k"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "96a8c278d480e9860ca4da63e4923a29"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-21T16:51:40Z",
+      "year": 2023,
+      "month": 7,
+      "day": 21,
+      "hour": 16,
+      "minute": 51,
+      "x": -118.3576035,
+      "y": 33.807646500000004,
+      "altitude": 25,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  }
+}

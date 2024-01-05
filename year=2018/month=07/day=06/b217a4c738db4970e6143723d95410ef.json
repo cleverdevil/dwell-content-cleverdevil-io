@@ -1,0 +1,394 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I\u2019m pretty pleased with how https://www.indiepaper.io turned out, and how well the macOS app works! \ud83c\udf89"
+    ],
+    "content": [
+      {
+        "html": "I\u2019m pretty pleased with how <a href=\"https://www.indiepaper.io\" target=\"_blank\">https://<wbr/>www.indiepaper.io</a> turned out, and how well the macOS app works! \ud83c\udf89",
+        "value": "I\u2019m pretty pleased with how https://www.indiepaper.io turned out, and how well the macOS app works! \ud83c\udf89"
+      }
+    ],
+    "url": [
+      "/2018/im-pretty-pleased-with-how-turned"
+    ],
+    "published": [
+      "2018-07-06T04:54:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil This looks great! Does it also have a reader view? In a sense where you can check all your saved articles? What is the post type that goes to the micropub endpoint? Sorry, didn't find the information on website. So just checking."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil This looks great! Does it also have a reader view? In a sense where you can check all your saved articles? What is the post type that goes to the micropub endpoint? Sorry, didn't find the information on website. So just checking.</p>",
+              "value": "@cleverdevil This looks great! Does it also have a reader view? In a sense where you can check all your saved articles? What is the post type that goes to the micropub endpoint? Sorry, didn't find the information on website. So just checking."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85NzRkY2NiZjExOGE5ZWU5ODQ2ZjRlOWYxNjI3M2RkZD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "amit"
+                ],
+                "url": [
+                  "https://micro.blog/amit"
+                ]
+              },
+              "value": "amit"
+            }
+          ],
+          "url": [
+            "https://micro.blog/amit/692981"
+          ]
+        },
+        "value": "https://micro.blog/amit/692981"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@amit Indiepaper will publish an \u2018h-entry\u2019 to a Micropub server with the full contents of the article. I use Indiepaper to send articles to Aperture which I then connect with my compatible reader app to read the articles I save."
+          ],
+          "content": [
+            {
+              "html": "<p>@amit Indiepaper will publish an \u2018h-entry\u2019 to a Micropub server with the full contents of the article. I use Indiepaper to send articles to Aperture which I then connect with my compatible reader app to read the articles I save.</p>",
+              "value": "@amit Indiepaper will publish an \u2018h-entry\u2019 to a Micropub server with the full contents of the article. I use Indiepaper to send articles to Aperture which I then connect with my compatible reader app to read the articles I save."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/692995"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/692995"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@amit another way to use it would be to send articles to a Micropub server that generates an RSS or JSON feed of the content, and then use an RSS reader."
+          ],
+          "content": [
+            {
+              "html": "<p>@amit another way to use it would be to send articles to a Micropub server that generates an RSS or JSON feed of the content, and then use an RSS reader.</p>",
+              "value": "@amit another way to use it would be to send articles to a Micropub server that generates an RSS or JSON feed of the content, and then use an RSS reader."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/692996"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/692996"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil hmm but then I can\u2019t use my website\u2019s micropub endpoint \u2014 as it will make a new post with the article. Am I missing something here? \nSending to Aperture may be something I can check. So you read them in Monocle or some other microsub reader?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil hmm but then I can\u2019t use my website\u2019s micropub endpoint \u2014 as it will make a new post with the article.   Am I missing something here?  </p>\n\n<p>Sending to Aperture may be something I can check. So you read them in Monocle or some other microsub reader?</p>",
+              "value": "@cleverdevil hmm but then I can\u2019t use my website\u2019s micropub endpoint \u2014 as it will make a new post with the article. Am I missing something here? \nSending to Aperture may be something I can check. So you read them in Monocle or some other microsub reader?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85NzRkY2NiZjExOGE5ZWU5ODQ2ZjRlOWYxNjI3M2RkZD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "amit"
+                ],
+                "url": [
+                  "https://micro.blog/amit"
+                ]
+              },
+              "value": "amit"
+            }
+          ],
+          "url": [
+            "https://micro.blog/amit/693052"
+          ]
+        },
+        "value": "https://micro.blog/amit/693052"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@amit yeah, probably best to send to an alternate Micropub endpoint. I\u2019ve considered adding the ability to provide categories in the publish payload so that people could publish to a special hidden category in their website. I use Together for my reader."
+          ],
+          "content": [
+            {
+              "html": "<p>@amit yeah, probably best to send to an alternate Micropub endpoint. I\u2019ve considered adding the ability to provide categories in the publish payload so that people could publish to a special hidden category in their website. I use Together for my reader.</p>",
+              "value": "@amit yeah, probably best to send to an alternate Micropub endpoint. I\u2019ve considered adding the ability to provide categories in the publish payload so that people could publish to a special hidden category in their website. I use Together for my reader."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/693056"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/693056"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I think you can consider sending it as a bookmark post. It can then be handled appropriately by the endpoint (possibly as a an public u-bookmark-of posts or private read later source, way I use typically)."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I think you can consider sending it as a bookmark post. It can then be handled appropriately by the endpoint (possibly as a an public u-bookmark-of posts or private read later source, way I use typically).</p>",
+              "value": "@cleverdevil I think you can consider sending it as a bookmark post. It can then be handled appropriately by the endpoint (possibly as a an public u-bookmark-of posts or private read later source, way I use typically)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85NzRkY2NiZjExOGE5ZWU5ODQ2ZjRlOWYxNjI3M2RkZD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "amit"
+                ],
+                "url": [
+                  "https://micro.blog/amit"
+                ]
+              },
+              "value": "amit"
+            }
+          ],
+          "url": [
+            "https://micro.blog/amit/693080"
+          ]
+        },
+        "value": "https://micro.blog/amit/693080"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That looks great!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That looks great!</p>",
+              "value": "Wow! That looks great!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://eddiehinkle.com/"
+          ]
+        },
+        "value": "https://eddiehinkle.com/"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1015096703370883074"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "b217a4c738db4970e6143723d95410ef"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1015096703370883074?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1015096703370883074%2F63819362"
+          ],
+          "published": [
+            "2018-07-06T05:17:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "VM (Vicky) Brasseur"
+                ],
+                "url": [
+                  "https://twitter.com/vmbrasseur"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square VM (Vicky) Brasseur"
+            }
+          ]
+        },
+        "value": "VM (Vicky) Brasseur"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1015096703370883074?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1015096703370883074%2F14202357"
+          ],
+          "published": [
+            "2018-07-06T05:18:21+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Pirnat"
+                ],
+                "url": [
+                  "https://twitter.com/mpirnat"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0ODU0NjY1NDQwMDg2ODM1Mi94dlNkLXoway5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0ODU0NjY1NDQwMDg2ODM1Mi94dlNkLXoway5wbmc,/300/square Mike Pirnat"
+            }
+          ]
+        },
+        "value": "Mike Pirnat"
+      }
+    ]
+  }
+}

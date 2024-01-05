@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into BevMo!"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BevMo!"
+          ],
+          "latitude": [
+            "33.816838"
+          ],
+          "longitude": [
+            "-118.385245"
+          ]
+        },
+        "value": "BevMo!"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BevMo!"
+          ],
+          "latitude": [
+            "33.816838"
+          ],
+          "longitude": [
+            "-118.385245"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Restock.</p>",
+        "value": "Restock."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-bevmo"
+    ],
+    "published": [
+      "2017-07-29T03:34:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Liquor Store check-in in 7 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Liquor Store check-in in 7 years!</p>",
+              "value": "First Liquor Store check-in in 7 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7aa80019da3fb84191edb06bcb3232c0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597c0230446ea60cf1f3192b/1758b23084f6659a7ec5150b950afc51"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597c0230446ea60cf1f3192b/1758b23084f6659a7ec5150b950afc51"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597c0230446ea60cf1f3192b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f42d3141f4d3aff148d09dcb0aa038d2"
+    ]
+  }
+}

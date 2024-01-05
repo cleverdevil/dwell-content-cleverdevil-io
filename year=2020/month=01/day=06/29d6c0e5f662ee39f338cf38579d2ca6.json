@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-275-the-rickies-early-2020"
+    ],
+    "published": [
+      "2020-01-06T17:41:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.1\u00b0F and 20% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.1\u00b0F and 20% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.1\u00b0F and 20% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-275-the-rickies-early-2020/annotations/60d546d524ea1da18e9c3f239c9cf789"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-275-the-rickies-early-2020/annotations/60d546d524ea1da18e9c3f239c9cf789"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "29d6c0e5f662ee39f338cf38579d2ca6"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-06T20:01:19Z",
+      "year": 2020,
+      "month": 1,
+      "day": 6,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.39512200039525,
+      "y": 33.91963082508927,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 275: The Rickies (Early 2020)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e9b079ebc2f31c215edf4747ad1d3b45/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7hS2kY"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico, Myke and Stephen review their predictions for 2019 and a new Chairman is named before everyone makes their choices for 2020, including the Risky Picks. Also, one of them gets a very special delivery during the show.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico, Myke and Stephen review their predictions for 2019 and a new Chairman is named before everyone makes their choices for 2020, including the Risky Picks. Also, one of them gets a very special delivery during the show.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

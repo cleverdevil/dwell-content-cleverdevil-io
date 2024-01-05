@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/321-dumbed-down-locked-down-and-locked-out"
+    ],
+    "published": [
+      "2019-04-16T14:03:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "971bd4a7bfd808278e481ad3bc7df4ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-16T15:46:07Z",
+      "year": 2019,
+      "month": 4,
+      "day": 16,
+      "hour": 15,
+      "minute": 46,
+      "x": -118.39970140540115,
+      "y": 33.95039317736421,
+      "altitude": 32,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7699999809265137,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 321: Dumbed Down, Locked Down, and Locked Out"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1f51dd64168a653c042059bcbc53be1b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdQwKWV0"
+        ],
+        "content": [
+          {
+            "html": "<p>Somebody wished on a monkey\u2019s paw for iTunes to be broken up.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Somebody wished on a monkey\u2019s paw for iTunes to be broken up.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

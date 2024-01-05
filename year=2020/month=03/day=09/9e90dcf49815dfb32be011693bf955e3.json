@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-284-stevensmerchcom"
+    ],
+    "published": [
+      "2020-03-09T15:33:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.68\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.68\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.68\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-284-stevensmerchcom/annotations/363e67760f65a652d9a7e97419e36fca"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-284-stevensmerchcom/annotations/363e67760f65a652d9a7e97419e36fca"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9e90dcf49815dfb32be011693bf955e3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-09T16:01:33Z",
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.3703214358589,
+      "y": 33.8154116397122,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 284: stevensmerch.com"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/648bcf80c3119619d3e9cb2fe965d61e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx47pMOg"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Federico makes a change, Stephen buys a domain and Myke cancels a future live show, pending Apple\u2019s decision on WWDC.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Federico makes a change, Stephen buys a domain and Myke cancels a future live show, pending Apple\u2019s decision on WWDC.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

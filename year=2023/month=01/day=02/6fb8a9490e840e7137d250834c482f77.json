@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/plea-cute"
+    ],
+    "published": [
+      "2023-01-02T19:27:06+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6fb8a9490e840e7137d250834c482f77"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-02T20:00:15Z",
+      "year": 2023,
+      "month": 1,
+      "day": 2,
+      "hour": 20,
+      "minute": 0,
+      "x": -116.37956742125063,
+      "y": 33.7198884595053,
+      "altitude": 72,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Plea Cute"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ddfa9428fb7c4db3b413e3e345e70747/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3l-hfY"
+        ],
+        "content": [
+          {
+            "html": "<p>Jonathon brings the case against his wife, Kat. Jonathon believes that their first date was a post-class lunch in their college\u2019s cafeteria. But, Kat says that lunch did not count as a date! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Jonathon brings the case against his wife, Kat. Jonathon believes that their first date was a post-class lunch in their college\u2019s cafeteria. But, Kat says that lunch did not count as a date! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

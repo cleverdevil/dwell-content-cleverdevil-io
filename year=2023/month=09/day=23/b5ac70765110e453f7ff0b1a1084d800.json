@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/553-cut-the-bridges-to-the-mainland"
+    ],
+    "published": [
+      "2023-09-23T21:32:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b5ac70765110e453f7ff0b1a1084d800"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-23T18:16:43Z",
+      "year": 2023,
+      "month": 9,
+      "day": 23,
+      "hour": 18,
+      "minute": 16,
+      "x": -118.37049392708887,
+      "y": 33.815313145168595,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 553: Cut the Bridges to the Mainland"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1d5147d4c748b2731ca55902e4217913/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUK33VRk"
+        ],
+        "content": [
+          {
+            "html": "<p>A mountain of follow-up and new info on the iPhone 15 series, a bunch of USB-C nerdery, and some Rivian hacks with mixed results.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "A mountain of follow-up and new info on the iPhone 15 series, a bunch of USB-C nerdery, and some Rivian hacks with mixed results.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

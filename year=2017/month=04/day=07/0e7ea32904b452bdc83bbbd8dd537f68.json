@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sacks On The Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": "Sacks On The Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Breakfast of champions!</p>",
+        "value": "Breakfast of champions!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sacks-on-the-beach"
+    ],
+    "published": [
+      "2017-04-07T16:28:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Breakfast Spot check-in in 5 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Breakfast Spot check-in in 5 years!</p>",
+              "value": "First Breakfast Spot check-in in 5 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/91ba32d28643ebb19ad22648e4b9f3e4"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e7be150acb6a23f93154d0/ee03a0a7f49bdc54cf0393b54939db34"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e7be150acb6a23f93154d0/ee03a0a7f49bdc54cf0393b54939db34"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e7be150acb6a23f93154d0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0e7ea32904b452bdc83bbbd8dd537f68"
+    ]
+  }
+}

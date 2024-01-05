@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/205-a-cumulative-warmth"
+    ],
+    "published": [
+      "2023-04-07T16:29:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b8d6b5f2e1bdf11f6fb6a85aa5262f42"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-07T19:30:06Z",
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 19,
+      "minute": 30,
+      "x": -70.993796892879,
+      "y": 42.3554013259921,
+      "altitude": 1,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5600000023841858,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 205: A Cumulative Warmth"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/70d935260ec5c84b9530e4dab7195d2c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IOotnOM"
+        ],
+        "content": [
+          {
+            "html": "<p>John has discovered a community of people who seem to kind of know what they\u2019re doing is weird, and Merlin repeats an anecdote about when he almost lost his mind from washing dishes with the absolutely incorrect soap.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John has discovered a community of people who seem to kind of know what they\u2019re doing is weird, and Merlin repeats an anecdote about when he almost lost his mind from washing dishes with the absolutely incorrect soap.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

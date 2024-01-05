@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-112-here-comes-the-but"
+    ],
+    "published": [
+      "2019-09-11T00:36:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.5\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.5\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 66.5\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-112-here-comes-the-but/annotations/3db38fad10f2e0462f3b328e296332d6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-112-here-comes-the-but/annotations/3db38fad10f2e0462f3b328e296332d6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b5539374615244e31b9c6737e224293e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-11T04:04:18Z",
+      "year": 2019,
+      "month": 9,
+      "day": 11,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.37044471309103,
+      "y": 33.81526533139575,
+      "altitude": 52,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.550000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 112: Here Comes the But"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2302b6f35a38dc5392f7278b13351a98/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IPAgmek"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s main topic is the backdoor pilot for a multi-episode arc: secret weird things people do.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "This week\u2019s main topic is the backdoor pilot for a multi-episode arc: secret weird things people do.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Family leftovers dinner!</p>",
+        "value": "Family leftovers dinner!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-21"
+    ],
+    "published": [
+      "2017-04-18T01:50:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still got the crown! Just don't get Joffrey'd."
+          ],
+          "content": [
+            {
+              "html": "<p>Still got the crown! Just don't get Joffrey'd.</p>",
+              "value": "Still got the crown! Just don't get Joffrey'd."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/cff022adab253aa3771387516090f47c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58f570e324ca6a40a3507a7c/9f983aea8e2b00ed8934ea7cef7e3461"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58f570e324ca6a40a3507a7c/9f983aea8e2b00ed8934ea7cef7e3461"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58f570e324ca6a40a3507a7c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "14cbf16ad4b0b8609baf43abd8c958b4"
+    ]
+  }
+}

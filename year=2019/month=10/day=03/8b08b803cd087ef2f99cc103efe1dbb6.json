@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Own Your Personal Location Data | LZAHQ"
+    ],
+    "like-of": [
+      "https://lzahq.tech/2019/09/30/owntracker/"
+    ],
+    "url": [
+      "/2019/own-your-personal-location-data-lzahq"
+    ],
+    "published": [
+      "2019-10-03T11:03:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.86\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.86\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.86\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/own-your-personal-location-data-lzahq/annotations/43ba044160560dbdd26c9c338155f7d0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/own-your-personal-location-data-lzahq/annotations/43ba044160560dbdd26c9c338155f7d0"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "8b08b803cd087ef2f99cc103efe1dbb6"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-03T11:01:43Z",
+      "year": 2019,
+      "month": 10,
+      "day": 3,
+      "hour": 11,
+      "minute": 1,
+      "x": -85.7395875858178,
+      "y": 38.18359999365526,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": ""
+    }
+  }
+}

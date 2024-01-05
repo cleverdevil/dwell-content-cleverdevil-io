@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Barefruit Bar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Barefruit Bar"
+          ],
+          "latitude": [
+            "20.95265198427"
+          ],
+          "longitude": [
+            "-156.68638946674"
+          ]
+        },
+        "value": "Barefruit Bar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Barefruit Bar"
+          ],
+          "latitude": [
+            "20.95265198427"
+          ],
+          "longitude": [
+            "-156.68638946674"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Barefruit Bar\" src=\"https://cleverdevil.io/file/a51aca8d61e1f955803c94922070961c\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Shave ice.</p>",
+        "value": "Barefruit Bar\nShave ice."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-barefruit-bar"
+    ],
+    "published": [
+      "2017-07-09T00:34:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9593b176c860f4248832e880db16268b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/af7faf388927878e86471cb4a2e36241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/af7faf388927878e86471cb4a2e36241"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a7800a340a1744337d35d1a2ec2b83c0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Juice Bar."
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Juice Bar.</p>",
+              "value": "Your first Juice Bar."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1f0050816268ad5cce4e08cfb49a4af9"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/a2d9948c21e855ba3ea81f24c22c121d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59617a128173cb5ce276ec75/a2d9948c21e855ba3ea81f24c22c121d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59617a128173cb5ce276ec75"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5d25532a016e7bb8b8c1fbe4e67cebff"
+    ]
+  }
+}

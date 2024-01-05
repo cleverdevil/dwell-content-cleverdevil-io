@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/23-i-even-slapped-shalala-on-the-butt-ft-lamar"
+    ],
+    "published": [
+      "2019-11-09T16:32:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 80.98\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 80.98\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 80.98\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/23-i-even-slapped-shalala-on-the-butt-ft-lamar/annotations/ba0e9786688e09bdd823e2b81ed8c6e0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/23-i-even-slapped-shalala-on-the-butt-ft-lamar/annotations/ba0e9786688e09bdd823e2b81ed8c6e0"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "24f99d82e16224cf3a43c57753315e00"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-09T19:54:37Z",
+      "year": 2019,
+      "month": 11,
+      "day": 9,
+      "hour": 19,
+      "minute": 54,
+      "x": -118.37794431405938,
+      "y": 33.860171655525924,
+      "altitude": 45,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "trickster"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 23: \u201cI Even Slapped Shalala On The Butt \u2026\u201d Ft. Lamar Thomas"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/246edade157e59c58aabfc517a757dc3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+ScpGe4LFM"
+        ],
+        "content": [
+          {
+            "html": "<p>23: \u201cI Even Slapped Shalala On The Butt \u2026\u201d Ft. Lamar Thomas</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Storm Surge</p>",
+            "value": "23: \u201cI Even Slapped Shalala On The Butt \u2026\u201d Ft. Lamar Thomas\nBy Storm Surge"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

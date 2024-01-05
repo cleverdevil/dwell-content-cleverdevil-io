@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Farm"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Farm"
+          ],
+          "latitude": [
+            "33.822377507062"
+          ],
+          "longitude": [
+            "-116.54601674066"
+          ]
+        },
+        "value": "Farm"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Farm"
+          ],
+          "latitude": [
+            "33.822377507062"
+          ],
+          "longitude": [
+            "-116.54601674066"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with friends.</p>",
+        "value": "Dinner with friends."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-farm"
+    ],
+    "published": [
+      "2018-07-15T02:51:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First French Restaurant check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First French Restaurant check-in in 3 months!</p>",
+              "value": "First French Restaurant check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/dd26e188bbf5985d5d1848fb9118bc89"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/dd26e188bbf5985d5d1848fb9118bc89"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Farm!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Farm!</p>",
+              "value": "Your first check-in at Farm!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/2dba4e4fee9b11b069761c3c73b63852"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/2dba4e4fee9b11b069761c3c73b63852"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 20 check-ins at French Restaurants!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 20 check-ins at French Restaurants!</p>",
+              "value": "Wow! That's 20 check-ins at French Restaurants!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/46c1bd7f65141b3ce79ec9ba341a615f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b4ab6bef1fdaf002c4896b3/46c1bd7f65141b3ce79ec9ba341a615f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b4ab6bef1fdaf002c4896b3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "03539d429e31183a2713c4e3895bd1f2"
+    ]
+  }
+}

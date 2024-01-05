@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lavo"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lavo"
+          ],
+          "latitude": [
+            "40.76291916805"
+          ],
+          "longitude": [
+            "-73.971337773869"
+          ]
+        },
+        "value": "Lavo"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lavo"
+          ],
+          "latitude": [
+            "40.76291916805"
+          ],
+          "longitude": [
+            "-73.971337773869"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-lavo"
+    ],
+    "published": [
+      "2022-06-29T21:27:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Lavo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Lavo!</p>",
+              "value": "Your first check-in at Lavo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62bcc3cb2e9c713f1086a708/2b122b21c91aa1cff1b903682da2fa09"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62bcc3cb2e9c713f1086a708/2b122b21c91aa1cff1b903682da2fa09"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62bcc3cb2e9c713f1086a708"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f598767201fe4960fcf8238dda86709c"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-29T21:24:26Z",
+      "year": 2022,
+      "month": 6,
+      "day": 29,
+      "hour": 21,
+      "minute": 24,
+      "x": -73.97162144312743,
+      "y": 40.76275334800349,
+      "altitude": 16,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  }
+}

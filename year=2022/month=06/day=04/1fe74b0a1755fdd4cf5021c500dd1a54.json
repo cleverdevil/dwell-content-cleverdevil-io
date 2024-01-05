@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/88-goldfish-crackers-1"
+    ],
+    "published": [
+      "2022-06-04T22:54:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1fe74b0a1755fdd4cf5021c500dd1a54"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-05T04:07:08Z",
+      "year": 2022,
+      "month": 6,
+      "day": 5,
+      "hour": 4,
+      "minute": 7,
+      "x": -118.37035385134183,
+      "y": 33.81541717784335,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 88: Goldfish Crackers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/127610e6db220e4684cd5f17069b7dd0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDa9uhFo"
+        ],
+        "content": [
+          {
+            "html": "<p>Taste-testing every flavor of Goldfish we could find.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Taste-testing every flavor of Goldfish we could find.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

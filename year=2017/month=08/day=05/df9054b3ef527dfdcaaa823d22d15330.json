@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Village"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": "Riviera Village"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Riviera Village\" src=\"https://cleverdevil.io/file/d1698d1c6c63ffc9f92b85ca18b4f875\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Beautiful day in the village.</p>",
+        "value": "Riviera Village\nBeautiful day in the village."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-village-4"
+    ],
+    "published": [
+      "2017-08-05T16:19:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Riviera Village 5 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Riviera Village 5 times!</p>",
+              "value": "Wow! You've checked in to Riviera Village 5 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/abef304d7cfd78693ba98eaea4a2327e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5984961a603d2a14ed00db2c/0f3997b04b25f4ad4779c06f6d2419c9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5984961a603d2a14ed00db2c/0f3997b04b25f4ad4779c06f6d2419c9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5984961a603d2a14ed00db2c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "df9054b3ef527dfdcaaa823d22d15330"
+    ]
+  }
+}

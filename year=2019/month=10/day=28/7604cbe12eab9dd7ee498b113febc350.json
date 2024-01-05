@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/266-iphone-colored-glasses-with-special-guest-rene-ritchie"
+    ],
+    "published": [
+      "2019-10-28T15:47:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.71\u00b0F and 28% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.71\u00b0F and 28% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.71\u00b0F and 28% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/266-iphone-colored-glasses-with-special-guest-rene-ritchie/annotations/2b3debe7506e01ddaa9ee074411d11b0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/266-iphone-colored-glasses-with-special-guest-rene-ritchie/annotations/2b3debe7506e01ddaa9ee074411d11b0"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7604cbe12eab9dd7ee498b113febc350"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-28T16:00:25Z",
+      "year": 2019,
+      "month": 10,
+      "day": 28,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.37855849171946,
+      "y": 33.895128092765766,
+      "altitude": 25,
+      "motion": [
+        "driving"
+      ],
+      "speed": 13,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 266: \u2018iPhone-Colored Glasses\u2019, With Special Guest Rene Ritchie"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f4fb8d38fc0ba886b7b0509d2a117f49/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCyBduo"
+        ],
+        "content": [
+          {
+            "html": "<p>266: \u2018iPhone-Colored Glasses\u2019, With Special Guest Rene Ritchie</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "266: \u2018iPhone-Colored Glasses\u2019, With Special Guest Rene Ritchie\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Manhattan Beach Post"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan Beach Post"
+          ],
+          "latitude": [
+            "33.885213726198"
+          ],
+          "longitude": [
+            "-118.41085973734"
+          ]
+        },
+        "value": "Manhattan Beach Post"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Manhattan Beach Post"
+          ],
+          "latitude": [
+            "33.885213726198"
+          ],
+          "longitude": [
+            "-118.41085973734"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-manhattan-beach-post"
+    ],
+    "published": [
+      "2019-09-11T00:44:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Manhattan Beach Post!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Manhattan Beach Post!</p>",
+              "value": "Your first check-in at Manhattan Beach Post!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d78435cf8909a0008a008af/e8c53eb77a025463acff866351496590"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d78435cf8909a0008a008af/e8c53eb77a025463acff866351496590"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.91\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.91\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.91\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-manhattan-beach-post/annotations/d102b8b9fb0a210bfa2ab6054e60fafa"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-manhattan-beach-post/annotations/d102b8b9fb0a210bfa2ab6054e60fafa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d78435cf8909a0008a008af"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fd49377e44e1c43e9b0d4a4863e87898"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-11T00:40:38Z",
+      "year": 2019,
+      "month": 9,
+      "day": 11,
+      "hour": 0,
+      "minute": 40,
+      "x": -118.40985658360967,
+      "y": 33.8850590100811,
+      "altitude": 29,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  }
+}

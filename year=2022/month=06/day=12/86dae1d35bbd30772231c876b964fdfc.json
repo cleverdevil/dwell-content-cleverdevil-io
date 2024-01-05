@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/244-wwdc-2022-special"
+    ],
+    "published": [
+      "2022-06-12T06:39:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "86dae1d35bbd30772231c876b964fdfc"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-12T07:33:56Z",
+      "year": 2022,
+      "month": 6,
+      "day": 12,
+      "hour": 7,
+      "minute": 33,
+      "x": -116.38029671442918,
+      "y": 33.70173571482044,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 244: WWDC 2022 Special"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/454dcf20759319e36c8cbdf4ec544950/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FgnZC5Mbo"
+        ],
+        "content": [
+          {
+            "html": "<p>In this special extended episode, we interview Serenity Caldwell and Andreas Wendker from Apple in the new Developer Center from WWDC 2022.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Under the Radar</p>",
+            "value": "In this special extended episode, we interview Serenity Caldwell and Andreas Wendker from Apple in the new Developer Center from WWDC 2022.\nBy Under the Radar"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

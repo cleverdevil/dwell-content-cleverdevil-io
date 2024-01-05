@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/texas-am-preview-with-brian-monroe-episode-64"
+    ],
+    "published": [
+      "2023-09-06T22:31:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "43d279c20c8ebd31a8da78cc59ea7490"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-06T21:34:41Z",
+      "year": 2023,
+      "month": 9,
+      "day": 6,
+      "hour": 21,
+      "minute": 34,
+      "x": -122.3931210533779,
+      "y": 37.793805288119735,
+      "altitude": 11,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "1 Hotels"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Texas A&M preview with Brian Monroe (EPISODE 64)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b9b0f716ca991e5adca98928574e91fe/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kQjQWdE"
+        ],
+        "content": [
+          {
+            "html": "<p>Texas A&amp;M preview with Brian Monroe (EPISODE 64)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The CanesInSight Podcast</p>",
+            "value": "Texas A&M preview with Brian Monroe (EPISODE 64)\nBy The CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

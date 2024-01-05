@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Skyview Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": "Skyview Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-skyview-center-2"
+    ],
+    "published": [
+      "2018-01-23T16:42:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A snail can sleep for 3 years. Jealous?"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A snail can sleep for 3 years. Jealous?</p>",
+              "value": "Fun Fact! A snail can sleep for 3 years. Jealous?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6765e5628c8375c87d009a/4e258c427f36abcdb3b3c0ff8d9ec99b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6765e5628c8375c87d009a/4e258c427f36abcdb3b3c0ff8d9ec99b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6765e5628c8375c87d009a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "993572e0017271ba27352d56aa2ea003"
+    ]
+  }
+}

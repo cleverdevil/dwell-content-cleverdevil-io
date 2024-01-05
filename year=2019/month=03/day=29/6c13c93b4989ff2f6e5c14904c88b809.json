@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Wheel of Fortune\u00ae\nPlayed on the Nintendo Switch.\nPlayed for 20 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/ad25b3486f70f2b602adc595e6f3660d/thumb.jpg"
+    ],
+    "name": [
+      "Wheel of Fortune\u00ae"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 20 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 20 minutes."
+      }
+    ],
+    "url": [
+      "/2019/wheel-of-fortune-2"
+    ],
+    "published": [
+      "2019-03-29T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.64\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.64\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.64\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/wheel-of-fortune-2/annotations/7dd01e5edc2f24a103911381b26f2b03"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/wheel-of-fortune-2/annotations/7dd01e5edc2f24a103911381b26f2b03"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "6c13c93b4989ff2f6e5c14904c88b809"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-29T16:02:47Z",
+      "year": 2019,
+      "month": 3,
+      "day": 29,
+      "hour": 16,
+      "minute": 2,
+      "x": -118.37047549437122,
+      "y": 33.81542111828951,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  }
+}

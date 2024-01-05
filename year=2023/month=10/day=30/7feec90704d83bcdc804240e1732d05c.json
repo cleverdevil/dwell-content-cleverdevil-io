@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Hollywood Bowl"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.1127392"
+          ],
+          "longitude": [
+            "-118.3388562"
+          ]
+        },
+        "value": "The Hollywood Bowl"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.1127392"
+          ],
+          "longitude": [
+            "-118.3388562"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-hollywood-bowl-18"
+    ],
+    "published": [
+      "2023-10-30T02:00:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/653f0e307488001ed12187d1/0373f2376bc383d68619ad1ac9a5ab91"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/653f0e307488001ed12187d1/0373f2376bc383d68619ad1ac9a5ab91"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/653f0e307488001ed12187d1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7feec90704d83bcdc804240e1732d05c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-30T01:25:13Z",
+      "year": 2023,
+      "month": 10,
+      "day": 30,
+      "hour": 1,
+      "minute": 25,
+      "x": -118.33642309051785,
+      "y": 34.11132247010065,
+      "altitude": 147,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  }
+}

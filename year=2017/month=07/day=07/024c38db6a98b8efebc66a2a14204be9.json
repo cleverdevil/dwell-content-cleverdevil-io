@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Charles H. Wilson Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825399694173"
+          ],
+          "longitude": [
+            "-118.32537174225"
+          ]
+        },
+        "value": "Charles H. Wilson Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825399694173"
+          ],
+          "longitude": [
+            "-118.32537174225"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Off to the Hollywood Bowl for Harry Potter</p>",
+        "value": "Off to the Hollywood Bowl for Harry Potter"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-charles-h-wilson-park"
+    ],
+    "published": [
+      "2017-07-07T01:08:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Olde Torrance was in August '11 at Miyako Hybrid Hotel."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Olde Torrance was in August '11 at Miyako Hybrid Hotel.</p>",
+              "value": "Your last check-in in Olde Torrance was in August '11 at Miyako Hybrid Hotel."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a4749a83034ed044e5ec09e497d2d3e7"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595edee8d552c75239af59fe/b51a7da6f4a18c80f06b5c45b247284e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595edee8d552c75239af59fe/b51a7da6f4a18c80f06b5c45b247284e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595edee8d552c75239af59fe"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "024c38db6a98b8efebc66a2a14204be9"
+    ]
+  }
+}

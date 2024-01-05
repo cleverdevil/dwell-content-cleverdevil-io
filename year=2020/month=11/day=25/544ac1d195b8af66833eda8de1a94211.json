@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/406-a-bomb-on-your-home-screen"
+    ],
+    "published": [
+      "2020-11-25T18:24:10+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "544ac1d195b8af66833eda8de1a94211"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-25T20:04:09Z",
+      "year": 2020,
+      "month": 11,
+      "day": 25,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.37052343437176,
+      "y": 33.815296814189104,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 406: A Bomb on Your Home Screen"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b41bee44497fe64a754eee761676be3c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKdJsyY"
+        ],
+        "content": [
+          {
+            "html": "<p>Contact de-duping, rearranging apps, how the M1 architecture could scale to higher-end Macs, and reflections on a decade of podcasting.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Contact de-duping, rearranging apps, how the M1 architecture could scale to higher-end Macs, and reflections on a decade of podcasting.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

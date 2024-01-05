@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-101-while-waiting"
+    ],
+    "published": [
+      "2018-05-09T14:41:08+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b927981d0992efdc55ce43fb7f52b9d6"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 101: While waiting"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0aa62bd06f6295b060b9e0451e76bafe/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18fBEnPY"
+        ],
+        "content": [
+          {
+            "html": "<p>I talk about the upcoming Icro release and what to do while waiting on things like the App Store that are outside our control.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "I talk about the upcoming Icro release and what to do while waiting on things like the App Store that are outside our control.\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

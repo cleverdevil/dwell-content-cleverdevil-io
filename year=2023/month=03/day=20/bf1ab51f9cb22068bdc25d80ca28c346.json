@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/526-food-comes-from-cans"
+    ],
+    "published": [
+      "2023-03-20T19:14:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bf1ab51f9cb22068bdc25d80ca28c346"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-20T20:00:23Z",
+      "year": 2023,
+      "month": 3,
+      "day": 20,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.35910580375484,
+      "y": 33.808474432341924,
+      "altitude": 25,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 526: Food Comes From Cans"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/da7df7045fcb7d191d78f986cb479c30/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUK-QOno"
+        ],
+        "content": [
+          {
+            "html": "<p>AI in your camera, ops vs. industrial design, watch bands, and pants-storage classes.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AI in your camera, ops vs. industrial design, watch bands, and pants-storage classes.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>\ud83c\udfdd \ud83c\udfe0</p>",
+        "value": "\ud83c\udfdd \ud83c\udfe0"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-los-angeles-international-airport-lax-46"
+    ],
+    "published": [
+      "2018-07-12T19:12:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b47a8075c6838002c1d5f20/fa70749aec5c550055ba68f3bd237d3b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b47a8075c6838002c1d5f20/fa70749aec5c550055ba68f3bd237d3b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b47a8075c6838002c1d5f20"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0f0e89c9eaf979214a177084e48c40f1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/"
+          ],
+          "published": [
+            "2018-07-12T20:18:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "42.364565273856"
+          ],
+          "longitude": [
+            "-71.021610703009"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "42.364565273856"
+          ],
+          "longitude": [
+            "-71.021610703009"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-delta-sky-club-11"
+    ],
+    "published": [
+      "2018-05-23T20:56:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Delta Sky Club since May '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Delta Sky Club since May '17.</p>",
+              "value": "Welcome back! You haven't checked in to Delta Sky Club since May '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b05d58712c8f0002ccbfecd/dcf2136ea3e60bc1e1bfcb587726f7e8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b05d58712c8f0002ccbfecd/dcf2136ea3e60bc1e1bfcb587726f7e8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b05d58712c8f0002ccbfecd"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1d859ca34c974de9b789bb9b7c9e5d65"
+    ]
+  }
+}

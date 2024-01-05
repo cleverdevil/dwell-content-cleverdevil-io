@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/520-bananas-ingestion-system"
+    ],
+    "published": [
+      "2023-02-07T16:38:12+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "21966f7ba9eec920b7b49f4c9607a0c4"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-07T19:53:15Z",
+      "year": 2023,
+      "month": 2,
+      "day": 7,
+      "hour": 19,
+      "minute": 53,
+      "x": -118.37027580398504,
+      "y": 33.81543453667814,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 520: Bananas Ingestion System"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9695d35947971693721572cd0d981965/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIuQw9E"
+        ],
+        "content": [
+          {
+            "html": "<p>Foldable iPads, mixed-reality headsets, US health care, sensible iPad multitasking, and other figments of our imagination.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Foldable iPads, mixed-reality headsets, US health care, sensible iPad multitasking, and other figments of our imagination.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

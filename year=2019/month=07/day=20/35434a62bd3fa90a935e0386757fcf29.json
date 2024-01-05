@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/335-withhold-the-fun"
+    ],
+    "published": [
+      "2019-07-20T06:59:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.94\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.94\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.94\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/335-withhold-the-fun/annotations/4d10d9b37b8deb8ed289ae3285c2261e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/335-withhold-the-fun/annotations/4d10d9b37b8deb8ed289ae3285c2261e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "35434a62bd3fa90a935e0386757fcf29"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-20T07:37:16Z",
+      "year": 2019,
+      "month": 7,
+      "day": 20,
+      "hour": 7,
+      "minute": 37,
+      "x": -118.37052299620551,
+      "y": 33.815214716917616,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 335: Withhold the Fun"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/29fc364ffe0b5dbf8d9f3eb19187feff/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DW_049M"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple making exclusive podcasts, Dropbox\u2019s blunder, best languages for computer science, and John\u2019s attempts to drown Marco.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple making exclusive podcasts, Dropbox\u2019s blunder, best languages for computer science, and John\u2019s attempts to drown Marco.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

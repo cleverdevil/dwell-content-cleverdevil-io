@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/313-the-residue-of-seven-people"
+    ],
+    "published": [
+      "2019-02-14T16:55:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 60.99\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 60.99\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 60.99\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/313-the-residue-of-seven-people/annotations/37380e80579b62892cf43c466b07bc17"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/313-the-residue-of-seven-people/annotations/37380e80579b62892cf43c466b07bc17"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "53bcef35e1ce382075170d534db5c8f7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-14T07:37:24Z",
+      "year": 2019,
+      "month": 2,
+      "day": 14,
+      "hour": 7,
+      "minute": 37,
+      "x": -118.37053159094474,
+      "y": 33.815319855724205,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 313: The Residue of Seven People"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/df4927de496633a07959b25e3c7012ee/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdRx6rH0"
+        ],
+        "content": [
+          {
+            "html": "<p>Amazon and Eero, Spotify and Anchor, Marco and ear discharge, and have you heard that Casey has Gigabit internet?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Amazon and Eero, Spotify and Anchor, Marco and ear discharge, and have you heard that Casey has Gigabit internet?\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

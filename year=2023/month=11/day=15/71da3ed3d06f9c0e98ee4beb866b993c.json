@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/dear-internet-episode-171-thats-a-damn-groot"
+    ],
+    "published": [
+      "2023-11-15T05:01:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "71da3ed3d06f9c0e98ee4beb866b993c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-15T05:59:01Z",
+      "year": 2023,
+      "month": 11,
+      "day": 15,
+      "hour": 5,
+      "minute": 59,
+      "x": -116.391615,
+      "y": 33.717859,
+      "altitude": 83,
+      "motion": [
+        "driving"
+      ],
+      "speed": 21,
+      "battery_state": "unplugged",
+      "battery_level": 0.65,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 171: That\u2019s a damn groot"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9bf8f88a7a2c3099fea63d90cc76473f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_5-SkJR0"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,This week, we\u2019re talking about popcorn-sharing etiquette, the dangers of street racing, and sharing the coffin load!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,This week, we\u2019re talking about popcorn-sharing etiquette, the dangers of street racing, and sharing the coffin load!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

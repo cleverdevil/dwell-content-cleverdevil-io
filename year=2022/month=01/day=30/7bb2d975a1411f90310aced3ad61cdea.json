@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-ironwood-park-6"
+    ],
+    "published": [
+      "2022-01-30T20:02:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "\"Oh no you almost made me drop my croissant!\" Happy #NationalCroissantDay."
+          ],
+          "content": [
+            {
+              "html": "<p>\"Oh no you almost made me drop my croissant!\" Happy #NationalCroissantDay.</p>",
+              "value": "\"Oh no you almost made me drop my croissant!\" Happy #NationalCroissantDay."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3Rhci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61f6eee594da4b2aad61bfd8/92f4c5297a16c5c045c839e4dafc161c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61f6eee594da4b2aad61bfd8/92f4c5297a16c5c045c839e4dafc161c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61f6eee594da4b2aad61bfd8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7bb2d975a1411f90310aced3ad61cdea"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-30T20:00:00Z",
+      "year": 2022,
+      "month": 1,
+      "day": 30,
+      "hour": 20,
+      "minute": 0,
+      "x": -116.38561772571498,
+      "y": 33.70073831880768,
+      "altitude": 145,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": ""
+    }
+  }
+}

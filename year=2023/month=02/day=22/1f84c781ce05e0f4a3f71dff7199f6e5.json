@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/202-running-clear"
+    ],
+    "published": [
+      "2023-02-22T20:04:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1f84c781ce05e0f4a3f71dff7199f6e5"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-22T02:03:48Z",
+      "year": 2023,
+      "month": 2,
+      "day": 22,
+      "hour": 2,
+      "minute": 3,
+      "x": -116.38036389474856,
+      "y": 33.701677167056594,
+      "altitude": 126,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 202: Running Clear"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9a44e877045c8c7afd0f6a571756dca1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INfyEZU"
+        ],
+        "content": [
+          {
+            "html": "<p>John shares details of a recent medical adventure.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John shares details of a recent medical adventure.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

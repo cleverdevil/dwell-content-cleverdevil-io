@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ramen Shack Takumiya"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ramen Shack Takumiya"
+          ],
+          "latitude": [
+            "33.820087"
+          ],
+          "longitude": [
+            "-118.38413"
+          ]
+        },
+        "value": "Ramen Shack Takumiya"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ramen Shack Takumiya"
+          ],
+          "latitude": [
+            "33.820087"
+          ],
+          "longitude": [
+            "-118.38413"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ramen-shack-takumiya-1"
+    ],
+    "published": [
+      "2017-07-18T01:03:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Ramen Shack Takumiya since April."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Ramen Shack Takumiya since April.</p>",
+              "value": "Welcome back! You haven't checked in to Ramen Shack Takumiya since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0ab87fe2f0ef8dc035b924a214f6cd99"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596d5e6946e1b66ed672f18e/ad1f6c6c0228c45b02497d6a45bbab13"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596d5e6946e1b66ed672f18e/ad1f6c6c0228c45b02497d6a45bbab13"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596d5e6946e1b66ed672f18e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6decdea27266fb9c6709c97b81ed2a5c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596d5e6946e1b66ed672f18e/b0405a5d54b79a4e52c43598e4736e2f"
+          ],
+          "published": [
+            "2017-07-18T01:03:37+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/f23cec45bbecc0fabe00579e3c9e9319"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/f23cec45bbecc0fabe00579e3c9e9319 Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

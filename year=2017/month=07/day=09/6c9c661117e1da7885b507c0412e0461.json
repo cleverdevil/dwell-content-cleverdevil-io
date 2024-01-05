@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kapalua Villas"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": "Kapalua Villas"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Resting</p>",
+        "value": "Resting"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-kapalua-villas-2"
+    ],
+    "published": [
+      "2017-07-09T02:01:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Resorts!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Resorts!</p>",
+              "value": "Wow! That's 5 check-ins at Resorts!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e26a62c9c6d4ceeaa525c979c8240d1b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59618e7b95a7221ebc755182/650fb574c503e532cbec3b81b437c9a3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59618e7b95a7221ebc755182/650fb574c503e532cbec3b81b437c9a3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59618e7b95a7221ebc755182"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6c9c661117e1da7885b507c0412e0461"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/episode-84-its-still-november"
+    ],
+    "published": [
+      "2017-11-29T22:04:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5bfb8efb608c759373e496a1811e102e"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 84: It\u2019s still November"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/77d2286c86ce5d36cf49fbbc695b1741/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18fL2z8o"
+        ],
+        "content": [
+          {
+            "html": "<p>Deciding on a 100-user limit per day, and the feeling that we\u2019re almost to the launch. Also, IndieWebCamp!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "Deciding on a 100-user limit per day, and the feeling that we\u2019re almost to the launch. Also, IndieWebCamp!\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "In other news, Miami was robbed of the title in 2002, but y\u2019all already know that, right?"
+    ],
+    "content": [
+      {
+        "html": "In other news, Miami was robbed of the title in 2002, but y\u2019all already know that, right?",
+        "value": "In other news, Miami was robbed of the title in 2002, but y\u2019all already know that, right?"
+      }
+    ],
+    "url": [
+      "/2020/in-other-news-miami-was-robbed-of"
+    ],
+    "published": [
+      "2020-05-15T04:52:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.23\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.23\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.23\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/in-other-news-miami-was-robbed-of/annotations/66e0264c271e19f7ce51f15f85a234f4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/in-other-news-miami-was-robbed-of/annotations/66e0264c271e19f7ce51f15f85a234f4"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1261157576013680640",
+      "https://mastodon.social/@cleverdevil/104170676199572005"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ff8805adfb1a3985dc8d41fd7df92fe1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-15T04:49:57Z",
+      "year": 2020,
+      "month": 5,
+      "day": 15,
+      "hour": 4,
+      "minute": 49,
+      "x": -118.37029033525722,
+      "y": 33.8154722049484,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  }
+}

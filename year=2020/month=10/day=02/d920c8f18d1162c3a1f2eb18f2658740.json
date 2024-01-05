@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81916909"
+          ],
+          "longitude": [
+            "-118.38559654"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81916909"
+          ],
+          "longitude": [
+            "-118.38559654"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-the-coffee-bean-tea-leaf-10"
+    ],
+    "published": [
+      "2020-10-02T16:12:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to this The Coffee Bean & Tea Leaf since November '19."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to this The Coffee Bean &amp; Tea Leaf since November '19.</p>",
+              "value": "Welcome back! You haven't checked in to this The Coffee Bean & Tea Leaf since November '19."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5f77515c8c2bf21a5889cdbf/075b9942ffb2eb5743b7453e43616ecb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5f77515c8c2bf21a5889cdbf/075b9942ffb2eb5743b7453e43616ecb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5f77515c8c2bf21a5889cdbf"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d920c8f18d1162c3a1f2eb18f2658740"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-02T16:07:27Z",
+      "year": 2020,
+      "month": 10,
+      "day": 2,
+      "hour": 16,
+      "minute": 7,
+      "x": -118.38480069206172,
+      "y": 33.81867997281684,
+      "altitude": 23,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kalaveras"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kalaveras"
+          ],
+          "latitude": [
+            "33.818928"
+          ],
+          "longitude": [
+            "-118.386606"
+          ]
+        },
+        "value": "Kalaveras"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kalaveras"
+          ],
+          "latitude": [
+            "33.818928"
+          ],
+          "longitude": [
+            "-118.386606"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-kalaveras-1"
+    ],
+    "published": [
+      "2019-10-20T18:46:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You created this venue 2 months ago, and now 15 people have checked in. Thanks for your help!"
+          ],
+          "content": [
+            {
+              "html": "<p>You created this venue 2 months ago, and now 15 people have checked in. Thanks for your help!</p>",
+              "value": "You created this venue 2 months ago, and now 15 people have checked in. Thanks for your help!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZmFjZS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dacab9de4154a000823ae6c/90ae496d508c37971b5997a0bade94e1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dacab9de4154a000823ae6c/90ae496d508c37971b5997a0bade94e1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.37\u00b0F and 50% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.37\u00b0F and 50% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.37\u00b0F and 50% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-kalaveras-1/annotations/503810cd627497e0e8efad215fe88c13"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-kalaveras-1/annotations/503810cd627497e0e8efad215fe88c13"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dacab9de4154a000823ae6c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e957ef3bb0b5b0985e2408010b242523"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-20T18:42:45Z",
+      "year": 2019,
+      "month": 10,
+      "day": 20,
+      "hour": 18,
+      "minute": 42,
+      "x": -118.38657704988803,
+      "y": 33.81895535904003,
+      "altitude": 22,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": ""
+    }
+  }
+}

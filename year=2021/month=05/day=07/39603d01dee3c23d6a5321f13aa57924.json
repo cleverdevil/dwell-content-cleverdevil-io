@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/429-digital-speedo"
+    ],
+    "published": [
+      "2021-05-07T15:10:01+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "39603d01dee3c23d6a5321f13aa57924"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-07T15:56:54Z",
+      "year": 2021,
+      "month": 5,
+      "day": 7,
+      "hour": 15,
+      "minute": 56,
+      "x": -118.37035030703434,
+      "y": 33.815413084588734,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 429: Digital Speedo"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b1566ab33de776699254dc540a34e585/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJAYZ9A"
+        ],
+        "content": [
+          {
+            "html": "<p>Basecamp, AirTag impressions, notes apps, and a scientific balloon situation.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Basecamp, AirTag impressions, notes apps, and a scientific balloon situation.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

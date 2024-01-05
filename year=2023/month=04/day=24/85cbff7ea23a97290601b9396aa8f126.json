@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/live-from-denver"
+    ],
+    "published": [
+      "2023-04-24T14:48:38+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "85cbff7ea23a97290601b9396aa8f126"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-24T15:48:14Z",
+      "year": 2023,
+      "month": 4,
+      "day": 24,
+      "hour": 15,
+      "minute": 48,
+      "x": -118.37044618320452,
+      "y": 33.81537241677171,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Live from Denver"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8c13bc46fb201fa7e8cc5b955e18d111/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3Tr-FU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s episode was recorded live in front of an audience at the Gothic Theatre in Denver! Our first case is BUY ME SUBPOENAS AND CRACKERJACK: Paul brings the case against his friend Chris. Chris has stopped believing in baseball superstitions and jinxes. He says his behavior can\u2019t affect the outcome of a baseball game. But Paul says his friend\u2019s carelessness has jinxed his team! PLUS: Swift Justice featuring the legendary David Gborie!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "This week\u2019s episode was recorded live in front of an audience at the Gothic Theatre in Denver! Our first case is BUY ME SUBPOENAS AND CRACKERJACK: Paul brings the case against his friend Chris. Chris has stopped believing in baseball superstitions and jinxes. He says his behavior can\u2019t affect the outcome of a baseball game. But Paul says his friend\u2019s carelessness has jinxed his team! PLUS: Swift Justice featuring the legendary David Gborie!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Sonic Mania\nPlayed on the Nintendo Switch.\nPlayed for 20 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/2a900051fbbad8a06ca3b8ccecd5894c/thumb.jpg"
+    ],
+    "name": [
+      "Sonic Mania"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 20 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 20 minutes."
+      }
+    ],
+    "url": [
+      "/2019/sonic-mania-27"
+    ],
+    "published": [
+      "2019-08-19T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 64.36\u00b0F and 93% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 64.36\u00b0F and 93% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 64.36\u00b0F and 93% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/sonic-mania-27/annotations/dd825b889d0fed2e3c5b67a514e53f7b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/sonic-mania-27/annotations/dd825b889d0fed2e3c5b67a514e53f7b"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "85893b373f2509e8f40f41eca052bfa2"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-19T08:23:44Z",
+      "year": 2019,
+      "month": 8,
+      "day": 19,
+      "hour": 8,
+      "minute": 23,
+      "x": -118.37053406136492,
+      "y": 33.81526555887755,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

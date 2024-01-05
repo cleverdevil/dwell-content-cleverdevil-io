@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 9x19 \"Long Time Listener, First Time Bob\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/91dd441673727db88f459b2c22894307/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 9x19 \"Long Time Listener, First Time Bob\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3426509"
+          ]
+        },
+        "value": "Bob's Burgers 9x19 \"Long Time Listener, First Time Bob\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>The Belchers get in over their heads when they try to help Bob\u2019s personal hero, a renegade radio DJ, make a comeback.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "The Belchers get in over their heads when they try to help Bob\u2019s personal hero, a renegade radio DJ, make a comeback.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/bobs-burgers-9x19-long-time-listener-first-time-bob"
+    ],
+    "published": [
+      "2019-04-09T05:05:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.18\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.18\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.18\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/bobs-burgers-9x19-long-time-listener-first-time-bob/annotations/9d1d3c05020a712c75a0c733aa5315e2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/bobs-burgers-9x19-long-time-listener-first-time-bob/annotations/9d1d3c05020a712c75a0c733aa5315e2"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "751b967fb05f40a19da9c25d349e375b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-09T05:03:13Z",
+      "year": 2019,
+      "month": 4,
+      "day": 9,
+      "hour": 5,
+      "minute": 3,
+      "x": -118.37033002572426,
+      "y": 33.815438949704244,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": "LaCour"
+    }
+  }
+}

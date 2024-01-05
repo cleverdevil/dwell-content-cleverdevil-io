@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Palm Springs Aerial Tramway"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Springs Aerial Tramway"
+          ],
+          "latitude": [
+            "33.837052328896"
+          ],
+          "longitude": [
+            "-116.61418772422"
+          ]
+        },
+        "value": "Palm Springs Aerial Tramway"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Springs Aerial Tramway"
+          ],
+          "latitude": [
+            "33.837052328896"
+          ],
+          "longitude": [
+            "-116.61418772422"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-palm-springs-aerial-tramway-1"
+    ],
+    "published": [
+      "2022-06-15T23:03:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Cable Car check-in in 4 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Cable Car check-in in 4 months!</p>",
+              "value": "First Cable Car check-in in 4 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62aa65411807d77d149bb83d/45f999724f71656a32ad859b783a5040"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62aa65411807d77d149bb83d/45f999724f71656a32ad859b783a5040"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62aa65411807d77d149bb83d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6c227fcab7bddf57fffb87409961279a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-15T22:52:03Z",
+      "year": 2022,
+      "month": 6,
+      "day": 15,
+      "hour": 22,
+      "minute": 52,
+      "x": -116.59515032047213,
+      "y": 33.84495607148647,
+      "altitude": 540,
+      "motion": [
+        "driving"
+      ],
+      "speed": 14,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": ""
+    }
+  }
+}

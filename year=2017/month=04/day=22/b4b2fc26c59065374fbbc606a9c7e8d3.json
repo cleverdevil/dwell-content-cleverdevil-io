@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-26"
+    ],
+    "published": [
+      "2017-04-22T19:04:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7b87b12f7da6b8c0fd1ee3ddb777fde5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fba91858002c636e00be0e/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fba91858002c636e00be0e/aca2ca94a4c8a62cae875b2803e8ec0c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fba91858002c636e00be0e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b4b2fc26c59065374fbbc606a9c7e8d3"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fba91858002c636e00be0e/de5d192381fa2e752328757fe996c40a"
+          ],
+          "published": [
+            "2017-04-22T19:03:52+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Benjamin Smith"
+                ],
+                "url": [
+                  "https://foursquare.com/user/84097"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/3d0f2ea031027348b075c1feb340b687"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/3d0f2ea031027348b075c1feb340b687 Benjamin Smith"
+            }
+          ]
+        },
+        "value": "Benjamin Smith"
+      }
+    ]
+  }
+}

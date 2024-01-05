@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Grand Lux Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Grand Lux Cafe"
+          ],
+          "latitude": [
+            "36.121948107113"
+          ],
+          "longitude": [
+            "-115.16987047823"
+          ]
+        },
+        "value": "Grand Lux Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Grand Lux Cafe"
+          ],
+          "latitude": [
+            "36.121948107113"
+          ],
+          "longitude": [
+            "-115.16987047823"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Breffis</p>",
+        "value": "Breffis"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-grand-lux-cafe"
+    ],
+    "published": [
+      "2018-01-30T16:35:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Grand Lux Cafe!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Grand Lux Cafe!</p>",
+              "value": "Your first check-in at this Grand Lux Cafe!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a709ed9286fda5933b63104/1568ad775760a07de874da40b08f3fb8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a709ed9286fda5933b63104/1568ad775760a07de874da40b08f3fb8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a709ed9286fda5933b63104"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "78c64773d28e64a5ded063c41a63f824"
+    ]
+  }
+}

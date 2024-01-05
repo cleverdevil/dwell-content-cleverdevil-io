@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/320-actually-quite-precedented"
+    ],
+    "published": [
+      "2020-11-18T02:04:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a17ba46dbba47dd805b213b195cb5218"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-18T04:03:08Z",
+      "year": 2020,
+      "month": 11,
+      "day": 18,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37032369941288,
+      "y": 33.81542147627654,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 320: Actually Quite Precedented"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/93b59cde20baabeeb0136fa1400f1331/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx61X3jI"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has announced the first batch of Macs running on its own silicon, so the boys are judging yet another set of Rickies. Will Federico\u2019s dual-title fall? Will Myke get his Ricky? Did Stephen make a mistake having six Flexies?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple has announced the first batch of Macs running on its own silicon, so the boys are judging yet another set of Rickies. Will Federico\u2019s dual-title fall? Will Myke get his Ricky? Did Stephen make a mistake having six Flexies?\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

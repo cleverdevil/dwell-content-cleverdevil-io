@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/351-the-floor-is-high"
+    ],
+    "published": [
+      "2019-11-08T20:54:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.11\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.11\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.11\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/351-the-floor-is-high/annotations/003f7c0b9fae2a68ebaf3cb25ec47f10"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/351-the-floor-is-high/annotations/003f7c0b9fae2a68ebaf3cb25ec47f10"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3cce74a1a168e28b869458bf5f7af930"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-08T23:52:58Z",
+      "year": 2019,
+      "month": 11,
+      "day": 8,
+      "hour": 23,
+      "minute": 52,
+      "x": -118.37030810259125,
+      "y": 33.81546149633498,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 351: The Floor Is High"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d41b7faef6598c595d337f18f88905c2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DUWM8Gg"
+        ],
+        "content": [
+          {
+            "html": "<p>The Apple TV+ launch, more MacBook Pro sleuthing, and a week with AirPods Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The Apple TV+ launch, more MacBook Pro sleuthing, and a week with AirPods Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

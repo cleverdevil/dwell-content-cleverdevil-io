@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/234-welcome-to-dongletropolis-with-special-guest-merlin-mann"
+    ],
+    "published": [
+      "2018-11-15T15:19:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0bfe0f43957a00aa9b9864850d04347a"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 234: \u2018Welcome to Dongletropolis\u2019, With Special Guest Merlin Mann"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a10bc75f2dc5d936fd40a9118b11effe/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBWkimQ"
+        ],
+        "content": [
+          {
+            "html": "<p>234: \u2018Welcome to Dongletropolis\u2019, With Special Guest Merlin Mann</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "234: \u2018Welcome to Dongletropolis\u2019, With Special Guest Merlin Mann\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

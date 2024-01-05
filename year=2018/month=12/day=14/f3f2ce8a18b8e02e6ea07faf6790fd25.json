@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Greater Good BBQ"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Greater Good BBQ"
+          ],
+          "latitude": [
+            "33.751311763485"
+          ],
+          "longitude": [
+            "-84.309965113122"
+          ]
+        },
+        "value": "The Greater Good BBQ"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Greater Good BBQ"
+          ],
+          "latitude": [
+            "33.751311763485"
+          ],
+          "longitude": [
+            "-84.309965113122"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-greater-good-bbq"
+    ],
+    "published": [
+      "2018-12-14T18:39:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First BBQ Joint check-in in 4 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First BBQ Joint check-in in 4 months!</p>",
+              "value": "First BBQ Joint check-in in 4 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c13f8fe112c6c002c0e7fee/293a76b6b2084959b259f1681a9c97f1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c13f8fe112c6c002c0e7fee/293a76b6b2084959b259f1681a9c97f1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in East Lake."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in East Lake.</p>",
+              "value": "First check-in in East Lake."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c13f8fe112c6c002c0e7fee/f908bfd6a4dc18cbb8454fcbb7c2a29d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c13f8fe112c6c002c0e7fee/f908bfd6a4dc18cbb8454fcbb7c2a29d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c13f8fe112c6c002c0e7fee"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f3f2ce8a18b8e02e6ea07faf6790fd25"
+    ]
+  }
+}

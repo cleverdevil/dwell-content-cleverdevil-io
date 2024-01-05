@@ -1,0 +1,229 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into North 45 Pub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "North 45 Pub"
+          ],
+          "latitude": [
+            "45.526595716039"
+          ],
+          "longitude": [
+            "-122.69456337671"
+          ]
+        },
+        "value": "North 45 Pub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "North 45 Pub"
+          ],
+          "latitude": [
+            "45.526595716039"
+          ],
+          "longitude": [
+            "-122.69456337671"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Back again, this time with IndieFriends! \u2014 with <a href=\"https://aaronparecki.com/\">aaronpk</a>, <a href=\"http://anomalily.net/\">anomalily</a>, <a href=\"https://foursquare.com/user/56095\">gRegor</a>, <a href=\"https://foursquare.com/user/476\">Tantek</a>, <a href=\"https://foursquare.com/user/428294304\">Jordan</a></p>\n        <p class=\"tag-row\">\n            <i class=\"fa fa-tag\"></i>\n                        <a class=\"p-category\" href=\"/tag/\" rel=\"tag\">Array</a>\n                        <a class=\"p-category\" href=\"/tag/\" rel=\"tag\">Array</a>\n                        <a class=\"p-category\" href=\"/tag/\" rel=\"tag\">Array</a>\n                        <a class=\"p-category\" href=\"/tag/\" rel=\"tag\">Array</a>\n                        <a class=\"p-category\" href=\"/tag/\" rel=\"tag\">Array</a>\n                    </p>",
+        "value": "Back again, this time with IndieFriends! \u2014 with aaronpk, anomalily, gRegor, Tantek, Jordan\n Array Array Array Array Array"
+      }
+    ],
+    "category": [
+      "Array",
+      "Array",
+      "Array",
+      "Array",
+      "Array"
+    ],
+    "url": [
+      "/2019/checked-into-north-45-pub-1"
+    ],
+    "published": [
+      "2019-07-01T04:56:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hanging out with Jordan, Tantek, aaronpk, and 2 other friends!"
+          ],
+          "content": [
+            {
+              "html": "<p>Hanging out with Jordan, Tantek, aaronpk, and 2 other friends!</p>",
+              "value": "Hanging out with Jordan, Tantek, aaronpk, and 2 other friends!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZmFjZS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d19929b4ab63e0008a3c043/e950b50e22465c2a47b9f30d94fa4ff0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d19929b4ab63e0008a3c043/e950b50e22465c2a47b9f30d94fa4ff0"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.19\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.19\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.19\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-north-45-pub-1/annotations/732f86912c5387bf121fe08568080054"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-north-45-pub-1/annotations/732f86912c5387bf121fe08568080054"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d19929b4ab63e0008a3c043"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a64365f28e787ab0759334d77a4e041c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d19929b4ab63e0008a3c043/5bc3d4a4ed829cfd8ac7c1945109440e"
+          ],
+          "published": [
+            "2019-07-01T04:56:59+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jacky A"
+                ],
+                "url": [
+                  "https://v2.jacky.wtf/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTMzNDQxNl9xRGpCQm5hN19LNC1RelgwWllhMVhMWDNxSG42dm5tZjk2d1JkdkgwdzZtNmNsZ1N4eVZESHVROHBFU2s2dTVWbEdPNUlLUklNLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTMzNDQxNl9xRGpCQm5hN19LNC1RelgwWllhMVhMWDNxSG42dm5tZjk2d1JkdkgwdzZtNmNsZ1N4eVZESHVROHBFU2s2dTVWbEdPNUlLUklNLmpwZw,,/300/square Jacky A"
+            }
+          ]
+        },
+        "value": "Jacky A"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-01T04:53:51Z",
+      "year": 2019,
+      "month": 7,
+      "day": 1,
+      "hour": 4,
+      "minute": 53,
+      "x": -122.694593623152,
+      "y": 45.5266332878304,
+      "altitude": 34,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": ""
+    }
+  }
+}

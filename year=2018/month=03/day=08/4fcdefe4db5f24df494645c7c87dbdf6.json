@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Santa Monica Place"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Santa Monica Place"
+          ],
+          "latitude": [
+            "34.013636227887"
+          ],
+          "longitude": [
+            "-118.49391102791"
+          ]
+        },
+        "value": "Santa Monica Place"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Santa Monica Place"
+          ],
+          "latitude": [
+            "34.013636227887"
+          ],
+          "longitude": [
+            "-118.49391102791"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Biz meeting</p>",
+        "value": "Biz meeting"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-santa-monica-place"
+    ],
+    "published": [
+      "2018-03-08T00:23:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You\u2019re 3 weeks away from breaking your record of 6 weeks in a row at Shopping Malls! It\u2019s like racing your ghost in Mario Kart all over again."
+          ],
+          "content": [
+            {
+              "html": "<p>You\u2019re 3 weeks away from breaking your record of 6 weeks in a row at Shopping Malls! It\u2019s like racing your ghost in Mario Kart all over again.</p>",
+              "value": "You\u2019re 3 weeks away from breaking your record of 6 weeks in a row at Shopping Malls! It\u2019s like racing your ghost in Mario Kart all over again."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa082764420d80f19548ddf/2acedfe8e05b2b5d9ff0858c092792e3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aa082764420d80f19548ddf/2acedfe8e05b2b5d9ff0858c092792e3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aa082764420d80f19548ddf"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4fcdefe4db5f24df494645c7c87dbdf6"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa082764420d80f19548ddf/1ba92148ea02508045e9f90150fd61fb"
+          ],
+          "published": [
+            "2018-03-08T00:23:18+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://www.boffosocko.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTQ3OV8xMjQwNDU3Mjg4LmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTQ3OV8xMjQwNDU3Mjg4LmpwZw,,/300/square Chris Aldrich"
+            }
+          ]
+        },
+        "value": "Chris Aldrich"
+      }
+    ]
+  }
+}

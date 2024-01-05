@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/319-im-gonna-drive-my-ferrari-into-the-sunset"
+    ],
+    "published": [
+      "2020-10-07T14:56:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b25ee081cab552dc53dc43739ed350dc"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-07T15:39:58Z",
+      "year": 2020,
+      "month": 10,
+      "day": 7,
+      "hour": 15,
+      "minute": 39,
+      "x": -118.37038747186783,
+      "y": 33.815421817061846,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 319: I\u2019m Gonna Drive My Ferrari Into the Sunset"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2ecc804055ead96f5899bd69cc292bb1/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9PeIuk"
+        ],
+        "content": [
+          {
+            "html": "<p>This week is all about what\u2019s next, as we discuss the ramifications of A14 benchmarks, ponder the challenges of Apple succession planning, and prep for our interview with Apple execs.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week is all about what\u2019s next, as we discuss the ramifications of A14 benchmarks, ponder the challenges of Apple succession planning, and prep for our interview with Apple execs.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

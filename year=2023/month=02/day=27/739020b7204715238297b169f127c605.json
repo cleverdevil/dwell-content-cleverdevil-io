@@ -1,0 +1,289 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "SQLite is so darn useful. Yesterday, I used its built-in CSV ingestion capability on a personal project to turn a large CSV file into a queryable database in seconds. Awesome tool in the toolbelt."
+    ],
+    "content": [
+      {
+        "html": "SQLite is so darn useful. Yesterday, I used its built-in CSV ingestion capability on a personal project to turn a large CSV file into a queryable database in seconds. Awesome tool in the toolbelt.",
+        "value": "SQLite is so darn useful. Yesterday, I used its built-in CSV ingestion capability on a personal project to turn a large CSV file into a queryable database in seconds. Awesome tool in the toolbelt."
+      }
+    ],
+    "url": [
+      "/2023/sqlite-is-so-darn-useful-yesterday-i"
+    ],
+    "published": [
+      "2023-02-27T19:32:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil not to be that guy, but https://duckdb.org is so great for analytics tasks in a sqlite way. Especially with select * from read_csv_auto() etc"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil not to be that guy, but <a href=\"https://duckdb.org\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>duckdb.org</a> is so great for analytics tasks in a sqlite way. Especially with select * from read_csv_auto() etc</p>",
+              "value": "@cleverdevil not to be that guy, but https://duckdb.org is so great for analytics tasks in a sqlite way. Especially with select * from read_csv_auto() etc"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvcGhvdG9zLzIwMC9odHRwcyUzQSUyRiUyRm1lZGlhLnNvY2lhbC5sb2wlMkZjYWNoZSUyRmFjY291bnRzJTJGYXZhdGFycyUyRjEwOSUyRjM3MiUyRjI5MyUyRjk1NSUyRjk5MyUyRjQ3NCUyRm9yaWdpbmFsJTJGMDVhNjQxZTc5YjY4OGNjYy5qcGVn/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/17315363"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/17315363"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker indeed! It\u2019s quite good. But, SQLite is pervasively available on pretty much every computer I have access to. \ud83d\ude07"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker indeed! It\u2019s quite good. But, SQLite is pervasively available on pretty much every computer I have access to. \ud83d\ude07</p>",
+              "value": "@jsonbecker indeed! It\u2019s quite good. But, SQLite is pervasively available on pretty much every computer I have access to. \ud83d\ude07"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/17319728"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/17319728"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan have you met https://datasette.io? It\u2019s built on these kinds of features of SQLite. Datasette"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan have you met <a href=\"https://datasette.io\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>datasette.io</a>? It\u2019s built on these kinds of features of SQLite. Datasette</p>",
+              "value": "@jonathan have you met https://datasette.io? It\u2019s built on these kinds of features of SQLite. Datasette"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81MzgvNDAyLzM1Ni82NTcvNDM5L29yaWdpbmFsLzM5MjBkYjRkNDk2MDhkMzcuanBlZw,,/300/square"
+                ],
+                "name": [
+                  "Bradford Dillon"
+                ],
+                "url": [
+                  "https://mastodon.xyz/@jbradforddillon"
+                ]
+              },
+              "value": "Bradford Dillon"
+            }
+          ],
+          "url": [
+            "https://mastodon.xyz/@jbradforddillon/109942324516605722"
+          ]
+        },
+        "value": "https://mastodon.xyz/@jbradforddillon/109942324516605722"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109938370099445470"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "739020b7204715238297b169f127c605"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109938370099445470#favorited-by-109368496481741909"
+          ],
+          "published": [
+            "2023-02-27T20:04:05+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff C. \ud83c\uddfa\ud83c\udde6"
+                ],
+                "url": [
+                  "https://indieweb.social/@jeff"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDk2LzQ4MS83NDEvOTA5L29yaWdpbmFsL2I0MjVmMDEzODNlY2RkM2IuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDk2LzQ4MS83NDEvOTA5L29yaWdpbmFsL2I0MjVmMDEzODNlY2RkM2IuanBn/300/square Jeff C. \ud83c\uddfa\ud83c\udde6"
+            }
+          ]
+        },
+        "value": "Jeff C. \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109938370099445470#favorited-by-109938374997153477"
+          ],
+          "published": [
+            "2023-02-27T20:04:06+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Trafficone"
+                ],
+                "url": [
+                  "https://todon.nl/@trafficone"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS85MzgvMzc0Lzk5Ny8xNTMvNDc3L29yaWdpbmFsLzVjMTU4YmE5NWJjM2UxZmUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS85MzgvMzc0Lzk5Ny8xNTMvNDc3L29yaWdpbmFsLzVjMTU4YmE5NWJjM2UxZmUuanBn/300/square Trafficone"
+            }
+          ]
+        },
+        "value": "Trafficone"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109938370099445470#favorited-by-109377064745197470"
+          ],
+          "published": [
+            "2023-02-28T18:24:37+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Simon Willison"
+                ],
+                "url": [
+                  "https://fedi.simonwillison.net/@simon"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNzcvMDY0Lzc0NS8xOTcvNDcwL29yaWdpbmFsLzNjNDc3MTA5MWJlNTI1MTIuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNzcvMDY0Lzc0NS8xOTcvNDcwL29yaWdpbmFsLzNjNDc3MTA5MWJlNTI1MTIuanBn/300/square Simon Willison"
+            }
+          ]
+        },
+        "value": "Simon Willison"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-27T19:30:08Z",
+      "year": 2023,
+      "month": 2,
+      "day": 27,
+      "hour": 19,
+      "minute": 30,
+      "x": -116.38030521752603,
+      "y": 33.70169782350441,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "DesertSun"
+    }
+  }
+}

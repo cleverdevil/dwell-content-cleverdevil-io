@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/330-people-arent-always-logical"
+    ],
+    "published": [
+      "2020-12-20T19:57:20+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ee419fd83065b5a3ec41d6fedc501e3c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-20T19:54:15Z",
+      "year": 2020,
+      "month": 12,
+      "day": 20,
+      "hour": 19,
+      "minute": 54,
+      "x": -118.3812454253155,
+      "y": 33.8172272050665,
+      "altitude": 32,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.6399999856948853,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 330: People Aren\u2019t Always Logical"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d278e48e2886b10e9b01a8a4e25736ef/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8d6nQA"
+        ],
+        "content": [
+          {
+            "html": "<p>Warner Media blowback, Apple\u2019s Gawker show gets cancelled, Disney fires off its Death Star, and Apple announced a $550 pair of headphones.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Warner Media blowback, Apple\u2019s Gawker show gets cancelled, Disney fires off its Death Star, and Apple announced a $550 pair of headphones.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

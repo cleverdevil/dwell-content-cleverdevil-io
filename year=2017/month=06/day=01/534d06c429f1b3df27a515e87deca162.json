@@ -1,0 +1,454 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Micro.blog, JSON Feed, and Evergreen Give Me Hope for the Open Web"
+    ],
+    "content": [
+      {
+        "html": "<p>I've long been a believer in the power of the open web, but my passion for saving it has been ignited by the <a href=\"https://indieweb.org\">IndieWeb</a>\u00a0movement, as of late. More and more people are discovering their distaste for creepy, ad-driven content silos like Facebook. Today's <a href=\"http://scripting.com/2017/05/31.html#a110526\">post by Dave Winer on the evils of Facebook</a>, and <a href=\"https://daringfireball.net/2017/06/fuck_facebook\">John Gruber's hilariously sardonic \"Fuck Facebook\" reply</a>\u00a0do an excellent job of encapsulating my own frustrations. That said, there are reasons for hope.</p><p>The <a href=\"https://indieweb.org\">IndieWeb</a>\u00a0movement itself has been chipping away at the problem for years, but I've been particularly encouraged over the past few weeks by a few new developments.</p><p>First is the successful launch of <a href=\"http://www.manton.org\">Manton Reece</a>'s <a href=\"https://micro.blog\">Micro.blog</a>\u00a0project to his Kickstarter backers. I'm a backer myself, <a href=\"https://www.dreamhost.com/blog/2017/01/24/pitching-support-open-web/\">as is my employer</a>, and I've had the pleasure of using the platform for a few weeks now. Its early, but the project is already bearing fruit, with a rapid development pace, a vibrant community, and lots of excellent people to follow. Micro.blog is built on the notion of independence and respects your ownership of your data.</p><p>Next is the announcement and early success of the\u00a0<a href=\"https://jsonfeed.org\">JSON Feed format</a>\u00a0created by Manton and <a href=\"http://inessential.com\">Brent Simmons</a>. JSON Feed is a new format designed for content syndication, similar to RSS and Atom, but based upon the JSON serialization format, which is popular with developers these days for being extremely easy to properly generate and parse. Since its announcement, there's been a flurry of activity around JSON Feed, including outcry about \"<a href=\"https://xkcd.com/927/\">yet another standard</a>,\" and those who are <a href=\"https://github.com/brentsimmons/JSONFeed/issues/49\">upset that JSON Feed was created at all when there are other JSON-based syndication formats</a>\u00a0in existence. Over all of the noise, though, the adoption rate has been impressive. <a href=\"https://jsonfeed.org/code\">Many projects</a>\u00a0have been updated or created to generate and parse JSON Feed, and consumers\u00a0are starting to adopt the format as well, including <a href=\"https://feedbin.com/blog/2017/05/22/feedbin-supports-json-feed/\">Feedbin</a>, <a href=\"https://betamagic.nl/blog.html\">News Explorer</a>, <a href=\"http://blog.newsblur.com/post/160982162270/newsblur-now-supports-the-new-json-feed-spec\">NewsBlur</a>, <a href=\"http://blog.inoreader.com/2017/05/announcing-json-feed-support.html\">Inoreader</a>, and a few <a href=\"https://medium.com/breakeraudio/breaker-adds-support-for-json-feed-eddbd4afd0f3\">podcast apps</a>. I've even jumped into the fray, <a href=\"https://github.com/idno/Known/pull/1764\">creating an initial implementation of JSON Feed</a>\u00a0for the <a href=\"https://withknown.com\">Known CMS</a>\u00a0that runs this website, and a second pass that <a href=\"https://github.com/brentsimmons/JSONFeed/issues/51\">aims to build in additional information through JSON Feed extensions</a>. Regardless of competing standards, shortcomings in the format itself, etc., its undeniable that JSON Feed is generating real, palpable excitement for the open web, and that's undoubtedly a good thing.</p><p>Finally, in the midst of all of this, <a href=\"https://ranchero.com/evergreen/\">Brent Simmons has announced</a>\u00a0that he's working on a new, <a href=\"https://github.com/brentsimmons/Evergreen/\">open source feed reader for macOS called Evergreen</a>. Brent was the original creator of <a href=\"http://netnewswireapp.com\">NetNewsWire</a>, which was at one time my favorite app. In fact, I created several themes for NetNewsWire back in the day, and was a member of the beta testing and feedback group that Brent set up. Evergreen has a chance to take a fresh look at the problem of consuming feeds, and with JSON Feed and the new capabilities it could support through extensions, I am hoping that Brent takes a crack at solving the <a href=\"https://cleverdevil.io/2017/user-experience-and-the-indieweb\">bigger picture that I blogged about in March</a>. Imagine an open source app that bundles consumption (through feeds, including JSON Feed) with content creation and interaction (leveraging Micropub, a newly minted\u00a0<a href=\"https://aaronparecki.com/2017/05/30/1/w3c-micropub\">W3C recommendation</a>, and <a href=\"https://webmention.net/draft/\">Webmention</a>). I'm looking forward to seeing what Brent produces!</p><p>So, yes, I lament the state of the web, thanks to walled gardens like Facebook, but I'm optimistic about the future.</p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a>\u00a0<a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a></p>",
+        "value": "I've long been a believer in the power of the open web, but my passion for saving it has been ignited by the IndieWeb\u00a0movement, as of late. More and more people are discovering their distaste for creepy, ad-driven content silos like Facebook. Today's post by Dave Winer on the evils of Facebook, and John Gruber's hilariously sardonic \"Fuck Facebook\" reply\u00a0do an excellent job of encapsulating my own frustrations. That said, there are reasons for hope.\nThe IndieWeb\u00a0movement itself has been chipping away at the problem for years, but I've been particularly encouraged over the past few weeks by a few new developments.\nFirst is the successful launch of Manton Reece's Micro.blog\u00a0project to his Kickstarter backers. I'm a backer myself, as is my employer, and I've had the pleasure of using the platform for a few weeks now. Its early, but the project is already bearing fruit, with a rapid development pace, a vibrant community, and lots of excellent people to follow. Micro.blog is built on the notion of independence and respects your ownership of your data.\nNext is the announcement and early success of the\u00a0JSON Feed format\u00a0created by Manton and Brent Simmons. JSON Feed is a new format designed for content syndication, similar to RSS and Atom, but based upon the JSON serialization format, which is popular with developers these days for being extremely easy to properly generate and parse. Since its announcement, there's been a flurry of activity around JSON Feed, including outcry about \"yet another standard,\" and those who are upset that JSON Feed was created at all when there are other JSON-based syndication formats\u00a0in existence. Over all of the noise, though, the adoption rate has been impressive. Many projects\u00a0have been updated or created to generate and parse JSON Feed, and consumers\u00a0are starting to adopt the format as well, including Feedbin, News Explorer, NewsBlur, Inoreader, and a few podcast apps. I've even jumped into the fray, creating an initial implementation of JSON Feed\u00a0for the Known CMS\u00a0that runs this website, and a second pass that aims to build in additional information through JSON Feed extensions. Regardless of competing standards, shortcomings in the format itself, etc., its undeniable that JSON Feed is generating real, palpable excitement for the open web, and that's undoubtedly a good thing.\nFinally, in the midst of all of this, Brent Simmons has announced\u00a0that he's working on a new, open source feed reader for macOS called Evergreen. Brent was the original creator of NetNewsWire, which was at one time my favorite app. In fact, I created several themes for NetNewsWire back in the day, and was a member of the beta testing and feedback group that Brent set up. Evergreen has a chance to take a fresh look at the problem of consuming feeds, and with JSON Feed and the new capabilities it could support through extensions, I am hoping that Brent takes a crack at solving the bigger picture that I blogged about in March. Imagine an open source app that bundles consumption (through feeds, including JSON Feed) with content creation and interaction (leveraging Micropub, a newly minted\u00a0W3C recommendation, and Webmention). I'm looking forward to seeing what Brent produces!\nSo, yes, I lament the state of the web, thanks to walled gardens like Facebook, but I'm optimistic about the future.\n#indienews\u00a0#indieweb"
+      }
+    ],
+    "category": [
+      "https://news.indieweb.org/en",
+      "#indienews",
+      "#indieweb"
+    ],
+    "url": [
+      "/2017/microblog-json-feed-and-evergreen-give-me-hope-for-the"
+    ],
+    "published": [
+      "2017-06-01T20:46:13+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/870413572337225731"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "534d06c429f1b3df27a515e87deca162"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2017/06/01/17/"
+          ],
+          "published": [
+            "2017-06-01T22:58:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/c027ffc06d53745aab5acc50f86fa9b0"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/c027ffc06d53745aab5acc50f86fa9b0 Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F9943872"
+          ],
+          "published": [
+            "2017-06-01T23:03:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Collin Donnell"
+                ],
+                "url": [
+                  "https://twitter.com/collindonnell"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/526793707e685452c81a89a7ae29909e/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/526793707e685452c81a89a7ae29909e/thumb.jpg Collin Donnell"
+            }
+          ]
+        },
+        "value": "Collin Donnell"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F15699553"
+          ],
+          "published": [
+            "2017-06-01T23:03:42+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff Campbell"
+                ],
+                "url": [
+                  "https://twitter.com/Darchmare"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/af59ff299396bd576db77c05e8cc3b7f/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/af59ff299396bd576db77c05e8cc3b7f/thumb.jpg Jeff Campbell"
+            }
+          ]
+        },
+        "value": "Jeff Campbell"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F865851151006281728"
+          ],
+          "published": [
+            "2017-06-02T01:11:44+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "JSON Feed Reader"
+                ],
+                "url": [
+                  "https://twitter.com/jsonfeedreader"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/9a0c967c01e7569fa3aa932d7bf191ac/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/9a0c967c01e7569fa3aa932d7bf191ac/thumb.jpg JSON Feed Reader"
+            }
+          ]
+        },
+        "value": "JSON Feed Reader"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://michael.runcieman.com/2017/liked-jonathan-lacours-microblog-json-feed-and-evergreen-give-me"
+          ],
+          "published": [
+            "2017-06-02T02:13:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Michael Runcieman"
+                ],
+                "url": [
+                  "https://michael.runcieman.com/profile/mruncieman"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/de963577aa8b0e51fb816d3f6a23ce31"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/de963577aa8b0e51fb816d3f6a23ce31 Michael Runcieman"
+            }
+          ]
+        },
+        "value": "Michael Runcieman"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F844310014726733824"
+          ],
+          "published": [
+            "2017-06-02T03:07:08+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Maxime Vaillancourt"
+                ],
+                "url": [
+                  "https://twitter.com/vaillancourtmax"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/72e4ff7280edf29facbf6e3968845718/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/72e4ff7280edf29facbf6e3968845718/thumb.jpg Maxime Vaillancourt"
+            }
+          ]
+        },
+        "value": "Maxime Vaillancourt"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F3384525437"
+          ],
+          "published": [
+            "2017-06-02T07:13:04+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Vienna.html in \ud83c\udde6\ud83c\uddf9"
+                ],
+                "url": [
+                  "https://twitter.com/viennahtml"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/eb22d237cce0dc94bcf23f1f07d05161"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/eb22d237cce0dc94bcf23f1f07d05161 Vienna.html in \ud83c\udde6\ud83c\uddf9"
+            }
+          ]
+        },
+        "value": "Vienna.html in \ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F4861485219"
+          ],
+          "published": [
+            "2017-06-02T11:48:44+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Static Times"
+                ],
+                "url": [
+                  "https://twitter.com/statictimes"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/af02d3fa6a94fb7cdbcfe903fda12057"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/af02d3fa6a94fb7cdbcfe903fda12057 Static Times"
+            }
+          ]
+        },
+        "value": "Static Times"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://barryfrost.com/2017/06/04-174645"
+          ],
+          "published": [
+            "2017-06-04T17:46:45+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Barry Frost"
+                ],
+                "url": [
+                  "https://barryfrost.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/28377a85cea72c8c6aa7a1206c29027a"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/28377a85cea72c8c6aa7a1206c29027a Barry Frost"
+            }
+          ]
+        },
+        "value": "Barry Frost"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F4677"
+          ],
+          "published": [
+            "2017-06-04T18:04:13+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Barry Frost"
+                ],
+                "url": [
+                  "https://twitter.com/barryf"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/20d7cd81bb001c49f8175731be16e52f"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/20d7cd81bb001c49f8175731be16e52f Barry Frost"
+            }
+          ]
+        },
+        "value": "Barry Frost"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "http://www.petersell.com/2017/liked-jonathan-lacours-microblog-json-feed-and-evergreen-give-me"
+          ],
+          "published": [
+            "2017-06-06T12:20:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andreas Petersell"
+                ],
+                "url": [
+                  "http://www.petersell.com/profile/petersell"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/038078c0288ca81171b992e2eb4c6c12"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/038078c0288ca81171b992e2eb4c6c12 Andreas Petersell"
+            }
+          ]
+        },
+        "value": "Andreas Petersell"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/870413572337225731?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F870413572337225731%2F54328436"
+          ],
+          "published": [
+            "2017-06-06T12:45:42+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andreas Petersell"
+                ],
+                "url": [
+                  "https://twitter.com/Petersell"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/6870709275cbbc21d376db646a329401"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/6870709275cbbc21d376db646a329401 Andreas Petersell"
+            }
+          ]
+        },
+        "value": "Andreas Petersell"
+      }
+    ]
+  }
+}

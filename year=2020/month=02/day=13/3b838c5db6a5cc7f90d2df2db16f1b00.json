@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hypercritical: SwitchGlass"
+    ],
+    "like-of": [
+      "http://hypercritical.co/2020/02/12/switchglass"
+    ],
+    "url": [
+      "/2020/hypercritical-switchglass"
+    ],
+    "published": [
+      "2020-02-13T19:43:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.44\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.44\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.44\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/hypercritical-switchglass/annotations/1a1b741c0a7012331459ffe7d0fd9e9b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/hypercritical-switchglass/annotations/1a1b741c0a7012331459ffe7d0fd9e9b"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "3b838c5db6a5cc7f90d2df2db16f1b00"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-13T18:57:52Z",
+      "year": 2020,
+      "month": 2,
+      "day": 13,
+      "hour": 18,
+      "minute": 57,
+      "x": -118.37035394386261,
+      "y": 33.81546057730604,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": "LaCour"
+    }
+  }
+}

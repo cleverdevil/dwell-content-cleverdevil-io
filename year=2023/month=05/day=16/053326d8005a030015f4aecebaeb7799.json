@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I know its annoying to see my test posts, but it looks like I have rudimentary cross-posting from my website to Bluesky working. Only for simple posts at the moment, but I already have embedding working for long-form posts, and hopefully I can add photos as I learn the protocol. Progress!"
+    ],
+    "content": [
+      {
+        "html": "I know its annoying to see my test posts, but it looks like I have rudimentary cross-posting from my website to Bluesky working. Only for simple posts at the moment, but I already have embedding working for long-form posts, and hopefully I can add photos as I learn the protocol. Progress!",
+        "value": "I know its annoying to see my test posts, but it looks like I have rudimentary cross-posting from my website to Bluesky working. Only for simple posts at the moment, but I already have embedding working for long-form posts, and hopefully I can add photos as I learn the protocol. Progress!"
+      }
+    ],
+    "url": [
+      "/2023/i-know-its-annoying-to-see-my"
+    ],
+    "published": [
+      "2023-05-16T23:47:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil ummm - I think you are behind me on the \u2018ignore this test post\u2019 count."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil ummm - I think you are behind me on the \u2018ignore this test post\u2019 count.</p>",
+              "value": "@cleverdevil ummm - I think you are behind me on the \u2018ignore this test post\u2019 count."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjMvMTYvNDE2NS5qcGc,/300/square"
+                ],
+                "name": [
+                  "JohnPhilpin"
+                ],
+                "url": [
+                  "https://micro.blog/JohnPhilpin"
+                ]
+              },
+              "value": "JohnPhilpin"
+            }
+          ],
+          "url": [
+            "https://micro.blog/JohnPhilpin/19171494"
+          ]
+        },
+        "value": "https://micro.blog/JohnPhilpin/19171494"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@JohnPhilpin hah. I was making cross posting to Bluesky work :)"
+          ],
+          "content": [
+            {
+              "html": "<p>@JohnPhilpin hah. I was making cross posting to Bluesky work :)</p>",
+              "value": "@JohnPhilpin hah. I was making cross posting to Bluesky work :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19172218"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19172218"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110381029362907107",
+      "https://bsky.app/profile/cleverdevil.io/post/3jvv354dqdd2o"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "053326d8005a030015f4aecebaeb7799"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

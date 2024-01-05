@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/326-blow-your-redo-stack"
+    ],
+    "published": [
+      "2019-05-17T04:49:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 56.7\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 56.7\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 56.7\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/326-blow-your-redo-stack/annotations/5491fa3fb12482de2da289854695279e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/326-blow-your-redo-stack/annotations/5491fa3fb12482de2da289854695279e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d9cb450510861f455e0122d37fd6ee49"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-17T06:56:06Z",
+      "year": 2019,
+      "month": 5,
+      "day": 17,
+      "hour": 6,
+      "minute": 56,
+      "x": -118.370512682952,
+      "y": 33.81535231867758,
+      "altitude": 54,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 326: Blow Your Redo Stack"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/aca299a0876b6a384ef92654c318d951/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DVjGjAk"
+        ],
+        "content": [
+          {
+            "html": "<p>Doomsday prep, everyday carry, backpacks, star-rating scales, movie-frame guessing, and maybe a few technology topics.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Doomsday prep, everyday carry, backpacks, star-rating scales, movie-frame guessing, and maybe a few technology topics.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Boston Logan International Airport (BOS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365560150259"
+          ],
+          "longitude": [
+            "-71.019071764189"
+          ]
+        },
+        "value": "Boston Logan International Airport (BOS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365560150259"
+          ],
+          "longitude": [
+            "-71.019071764189"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-boston-logan-international-airport-bos-2"
+    ],
+    "published": [
+      "2018-05-21T20:25:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Massachusetts was in May '17 at Boston Logan International Airport (BOS)."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Massachusetts was in May '17 at Boston Logan International Airport (BOS).</p>",
+              "value": "Your last check-in in Massachusetts was in May '17 at Boston Logan International Airport (BOS)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b032b378d0a53002cf6f4f5/f438250e57e0a2c553ec06ab125ac4c0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b032b378d0a53002cf6f4f5/f438250e57e0a2c553ec06ab125ac4c0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b032b378d0a53002cf6f4f5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5dc5d8a0cb2b5479ef209dce2e2086d6"
+    ]
+  }
+}

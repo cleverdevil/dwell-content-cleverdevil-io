@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-259-get-ripped-with-pro-max"
+    ],
+    "published": [
+      "2019-08-22T20:25:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 69.08\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 69.08\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 69.08\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-259-get-ripped-with-pro-max/annotations/18075cef6cf665c43248878ee3960228"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-259-get-ripped-with-pro-max/annotations/18075cef6cf665c43248878ee3960228"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a2052dd7d6c9854e26e6b703083e7061"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-22T23:59:09Z",
+      "year": 2019,
+      "month": 8,
+      "day": 22,
+      "hour": 23,
+      "minute": 59,
+      "x": -118.37035654198014,
+      "y": 33.81541441848648,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 259: Get Ripped with Pro Max"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c525c1271c21d25a4cf50a3dbbf18985/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_BN_t0"
+        ],
+        "content": [
+          {
+            "html": "<p>Special guest Stephen Hackett joins us to discuss the current state of the Mac in both hardware and software. We also ponder Apple\u2019s choices in naming the new iPhones, and Jason wonders if the Apple Watch even needs an upgrade this fall.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Special guest Stephen Hackett joins us to discuss the current state of the Mac in both hardware and software. We also ponder Apple\u2019s choices in naming the new iPhones, and Jason wonders if the Apple Watch even needs an upgrade this fall.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

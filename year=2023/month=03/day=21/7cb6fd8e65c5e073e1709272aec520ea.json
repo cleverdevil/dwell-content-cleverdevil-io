@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/solo-acts-marco-arment-and-his-podcast-app-overcast"
+    ],
+    "published": [
+      "2023-03-21T21:42:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7cb6fd8e65c5e073e1709272aec520ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-22T00:04:59Z",
+      "year": 2023,
+      "month": 3,
+      "day": 22,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.37041838958062,
+      "y": 33.81534097664364,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3499999940395355,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Solo Acts: Marco Arment and his podcast app Overcast"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d54db26a3f7aba8c380f3d2950a3cd5b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+QN1ou7Pag"
+        ],
+        "content": [
+          {
+            "html": "<p>For the final episode of our Solo Acts mini series, Ashley Esqueda talks with Marco Arment about being a solo app developer, going from Tumblr to Instapaper to his own podcast app Overcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Vergecast</p>",
+            "value": "For the final episode of our Solo Acts mini series, Ashley Esqueda talks with Marco Arment about being a solo app developer, going from Tumblr to Instapaper to his own podcast app Overcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices\nBy The Vergecast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

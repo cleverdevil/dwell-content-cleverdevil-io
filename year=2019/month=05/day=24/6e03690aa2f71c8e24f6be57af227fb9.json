@@ -1,0 +1,144 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daniel Jalkut on Twitter: \"I've been waiting 7 months for the @Wordpress team to commit a fix I submitted to the XMLRPC API. It's affected my opinion of the project and diminished the odds I will submit future patches:"
+    ],
+    "repost-of": [
+      "https://twitter.com/danielpunkass/status/1132036836652662784"
+    ],
+    "url": [
+      "/2019/daniel-jalkut-on-twitter-ive-been-waiting-7-months-for"
+    ],
+    "published": [
+      "2019-05-24T22:58:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.45\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.45\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.45\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/daniel-jalkut-on-twitter-ive-been-waiting-7-months-for/annotations/01f7e462955fa4e535de652d2a79bc1d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/daniel-jalkut-on-twitter-ive-been-waiting-7-months-for/annotations/01f7e462955fa4e535de652d2a79bc1d"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil @danielpunkass I know it\u2019s not a representative sample, but Daniel\u2019s bug reads like every other WordPress bug I\u2019ve been interested in :-( I once reported a dataloss bug (post truncation at a non-BMP character) that, yes, was a edge case at the time, and I certainly didn\u2019t come with a patch, but\u2026dataloss\u2026; it at least finally got fixed several years later after emoji became popular.\nIn a similar vein, from the other side, one of my big regrets is that we never were able to get an acceptable JavaScript security model to allow landing your do JavaScript support in Camino, Daniel. It was thrilling to see you come in out of the blue with it, and that patch continues to haunt me, a decade? later; I kept looking at that bug over the years and wish I had known who I would have needed to talk to or poke to get an answer as to how we\u2019d accomplish the JS \u201cpassword sandboxing\u201d in Gecko :-("
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil @danielpunkass I know it\u2019s not a representative sample, but Daniel\u2019s bug reads like every other WordPress bug I\u2019ve been interested in :-( I once reported a dataloss bug (post truncation at a non-BMP character) that, yes, was a edge case at the time, and I certainly didn\u2019t come with a patch, but\u2026dataloss\u2026; it at least finally got fixed several years later after emoji became popular.<br/>In a similar vein, from the other side, one of my big regrets is that we never were able to get an acceptable JavaScript security model to allow landing your do JavaScript support in Camino, Daniel. It was thrilling to see you come in out of the blue with it, and that patch continues to haunt me, a decade? later; I kept looking at that bug over the years and wish I had known who I would have needed to talk to or poke to get an answer as to how we\u2019d accomplish the JS \u201cpassword sandboxing\u201d in Gecko :-(</p>",
+              "value": "@cleverdevil @danielpunkass I know it\u2019s not a representative sample, but Daniel\u2019s bug reads like every other WordPress bug I\u2019ve been interested in :-( I once reported a dataloss bug (post truncation at a non-BMP character) that, yes, was a edge case at the time, and I certainly didn\u2019t come with a patch, but\u2026dataloss\u2026; it at least finally got fixed several years later after emoji became popular.\nIn a similar vein, from the other side, one of my big regrets is that we never were able to get an acceptable JavaScript security model to allow landing your do JavaScript support in Camino, Daniel. It was thrilling to see you come in out of the blue with it, and that patch continues to haunt me, a decade? later; I kept looking at that bug over the years and wish I had known who I would have needed to talk to or poke to get an answer as to how we\u2019d accomplish the JS \u201cpassword sandboxing\u201d in Gecko :-("
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Ntb2tleS9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "smokey"
+                ],
+                "url": [
+                  "https://micro.blog/smokey"
+                ]
+              },
+              "value": "smokey"
+            }
+          ],
+          "url": [
+            "https://micro.blog/smokey/3727987"
+          ]
+        },
+        "value": "https://micro.blog/smokey/3727987"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1132058393005289473"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "6e03690aa2f71c8e24f6be57af227fb9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-24T22:56:11Z",
+      "year": 2019,
+      "month": 5,
+      "day": 24,
+      "hour": 22,
+      "minute": 56,
+      "x": -118.37029448783441,
+      "y": 33.81545251131678,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "LaCour"
+    }
+  }
+}

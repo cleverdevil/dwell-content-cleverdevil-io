@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Gordon Ramsay Pub & Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gordon Ramsay Pub & Grill"
+          ],
+          "latitude": [
+            "36.117724047057"
+          ],
+          "longitude": [
+            "-115.17535351458"
+          ]
+        },
+        "value": "Gordon Ramsay Pub & Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gordon Ramsay Pub & Grill"
+          ],
+          "latitude": [
+            "36.117724047057"
+          ],
+          "longitude": [
+            "-115.17535351458"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-gordon-ramsay-pub-grill"
+    ],
+    "published": [
+      "2018-02-01T04:17:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Gastropub check-in in 5 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Gastropub check-in in 5 months!</p>",
+              "value": "First Gastropub check-in in 5 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7294ac12c8f02e7064f8e4/a29a6c09f2ec540c220391d458cf845c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7294ac12c8f02e7064f8e4/a29a6c09f2ec540c220391d458cf845c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a7294ac12c8f02e7064f8e4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "256dbf3e3025815875ae5f8eeb21add5"
+    ]
+  }
+}

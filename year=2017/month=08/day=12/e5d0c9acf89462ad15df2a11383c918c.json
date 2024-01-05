@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into krust"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": "krust"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "krust"
+          ],
+          "latitude": [
+            "33.823326"
+          ],
+          "longitude": [
+            "-118.384929"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"krust\" src=\"https://cleverdevil.io/file/ef6e2df3275f977461ab281be73bd18b\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Ninja turtle donut breakfast!</p>",
+        "value": "krust\nNinja turtle donut breakfast!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-krust-2"
+    ],
+    "published": [
+      "2017-08-12T17:09:33+0000"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/598f363c59c4233388ea0a3b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e5d0c9acf89462ad15df2a11383c918c"
+    ]
+  }
+}

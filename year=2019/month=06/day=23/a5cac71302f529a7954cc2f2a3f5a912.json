@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-24-what-is-the-indieweb"
+    ],
+    "published": [
+      "2019-06-23T21:20:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.12\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.12\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.12\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-24-what-is-the-indieweb/annotations/0968ab4b315fa770b10a303a541879d4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-24-what-is-the-indieweb/annotations/0968ab4b315fa770b10a303a541879d4"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a5cac71302f529a7954cc2f2a3f5a912"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-23T23:34:21Z",
+      "year": 2019,
+      "month": 6,
+      "day": 23,
+      "hour": 23,
+      "minute": 34,
+      "x": -118.3703730467608,
+      "y": 33.81546785036202,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 24: What is the IndieWeb?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/532494746858146011a9a372458f34a5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+KZH8-flmU"
+        ],
+        "content": [
+          {
+            "html": "<p>A live interview on xray.fm in Portland where I talked about the IndieWeb</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Percolator</p>",
+            "value": "A live interview on xray.fm in Portland where I talked about the IndieWeb\nBy Percolator"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

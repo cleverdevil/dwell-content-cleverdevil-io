@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/234-airpods-the-future-of-ear-computing"
+    ],
+    "published": [
+      "2019-02-20T02:24:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.67\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.67\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.67\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/234-airpods-the-future-of-ear-computing/annotations/1bb3fac86da4791172d2c6677c9827f8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/234-airpods-the-future-of-ear-computing/annotations/1bb3fac86da4791172d2c6677c9827f8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a4b91e9ec16ea6311358f49d6a7594b7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-20T04:01:10Z",
+      "year": 2019,
+      "month": 2,
+      "day": 20,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37054816101836,
+      "y": 33.815321642110256,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 234: AirPods: The Future of Ear Computing"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/39ecfa9937e2ebeca8868d6aab4d6efa/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+K8lhBMWfk"
+        ],
+        "content": [
+          {
+            "html": "<p>I can imagine, certainly not today or tomorrow, but one day, AirPods that contain a W5 or some other alphanumeric chipset, that slip into your ears and, through a combination of gestures and Siri \u2014 or better yet, SiriOS \u2014 can stream music,\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vector with Rene Ritchie</p>",
+            "value": "I can imagine, certainly not today or tomorrow, but one day, AirPods that contain a W5 or some other alphanumeric chipset, that slip into your ears and, through a combination of gestures and Siri \u2014 or better yet, SiriOS \u2014 can stream music,\u2026\nBy Vector with Rene Ritchie"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/483-the-faceless-knob"
+    ],
+    "published": [
+      "2022-05-21T16:14:52+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "42453f399dceb160a4c8c38e214ad9a7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-21T20:03:24Z",
+      "year": 2022,
+      "month": 5,
+      "day": 21,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.38040700158325,
+      "y": 33.701663560002,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.949999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 483: The Faceless Knob"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/34041f4b2d14c852976f45175f7dea46/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfd6qcao"
+        ],
+        "content": [
+          {
+            "html": "<p>Why run copper wires through your walls when you can run fiber?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "Why run copper wires through your walls when you can run fiber?\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/309-ancient-mac-archaeologist"
+    ],
+    "published": [
+      "2020-08-08T19:15:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4b1ed3955cbeb97a4a236527477851f0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-08T20:05:00Z",
+      "year": 2020,
+      "month": 8,
+      "day": 8,
+      "hour": 20,
+      "minute": 5,
+      "x": -118.36756778331201,
+      "y": 33.81356812946223,
+      "altitude": 25,
+      "motion": [
+        "walking"
+      ],
+      "speed": 2,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 309: Ancient Mac Archaeologist"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/877a948fc92d4b366110a4b0030661f1/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-uT2s0"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we cover Apple\u2019s newest iMacs, Phil Schiller\u2019s job transition, some formerly secret Apple emails, and Apple\u2019s surprisingly strong financial results. Also, Jason launches his new \u201c20 Macs for 2020\u201d project.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we cover Apple\u2019s newest iMacs, Phil Schiller\u2019s job transition, some formerly secret Apple emails, and Apple\u2019s surprisingly strong financial results. Also, Jason launches his new \u201c20 Macs for 2020\u201d project.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

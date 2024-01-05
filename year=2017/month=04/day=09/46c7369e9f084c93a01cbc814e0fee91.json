@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Chillin</p>",
+        "value": "Chillin"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-11"
+    ],
+    "published": [
+      "2017-04-09T21:16:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Rocking that crown like it's 1599."
+          ],
+          "content": [
+            {
+              "html": "<p>Rocking that crown like it's 1599.</p>",
+              "value": "Rocking that crown like it's 1599."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/695e87288ae07339a01e61a2cbf9bd03"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eaa4c5a55db0650ff34df0/e1ecf3ebf978410dc9a73239042afc3f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eaa4c5a55db0650ff34df0/e1ecf3ebf978410dc9a73239042afc3f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58eaa4c5a55db0650ff34df0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "46c7369e9f084c93a01cbc814e0fee91"
+    ]
+  }
+}

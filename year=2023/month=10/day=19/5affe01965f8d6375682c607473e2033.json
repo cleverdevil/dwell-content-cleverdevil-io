@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>In my happy place.</p>",
+        "value": "In my happy place."
+      }
+    ],
+    "url": [
+      "/2023/checked-into-silver-spur-ranch-25"
+    ],
+    "published": [
+      "2023-10-19T07:00:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Housing Development check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Housing Development check-in in 3 months!</p>",
+              "value": "First Housing Development check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6530d4099615034595de544e/d71668b8e0f76e24412541d4cbe73b47"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6530d4099615034595de544e/d71668b8e0f76e24412541d4cbe73b47"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Silver Spur Ranch since June."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Silver Spur Ranch since June.</p>",
+              "value": "Welcome back! You haven't checked in to Silver Spur Ranch since June."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6530d4099615034595de544e/cf9a1aad8aee5d3c16b9dfd527741874"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6530d4099615034595de544e/cf9a1aad8aee5d3c16b9dfd527741874"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6530d4099615034595de544e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5affe01965f8d6375682c607473e2033"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-19T06:29:05Z",
+      "year": 2023,
+      "month": 10,
+      "day": 19,
+      "hour": 6,
+      "minute": 29,
+      "x": -116.38063457148128,
+      "y": 33.70146848201065,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "DesertSun"
+    }
+  }
+}

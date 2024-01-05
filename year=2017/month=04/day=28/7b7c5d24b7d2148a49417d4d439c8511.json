@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lobby Lounge"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lobby Lounge"
+          ],
+          "latitude": [
+            "33.738290573733"
+          ],
+          "longitude": [
+            "-118.39803959371"
+          ]
+        },
+        "value": "Lobby Lounge"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lobby Lounge"
+          ],
+          "latitude": [
+            "33.738290573733"
+          ],
+          "longitude": [
+            "-118.39803959371"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-lobby-lounge"
+    ],
+    "published": [
+      "2017-04-28T23:32:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Piano Bar."
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Piano Bar.</p>",
+              "value": "Your first Piano Bar."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7235f26d994e6e3f481dc1173f3bec2a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5903d11941868652c040ffad/00fbe86774bc95db41c64e0f092b1320"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5903d11941868652c040ffad/00fbe86774bc95db41c64e0f092b1320"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Lobby Lounge!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Lobby Lounge!</p>",
+              "value": "Your first check-in at Lobby Lounge!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5e20921214f8f1f92ff4af98ddeecefa"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5903d11941868652c040ffad/41461525a4c5c0029e3acf0c43a231c6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5903d11941868652c040ffad/41461525a4c5c0029e3acf0c43a231c6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5903d11941868652c040ffad"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7b7c5d24b7d2148a49417d4d439c8511"
+    ]
+  }
+}

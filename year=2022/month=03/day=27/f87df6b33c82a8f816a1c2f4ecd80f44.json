@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/475-shove-it-out-the-back"
+    ],
+    "published": [
+      "2022-03-27T01:28:11+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f87df6b33c82a8f816a1c2f4ecd80f44"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-27T04:02:34Z",
+      "year": 2022,
+      "month": 3,
+      "day": 27,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37034751874607,
+      "y": 33.81540737188565,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.25999999046325684,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 475: Shove It Out the Back"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d81e0ac85ec46601f1c47a6369c6341c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULZTskU"
+        ],
+        "content": [
+          {
+            "html": "<p>Mac Studio upgrades and thermals, Studio Display engineering, and why we care so much about 5K.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Mac Studio upgrades and thermals, Studio Display engineering, and why we care so much about 5K.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

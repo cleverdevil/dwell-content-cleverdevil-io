@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/391-worse-in-stupid-ways"
+    ],
+    "published": [
+      "2020-08-16T02:50:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2dc05deac165fec3f188599fd58b8be7"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-16T04:03:36Z",
+      "year": 2020,
+      "month": 8,
+      "day": 16,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37034405933915,
+      "y": 33.815428311957874,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 391: Worse in Stupid Ways"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ea6c71fcdce27249ab2de3431fe27d91/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJrfjW4"
+        ],
+        "content": [
+          {
+            "html": "<p>Epic goes to war with the App Store, Apple vs. game-streaming, and an ode to most of Phil Schiller\u2019s work.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Epic goes to war with the App Store, Apple vs. game-streaming, and an ode to most of Phil Schiller\u2019s work.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

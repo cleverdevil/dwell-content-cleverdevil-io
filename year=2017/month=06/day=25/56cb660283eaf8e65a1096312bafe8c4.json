@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ground Kontrol Classic Arcade"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ground Kontrol Classic Arcade"
+          ],
+          "latitude": [
+            "45.523918157631"
+          ],
+          "longitude": [
+            "-122.67586916685"
+          ]
+        },
+        "value": "Ground Kontrol Classic Arcade"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ground Kontrol Classic Arcade"
+          ],
+          "latitude": [
+            "45.523918157631"
+          ],
+          "longitude": [
+            "-122.67586916685"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IndieWeb par-tay \u2014 with <a href=\"https://foursquare.com/user/476\">Tantek</a>, <a href=\"https://foursquare.com/user/428294304\">michelle</a></p>",
+        "value": "IndieWeb par-tay \u2014 with Tantek, michelle"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ground-kontrol-classic-arcade-1"
+    ],
+    "published": [
+      "2017-06-25T03:59:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Ground Kontrol Classic Arcade."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Ground Kontrol Classic Arcade.</p>",
+              "value": "First check-in at Ground Kontrol Classic Arcade."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/243f5eb03be2a6c939d5cc1b5be3f879"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594f3522e075501da42667e7/d3f51c39445887ee7080a65544f1e9c6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594f3522e075501da42667e7/d3f51c39445887ee7080a65544f1e9c6"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hanging out with Tantek and michelle!"
+          ],
+          "content": [
+            {
+              "html": "<p>Hanging out with Tantek and michelle!</p>",
+              "value": "Hanging out with Tantek and michelle!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4100a66be1b6d9451caa560d0efb3fbf"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594f3522e075501da42667e7/e1291ef157d4e1576b2f819d28f6b73a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594f3522e075501da42667e7/e1291ef157d4e1576b2f819d28f6b73a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594f3522e075501da42667e7"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "56cb660283eaf8e65a1096312bafe8c4"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594f3522e075501da42667e7/3a6dd1e20ebb234651cbe0f79a1b11cb"
+          ],
+          "published": [
+            "2017-06-25T03:59:30+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Tantek \u00c7elik"
+                ],
+                "url": [
+                  "https://foursquare.com/user/476"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/69dbaefb1fbbe6c8e5fb495c072cd7bc"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/69dbaefb1fbbe6c8e5fb495c072cd7bc Tantek \u00c7elik"
+            }
+          ]
+        },
+        "value": "Tantek \u00c7elik"
+      }
+    ]
+  }
+}

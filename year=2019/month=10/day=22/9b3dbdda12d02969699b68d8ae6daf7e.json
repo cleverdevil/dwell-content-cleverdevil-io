@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-265-what-are-you-a-dictionary"
+    ],
+    "published": [
+      "2019-10-22T07:14:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.05\u00b0F and 52% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.05\u00b0F and 52% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.05\u00b0F and 52% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-265-what-are-you-a-dictionary/annotations/51f978dd867600481cf18304afcb9da9"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-265-what-are-you-a-dictionary/annotations/51f978dd867600481cf18304afcb9da9"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9b3dbdda12d02969699b68d8ae6daf7e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-22T07:50:01Z",
+      "year": 2019,
+      "month": 10,
+      "day": 22,
+      "hour": 7,
+      "minute": 50,
+      "x": -118.37052549353639,
+      "y": 33.81530989048385,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 265: What Are You, a Dictionary?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2532349b28282e378b985912ad40d560/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5-QQu0"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has revealed its new emoji set, so it is time for Federico to guess their names as Stephen and Myke listen and keep score. After that, Myke shares his thoughts about his Galaxy Fold.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple has revealed its new emoji set, so it is time for Federico to guess their names as Stephen and Myke listen and keep score. After that, Myke shares his thoughts about his Galaxy Fold.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

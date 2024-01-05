@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818167005599"
+          ],
+          "longitude": [
+            "-118.38519045213"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818167005599"
+          ],
+          "longitude": [
+            "-118.38519045213"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Riviera Barber Shop\" src=\"https://cleverdevil.io/file/b3e860ee125f8412dfad97402ec7855c\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Getting my hair did with the boy.</p>",
+        "value": "Riviera Barber Shop\nGetting my hair did with the boy."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-barber-shop"
+    ],
+    "published": [
+      "2017-04-22T21:01:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/61268aa778a3f228791a4019e62ad000"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fbc47d6eda022a1998365a/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fbc47d6eda022a1998365a/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fbc47d6eda022a1998365a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "43ab15449580d9f478f2e3ceb832705d"
+    ]
+  }
+}

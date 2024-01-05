@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/74-apple-products"
+    ],
+    "published": [
+      "2021-04-03T16:39:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4cd88f0d5dbf745aecd31c497f7646b6"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-03T19:55:31Z",
+      "year": 2021,
+      "month": 4,
+      "day": 3,
+      "hour": 19,
+      "minute": 55,
+      "x": -118.37031798090945,
+      "y": 33.81543518850503,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 74: Apple Products \ud83d\udcf1\ud83d\udcbb\ud83d\udda5\u231a\ufe0f"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2b90bb70395b854ea1ebde33adf3f80f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDb4NxQk"
+        ],
+        "content": [
+          {
+            "html": "<p>How have we not done this already?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "How have we not done this already?\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

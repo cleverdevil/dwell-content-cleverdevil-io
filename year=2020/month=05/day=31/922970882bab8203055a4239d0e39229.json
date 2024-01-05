@@ -1,0 +1,149 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-299-my-gut-says-yes-and-no"
+    ],
+    "published": [
+      "2020-05-31T19:19:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.05\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.05\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.05\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-299-my-gut-says-yes-and-no/annotations/d288e96a76726248bfc4dbe6d8237bf2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-299-my-gut-says-yes-and-no/annotations/d288e96a76726248bfc4dbe6d8237bf2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "922970882bab8203055a4239d0e39229"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-31T19:59:13Z",
+      "year": 2020,
+      "month": 5,
+      "day": 31,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.35044911174558,
+      "y": 33.81600871907098,
+      "altitude": 26,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 299: My Gut Says Yes and No"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/db1cab9da9cd13b07e3a0fbd21a4029c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_fiVP8"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we talk Apple\u2019s commitment to its video streaming service, Spotify and the future of podcasting, and then Myke at the Movies skips school to watch \u201cFerris Bueller\u2019s Day Off.\u201d <a class=\"p-category\" href=\"/tag/saveferris\" rel=\"tag\">#saveferris</a></p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we talk Apple\u2019s commitment to its video streaming service, Spotify and the future of podcasting, and then Myke at the Movies skips school to watch \u201cFerris Bueller\u2019s Day Off.\u201d #saveferris\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#saveferris"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

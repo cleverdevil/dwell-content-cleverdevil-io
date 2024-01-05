@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/everywhere-is-duggar-hillsong"
+    ],
+    "published": [
+      "2023-07-11T02:07:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a2d6054f893954ee295b6ebbe9103e55"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-11T03:47:39Z",
+      "year": 2023,
+      "month": 7,
+      "day": 11,
+      "hour": 3,
+      "minute": 47,
+      "x": -118.37041749639506,
+      "y": 33.81539298327076,
+      "altitude": 56,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Everywhere is Duggar Hillsong"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/063b12b29ddd37c5f581c04a6332cdda/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6m8BiIE3A"
+        ],
+        "content": [
+          {
+            "html": "<p>Everywhere is Duggar Hillsong</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vacation Bible School Early Service</p>",
+            "value": "Everywhere is Duggar Hillsong\nBy Vacation Bible School Early Service"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

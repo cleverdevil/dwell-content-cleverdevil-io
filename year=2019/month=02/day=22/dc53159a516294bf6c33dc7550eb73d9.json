@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Manton Reece - Marzipan 2021"
+    ],
+    "like-of": [
+      "https://www.manton.org/2019/02/22/marzipan.html"
+    ],
+    "url": [
+      "/2019/manton-reece--marzipan-2021"
+    ],
+    "published": [
+      "2019-02-22T17:20:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.18\u00b0F and 51% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.18\u00b0F and 51% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.18\u00b0F and 51% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/manton-reece--marzipan-2021/annotations/0f331f8b53ac29d284d3751458184a6c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/manton-reece--marzipan-2021/annotations/0f331f8b53ac29d284d3751458184a6c"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "dc53159a516294bf6c33dc7550eb73d9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-22T17:17:29Z",
+      "year": 2019,
+      "month": 2,
+      "day": 22,
+      "hour": 17,
+      "minute": 17,
+      "x": -118.3703226152364,
+      "y": 33.81546753298149,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "LaCour"
+    }
+  }
+}

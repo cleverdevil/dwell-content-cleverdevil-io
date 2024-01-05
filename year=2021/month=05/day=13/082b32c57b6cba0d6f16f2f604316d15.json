@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/bad-day-to-be-a-balloon-boy"
+    ],
+    "published": [
+      "2021-05-13T15:32:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "082b32c57b6cba0d6f16f2f604316d15"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-13T15:51:56Z",
+      "year": 2021,
+      "month": 5,
+      "day": 13,
+      "hour": 15,
+      "minute": 51,
+      "x": -84.37326133476037,
+      "y": 33.88590711260418,
+      "altitude": 289,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaMaison"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Bad Day To Be A Balloon Boy"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4e07b26b5670efa29517da5eb8c8d22a/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+gf2YAYlCg"
+        ],
+        "content": [
+          {
+            "html": "<p>- This week, we rank college football powers and would-be powers by potential endorsement deals via each school\u2019s most famous booster! - Spencer is almost positive he knows the difference between NLI and NIL, but that knowledge is definitely not apparent in this episode! - Did you know it\u2019s legal to shoot down hot-air balloons in Kansas on one day each year?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shutdown Fullcast</p>",
+            "value": "- This week, we rank college football powers and would-be powers by potential endorsement deals via each school\u2019s most famous booster! - Spencer is almost positive he knows the difference between NLI and NIL, but that knowledge is definitely not apparent in this episode! - Did you know it\u2019s legal to shoot down hot-air balloons in Kansas on one day each year?\nBy Shutdown Fullcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into John F. Kennedy International Airport (JFK)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John F. Kennedy International Airport (JFK)"
+          ],
+          "latitude": [
+            "40.64512191837"
+          ],
+          "longitude": [
+            "-73.784608840942"
+          ]
+        },
+        "value": "John F. Kennedy International Airport (JFK)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John F. Kennedy International Airport (JFK)"
+          ],
+          "latitude": [
+            "40.64512191837"
+          ],
+          "longitude": [
+            "-73.784608840942"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-john-f-kennedy-international-airport-jfk-1"
+    ],
+    "published": [
+      "2019-07-12T15:24:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 312 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 312 people are here!</p>",
+              "value": "This place is swarming! 312 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d28a640039df100233c6f3b/79393ca1955eef6e6235eadb62310285"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d28a640039df100233c6f3b/79393ca1955eef6e6235eadb62310285"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.79\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.79\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.79\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-john-f-kennedy-international-airport-jfk-1/annotations/0d496ce93cd9a0d93a22da9e93cffa02"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-john-f-kennedy-international-airport-jfk-1/annotations/0d496ce93cd9a0d93a22da9e93cffa02"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d28a640039df100233c6f3b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ed22c458dae7492601b5464929d954b2"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-12T15:21:11Z",
+      "year": 2019,
+      "month": 7,
+      "day": 12,
+      "hour": 15,
+      "minute": 21,
+      "x": -73.7822767003668,
+      "y": 40.643334272341576,
+      "altitude": -1,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": ""
+    }
+  }
+}

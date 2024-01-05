@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-los-angeles-international-airport-lax-100"
+    ],
+    "published": [
+      "2020-02-19T16:25:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 138 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 138 people are here!</p>",
+              "value": "This place is swarming! 138 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e4d6163d67cf600082bf567/96874c51c284b52563e86c55c33f64ee"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e4d6163d67cf600082bf567/96874c51c284b52563e86c55c33f64ee"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.94\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.94\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.94\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-los-angeles-international-airport-lax-100/annotations/1edf72635e9b123a38038ae15fc82f2e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-los-angeles-international-airport-lax-100/annotations/1edf72635e9b123a38038ae15fc82f2e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e4d6163d67cf600082bf567"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "79bff98090235bdce94b622d4d44f5c3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-19T16:24:38Z",
+      "year": 2020,
+      "month": 2,
+      "day": 19,
+      "hour": 16,
+      "minute": 24,
+      "x": -118.40638008825492,
+      "y": 33.945090304537956,
+      "altitude": -1,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

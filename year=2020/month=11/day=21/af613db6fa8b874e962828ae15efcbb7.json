@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/405-the-benevolence-of-the-powerful"
+    ],
+    "published": [
+      "2020-11-21T04:42:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "af613db6fa8b874e962828ae15efcbb7"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-21T07:57:13Z",
+      "year": 2020,
+      "month": 11,
+      "day": 21,
+      "hour": 7,
+      "minute": 57,
+      "x": -118.37053287378573,
+      "y": 33.8153172474345,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 405: The Benevolence of the Powerful"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/806f55db655aab261886f45b522e6405/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJhzrPw"
+        ],
+        "content": [
+          {
+            "html": "<p>First impressions of M1-based Macs, Casey\u2019s cutting-edge purchase, and hell freezing over at the App Store.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "First impressions of M1-based Macs, Casey\u2019s cutting-edge purchase, and hell freezing over at the App Store.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

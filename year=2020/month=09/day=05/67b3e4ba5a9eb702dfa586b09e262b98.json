@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/394-the-price-of-an-atp-sticker"
+    ],
+    "published": [
+      "2020-09-05T16:18:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "67b3e4ba5a9eb702dfa586b09e262b98"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-05T19:45:44Z",
+      "year": 2020,
+      "month": 9,
+      "day": 5,
+      "hour": 19,
+      "minute": 45,
+      "x": -118.37032791977022,
+      "y": 33.81543418075252,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 394: The Price of an ATP Sticker"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fea6262ee55a33732264d663a8defcf6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKVE8h4"
+        ],
+        "content": [
+          {
+            "html": "<p>Supporting a good cause, replacing a Synology, an unexpected hardware review, and Cooking with Casey: The Virginia Treat.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Supporting a good cause, replacing a Synology, an unexpected hardware review, and Cooking with Casey: The Virginia Treat.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

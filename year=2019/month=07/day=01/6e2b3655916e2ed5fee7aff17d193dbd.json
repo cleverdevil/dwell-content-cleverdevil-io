@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-53-band-names"
+    ],
+    "published": [
+      "2019-07-01T08:26:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.34\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.34\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.34\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-four-53-band-names/annotations/1b4a4bcbb1d9c528eae7929844d0b034"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-four-53-band-names/annotations/1b4a4bcbb1d9c528eae7929844d0b034"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6e2b3655916e2ed5fee7aff17d193dbd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-01T12:01:52Z",
+      "year": 2019,
+      "month": 7,
+      "day": 1,
+      "hour": 12,
+      "minute": 1,
+      "x": -122.67346514192319,
+      "y": 45.50623323135875,
+      "altitude": 12,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 53: Band Names"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/452a1388849f7b55feb973452fe66a0b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDaa0CPI"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite band names, regardless of the quality of the bands, or whether we\u2019ve even heard of them before.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite band names, regardless of the quality of the bands, or whether we\u2019ve even heard of them before.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

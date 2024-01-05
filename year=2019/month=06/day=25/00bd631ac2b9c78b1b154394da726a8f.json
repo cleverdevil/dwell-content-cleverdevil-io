@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Aaron Parecki on Twitter: \"We've got a busy #IndieWeb week coming up! \ud83c\udf69 Tue:"
+    ],
+    "repost-of": [
+      "https://twitter.com/aaronpk/status/1143590910392819712"
+    ],
+    "url": [
+      "/2019/aaron-parecki-on-twitter-weve-got-a-busy-indieweb-week"
+    ],
+    "published": [
+      "2019-06-25T22:23:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.06\u00b0F and 82% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.06\u00b0F and 82% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.06\u00b0F and 82% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/aaron-parecki-on-twitter-weve-got-a-busy-indieweb-week/annotations/e47797eba1f0577e8b105e470b6a7811"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/aaron-parecki-on-twitter-weve-got-a-busy-indieweb-week/annotations/e47797eba1f0577e8b105e470b6a7811"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "00bd631ac2b9c78b1b154394da726a8f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-25T22:18:27Z",
+      "year": 2019,
+      "month": 6,
+      "day": 25,
+      "hour": 22,
+      "minute": 18,
+      "x": -118.370335625755,
+      "y": 33.815412245572475,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  }
+}

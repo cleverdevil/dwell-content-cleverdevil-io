@@ -1,0 +1,73 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2015/kentucky-maid-cocktail"
+    ],
+    "published": [
+      "2015-08-15T19:33:55+0000"
+    ],
+    "post-kind": [
+      "Recipe"
+    ],
+    "post-id": [
+      "ef543b2a731ec0f0aeffce826c3cde30"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-recipe"
+      ],
+      "properties": {
+        "name": [
+          "Recipe: Kentucky Maid Cocktail"
+        ],
+        "photo": [
+          "http://cleverdevil.io/file/b66343a6e8d999c70e0d8672bd881c61/kentucky-maid.jpg"
+        ],
+        "ingredient": [
+          "2 oz Bourbon",
+          "1 oz fresh lime juice",
+          "3/4 oz 1:1 simple syrup",
+          "6 fresh mint leaves",
+          "3 slices cucumber"
+        ],
+        "duration": [
+          "five minutes"
+        ],
+        "yield": [
+          "one"
+        ],
+        "instructions": [
+          {
+            "html": "<p>The Kentucky Maid has quickly become one of my all time favorite cocktails. Its a refreshing, strong, and declicius libation well-suited for derby parties, picnics, and summer porch-front drinking.</p><p>Directions:</p><ol><li>Combine ingredients in a shaker tin and muddle.</li>\n<li>Shake with ice and dump entire mixture (with ice) into a large rocks glass.</li>\n<li>Garnish with a mint, cucumber, and add straw.</li>\n</ol><p>Enjoy!</p>",
+            "value": "The Kentucky Maid has quickly become one of my all time favorite cocktails. Its a refreshing, strong, and declicius libation well-suited for derby parties, picnics, and summer porch-front drinking.\nDirections:Combine ingredients in a shaker tin and muddle. Shake with ice and dump entire mixture (with ice) into a large rocks glass. Garnish with a mint, cucumber, and add straw.\nEnjoy!"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-248-there-will-be-consequences"
+    ],
+    "published": [
+      "2019-06-23T07:55:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-248-there-will-be-consequences/annotations/9bff897a6222fd7d6a2d7833635669d8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-248-there-will-be-consequences/annotations/9bff897a6222fd7d6a2d7833635669d8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "de743f6b2195949c9193bbfd3f1caa30"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-23T08:04:11Z",
+      "year": 2019,
+      "month": 6,
+      "day": 23,
+      "hour": 8,
+      "minute": 4,
+      "x": -118.37050301910922,
+      "y": 33.81536847914163,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 248: There Will Be Consequences"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ee4acd575291285fa8fc07c2ce644ff4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4dAizc"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico and Stephen are joined by David Sparks to talk about the state of Apple\u2019s current betas, the updated Files and Shortcuts apps and the ever-growing system of rules that form Connected\u2019s drafts.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico and Stephen are joined by David Sparks to talk about the state of Apple\u2019s current betas, the updated Files and Shortcuts apps and the ever-growing system of rules that form Connected\u2019s drafts.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/150-the-stands"
+    ],
+    "published": [
+      "2021-03-23T07:07:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7d7c1eb8a71df3a9b7706c12ad689454"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-23T07:47:33Z",
+      "year": 2021,
+      "month": 3,
+      "day": 23,
+      "hour": 7,
+      "minute": 47,
+      "x": -118.37055031704475,
+      "y": 33.815314556698645,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.49000000953674316,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 150: The Stands"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/13c20464b66afa41460c95fd626c2c68/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INklwMg"
+        ],
+        "content": [
+          {
+            "html": "<p>While pretty much all of TV stands are incompatible with John\u2019s house, your hosts undertake a careful visual interrogation of the bizarre manner in which Sony thinks your home works.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "While pretty much all of TV stands are incompatible with John\u2019s house, your hosts undertake a careful visual interrogation of the bizarre manner in which Sony thinks your home works.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

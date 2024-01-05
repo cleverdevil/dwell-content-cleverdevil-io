@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://cleverdevil.io/2017/impromptu-indieweb-meetup"
+    ],
+    "name": [
+      "Yes: Huzzah! Join us :)"
+    ],
+    "content": [
+      {
+        "html": "<data class=\"p-rsvp\" value=\"yes\"><strong>Yes:</strong> Huzzah! Join us :)</data>",
+        "value": "Yes: Huzzah! Join us :)"
+      }
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "url": [
+      "/2017/yes-huzzah-join-us"
+    ],
+    "published": [
+      "2017-12-13T23:56:48+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/941094587535372291"
+    ],
+    "post-kind": [
+      "RSVP"
+    ],
+    "post-id": [
+      "636e89dd5dbeb1d560f459ab03e028cd"
+    ]
+  }
+}

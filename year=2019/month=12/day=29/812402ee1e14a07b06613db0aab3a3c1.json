@@ -1,0 +1,224 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Casa Modena"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Casa Modena"
+          ],
+          "latitude": [
+            "33.98599"
+          ],
+          "longitude": [
+            "-118.401349"
+          ]
+        },
+        "value": "Casa Modena"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Casa Modena"
+          ],
+          "latitude": [
+            "33.98599"
+          ],
+          "longitude": [
+            "-118.401349"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>White Truffle birthday dinner for our friend David.</p>",
+        "value": "White Truffle birthday dinner for our friend David."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-casa-modena"
+    ],
+    "published": [
+      "2019-12-29T02:35:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Italian Restaurant check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Italian Restaurant check-in in 2 months!</p>",
+              "value": "First Italian Restaurant check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e0810efa28a260008ec48b5/6e13dc55b293ecf202c1b70d7faac0c9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e0810efa28a260008ec48b5/6e13dc55b293ecf202c1b70d7faac0c9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e0810efa28a260008ec48b5/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e0810efa28a260008ec48b5/298d1d38300e94108a614bfe5e113b11"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.67\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.67\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.67\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-casa-modena/annotations/fc3a018bc68ae9c1bae9b408f2cc82b1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-casa-modena/annotations/fc3a018bc68ae9c1bae9b408f2cc82b1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e0810efa28a260008ec48b5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "812402ee1e14a07b06613db0aab3a3c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-29T02:30:27Z",
+      "year": 2019,
+      "month": 12,
+      "day": 29,
+      "hour": 2,
+      "minute": 30,
+      "x": -118.40122089060104,
+      "y": 33.98590351454125,
+      "altitude": 8,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Big Bear Lake, Boulder Bay"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Big Bear Lake, Boulder Bay"
+          ],
+          "latitude": [
+            "34.238696263959"
+          ],
+          "longitude": [
+            "-116.94933547942"
+          ]
+        },
+        "value": "Big Bear Lake, Boulder Bay"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Big Bear Lake, Boulder Bay"
+          ],
+          "latitude": [
+            "34.238696263959"
+          ],
+          "longitude": [
+            "-116.94933547942"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-big-bear-lake-boulder-bay"
+    ],
+    "published": [
+      "2020-06-20T19:04:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Big Bear Lake."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Big Bear Lake.</p>",
+              "value": "First check-in in Big Bear Lake."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5eee5dd38880300008d2b6a7/a25425c7d96b4d06576d19a648030e09"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5eee5dd38880300008d2b6a7/a25425c7d96b4d06576d19a648030e09"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.31\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.31\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.31\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-big-bear-lake-boulder-bay/annotations/20495d7e3a04819351e65ea0098ee9c5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-big-bear-lake-boulder-bay/annotations/20495d7e3a04819351e65ea0098ee9c5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5eee5dd38880300008d2b6a7"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ae35d6d95b5a12d727b979b599dfb0c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-20T18:59:21Z",
+      "year": 2020,
+      "month": 6,
+      "day": 20,
+      "hour": 18,
+      "minute": 59,
+      "x": -116.9819211381399,
+      "y": 34.24397972158073,
+      "altitude": 2073,
+      "motion": [
+        "driving"
+      ],
+      "speed": 16,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  }
+}

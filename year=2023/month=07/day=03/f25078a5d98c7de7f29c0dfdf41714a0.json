@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Armondos"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": "Armondos"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-armondos-6"
+    ],
+    "published": [
+      "2023-07-03T02:07:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Armondos since February."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Armondos since February.</p>",
+              "value": "Welcome back! You haven't checked in to Armondos since February."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64a22d576a7a806c021fa82e/7437b37295f5229ad387a0fdcc2b18db"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64a22d576a7a806c021fa82e/7437b37295f5229ad387a0fdcc2b18db"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64a22d576a7a806c021fa82e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f25078a5d98c7de7f29c0dfdf41714a0"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-03T02:03:24Z",
+      "year": 2023,
+      "month": 7,
+      "day": 3,
+      "hour": 2,
+      "minute": 3,
+      "x": -116.38648690421894,
+      "y": 33.71984303795774,
+      "altitude": 0,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.49000000953674316,
+      "wifi": ""
+    }
+  }
+}

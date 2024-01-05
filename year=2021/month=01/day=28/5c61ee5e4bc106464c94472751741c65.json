@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/330-you-cant-eat-an-app"
+    ],
+    "published": [
+      "2021-01-28T19:12:08+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5c61ee5e4bc106464c94472751741c65"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-28T19:57:27Z",
+      "year": 2021,
+      "month": 1,
+      "day": 28,
+      "hour": 19,
+      "minute": 57,
+      "x": -118.3735381371638,
+      "y": 33.77260992723667,
+      "altitude": 301,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 330: You Can\u2019t Eat an App"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5e26de23c0cf5dc869ca019edc97cf07/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx56dq5g"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Myke has a theory, Stephen has a crush and Federico has opinions on olives. Also: a discussion about Tweetbot 6 and what makes app subscriptions worth it.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Myke has a theory, Stephen has a crush and Federico has opinions on olives. Also: a discussion about Tweetbot 6 and what makes app subscriptions worth it.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

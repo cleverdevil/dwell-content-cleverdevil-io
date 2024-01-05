@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/317-captain-flip-flop"
+    ],
+    "published": [
+      "2020-10-24T20:46:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "911ad4e02cf92af0af2b4cc59c5b013d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-24T23:58:54Z",
+      "year": 2020,
+      "month": 10,
+      "day": 24,
+      "hour": 23,
+      "minute": 58,
+      "x": -118.37033579893665,
+      "y": 33.81539963717844,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 317: Captain Flip Flop"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/21aea5702ef242095c3a32b5ac995718/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4SOxUg"
+        ],
+        "content": [
+          {
+            "html": "<p>Reviews have landed for the iPhone 12 and iPad Air. The trio talk through the coverage, including Federico\u2019s iPad Air article. Also: Stephen asks for help with a problem, and Myke is very excited about how gold phones are made.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Reviews have landed for the iPhone 12 and iPad Air. The trio talk through the coverage, including Federico\u2019s iPad Air article. Also: Stephen asks for help with a problem, and Myke is very excited about how gold phones are made.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

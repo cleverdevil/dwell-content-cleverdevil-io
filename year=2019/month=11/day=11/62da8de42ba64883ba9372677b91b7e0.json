@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 10x06 \"The Hawkening: Look Who's Hawking Now!\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/63f8bdeb7b86285cc7e62a374271fb70/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 10x06 \"The Hawkening: Look Who's Hawking Now!\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3733922"
+          ]
+        },
+        "value": "Bob's Burgers 10x06 \"The Hawkening: Look Who's Hawking Now!\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bob's Burgers 10x06 \"The Hawkening: Look Who's Hawking Now!\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Bob's Burgers 10x06 \"The Hawkening: Look Who's Hawking Now!\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/bobs-burgers-10x06-the-hawkening-look-whos-hawking-now"
+    ],
+    "published": [
+      "2019-11-11T07:40:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 59.53\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 59.53\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 59.53\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/bobs-burgers-10x06-the-hawkening-look-whos-hawking-now/annotations/2cb91f09ea3ca3e40fc769b48d605880"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/bobs-burgers-10x06-the-hawkening-look-whos-hawking-now/annotations/2cb91f09ea3ca3e40fc769b48d605880"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "62da8de42ba64883ba9372677b91b7e0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-11T07:39:44Z",
+      "year": 2019,
+      "month": 11,
+      "day": 11,
+      "hour": 7,
+      "minute": 39,
+      "x": -118.37034792620366,
+      "y": 33.81543042698477,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  }
+}

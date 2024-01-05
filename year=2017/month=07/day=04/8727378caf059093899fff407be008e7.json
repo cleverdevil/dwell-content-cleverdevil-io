@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "</work><vacation>"
+    ],
+    "content": [
+      {
+        "html": "&lt;/work&gt;&lt;vacation&gt;",
+        "value": "</work><vacation>"
+      }
+    ],
+    "url": [
+      "/2017/status-update"
+    ],
+    "published": [
+      "2017-07-04T00:07:21+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/882028055589466113"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "8727378caf059093899fff407be008e7"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2017/07/03/12/like/"
+          ],
+          "published": [
+            "2017-07-04T01:49:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/34b702c33606ffd2c72b372283b7d0d1/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/34b702c33606ffd2c72b372283b7d0d1/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

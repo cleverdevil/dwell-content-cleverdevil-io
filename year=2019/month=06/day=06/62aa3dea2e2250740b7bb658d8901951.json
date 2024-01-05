@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/mac-power-users-485-wwdc-and-interview-with-the-mac"
+    ],
+    "published": [
+      "2019-06-06T01:02:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.61\u00b0F and 94% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.61\u00b0F and 94% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.61\u00b0F and 94% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/mac-power-users-485-wwdc-and-interview-with-the-mac/annotations/7c5611c7bed0b23698e683d3e0658680"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/mac-power-users-485-wwdc-and-interview-with-the-mac/annotations/7c5611c7bed0b23698e683d3e0658680"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "62aa3dea2e2250740b7bb658d8901951"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-06T03:59:58Z",
+      "year": 2019,
+      "month": 6,
+      "day": 6,
+      "hour": 3,
+      "minute": 59,
+      "x": -118.37044711460227,
+      "y": 33.81537872550248,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Mac Power Users 485: WWDC and Interview with the Mac Pro Product Manager"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/daec18eaf70b0503c07ebfa92488e29e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FrCGusXrQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen and David have boots on the ground in San Jose for WWDC 2019. In this episode, they interview Doug Brooks, the Apple Product Manager for the new Mac Pro. Afterward, David and Stephen share thoughts on the announcements and updates from WWDC.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Mac Power Users</p>",
+            "value": "Stephen and David have boots on the ground in San Jose for WWDC 2019. In this episode, they interview Doug Brooks, the Apple Product Manager for the new Mac Pro. Afterward, David and Stephen share thoughts on the announcements and updates from WWDC.\nBy Mac Power Users"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

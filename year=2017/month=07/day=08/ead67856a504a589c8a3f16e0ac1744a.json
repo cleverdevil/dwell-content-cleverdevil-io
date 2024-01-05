@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Well, that was just about a perfect morning."
+    ],
+    "content": [
+      {
+        "html": "Well, that was just about a perfect morning.",
+        "value": "Well, that was just about a perfect morning."
+      }
+    ],
+    "url": [
+      "/2017/well-that-was-just-about-a-perfect-morning"
+    ],
+    "published": [
+      "2017-07-08T23:01:52+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/883823480483061761"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ead67856a504a589c8a3f16e0ac1744a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2017/07/09/1/like/"
+          ],
+          "published": [
+            "2017-07-09T06:11:12+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/25529a0769cc2083969a8bb1cb187468/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/25529a0769cc2083969a8bb1cb187468/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

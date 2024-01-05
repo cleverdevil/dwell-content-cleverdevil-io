@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-289-not-so-fast-uma-thurman"
+    ],
+    "published": [
+      "2020-03-27T04:23:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 51.62\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 51.62\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 51.62\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-289-not-so-fast-uma-thurman/annotations/1a19b4f37dccb8afe1587b78b7c20a15"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-289-not-so-fast-uma-thurman/annotations/1a19b4f37dccb8afe1587b78b7c20a15"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "947230d426d5a8aa267dff91cb28f7c9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-27T07:14:27Z",
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "hour": 7,
+      "minute": 14,
+      "x": -118.37052881293783,
+      "y": 33.81531085201867,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 289: Not So Fast, Uma Thurman"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e4d4dbc9fab587a0b30b1f43acc0bbe9/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_8xBmE"
+        ],
+        "content": [
+          {
+            "html": "<p>This week your WFH hosts offer advice to newly homebound workers, discuss how the global pandemic has affected all corners of Apple\u2019s business, and leave a little time for speculation about future Apple product releases.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week your WFH hosts offer advice to newly homebound workers, discuss how the global pandemic has affected all corners of Apple\u2019s business, and leave a little time for speculation about future Apple product releases.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

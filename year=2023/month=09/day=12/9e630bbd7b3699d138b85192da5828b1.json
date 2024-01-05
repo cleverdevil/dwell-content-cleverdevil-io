@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/466-the-rickies-september-2023"
+    ],
+    "published": [
+      "2023-09-12T13:53:19+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9e630bbd7b3699d138b85192da5828b1"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-12T03:12:08Z",
+      "year": 2023,
+      "month": 9,
+      "day": 12,
+      "hour": 3,
+      "minute": 12,
+      "x": -118.50174121065344,
+      "y": 34.01768384358131,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 466: The Rickies (September 2023)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f4f48b8a79812b0f2aa9e158bac023a0/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5s-OzI"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s \u201cWonderlust\u201d event is next week, so Federico and Myke have prepared to challenge Stephen, their reigning Keynote Chairman.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple\u2019s \u201cWonderlust\u201d event is next week, so Federico and Myke have prepared to challenge Stephen, their reigning Keynote Chairman.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into America's Tire"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "America's Tire"
+          ],
+          "latitude": [
+            "33.819488581841"
+          ],
+          "longitude": [
+            "-118.35062490382"
+          ]
+        },
+        "value": "America's Tire"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "America's Tire"
+          ],
+          "latitude": [
+            "33.819488581841"
+          ],
+          "longitude": [
+            "-118.35062490382"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Fixing a slow leak in my tire before I drive out to the desert tomorrow.</p>",
+        "value": "Fixing a slow leak in my tire before I drive out to the desert tomorrow."
+      }
+    ],
+    "url": [
+      "/2022/checked-into-americas-tire"
+    ],
+    "published": [
+      "2022-03-12T21:19:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622d0e7a4346ee247b5a8d58/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622d0e7a4346ee247b5a8d58/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this America's Tire!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this America's Tire!</p>",
+              "value": "Your first check-in at this America's Tire!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622d0e7a4346ee247b5a8d58/131d4c5108f426e5cadc637c8f8982c9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622d0e7a4346ee247b5a8d58/131d4c5108f426e5cadc637c8f8982c9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/622d0e7a4346ee247b5a8d58"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c6d95bfc58caa069be21b06b7972f094"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-12T21:17:59Z",
+      "year": 2022,
+      "month": 3,
+      "day": 12,
+      "hour": 21,
+      "minute": 17,
+      "x": -118.35081254864953,
+      "y": 33.81931833399376,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 4,
+      "battery_state": "charging",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-290-you-strike-me-as-a-wheel-guy"
+    ],
+    "published": [
+      "2020-04-20T14:39:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.9\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.9\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.9\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-290-you-strike-me-as-a-wheel-guy/annotations/85a71e3562bb768a3ff94054e8b59c12"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-290-you-strike-me-as-a-wheel-guy/annotations/85a71e3562bb768a3ff94054e8b59c12"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "28409461e4c1683f769d1baea422623c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-20T15:04:23Z",
+      "year": 2020,
+      "month": 4,
+      "day": 20,
+      "hour": 15,
+      "minute": 4,
+      "x": -118.37039604408481,
+      "y": 33.81540216780878,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 290: You Strike Me as a Wheel Guy"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/bfd23f7347520a37931850c1cc490c30/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6w_zZc"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico rejects a new iPhone charging solution, Myke opens a new store and Stephen passes a collection basket to add a set of wheels to his Mac Pro. Then, the three talk about the new iPhone SE.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico rejects a new iPhone charging solution, Myke opens a new store and Stephen passes a collection basket to add a set of wheels to his Mac Pro. Then, the three talk about the new iPhone SE.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

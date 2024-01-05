@@ -1,0 +1,99 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/fried-chicken-cheddar-biscuit-and-creme-br%C3%BBl%C3%A9e-doughnut"
+    ],
+    "published": [
+      "2017-04-10T19:52:27+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "e918306e1633c81982703253cffbe1eb"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-ate"
+            ],
+            "properties": {
+              "url": [
+                "/2017/fried-chicken-cheddar-biscuit-and-creme-br%C3%BBl%C3%A9e-doughnut"
+              ],
+              "name": [
+                "Fried chicken, cheddar biscuit, and creme br\u00fbl\u00e9e doughnut"
+              ]
+            },
+            "value": "Fried chicken, cheddar biscuit, and creme br\u00fbl\u00e9e doughnut"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/eb8a346051f5bdff4b680db028ac9b0e/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "",
+            "value": ""
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

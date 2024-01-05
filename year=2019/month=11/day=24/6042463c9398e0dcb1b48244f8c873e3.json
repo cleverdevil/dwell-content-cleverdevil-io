@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/353-modern-day-dialup"
+    ],
+    "published": [
+      "2019-11-24T06:38:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.06\u00b0F and 53% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.06\u00b0F and 53% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.06\u00b0F and 53% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/353-modern-day-dialup/annotations/5dcf0ac4ccbdc60bb2728cc0990f3e7b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/353-modern-day-dialup/annotations/5dcf0ac4ccbdc60bb2728cc0990f3e7b"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6042463c9398e0dcb1b48244f8c873e3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-24T06:39:50Z",
+      "year": 2019,
+      "month": 11,
+      "day": 24,
+      "hour": 6,
+      "minute": 39,
+      "x": -118.37036336009474,
+      "y": 33.815414157914624,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.2199999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 353: Modern-Day Dialup"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5ab64c817353593587f1d064d402cbb0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DWLpsnY"
+        ],
+        "content": [
+          {
+            "html": "<p>Solving Casey\u2019s conundrums, one at a time.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Solving Casey\u2019s conundrums, one at a time.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

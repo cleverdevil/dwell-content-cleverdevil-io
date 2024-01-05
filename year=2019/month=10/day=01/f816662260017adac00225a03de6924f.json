@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Yoshi's Crafted World\nPlayed on the Nintendo Switch.\nPlayed for 180 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/d07385bc6c6a6496a795a80bc34bebe3/thumb.jpg"
+    ],
+    "name": [
+      "Yoshi's Crafted World"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 180 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 180 minutes."
+      }
+    ],
+    "url": [
+      "/2019/yoshis-crafted-world-4"
+    ],
+    "published": [
+      "2019-10-01T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.52\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.52\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.52\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/yoshis-crafted-world-4/annotations/54f945196d92ffb826908865a55d4d83"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/yoshis-crafted-world-4/annotations/54f945196d92ffb826908865a55d4d83"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "f816662260017adac00225a03de6924f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-01T11:47:11Z",
+      "year": 2019,
+      "month": 10,
+      "day": 1,
+      "hour": 11,
+      "minute": 47,
+      "x": -118.37055884702689,
+      "y": 33.81530289961026,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

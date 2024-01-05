@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://twitter.com/EddieHinkle/status/1135799277458993153"
+    ],
+    "name": [
+      "@EddieHinkle ahhhh! More stuff to discuss on TDT!"
+    ],
+    "content": [
+      {
+        "html": "<a href=\"https://twitter.com/EddieHinkle\" target=\"_blank\">@EddieHinkle</a> ahhhh! More stuff to discuss on TDT!",
+        "value": "@EddieHinkle ahhhh! More stuff to discuss on TDT!"
+      }
+    ],
+    "url": [
+      "/2019/eddiehinkle-ahhhh-more-stuff-to-discuss-on"
+    ],
+    "published": [
+      "2019-06-04T06:50:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 57.54\u00b0F and 91% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 57.54\u00b0F and 91% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 57.54\u00b0F and 91% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/eddiehinkle-ahhhh-more-stuff-to-discuss-on/annotations/cae9dc7fcadbdb29423e6ce60fdfa37d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/eddiehinkle-ahhhh-more-stuff-to-discuss-on/annotations/cae9dc7fcadbdb29423e6ce60fdfa37d"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1135800980161912833"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "eeef5a8414efb918f08b9fe52a619d1d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-04T06:46:03Z",
+      "year": 2019,
+      "month": 6,
+      "day": 4,
+      "hour": 6,
+      "minute": 46,
+      "x": -118.37044212769598,
+      "y": 33.815306086604245,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3199999928474426,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Von Ebert Brewing"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Von Ebert Brewing"
+          ],
+          "latitude": [
+            "45.524106425822"
+          ],
+          "longitude": [
+            "-122.68447278175"
+          ]
+        },
+        "value": "Von Ebert Brewing"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Von Ebert Brewing"
+          ],
+          "latitude": [
+            "45.524106425822"
+          ],
+          "longitude": [
+            "-122.68447278175"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Micro.blog meetup \ud83d\udd25</p>",
+        "value": "Micro.blog meetup \ud83d\udd25"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-von-ebert-brewing"
+    ],
+    "published": [
+      "2018-06-27T01:05:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Von Ebert Brewing!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Von Ebert Brewing!</p>",
+              "value": "Your first check-in at Von Ebert Brewing!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b32e2cd1ffed7002c0ee8c5/808d8687d4c3636bccceb465a678b517"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b32e2cd1ffed7002c0ee8c5/808d8687d4c3636bccceb465a678b517"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b32e2cd1ffed7002c0ee8c5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "08e34fac12cea05bf17cb2d57e0fbcda"
+    ]
+  }
+}

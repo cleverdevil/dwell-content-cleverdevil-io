@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Village"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": "Riviera Village"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Riviera Village\" src=\"https://cleverdevil.io/file/c185151d84451f4b0a4692a505a3aea1\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "Riviera Village"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-village-8"
+    ],
+    "published": [
+      "2017-09-06T16:23:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo. Maybe order some wallet sized for Gramps."
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo. Maybe order some wallet sized for Gramps.</p>",
+              "value": "Great photo. Maybe order some wallet sized for Gramps."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b020ddb23dfa67764f88ac/29be8d26c5049bfc25b8bce0e467054b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59b020ddb23dfa67764f88ac/29be8d26c5049bfc25b8bce0e467054b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59b020ddb23dfa67764f88ac"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a7128221d849463f21a4270947a81e2c"
+    ]
+  }
+}

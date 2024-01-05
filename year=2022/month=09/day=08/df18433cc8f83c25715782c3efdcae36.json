@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/414-i-am-michael-jordan"
+    ],
+    "published": [
+      "2022-09-08T14:47:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "df18433cc8f83c25715782c3efdcae36"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-08T15:57:05Z",
+      "year": 2022,
+      "month": 9,
+      "day": 8,
+      "hour": 15,
+      "minute": 57,
+      "x": -116.38032353493979,
+      "y": 33.70173733684579,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 414: I am Michael Jordan"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/440ba0a03070876dbad64ac67b8ac13b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx650Foc"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, the guys cover the news and then see how their predictions looked after Apple\u2019s \u201cFar Out\u201d event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, the guys cover the news and then see how their predictions looked after Apple\u2019s \u201cFar Out\u201d event.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

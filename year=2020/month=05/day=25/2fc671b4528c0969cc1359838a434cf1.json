@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "There's a light over in the IndieWeb space"
+    ],
+    "like-of": [
+      "https://metaluna.io/blog/2020/05/25/theres-a-light-indieweb.html"
+    ],
+    "url": [
+      "/2020/theres-a-light-over-in-the-indieweb-space"
+    ],
+    "published": [
+      "2020-05-25T20:47:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/theres-a-light-over-in-the-indieweb-space/annotations/a27d32c343c10eb8f1d6c1bdf4d8f9ec"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/theres-a-light-over-in-the-indieweb-space/annotations/a27d32c343c10eb8f1d6c1bdf4d8f9ec"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "2fc671b4528c0969cc1359838a434cf1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-25T18:40:24Z",
+      "year": 2020,
+      "month": 5,
+      "day": 25,
+      "hour": 18,
+      "minute": 40,
+      "x": -118.37032086066668,
+      "y": 33.81539960209022,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  }
+}

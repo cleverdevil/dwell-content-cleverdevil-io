@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/case-the-rainbow"
+    ],
+    "published": [
+      "2023-09-11T18:35:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "901dba92c6e12e443fee76bc2c84fb55"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-11T17:12:43Z",
+      "year": 2023,
+      "month": 9,
+      "day": 11,
+      "hour": 17,
+      "minute": 12,
+      "x": -118.37040647225237,
+      "y": 33.815366982099825,
+      "altitude": 58,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Case: The Rainbow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1f576b576a595a583d4d0ee47d90285b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2pQKqk"
+        ],
+        "content": [
+          {
+            "html": "<p>Dave brings the case against his niece, Morgan. When Morgan was around 5 years old, she stole his special collection of red skittles. And ate them! Even now, after 24 years, Dave is still mad. He demands restitution! But Morgan says: she was just a kid. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Dave brings the case against his niece, Morgan. When Morgan was around 5 years old, she stole his special collection of red skittles. And ate them! Even now, after 24 years, Dave is still mad. He demands restitution! But Morgan says: she was just a kid. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

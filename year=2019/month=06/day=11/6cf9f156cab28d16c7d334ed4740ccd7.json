@@ -1,0 +1,222 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Okay, I have a first pass of a working Shortcut for that YouTube automation \u2013 https://cleverdevil.io/s/Movie-2019-06-10-19-14.mov \u2013\u00a0Not foolproof, and requires https://opener.link ... still, a promising start."
+    ],
+    "content": [
+      {
+        "html": "Okay, I have a first pass of a working Shortcut for that YouTube automation \u2013 <a href=\"https://cleverdevil.io/s/Movie-2019-06-10-19-14.mov\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>s/<wbr/>Movie-2019-06-10-19-14.mov</a> \u2013\u00a0Not foolproof, and requires <a href=\"https://opener.link\" target=\"_blank\">https://<wbr/>opener.link</a> ... still, a promising start.",
+        "value": "Okay, I have a first pass of a working Shortcut for that YouTube automation \u2013 https://cleverdevil.io/s/Movie-2019-06-10-19-14.mov \u2013\u00a0Not foolproof, and requires https://opener.link ... still, a promising start."
+      }
+    ],
+    "url": [
+      "/2019/okay-i-have-a-first-pass-of"
+    ],
+    "published": [
+      "2019-06-11T02:16:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Foggy with a temperature of 78.41\u00b0F and 47% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Foggy with a temperature of 78.41\u00b0F and 47% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Foggy with a temperature of 78.41\u00b0F and 47% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/fog.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/okay-i-have-a-first-pass-of/annotations/07fd7ec02ba904cf1f0eb6c708efe78b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/okay-i-have-a-first-pass-of/annotations/07fd7ec02ba904cf1f0eb6c708efe78b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Any reason Opener alone isn\u2019t working here? Seems that our action extension should be able to handle that link."
+          ],
+          "content": [
+            {
+              "html": "<p>Any reason Opener alone isn\u2019t working here? Seems that our action extension should be able to handle that link.</p>",
+              "value": "Any reason Opener alone isn\u2019t working here? Seems that our action extension should be able to handle that link."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTEzNTM5NzMzODU0NTM1NjkvZlpJREE4THYuanBn/300/square"
+                ],
+                "name": [
+                  "Opener"
+                ],
+                "url": [
+                  "https://twitter.com/OpenerApp"
+                ]
+              },
+              "value": "Opener"
+            }
+          ],
+          "url": [
+            "https://twitter.com/OpenerApp/status/1138631887788732422"
+          ]
+        },
+        "value": "https://twitter.com/OpenerApp/status/1138631887788732422"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Opener itself works perfectly when I\u2019m already on a YouTube page in Safari. My use case is for pages where a YouTube video is embedded. For example, this URL - theverge.com/2019/6/10/1866\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>Opener itself works perfectly when I\u2019m already on a YouTube page in Safari. My use case is for pages where a YouTube video is embedded. For example, this URL - theverge.com/2019/6/10/1866\u2026</p>",
+              "value": "Opener itself works perfectly when I\u2019m already on a YouTube page in Safari. My use case is for pages where a YouTube video is embedded. For example, this URL - theverge.com/2019/6/10/1866\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1138643876082700288"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1138643876082700288"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1138268963467681792",
+      "https://mastodon.social/@cleverdevil/102250541819522405"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "6cf9f156cab28d16c7d334ed4740ccd7"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1138268963467681792?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1138268963467681792%2F3168008851"
+          ],
+          "published": [
+            "2019-06-12T02:45:59+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Opener"
+                ],
+                "url": [
+                  "https://twitter.com/OpenerApp"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTEzNTM5NzMzODU0NTM1NjkvZlpJREE4THYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTEzNTM5NzMzODU0NTM1NjkvZlpJREE4THYuanBn/300/square Opener"
+            }
+          ]
+        },
+        "value": "Opener"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-11T02:11:44Z",
+      "year": 2019,
+      "month": 6,
+      "day": 11,
+      "hour": 2,
+      "minute": 11,
+      "x": -118.3703261807209,
+      "y": 33.81541202251097,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.28999999165534973,
+      "wifi": "LaCour"
+    }
+  }
+}

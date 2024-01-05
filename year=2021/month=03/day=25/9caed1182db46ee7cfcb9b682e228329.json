@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/the-snyder-cut"
+    ],
+    "published": [
+      "2021-03-25T06:56:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9caed1182db46ee7cfcb9b682e228329"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-25T07:30:17Z",
+      "year": 2021,
+      "month": 3,
+      "day": 25,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37055234164858,
+      "y": 33.815311662167666,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The Snyder Cut"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f3ff19dc7e3340f90e1e88b937248ced/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+gf2bz8m3A"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason, Spencer, Holly, and Ryan break down early-round action in the 2021 NCAA men\u2019s and women\u2019s basketball tournaments. Like and subscribe to our college football podcast.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shutdown Fullcast</p>",
+            "value": "Jason, Spencer, Holly, and Ryan break down early-round action in the 2021 NCAA men\u2019s and women\u2019s basketball tournaments. Like and subscribe to our college football podcast.\nBy Shutdown Fullcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

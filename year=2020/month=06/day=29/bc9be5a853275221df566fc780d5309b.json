@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-300-you-cannot-put-a-price-on-glory"
+    ],
+    "published": [
+      "2020-06-29T14:41:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 62.75\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 62.75\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 62.75\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-300-you-cannot-put-a-price-on-glory/annotations/9455ec932594d7efaabc74d22f8ee055"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-300-you-cannot-put-a-price-on-glory/annotations/9455ec932594d7efaabc74d22f8ee055"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bc9be5a853275221df566fc780d5309b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-29T15:52:32Z",
+      "year": 2020,
+      "month": 6,
+      "day": 29,
+      "hour": 15,
+      "minute": 52,
+      "x": -118.37042820740598,
+      "y": 33.81541802611051,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 300: You Cannot Put a Price on Glory"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/983eb64ca67f8075c237cfede717eed4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7KvDUI"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2020 is underway, so the time has come to judge The Rickies. After a new Chairman is crowned, the guys do a high-level pass on Apple\u2019s OS announcements, as well as what\u2019s new with Shortcuts.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "WWDC 2020 is underway, so the time has come to judge The Rickies. After a new Chairman is crowned, the guys do a high-level pass on Apple\u2019s OS announcements, as well as what\u2019s new with Shortcuts.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

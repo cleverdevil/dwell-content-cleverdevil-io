@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/327-the-future-doesnt-apply"
+    ],
+    "published": [
+      "2020-11-25T23:23:06+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "411903609a490568f372915fcdbdadc3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-25T23:52:38Z",
+      "year": 2020,
+      "month": 11,
+      "day": 25,
+      "hour": 23,
+      "minute": 52,
+      "x": -118.3705380497175,
+      "y": 33.815280856756786,
+      "altitude": 58,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 327: The Future Doesn\u2019t Apply"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d347c093cca87161344cce32c54e6dea/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9Mc3oE"
+        ],
+        "content": [
+          {
+            "html": "<p>This week: We report back on using our M1 Macs, \u201cWonder Woman 1984\u201d goes to streaming, and Apple makes a clever move in its PR battle over App Store fees.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week: We report back on using our M1 Macs, \u201cWonder Woman 1984\u201d goes to streaming, and Apple makes a clever move in its PR battle over App Store fees.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

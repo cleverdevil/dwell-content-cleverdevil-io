@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/obb-ep-22-berrios-w-the-boys"
+    ],
+    "published": [
+      "2019-02-18T16:55:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.88\u00b0F and 44% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.88\u00b0F and 44% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.88\u00b0F and 44% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/obb-ep-22-berrios-w-the-boys/annotations/8b63c3803b5b27b9f5b23a2bffed1829"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/obb-ep-22-berrios-w-the-boys/annotations/8b63c3803b5b27b9f5b23a2bffed1829"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2f00a9f7dbc4e67ac0d8bd798475fb39"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-18T20:02:43Z",
+      "year": 2019,
+      "month": 2,
+      "day": 18,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37381042135452,
+      "y": 33.772084053375956,
+      "altitude": 285,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #22: Berrios w/ The Boys"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f18a00d38097767981cdb2c13b883516/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf5P6NC8"
+        ],
+        "content": [
+          {
+            "html": "<p>We opened the OBB Lounge for another Hangout Session\u2026This time with Mr. Braxton Berrios. And yes, we gave him a gift\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "We opened the OBB Lounge for another Hangout Session\u2026This time with Mr. Braxton Berrios. And yes, we gave him a gift\u2026\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

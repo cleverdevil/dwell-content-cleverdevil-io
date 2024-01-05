@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hey, look, another episode of Two Dads Talking! - https://twodads.fm/2019/02/28/episode-i-made.html"
+    ],
+    "content": [
+      {
+        "html": "Hey, look, another episode of Two Dads Talking! - <a href=\"https://twodads.fm/2019/02/28/episode-i-made.html\" target=\"_blank\">https://<wbr/>twodads.fm/<wbr/>2019/<wbr/>02/<wbr/>28/<wbr/>episode-i-made.html</a>",
+        "value": "Hey, look, another episode of Two Dads Talking! - https://twodads.fm/2019/02/28/episode-i-made.html"
+      }
+    ],
+    "url": [
+      "/2019/hey-look-another-episode-of-two-dads"
+    ],
+    "published": [
+      "2019-02-28T17:15:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 58.45\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 58.45\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 58.45\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/hey-look-another-episode-of-two-dads/annotations/5bcd0a16bbd366dd8c1dc597363e0df8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/hey-look-another-episode-of-two-dads/annotations/5bcd0a16bbd366dd8c1dc597363e0df8"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1101169088963973120",
+      "https://mastodon.social/@cleverdevil/101670855988043945"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "a409c51108c59b6ea7694dd1358322c0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-28T17:08:10Z",
+      "year": 2019,
+      "month": 2,
+      "day": 28,
+      "hour": 17,
+      "minute": 8,
+      "x": -118.3703555753133,
+      "y": 33.81540247238166,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I'm coming around to sticking with RDS, but maybe switching to PostgreSQL with its native JSON functionality. Still, I wish there was a simple JSON document database for AWS, which was backed by S3 storage, available as a service."
+    ],
+    "content": [
+      {
+        "html": "I'm coming around to sticking with RDS, but maybe switching to PostgreSQL with its native JSON functionality. Still, I wish there was a simple JSON document database for AWS, which was backed by S3 storage, available as a service.",
+        "value": "I'm coming around to sticking with RDS, but maybe switching to PostgreSQL with its native JSON functionality. Still, I wish there was a simple JSON document database for AWS, which was backed by S3 storage, available as a service."
+      }
+    ],
+    "url": [
+      "/2018/im-coming-around-to-sticking-with-rds"
+    ],
+    "published": [
+      "2018-04-11T15:13:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Athena? Or S3 Select?"
+          ],
+          "content": [
+            {
+              "html": "<p>Athena? Or S3 Select?</p>",
+              "value": "Athena? Or S3 Select?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzcyNjExOTE4MjU1OTkzMjQxNy9TX045RUJXaC5qcGc,/300/square"
+                ],
+                "name": [
+                  "Chris Moyer"
+                ],
+                "url": [
+                  "http://coredumped.org"
+                ]
+              },
+              "value": "Chris Moyer"
+            }
+          ],
+          "url": [
+            "https://twitter.com/kopertop/status/984407051173580800"
+          ]
+        },
+        "value": "https://twitter.com/kopertop/status/984407051173580800"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Close, but not quite the right fit. S3 Select is more suited for searching within a single object. Athena is closer, but it\u2019s interaction model is a little off, as it sends results of queries off to a bucket."
+          ],
+          "content": [
+            {
+              "html": "<p>Close, but not quite the right fit. S3 Select is more suited for searching within a single object. Athena is closer, but it\u2019s interaction model is a little off, as it sends results of queries off to a bucket.</p>",
+              "value": "Close, but not quite the right fit. S3 Select is more suited for searching within a single object. Athena is closer, but it\u2019s interaction model is a little off, as it sends results of queries off to a bucket."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/984427152522301441"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/984427152522301441"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "What I really want is to be able to list objects in a bucket that match a set of object tags."
+          ],
+          "content": [
+            {
+              "html": "<p>What I really want is to be able to list objects in a bucket that match a set of object tags.</p>",
+              "value": "What I really want is to be able to list objects in a bucket that match a set of object tags."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/984427301621391361"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/984427301621391361"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Have you tried Redshift Spectrum? You to query JSON data (and other formats) directly from S3 - no loading. Mix and match external S3 data with Redshift data. Performance is excellent.\nDocs: docs.aws.amazon.com/redshift/lates\u2026\nCustomer blog: aws.amazon.com/blogs/big-data\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>Have you tried Redshift Spectrum? You to query JSON data (and other formats) directly from S3 - no loading. Mix and match external S3 data with Redshift data. Performance is excellent.</p>\n\n<p>Docs: docs.aws.amazon.com/redshift/lates\u2026</p>\n\n<p>Customer blog: aws.amazon.com/blogs/big-data\u2026</p>",
+              "value": "Have you tried Redshift Spectrum? You to query JSON data (and other formats) directly from S3 - no loading. Mix and match external S3 data with Redshift data. Performance is excellent.\nDocs: docs.aws.amazon.com/redshift/lates\u2026\nCustomer blog: aws.amazon.com/blogs/big-data\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk0MDk4NjYwOTMzNTI4NzgwOC9RTVp6aEFGbC5qcGc,/300/square"
+                ],
+                "name": [
+                  "Joe Harris"
+                ],
+                "url": [
+                  "http://joeharris76.com"
+                ]
+              },
+              "value": "Joe Harris"
+            }
+          ],
+          "url": [
+            "https://twitter.com/joeharris76/status/984504077949292544"
+          ]
+        },
+        "value": "https://twitter.com/joeharris76/status/984504077949292544"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I'm familiar, and its an amazing service, but I think its overkill for my use case (and many use cases). It requires a RedShift Cluster 24/7, which incurs cost. I really want to have something that is entirely consumption based, otherwise I'd just use RDS + PostgreSQL."
+          ],
+          "content": [
+            {
+              "html": "<p>I'm familiar, and its an amazing service, but I think its overkill for my use case (and many use cases). It requires a RedShift Cluster 24/7, which incurs cost. I really want to have something that is entirely consumption based, otherwise I'd just use RDS + PostgreSQL.</p>",
+              "value": "I'm familiar, and its an amazing service, but I think its overkill for my use case (and many use cases). It requires a RedShift Cluster 24/7, which incurs cost. I really want to have something that is entirely consumption based, otherwise I'd just use RDS + PostgreSQL."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/984505694551511040"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/984505694551511040"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "If S3 had a feature to list objects based upon the new-ish object tagging features, that would enable a whole new class of application on top of S3. Essentially a basic object database with object classification/taxonomies."
+          ],
+          "content": [
+            {
+              "html": "<p>If S3 had a feature to list objects based upon the new-ish object tagging features, that would enable a whole new class of application on top of S3. Essentially a basic object database with object classification/taxonomies.</p>",
+              "value": "If S3 had a feature to list objects based upon the new-ish object tagging features, that would enable a whole new class of application on top of S3. Essentially a basic object database with object classification/taxonomies."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/984506016581726209"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/984506016581726209"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You don't have to keep the cluster up 24/7 if you only issue queries at certain times. Clusters come up and down in just a few minutes. External table metadata is stored in Glue catalog, so persists without a cluster. We announced at Re:Invent that we will supported nested data."
+          ],
+          "content": [
+            {
+              "html": "<p>You don't have to keep the cluster up 24/7 if you only issue queries at certain times. Clusters come up and down in just a few minutes. External table metadata is stored in Glue catalog, so persists without a cluster. We announced at Re:Invent that we will supported nested data.</p>",
+              "value": "You don't have to keep the cluster up 24/7 if you only issue queries at certain times. Clusters come up and down in just a few minutes. External table metadata is stored in Glue catalog, so persists without a cluster. We announced at Re:Invent that we will supported nested data."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk0MDk4NjYwOTMzNTI4NzgwOC9RTVp6aEFGbC5qcGc,/300/square"
+                ],
+                "name": [
+                  "Joe Harris"
+                ],
+                "url": [
+                  "http://joeharris76.com"
+                ]
+              },
+              "value": "Joe Harris"
+            }
+          ],
+          "url": [
+            "https://twitter.com/joeharris76/status/984507091472695299"
+          ]
+        },
+        "value": "https://twitter.com/joeharris76/status/984507091472695299"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "My use case is to query from a Lambda function that is exposed via API Gateway as an HTTP service to back a CMS. Needs to be always available instantly, which means I'd pretty much have to leave it running."
+          ],
+          "content": [
+            {
+              "html": "<p>My use case is to query from a Lambda function that is exposed via API Gateway as an HTTP service to back a CMS. Needs to be always available instantly, which means I'd pretty much have to leave it running.</p>",
+              "value": "My use case is to query from a Lambda function that is exposed via API Gateway as an HTTP service to back a CMS. Needs to be always available instantly, which means I'd pretty much have to leave it running."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/984507438735872001"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/984507438735872001"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/984087118124339200"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d2071a89afc48e1decef299aa30ba4f8"
+    ]
+  }
+}

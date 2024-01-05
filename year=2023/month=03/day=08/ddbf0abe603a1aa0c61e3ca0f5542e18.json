@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Every time I try to get something done in Shortcuts, I remember why I hate visual programming interfaces.\n\nShortcuts is very powerful, but absolutely maddening to use. Just give me a text editor and some docs please!"
+    ],
+    "content": [
+      {
+        "html": "Every time I try to get something done in Shortcuts, I remember why I hate visual programming interfaces.<br/>\n<br/>\nShortcuts is very powerful, but absolutely maddening to use. Just give me a text editor and some docs please!",
+        "value": "Every time I try to get something done in Shortcuts, I remember why I hate visual programming interfaces.\n\nShortcuts is very powerful, but absolutely maddening to use. Just give me a text editor and some docs please!"
+      }
+    ],
+    "url": [
+      "/2023/every-time-i-try-to-get-something"
+    ],
+    "published": [
+      "2023-03-08T08:08:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan I wouldn\u2019t mind them if under the hood they were implemented as a DSL like SwiftUI.\nThat would allow for casual users to build workflows while the rest of us can work in an IDE of some sort."
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan I wouldn\u2019t mind them if under the hood they were implemented as a DSL like SwiftUI.<br/>That would allow for casual users to build workflows while the rest of us can work in an IDE of some sort.</p>",
+              "value": "@jonathan I wouldn\u2019t mind them if under the hood they were implemented as a DSL like SwiftUI.\nThat would allow for casual users to build workflows while the rest of us can work in an IDE of some sort."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDk2LzQ4MS83NDEvOTA5L29yaWdpbmFsL2I0MjVmMDEzODNlY2RkM2IuanBn/300/square"
+                ],
+                "name": [
+                  "Jeff C. \ud83c\uddfa\ud83c\udde6"
+                ],
+                "url": [
+                  "https://indieweb.social/@jeff"
+                ]
+              },
+              "value": "Jeff C. \ud83c\uddfa\ud83c\udde6"
+            }
+          ],
+          "url": [
+            "https://indieweb.social/@jeff/109987059923293471"
+          ]
+        },
+        "value": "https://indieweb.social/@jeff/109987059923293471"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109986639117041894"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ddbf0abe603a1aa0c61e3ca0f5542e18"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109986639117041894#favorited-by-109459248645826315"
+          ],
+          "published": [
+            "2023-03-08T16:18:58+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Steven Woolgar"
+                ],
+                "url": [
+                  "https://mastodon.social/@woolie"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS80NTkvMjQ4LzY0NS84MjYvMzE1L29yaWdpbmFsLzQ0ZjYzOGMxZWQzNmE3MDAucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS80NTkvMjQ4LzY0NS84MjYvMzE1L29yaWdpbmFsLzQ0ZjYzOGMxZWQzNmE3MDAucG5n/300/square Steven Woolgar"
+            }
+          ]
+        },
+        "value": "Steven Woolgar"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-08T07:57:32Z",
+      "year": 2023,
+      "month": 3,
+      "day": 8,
+      "hour": 7,
+      "minute": 57,
+      "x": -118.37052687862199,
+      "y": 33.81532261743462,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6200000047683716,
+      "wifi": "LaCour"
+    }
+  }
+}

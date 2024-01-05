@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/automators-22-text-expansion"
+    ],
+    "published": [
+      "2019-04-30T10:47:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 43.4\u00b0F and 90% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 43.4\u00b0F and 90% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 43.4\u00b0F and 90% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/automators-22-text-expansion/annotations/9e8ecdda835e1637b9ceb8803b89b21e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/automators-22-text-expansion/annotations/9e8ecdda835e1637b9ceb8803b89b21e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d3408d5ece4584978a8a9671c33d421d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-30T12:04:05Z",
+      "year": 2019,
+      "month": 4,
+      "day": 30,
+      "hour": 12,
+      "minute": 4,
+      "x": -71.05764374882213,
+      "y": 42.356090495043375,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Automators 22: Text Expansion"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2c2bc78f56a8f83f887f4fae7a67fc0c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+NvaK34VwI"
+        ],
+        "content": [
+          {
+            "html": "<p>Text expansion is a simple sort of automation but also a powerful one. In this episode, Rose and David go deep on text automation, the tools they use, and some of their favorites ways to use text automation to get their work done faster.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Automators</p>",
+            "value": "Text expansion is a simple sort of automation but also a powerful one. In this episode, Rose and David go deep on text automation, the tools they use, and some of their favorites ways to use text automation to get their work done faster.\nBy Automators"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

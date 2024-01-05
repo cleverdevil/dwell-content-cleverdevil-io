@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "New Work by Gary Larson | TheFarSide.com"
+    ],
+    "like-of": [
+      "https://www.thefarside.com/new-stuff"
+    ],
+    "url": [
+      "/2020/new-work-by-gary-larson-thefarsidecom"
+    ],
+    "published": [
+      "2020-07-08T06:24:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 86.29\u00b0F and 21% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 86.29\u00b0F and 21% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 86.29\u00b0F and 21% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/new-work-by-gary-larson-thefarsidecom/annotations/40fc1f6a939e17ab5890405a0cbf4472"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/new-work-by-gary-larson-thefarsidecom/annotations/40fc1f6a939e17ab5890405a0cbf4472"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "7b58e601cd57399dd50cba919bb599f9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-08T06:13:13Z",
+      "year": 2020,
+      "month": 7,
+      "day": 8,
+      "hour": 6,
+      "minute": 13,
+      "x": -116.31683797352461,
+      "y": 33.73784456017135,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "GPS"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ono Kau Kau"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ono Kau Kau"
+          ],
+          "latitude": [
+            "20.95006"
+          ],
+          "longitude": [
+            "-156.68759"
+          ]
+        },
+        "value": "Ono Kau Kau"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ono Kau Kau"
+          ],
+          "latitude": [
+            "20.95006"
+          ],
+          "longitude": [
+            "-156.68759"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Winner winner, chinese-ish dinner.</p>",
+        "value": "Winner winner, chinese-ish dinner."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ono-kau-kau"
+    ],
+    "published": [
+      "2017-07-13T04:27:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Ono Kau Kau!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Ono Kau Kau!</p>",
+              "value": "Your first check-in at Ono Kau Kau!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bfd87f4c403e7f2d59fdd961a12107b4"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5966f6a679f6c77a98f3c56d/cf205b7f2d2fcd293dea8f5618ed46ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5966f6a679f6c77a98f3c56d/cf205b7f2d2fcd293dea8f5618ed46ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5966f6a679f6c77a98f3c56d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d15b1788f1c88ae012e6d810886f159c"
+    ]
+  }
+}

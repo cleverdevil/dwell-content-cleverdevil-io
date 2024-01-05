@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.819065961977"
+          ],
+          "longitude": [
+            "-118.38545267171"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.819065961977"
+          ],
+          "longitude": [
+            "-118.38545267171"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Rainy day coffee.</p>",
+        "value": "Rainy day coffee."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-coffee-bean-tea-leaf-5"
+    ],
+    "published": [
+      "2018-03-11T18:01:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 80 check-ins at Coffee Shops!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 80 check-ins at Coffee Shops!</p>",
+              "value": "Wow! That's 80 check-ins at Coffee Shops!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa56f010f013c0f433c79c5/37c810330a5532a379337aa467f2af19"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aa56f010f013c0f433c79c5/37c810330a5532a379337aa467f2af19"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to this The Coffee Bean & Tea Leaf since July '17."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to this The Coffee Bean &amp; Tea Leaf since July '17.</p>",
+              "value": "You haven't checked in to this The Coffee Bean & Tea Leaf since July '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa56f010f013c0f433c79c5/ed04e31ae0182c83d240d8f055ea3bb2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aa56f010f013c0f433c79c5/ed04e31ae0182c83d240d8f055ea3bb2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aa56f010f013c0f433c79c5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ad585d052c673bd1052c9bf1b8c79776"
+    ]
+  }
+}

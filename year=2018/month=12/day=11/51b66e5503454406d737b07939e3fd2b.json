@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fog Harbor Fish House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fog Harbor Fish House"
+          ],
+          "latitude": [
+            "37.808903545091"
+          ],
+          "longitude": [
+            "-122.41037933383"
+          ]
+        },
+        "value": "Fog Harbor Fish House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fog Harbor Fish House"
+          ],
+          "latitude": [
+            "37.808903545091"
+          ],
+          "longitude": [
+            "-122.41037933383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Nice salad for lunch.</p>",
+        "value": "Nice salad for lunch."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-fog-harbor-fish-house"
+    ],
+    "published": [
+      "2018-12-11T21:46:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Fishermans Wharf."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Fishermans Wharf.</p>",
+              "value": "First check-in in Fishermans Wharf."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c103037c36588002cfde2d6/f989ea73bf153e7a3b4a9086d2b56dc6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c103037c36588002cfde2d6/f989ea73bf153e7a3b4a9086d2b56dc6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c103037c36588002cfde2d6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "51b66e5503454406d737b07939e3fd2b"
+    ]
+  }
+}

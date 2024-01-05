@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-271-the-16-inch-macbook-pro"
+    ],
+    "published": [
+      "2019-11-14T18:53:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.63\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.63\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.63\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-271-the-16-inch-macbook-pro/annotations/6d11e90740257f6de185d3836d22f6cf"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-271-the-16-inch-macbook-pro/annotations/6d11e90740257f6de185d3836d22f6cf"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e799f189cbadb1fb689857b8ef1cbad1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-14T17:51:24Z",
+      "year": 2019,
+      "month": 11,
+      "day": 14,
+      "hour": 17,
+      "minute": 51,
+      "x": -118.39900254377714,
+      "y": 33.94683053422403,
+      "altitude": 36,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 271: The 16-inch MacBook Pro"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a32da0baf479136b4787f92aafdd905f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-qEnqM"
+        ],
+        "content": [
+          {
+            "html": "<p>The butterfly keyboard era is over! Apple announces the new 16-inch MacBook Pro, featuring a new keyboard and a lot more. And Jason has an exclusive interview with the MacBook Pro product manager, Shruti Haldea.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The butterfly keyboard era is over! Apple announces the new 16-inch MacBook Pro, featuring a new keyboard and a lot more. And Jason has an exclusive interview with the MacBook Pro product manager, Shruti Haldea.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

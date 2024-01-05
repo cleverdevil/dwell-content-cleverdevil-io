@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Kapalua Villas"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": "Kapalua Villas"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kapalua Villas"
+          ],
+          "latitude": [
+            "20.998381176501"
+          ],
+          "longitude": [
+            "-156.66010629743"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Kapalua Villas\" src=\"https://cleverdevil.io/file/5399d13ef8073f066f5f093180cd533b\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Movie night with the travel projector on the lanai.</p>",
+        "value": "Kapalua Villas\nMovie night with the travel projector on the lanai."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-kapalua-villas-5"
+    ],
+    "published": [
+      "2017-07-11T05:59:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo. Maybe order some wallet sized for Gramps."
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo. Maybe order some wallet sized for Gramps.</p>",
+              "value": "Great photo. Maybe order some wallet sized for Gramps."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0c4c459e0c3e190f456ab37e416d6289"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5964694c4ce066051a8c4ab6/fb821b77fd247edae7d2bf76403209a5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5964694c4ce066051a8c4ab6/fb821b77fd247edae7d2bf76403209a5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5964694c4ce066051a8c4ab6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9cb880570c71369558630ffcc223f14b"
+    ]
+  }
+}

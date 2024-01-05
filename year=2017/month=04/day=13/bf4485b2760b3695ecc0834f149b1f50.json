@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://stream.boffosocko.com/2017/im-debating-whether-its-better-to-do-a-standalone-plugin"
+    ],
+    "name": [
+      "I think, for now, a standalone plugin is best. I think, over time, it'll make sense to start consolidating some of these things into a common library of plugins. Many of my plugins are extremely similar in their implementation.\n\nI actually think that it'd be cool for the Watching, Read, and Food plugins to detect if the Reviews plugin is installed, and to enable publishing a record of the action *along* with a review (two posts in one go!).\n\nSo many ideas, so little time."
+    ],
+    "content": [
+      {
+        "html": "I think, for now, a standalone plugin is best. I think, over time, it'll make sense to start consolidating some of these things into a common library of plugins. Many of my plugins are extremely similar in their implementation.<br/>\n<br/>\nI actually think that it'd be cool for the Watching, Read, and Food plugins to detect if the Reviews plugin is installed, and to enable publishing a record of the action *along* with a review (two posts in one go!).<br/>\n<br/>\nSo many ideas, so little time.",
+        "value": "I think, for now, a standalone plugin is best. I think, over time, it'll make sense to start consolidating some of these things into a common library of plugins. Many of my plugins are extremely similar in their implementation.\n\nI actually think that it'd be cool for the Watching, Read, and Food plugins to detect if the Reviews plugin is installed, and to enable publishing a record of the action *along* with a review (two posts in one go!).\n\nSo many ideas, so little time."
+      }
+    ],
+    "url": [
+      "/2017/i-think-for-now-a-standalone-plugin-is-best-i"
+    ],
+    "published": [
+      "2017-04-13T21:28:24+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "bf4485b2760b3695ecc0834f149b1f50"
+    ]
+  }
+}

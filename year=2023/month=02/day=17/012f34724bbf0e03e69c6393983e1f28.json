@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/misdenomer"
+    ],
+    "published": [
+      "2023-02-17T07:35:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "012f34724bbf0e03e69c6393983e1f28"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-17T05:03:37Z",
+      "year": 2023,
+      "month": 2,
+      "day": 17,
+      "hour": 5,
+      "minute": 3,
+      "x": -116.38036777777248,
+      "y": 33.7015957574366,
+      "altitude": 126,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Misdenomer"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d9e3b44b6df575a1dc1996b582791466/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0YAHEc"
+        ],
+        "content": [
+          {
+            "html": "<p>Haley brings the case against her partner, Jonathan. Haley and Jonathan have a non-existent child named Belinda. Belinda started as a joke, but has become a symbol for their future together. Now that Haley and Jonathan are thinking seriously about having an actual child, Jonathan thinks the name Belinda would be perfect. Haley disagrees! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Haley brings the case against her partner, Jonathan. Haley and Jonathan have a non-existent child named Belinda. Belinda started as a joke, but has become a symbol for their future together. Now that Haley and Jonathan are thinking seriously about having an actual child, Jonathan thinks the name Belinda would be perfect. Haley disagrees! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

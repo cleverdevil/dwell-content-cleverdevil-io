@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/flashback-6-the-be-computer-company"
+    ],
+    "published": [
+      "2020-05-24T20:07:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.32\u00b0F and 75% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.32\u00b0F and 75% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.32\u00b0F and 75% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/flashback-6-the-be-computer-company/annotations/e57c39e3aebea6876eb83dd50e7710e8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/flashback-6-the-be-computer-company/annotations/e57c39e3aebea6876eb83dd50e7710e8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "55bdcc40c5457e42780aeb91a0ea70a2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-25T00:00:41Z",
+      "year": 2020,
+      "month": 5,
+      "day": 25,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.3702942364703,
+      "y": 33.8154375576587,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.23000000417232513,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Flashback 6: The Be Computer Company"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/827d55cc332aba803d16d38bf788684b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2wn0eCg"
+        ],
+        "content": [
+          {
+            "html": "<p>Started by former members of Apple\u2019s leadership team, Be was formed to take on the Mac and other computers of the mid-90s. The company wrote its own operating system and shipped dual-CPU towers before failing to be bought by Apple and slowly fading away.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "Started by former members of Apple\u2019s leadership team, Be was formed to take on the Mac and other computers of the mid-90s. The company wrote its own operating system and shipped dual-CPU towers before failing to be bought by Apple and slowly fading away.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Curly Braces Conference"
+    ],
+    "bookmark-of": [
+      "https://www.dreamhost.com/blog/2015/11/10/being-the-change-starting-small/"
+    ],
+    "content": [
+      {
+        "html": "<p>Check out another awesome thing my team is doing. This time, completely on their own time :)</p>",
+        "value": "Check out another awesome thing my team is doing. This time, completely on their own time :)"
+      }
+    ],
+    "url": [
+      "/2015/the-curly-braces-conference"
+    ],
+    "published": [
+      "2015-11-10T23:11:19+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/664218820479983616"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "d43ddafd84c502c1950dac2e819649b2"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/664218820479983616?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F664218820479983616%2F14217022"
+          ],
+          "published": [
+            "2015-11-10T23:24:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "DreamHost"
+                ],
+                "url": [
+                  "https://twitter.com/DreamHost"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d8986a7519fac3e32786f7d4e516a0a8/thumb.png"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d8986a7519fac3e32786f7d4e516a0a8/thumb.png DreamHost"
+            }
+          ]
+        },
+        "value": "DreamHost"
+      }
+    ]
+  }
+}

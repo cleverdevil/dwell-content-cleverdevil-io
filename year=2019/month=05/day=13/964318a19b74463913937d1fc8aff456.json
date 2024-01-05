@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Lacey LaCour &middot;"
+    ],
+    "like-of": [
+      "http://cleverangel.org/2019/05/13/hes-pushing-but.html"
+    ],
+    "url": [
+      "/2019/lacey-lacour-middot-2"
+    ],
+    "published": [
+      "2019-05-13T23:23:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.33\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.33\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.33\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/lacey-lacour-middot-2/annotations/1af47b4d870700b155fe9605ca7cd262"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/lacey-lacour-middot-2/annotations/1af47b4d870700b155fe9605ca7cd262"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "964318a19b74463913937d1fc8aff456"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-13T23:20:13Z",
+      "year": 2019,
+      "month": 5,
+      "day": 13,
+      "hour": 23,
+      "minute": 20,
+      "x": -118.39520900356696,
+      "y": 33.919634258640826,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "WeWork"
+    }
+  }
+}

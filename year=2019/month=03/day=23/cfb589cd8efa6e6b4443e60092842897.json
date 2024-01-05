@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/318-not-a-casino-i-want-to-play-in"
+    ],
+    "published": [
+      "2019-03-23T00:26:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.79\u00b0F and 82% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.79\u00b0F and 82% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.79\u00b0F and 82% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/318-not-a-casino-i-want-to-play-in/annotations/034572349bef4e548d2792802d800d0c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/318-not-a-casino-i-want-to-play-in/annotations/034572349bef4e548d2792802d800d0c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cfb589cd8efa6e6b4443e60092842897"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-23T03:19:54Z",
+      "year": 2019,
+      "month": 3,
+      "day": 23,
+      "hour": 3,
+      "minute": 19,
+      "x": -118.37038313027242,
+      "y": 33.815431422214175,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 318: Not a Casino I Want to Play In"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8d4cbbe86c86887b2272d904c0f26226/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdRfce4w"
+        ],
+        "content": [
+          {
+            "html": "<p>On Monday, we got iPads. On Tuesday, we got iMacs. On Wednesday, we got AirPods. On Thursday, all we got was this episode of ATP.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "On Monday, we got iPads. On Tuesday, we got iMacs. On Wednesday, we got AirPods. On Thursday, all we got was this episode of ATP.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

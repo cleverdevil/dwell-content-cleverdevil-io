@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/345-hovering-over-my-desk-on-new-years-eve"
+    ],
+    "published": [
+      "2021-03-30T15:40:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c30b42b1c9911a6a088c30203067e75d"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-30T16:03:35Z",
+      "year": 2021,
+      "month": 3,
+      "day": 30,
+      "hour": 16,
+      "minute": 3,
+      "x": -118.37038699211466,
+      "y": 33.8154001370487,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 345: Hovering Over My Desk on New Years Eve"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8e1ed830ac7bb79a39cd1c2f8909f0e1/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8-PKhE"
+        ],
+        "content": [
+          {
+            "html": "<p>We\u2019re celebrating 20 years of OS X with a discussion of how we use our Macs today and what we might upgrade later this year! Also, the future of Apple events, the future of movie theaters, and possible variations on the Apple Watch.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "We\u2019re celebrating 20 years of OS X with a discussion of how we use our Macs today and what we might upgrade later this year! Also, the future of Apple events, the future of movie theaters, and possible variations on the Apple Watch.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

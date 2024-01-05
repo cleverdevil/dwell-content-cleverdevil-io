@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/398-i-thought-about-the-ultra-then-i-laughed"
+    ],
+    "published": [
+      "2022-03-15T16:17:05+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d8b89fa7771bbc38b40a3b0697d2a412"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-15T20:00:32Z",
+      "year": 2022,
+      "month": 3,
+      "day": 15,
+      "hour": 20,
+      "minute": 0,
+      "x": -116.38029938798624,
+      "y": 33.701692542779064,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 398: I Thought About the Ultra, Then I Laughed"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/418b415056f5839b12bf3c2328e72de7/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9fC-J8"
+        ],
+        "content": [
+          {
+            "html": "<p>John Siracusa joins Jason to talk about the Mythical Mid-Range Mac Minitower, the distortion of the iMac over time, the modular possibilities offered by the Apple Studio Display, and other fallout from last week\u2019s Apple announcements.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "John Siracusa joins Jason to talk about the Mythical Mid-Range Mac Minitower, the distortion of the iMac over time, the modular possibilities offered by the Apple Studio Display, and other fallout from last week\u2019s Apple announcements.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

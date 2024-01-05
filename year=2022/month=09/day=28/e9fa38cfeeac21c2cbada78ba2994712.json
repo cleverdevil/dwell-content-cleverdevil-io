@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/426-splash-hit"
+    ],
+    "published": [
+      "2022-09-28T01:46:11+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e9fa38cfeeac21c2cbada78ba2994712"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-28T04:00:17Z",
+      "year": 2022,
+      "month": 9,
+      "day": 28,
+      "hour": 4,
+      "minute": 0,
+      "x": -117.87105848724904,
+      "y": 33.847697536004304,
+      "altitude": 63,
+      "motion": [
+        "driving"
+      ],
+      "speed": 36,
+      "battery_state": "charging",
+      "battery_level": 0.8899999856948853,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 426: Splash Hit!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4b6f436c4f14eb8dbf0195b1273e11e1/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9EMaWY"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason reviews the iPhone 14, we speculate about how Apple could make an October Mac event worth having, Myke solves his iPhone migration problems, and we answer your Dynamic Island questions!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason reviews the iPhone 14, we speculate about how Apple could make an October Mac event worth having, Myke solves his iPhone migration problems, and we answer your Dynamic Island questions!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

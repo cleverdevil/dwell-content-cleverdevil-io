@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/462-xcode-x"
+    ],
+    "published": [
+      "2021-12-24T21:16:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1628d9ba6decd7bd3137714f3138907b"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-25T00:06:34Z",
+      "year": 2021,
+      "month": 12,
+      "day": 25,
+      "hour": 0,
+      "minute": 6,
+      "x": -116.38033610765818,
+      "y": 33.7016612443228,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 462: Xcode X"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/107229f91859caa4b72ef96d384166dd/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIZz-N8"
+        ],
+        "content": [
+          {
+            "html": "<p>The kids these days don\u2019t understand our good-ol\u2019 computin\u2019 metaphors.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The kids these days don\u2019t understand our good-ol\u2019 computin\u2019 metaphors.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

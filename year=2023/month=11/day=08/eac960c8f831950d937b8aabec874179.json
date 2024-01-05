@@ -1,0 +1,70 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Been playing around a bit with DuckDB and am really impressed so far. I\u2019m considering using it as the data store for a new version of my website. All data would live in hive partitioned directories of JSON files."
+    ],
+    "content": [
+      {
+        "html": "Been playing around a bit with DuckDB and am really impressed so far. I\u2019m considering using it as the data store for a new version of my website. All data would live in hive partitioned directories of JSON files.",
+        "value": "Been playing around a bit with DuckDB and am really impressed so far. I\u2019m considering using it as the data store for a new version of my website. All data would live in hive partitioned directories of JSON files."
+      }
+    ],
+    "url": [
+      "/2023/been-playing-around-a-bit-with-duckdb"
+    ],
+    "published": [
+      "2023-11-08T04:15:44+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111372988860113594",
+      "https://bsky.app/profile/cleverdevil.io/post/3kdnlfpk2jy2i"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "eac960c8f831950d937b8aabec874179"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-07T18:23:36Z",
+      "year": 2023,
+      "month": 11,
+      "day": 7,
+      "hour": 18,
+      "minute": 23,
+      "x": -118.37050596841728,
+      "y": 33.815326788697426,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

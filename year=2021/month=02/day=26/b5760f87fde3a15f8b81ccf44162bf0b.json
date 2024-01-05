@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/334-a-wave-of-nostalgia-hit-me-in-the-face"
+    ],
+    "published": [
+      "2021-02-26T08:23:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b5760f87fde3a15f8b81ccf44162bf0b"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-26T08:37:54Z",
+      "year": 2021,
+      "month": 2,
+      "day": 26,
+      "hour": 8,
+      "minute": 37,
+      "x": -118.3705530254244,
+      "y": 33.81532642141661,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6700000166893005,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 334: A Wave of Nostalgia Hit Me in the Face"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1f3c1677b066f635b5b2fcf3ac7575fe/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7vCmSs"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Federico gets what he wants, but also doesn\u2019t. Myke tries out Hey, but only kinda. Also, are there new apps anymore?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Federico gets what he wants, but also doesn\u2019t. Myke tries out Hey, but only kinda. Also, are there new apps anymore?\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

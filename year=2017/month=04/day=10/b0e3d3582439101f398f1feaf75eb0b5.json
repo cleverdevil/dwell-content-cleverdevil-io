@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Desserts By Patrick"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": "Desserts By Patrick"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Gelato</p>",
+        "value": "Gelato"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-desserts-by-patrick"
+    ],
+    "published": [
+      "2017-04-10T02:44:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Ice Cream Shop check-in in 5 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Ice Cream Shop check-in in 5 years!</p>",
+              "value": "First Ice Cream Shop check-in in 5 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/878d442658a8ef4e0fa5224c98ba2d1c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eaf1a716f0005d958c7f06/2998d5378a56957e8908e70cca0abb7a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eaf1a716f0005d958c7f06/2998d5378a56957e8908e70cca0abb7a"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Desserts By Patrick!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Desserts By Patrick!</p>",
+              "value": "Your first check-in at Desserts By Patrick!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/b87a21180533851cf4c2b253c6b11e65"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eaf1a716f0005d958c7f06/18a50a180063a92c8c364ed674f7b0bb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eaf1a716f0005d958c7f06/18a50a180063a92c8c364ed674f7b0bb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58eaf1a716f0005d958c7f06"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b0e3d3582439101f398f1feaf75eb0b5"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Wolfie Christl on Twitter: \"Facebook adds 5 divs, 9 spans and 30 css classes to every single post in the timeline to make it more difficult to identify and block 'Sponsored' posts, oh my.\u2026"
+    ],
+    "like-of": [
+      "https://twitter.com/WolfieChristl/status/1071473931784212480"
+    ],
+    "url": [
+      "/2019/wolfie-christl-on-twitter-facebook-adds-5-divs-9-spans"
+    ],
+    "published": [
+      "2019-02-09T05:06:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 51\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 51\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 51\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/wolfie-christl-on-twitter-facebook-adds-5-divs-9-spans/annotations/7a976d0b2e7189ed11886801038a4694"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/wolfie-christl-on-twitter-facebook-adds-5-divs-9-spans/annotations/7a976d0b2e7189ed11886801038a4694"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "0bbfac3829dee5ee59ec6a6065d527a0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-09T05:05:05Z",
+      "year": 2019,
+      "month": 2,
+      "day": 9,
+      "hour": 5,
+      "minute": 5,
+      "x": -118.37053570018118,
+      "y": 33.81529122861561,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tin Roof Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": "Tin Roof Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Tin Roof Bistro\" src=\"https://cleverdevil.io/file/62c5b0e3faec6e8b24d05515e6350070\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Dinner with friends.</p>",
+        "value": "Tin Roof Bistro\nDinner with friends."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-tin-roof-bistro-2"
+    ],
+    "published": [
+      "2018-05-26T01:28:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b08b8376adbf5002c496f1e/5edb62ca8fbe70f132c7670628819145"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b08b8376adbf5002c496f1e/5edb62ca8fbe70f132c7670628819145"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photos!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photos!</p>",
+              "value": "Great photos!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b08b8376adbf5002c496f1e/4a45f324bd37bf7f19aa50859b99cf70"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b08b8376adbf5002c496f1e/4a45f324bd37bf7f19aa50859b99cf70"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b08b8376adbf5002c496f1e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b157a17fa78a289787a185e05c377256"
+    ]
+  }
+}

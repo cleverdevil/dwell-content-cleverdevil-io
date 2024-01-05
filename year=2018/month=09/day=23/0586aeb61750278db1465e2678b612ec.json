@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Moon Donuts"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Moon Donuts"
+          ],
+          "latitude": [
+            "33.838656944278"
+          ],
+          "longitude": [
+            "-118.37590055286"
+          ]
+        },
+        "value": "Moon Donuts"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Moon Donuts"
+          ],
+          "latitude": [
+            "33.838656944278"
+          ],
+          "longitude": [
+            "-118.37590055286"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Kicking off the boys trip in style!</p>",
+        "value": "Kicking off the boys trip in style!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-moon-donuts"
+    ],
+    "published": [
+      "2018-09-23T16:16:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Moon Donuts!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Moon Donuts!</p>",
+              "value": "Your first check-in at Moon Donuts!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba7bc71e0c0c9002cad3dbc/827a55e0b9cf049c156c51bfe9b4ecbe"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba7bc71e0c0c9002cad3dbc/827a55e0b9cf049c156c51bfe9b4ecbe"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Donut Shop check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Donut Shop check-in in 2 months!</p>",
+              "value": "First Donut Shop check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba7bc71e0c0c9002cad3dbc/0d17970ba26dfc6f5047231753bc001b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba7bc71e0c0c9002cad3dbc/0d17970ba26dfc6f5047231753bc001b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba7bc71e0c0c9002cad3dbc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0586aeb61750278db1465e2678b612ec"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/09/23/12/like/"
+          ],
+          "published": [
+            "2018-09-24T01:55:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

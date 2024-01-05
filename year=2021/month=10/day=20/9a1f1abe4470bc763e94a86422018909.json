@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/377-most-importantly-compressor"
+    ],
+    "published": [
+      "2021-10-20T07:23:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9a1f1abe4470bc763e94a86422018909"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-20T07:43:03Z",
+      "year": 2021,
+      "month": 10,
+      "day": 20,
+      "hour": 7,
+      "minute": 43,
+      "x": -118.37055121400965,
+      "y": 33.81532041783273,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 377: Most Importantly, Compressor"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/daa908b134027182ac174224f35cc157/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_vuwmQ"
+        ],
+        "content": [
+          {
+            "html": "<p>The new MacBook Pros are here! Jason and Myke break down what\u2019s new with Apple\u2019s pro laptops, welcome the M1 Pro and M1 Max chips, and even devote a little time to new AirPods and colorful HomePods. Also, Myke\u2019s wallet is a little bit lighter.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The new MacBook Pros are here! Jason and Myke break down what\u2019s new with Apple\u2019s pro laptops, welcome the M1 Pro and M1 Max chips, and even devote a little time to new AirPods and colorful HomePods. Also, Myke\u2019s wallet is a little bit lighter.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-silver-spur-ranch-5"
+    ],
+    "published": [
+      "2022-01-02T19:38:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Ripe cranberries will bounce like rubber balls. Go ahead and try it. Nobody's watching."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Ripe cranberries will bounce like rubber balls. Go ahead and try it. Nobody's watching.</p>",
+              "value": "Fun Fact! Ripe cranberries will bounce like rubber balls. Go ahead and try it. Nobody's watching."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61d1ff507b0b5946afd8648b/5d6161356fc88b101c2c6809722c6e67"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61d1ff507b0b5946afd8648b/5d6161356fc88b101c2c6809722c6e67"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61d1ff507b0b5946afd8648b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e23ac1232195d6ea669fe5d014bba2f5"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-02T19:36:01Z",
+      "year": 2022,
+      "month": 1,
+      "day": 2,
+      "hour": 19,
+      "minute": 36,
+      "x": -116.38030937783759,
+      "y": 33.7016905082648,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "DesertSun"
+    }
+  }
+}

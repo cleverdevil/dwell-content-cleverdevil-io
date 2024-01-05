@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Minneapolis\u2013Saint Paul International Airport (MSP)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Minneapolis\u2013Saint Paul International Airport (MSP)"
+          ],
+          "latitude": [
+            "44.882475802817"
+          ],
+          "longitude": [
+            "-93.210343691485"
+          ]
+        },
+        "value": "Minneapolis\u2013Saint Paul International Airport (MSP)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Minneapolis\u2013Saint Paul International Airport (MSP)"
+          ],
+          "latitude": [
+            "44.882475802817"
+          ],
+          "longitude": [
+            "-93.210343691485"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-minneapolissaint-paul-international-airport-msp-5"
+    ],
+    "published": [
+      "2020-01-16T16:57:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "348 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>348 miles since last check-in</p>",
+              "value": "348 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e2095dcf7eecb000880700c/684e011a04d1ba695c6d1739c4fbae99"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e2095dcf7eecb000880700c/684e011a04d1ba695c6d1739c4fbae99"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 19.91\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 19.91\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 19.91\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-minneapolissaint-paul-international-airport-msp-5/annotations/7134bfc35250a38e038244a4c67be9b6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-minneapolissaint-paul-international-airport-msp-5/annotations/7134bfc35250a38e038244a4c67be9b6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e2095dcf7eecb000880700c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d05419df589d6720df9c7466008cd41f"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-16T15:34:05Z",
+      "year": 2020,
+      "month": 1,
+      "day": 16,
+      "hour": 15,
+      "minute": 34,
+      "x": -87.74359361315722,
+      "y": 41.782449917164726,
+      "altitude": 187,
+      "motion": [],
+      "speed": 5,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": ""
+    }
+  }
+}

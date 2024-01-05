@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-258-technically-ios-13"
+    ],
+    "published": [
+      "2019-08-30T23:55:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 77.36\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 77.36\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 77.36\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-258-technically-ios-13/annotations/77e6d422971474d98c04638c2a8d3a32"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-258-technically-ios-13/annotations/77e6d422971474d98c04638c2a8d3a32"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f0a0dcf5d07257e1f6fd44ff31878763"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-31T00:02:09Z",
+      "year": 2019,
+      "month": 8,
+      "day": 31,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.3704125619346,
+      "y": 33.81538586676539,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 258: Technically iOS 13"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c3d75a3073cf06c91a65d5d69c43f3de/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx715KV4"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico\u2019s back just in time for Apple to release the first beta of iOS 13.1 He, Stephen and Myke get into what this could mean for Apple\u2019s upcoming busy season before discussing the changes Apple has made to its Siri grading program.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico\u2019s back just in time for Apple to release the first beta of iOS 13.1 He, Stephen and Myke get into what this could mean for Apple\u2019s upcoming busy season before discussing the changes Apple has made to its Siri grading program.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

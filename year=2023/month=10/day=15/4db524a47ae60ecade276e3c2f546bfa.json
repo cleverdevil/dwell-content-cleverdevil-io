@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/smorder-in-the-court"
+    ],
+    "published": [
+      "2023-10-15T02:11:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4db524a47ae60ecade276e3c2f546bfa"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-15T01:28:16Z",
+      "year": 2023,
+      "month": 10,
+      "day": 15,
+      "hour": 1,
+      "minute": 28,
+      "x": -118.37050786989941,
+      "y": 33.81532206908036,
+      "altitude": 58,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to S\u2019morder in the Court"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/db30894d1cd1ac3b2ece43b39927ae58/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2tgFKc"
+        ],
+        "content": [
+          {
+            "html": "<p>Katherine brings the case against her husband, Lee. They like to go camping together. Katherine recently bought a new camping chair. But, Lee says they bring too much stuff. There\u2019s no room for this chair in their car! But, Katherine thinks that they can make it work. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Katherine brings the case against her husband, Lee. They like to go camping together. Katherine recently bought a new camping chair. But, Lee says they bring too much stuff. There\u2019s no room for this chair in their car! But, Katherine thinks that they can make it work. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

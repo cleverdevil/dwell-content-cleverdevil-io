@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Retiro Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": "El Retiro Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-el-retiro-park-5"
+    ],
+    "published": [
+      "2021-07-18T20:05:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to El Retiro Park since February."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to El Retiro Park since February.</p>",
+              "value": "Welcome back! You haven't checked in to El Retiro Park since February."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/60f4898f082d42751efb9250/c738899229d49dbf3bd66197da9d25a1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/60f4898f082d42751efb9250/c738899229d49dbf3bd66197da9d25a1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/60f4898f082d42751efb9250"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4de2d977e5f4959f602189510024d734"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-18T20:03:49Z",
+      "year": 2021,
+      "month": 7,
+      "day": 18,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.37839521734303,
+      "y": 33.81523222365113,
+      "altitude": 24,
+      "motion": [],
+      "speed": 5,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  }
+}

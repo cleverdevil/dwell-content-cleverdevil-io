@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lakehouse Hotel & Resort"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lakehouse Hotel & Resort"
+          ],
+          "latitude": [
+            "33.124739156468"
+          ],
+          "longitude": [
+            "-117.20763088028"
+          ]
+        },
+        "value": "Lakehouse Hotel & Resort"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lakehouse Hotel & Resort"
+          ],
+          "latitude": [
+            "33.124739156468"
+          ],
+          "longitude": [
+            "-117.20763088028"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-lakehouse-hotel-resort"
+    ],
+    "published": [
+      "2018-06-16T22:14:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Lakehouse Hotel & Resort!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Lakehouse Hotel &amp; Resort!</p>",
+              "value": "Your first check-in at Lakehouse Hotel & Resort!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b258bdbcf72a0002c44eb19/fefc0ed2fe4e78360bc4a2993e737e31"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b258bdbcf72a0002c44eb19/fefc0ed2fe4e78360bc4a2993e737e31"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b258bdbcf72a0002c44eb19"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "95f0967ab51df1878a302b9c5aa7ce01"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b258bdbcf72a0002c44eb19/731491bc45b603d2f859dcceacf36231"
+          ],
+          "published": [
+            "2018-06-16T22:14:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-292-mduck"
+    ],
+    "published": [
+      "2020-05-07T20:09:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 76.4\u00b0F and 50% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 76.4\u00b0F and 50% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 76.4\u00b0F and 50% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-292-mduck/annotations/21f3896bebbf6e45d0ee020b2009ec65"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-292-mduck/annotations/21f3896bebbf6e45d0ee020b2009ec65"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "75bc09b44b3c147e0bc03eeca65d1675"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-08T00:00:40Z",
+      "year": 2020,
+      "month": 5,
+      "day": 8,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.37033050123483,
+      "y": 33.815424350477,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 292: M\u2019Duck"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/961f6af4e77148f2edc97e24e97cd479/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5Nz0qc"
+        ],
+        "content": [
+          {
+            "html": "<p>The trio gives a math lesson before follow-up on the Magic Keyboard and iPhone SE. Then, our plans for WWDC.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The trio gives a math lesson before follow-up on the Magic Keyboard and iPhone SE. Then, our plans for WWDC.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

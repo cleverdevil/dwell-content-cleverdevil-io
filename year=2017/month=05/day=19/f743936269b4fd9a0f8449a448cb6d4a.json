@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sacks On The Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": "Sacks On The Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sacks On The Beach"
+          ],
+          "latitude": [
+            "33.81934790032"
+          ],
+          "longitude": [
+            "-118.38850553359"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sacks-on-the-beach-3"
+    ],
+    "published": [
+      "2017-05-19T15:47:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Sunny Side sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Sunny Side sticker bonus!</p>",
+              "value": "Sunny Side sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/8c305bf2a1ec209b74ccb9452b0987df"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/591f1369f1fdaf6610035f82/13c20c575e78d061f1e5304aa3615279"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/591f1369f1fdaf6610035f82/13c20c575e78d061f1e5304aa3615279"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/591f1369f1fdaf6610035f82"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f743936269b4fd9a0f8449a448cb6d4a"
+    ]
+  }
+}

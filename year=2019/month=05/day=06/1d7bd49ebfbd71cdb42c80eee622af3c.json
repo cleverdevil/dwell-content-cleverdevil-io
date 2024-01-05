@@ -1,0 +1,144 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Oh, for more context, here is the announcement for WSL2 \u2013 https://devblogs.microsoft.com/commandline/announcing-wsl-2/"
+    ],
+    "content": [
+      {
+        "html": "Oh, for more context, here is the announcement for WSL2 \u2013 <a href=\"https://devblogs.microsoft.com/commandline/announcing-wsl-2/\" target=\"_blank\">https://<wbr/>devblogs.microsoft.com/<wbr/>commandline/<wbr/>announcing-wsl-2/<wbr/></a>",
+        "value": "Oh, for more context, here is the announcement for WSL2 \u2013 https://devblogs.microsoft.com/commandline/announcing-wsl-2/"
+      }
+    ],
+    "url": [
+      "/2019/oh-for-more-context-here-is-the"
+    ],
+    "published": [
+      "2019-05-06T20:44:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.66\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.66\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.66\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/oh-for-more-context-here-is-the/annotations/bdb14e32b8dde58fa633a0234b693669"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/oh-for-more-context-here-is-the/annotations/bdb14e32b8dde58fa633a0234b693669"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1125501675031203840",
+      "https://mastodon.social/@cleverdevil/102051052734049611"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "1d7bd49ebfbd71cdb42c80eee622af3c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1125501675031203840?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1125501675031203840%2F1037920464427986945"
+          ],
+          "published": [
+            "2019-05-06T21:05:59+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Pengwin \ud83d\udeeb #WSLatBuild"
+                ],
+                "url": [
+                  "https://twitter.com/PengwinLinux"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDYzMTM5NjIxOTc1Nzc3MjkvcFowUlF1Y2YucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDYzMTM5NjIxOTc1Nzc3MjkvcFowUlF1Y2YucG5n/300/square Pengwin \ud83d\udeeb #WSLatBuild"
+            }
+          ]
+        },
+        "value": "Pengwin \ud83d\udeeb #WSLatBuild"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-06T20:42:37Z",
+      "year": 2019,
+      "month": 5,
+      "day": 6,
+      "hour": 20,
+      "minute": 42,
+      "x": -118.39517344299149,
+      "y": 33.91966170347429,
+      "altitude": 30,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "WeWork"
+    }
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I finally figured out how to automatically sync my Apple HealthKit metrics to a data lake in S3. I\u2019ve been wanting to do this for a very long time. Next step will be integrating the data with my website for in-context health metrics."
+    ],
+    "content": [
+      {
+        "html": "I finally figured out how to automatically sync my Apple HealthKit metrics to a data lake in S3. I\u2019ve been wanting to do this for a very long time. Next step will be integrating the data with my website for in-context health metrics.",
+        "value": "I finally figured out how to automatically sync my Apple HealthKit metrics to a data lake in S3. I\u2019ve been wanting to do this for a very long time. Next step will be integrating the data with my website for in-context health metrics."
+      }
+    ],
+    "url": [
+      "/2021/i-finally-figured-out-how-to-automatically"
+    ],
+    "published": [
+      "2021-02-23T08:02:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Have you looked at Simon Willison's Datasette?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Have you looked at Simon Willison's Datasette?</p>",
+              "value": "@cleverdevil Have you looked at Simon Willison's Datasette?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8wNjQ5Y2RkNTNkZGYxMTQ2MzA4ZjMxNmIzNDA2Zjk3Zj9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "jeremycherfas"
+                ],
+                "url": [
+                  "https://micro.blog/jeremycherfas"
+                ]
+              },
+              "value": "jeremycherfas"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jeremycherfas/11062267"
+          ]
+        },
+        "value": "https://micro.blog/jeremycherfas/11062267"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jeremycherfas I have! Its quite cool, but not such a good fit for my use case. I like having all of my data in a private S3 bucket. Then, I can use all of the AWS data services to do things like transformation, querying, machine learning, etc."
+          ],
+          "content": [
+            {
+              "html": "<p>@jeremycherfas I have! Its quite cool, but not such a good fit for my use case. I like having all of my data in a private S3 bucket. Then, I can use all of the AWS data services to do things like transformation, querying, machine learning, etc.</p>",
+              "value": "@jeremycherfas I have! Its quite cool, but not such a good fit for my use case. I like having all of my data in a private S3 bucket. Then, I can use all of the AWS data services to do things like transformation, querying, machine learning, etc."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/11063799"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/11063799"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Fair enough. For lesser mortals, like me, it is pretty amazing what it is capable of."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Fair enough. For lesser mortals, like me, it is pretty amazing what it is capable of.</p>",
+              "value": "@cleverdevil Fair enough. For lesser mortals, like me, it is pretty amazing what it is capable of."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8wNjQ5Y2RkNTNkZGYxMTQ2MzA4ZjMxNmIzNDA2Zjk3Zj9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "jeremycherfas"
+                ],
+                "url": [
+                  "https://micro.blog/jeremycherfas"
+                ]
+              },
+              "value": "jeremycherfas"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jeremycherfas/11066742"
+          ]
+        },
+        "value": "https://micro.blog/jeremycherfas/11066742"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Awesome! Code or blog post? \ud83d\ude06"
+          ],
+          "content": [
+            {
+              "html": "<p>Awesome! Code or blog post? \ud83d\ude06</p>",
+              "value": "Awesome! Code or blog post? \ud83d\ude06"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square"
+                ],
+                "name": [
+                  "John Ritsema"
+                ],
+                "url": [
+                  "https://twitter.com/jritsema"
+                ]
+              },
+              "value": "John Ritsema"
+            }
+          ],
+          "url": [
+            "https://twitter.com/jritsema/status/1364586789575548931"
+          ]
+        },
+        "value": "https://twitter.com/jritsema/status/1364586789575548931"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I hope a blog post is en-route! \ud83d\ude01"
+          ],
+          "content": [
+            {
+              "html": "<p>I hope a blog post is en-route! \ud83d\ude01</p>",
+              "value": "I hope a blog post is en-route! \ud83d\ude01"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDY5Njc3MjkwNjkxOTUyNjQvelZNN3FXbEsuanBn/300/square"
+                ],
+                "name": [
+                  "Eddie @ home"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ]
+              },
+              "value": "Eddie @ home"
+            }
+          ],
+          "url": [
+            "https://twitter.com/EddieHinkle/status/1364694097483685894"
+          ]
+        },
+        "value": "https://twitter.com/EddieHinkle/status/1364694097483685894"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health"
+          ],
+          "content": [
+            {
+              "html": "<p>I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health</p>",
+              "value": "I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364701261744906240"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1364701261744906240"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health"
+          ],
+          "content": [
+            {
+              "html": "<p>I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health</p>",
+              "value": "I will definitely write a blog post at some point! For now, check out the GitHub project and README. github.com/cleverdevil/he\u2026 The link is also now public on my site cleverdevil.io/health"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364701363238629377"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1364701363238629377"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Awesome, thanks! \ud83d\udcaf"
+          ],
+          "content": [
+            {
+              "html": "<p>Awesome, thanks! \ud83d\udcaf</p>",
+              "value": "Awesome, thanks! \ud83d\udcaf"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square"
+                ],
+                "name": [
+                  "John Ritsema"
+                ],
+                "url": [
+                  "https://twitter.com/jritsema"
+                ]
+              },
+              "value": "John Ritsema"
+            }
+          ],
+          "url": [
+            "https://twitter.com/jritsema/status/1364731514894880771"
+          ]
+        },
+        "value": "https://twitter.com/jritsema/status/1364731514894880771"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1364123578267021314",
+      "https://mastodon.social/@cleverdevil/105779520281316157"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "a53b5389a606565ee617756181e33b39"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364123578267021314#favorited-by-20292370"
+          ],
+          "published": [
+            "2021-02-23T17:31:30+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "John Ritsema"
+                ],
+                "url": [
+                  "https://twitter.com/jritsema"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square John Ritsema"
+            }
+          ]
+        },
+        "value": "John Ritsema"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364123578267021314#favorited-by-136529416"
+          ],
+          "published": [
+            "2021-02-23T17:31:56+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Michael Langford"
+                ],
+                "url": [
+                  "https://twitter.com/mj_langford"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg4NzM2NzA4MTMwMTMzMTk2OC9JTXA0bkVWSi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg4NzM2NzA4MTMwMTMzMTk2OC9JTXA0bkVWSi5qcGc,/300/square Michael Langford"
+            }
+          ]
+        },
+        "value": "Michael Langford"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364123578267021314#favorited-by-308803734"
+          ],
+          "published": [
+            "2021-02-24T22:12:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie @ home"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDY5Njc3MjkwNjkxOTUyNjQvelZNN3FXbEsuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDY5Njc3MjkwNjkxOTUyNjQvelZNN3FXbEsuanBn/300/square Eddie @ home"
+            }
+          ]
+        },
+        "value": "Eddie @ home"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-23T08:00:04Z",
+      "year": 2021,
+      "month": 2,
+      "day": 23,
+      "hour": 8,
+      "minute": 0,
+      "x": -118.37032928458682,
+      "y": 33.81544675755291,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": "LaCour"
+    }
+  }
+}

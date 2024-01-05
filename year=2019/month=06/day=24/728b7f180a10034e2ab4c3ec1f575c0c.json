@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-106-tales-from-the-elder-days"
+    ],
+    "published": [
+      "2019-06-24T20:05:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.7\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.7\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.7\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-106-tales-from-the-elder-days/annotations/3e04bd39d2a747dd6650d20af4d75c26"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-106-tales-from-the-elder-days/annotations/3e04bd39d2a747dd6650d20af4d75c26"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "728b7f180a10034e2ab4c3ec1f575c0c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-25T00:00:12Z",
+      "year": 2019,
+      "month": 6,
+      "day": 25,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.36957432862349,
+      "y": 33.82702972271252,
+      "altitude": 35,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 106: Tales from the Elder Days"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/57fcffe6d79ed6f69baaba98f1408a22/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INd4IWY"
+        ],
+        "content": [
+          {
+            "html": "<p>Provided it makes it into the final edit, your hosts finally discuss the Japanese Moving Video.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Provided it makes it into the final edit, your hosts finally discuss the Japanese Moving Video.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

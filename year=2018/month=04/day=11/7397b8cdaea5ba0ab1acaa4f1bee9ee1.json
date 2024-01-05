@@ -1,0 +1,127 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I've considered using DynamoDB, but its designed for massive scale, and requires a fair amount of tweaking and fiddling. Overkill. I could just store everything in S3, and build indexes manually, but that seems inefficient."
+    ],
+    "content": [
+      {
+        "html": "I've considered using DynamoDB, but its designed for massive scale, and requires a fair amount of tweaking and fiddling. Overkill. I could just store everything in S3, and build indexes manually, but that seems inefficient.",
+        "value": "I've considered using DynamoDB, but its designed for massive scale, and requires a fair amount of tweaking and fiddling. Overkill. I could just store everything in S3, and build indexes manually, but that seems inefficient."
+      }
+    ],
+    "url": [
+      "/2018/ive-considered-using-dynamodb-but-its-designed"
+    ],
+    "published": [
+      "2018-04-11T15:11:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "So you are planning a new @withknown backend?"
+          ],
+          "content": [
+            {
+              "html": "<p>So you are planning a new @withknown backend?</p>",
+              "value": "So you are planning a new @withknown backend?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square"
+                ],
+                "name": [
+                  "Johannes Ernst"
+                ],
+                "url": [
+                  "https://upon2020.com/"
+                ]
+              },
+              "value": "Johannes Ernst"
+            }
+          ],
+          "url": [
+            "https://twitter.com/Johannes_Ernst/status/984117304878182401"
+          ]
+        },
+        "value": "https://twitter.com/Johannes_Ernst/status/984117304878182401"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/984086624983244806"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "7397b8cdaea5ba0ab1acaa4f1bee9ee1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/984086624983244806?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F984086624983244806%2F783092"
+          ],
+          "published": [
+            "2018-04-11T15:37:44+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTQ3NzgzMzE0MDM1MDk3Ni85RmMzU29fZy5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTQ3NzgzMzE0MDM1MDk3Ni85RmMzU29fZy5qcGc,/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      }
+    ]
+  }
+}

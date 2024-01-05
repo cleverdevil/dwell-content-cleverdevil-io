@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Shrimp By You"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Shrimp By You"
+          ],
+          "latitude": [
+            "33.793646231608"
+          ],
+          "longitude": [
+            "-118.33393335342"
+          ]
+        },
+        "value": "Shrimp By You"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Shrimp By You"
+          ],
+          "latitude": [
+            "33.793646231608"
+          ],
+          "longitude": [
+            "-118.33393335342"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner date.</p>",
+        "value": "Dinner date."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-shrimp-by-you"
+    ],
+    "published": [
+      "2017-07-03T01:55:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Shrimp By You!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Shrimp By You!</p>",
+              "value": "Your first check-in at Shrimp By You!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/089d191112d05ed3a091df0c4e52b176"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5959a414e65d0c64b41ae1cc/a7b8cca9d5c3e4616b9b5ef9c151c31e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5959a414e65d0c64b41ae1cc/a7b8cca9d5c3e4616b9b5ef9c151c31e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5959a414e65d0c64b41ae1cc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c91a9f11ab3a26e3e9ce5e80307f222b"
+    ]
+  }
+}

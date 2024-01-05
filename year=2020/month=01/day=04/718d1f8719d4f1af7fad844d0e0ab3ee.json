@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-278-the-2019-upgradies"
+    ],
+    "published": [
+      "2020-01-04T20:33:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 54.11\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 54.11\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 54.11\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-278-the-2019-upgradies/annotations/7ec0e86a3c5a693eebed8a44dfc16e01"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-278-the-2019-upgradies/annotations/7ec0e86a3c5a693eebed8a44dfc16e01"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "718d1f8719d4f1af7fad844d0e0ab3ee"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-05T06:42:18Z",
+      "year": 2020,
+      "month": 1,
+      "day": 5,
+      "hour": 6,
+      "minute": 42,
+      "x": -118.37033526736309,
+      "y": 33.81546205661078,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 278: The 2019 Upgradies"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f794e767fc16a458d42f56ace006245c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9nnxxU"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for the Upgradies! Myke and Jason discuss their favorites of 2019, take the input of 1500 Upgradians, and hand out awards in numerous categories! Only the finest will walk away with the most coveted of titles: Upgradies Winner.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s time for the Upgradies! Myke and Jason discuss their favorites of 2019, take the input of 1500 Upgradians, and hand out awards in numerous categories! Only the finest will walk away with the most coveted of titles: Upgradies Winner.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

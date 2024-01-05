@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/349-six-colors-and-not-a-color"
+    ],
+    "published": [
+      "2021-04-21T20:51:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "314e9bf26944687199f7eccc3492e65f"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-21T23:50:48Z",
+      "year": 2021,
+      "month": 4,
+      "day": 21,
+      "hour": 23,
+      "minute": 50,
+      "x": -118.37033396738383,
+      "y": 33.815460825368,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 349: Six Colors and Not a Color"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c947c6941299c0ba02702ac3da0a4322/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9ajTqg"
+        ],
+        "content": [
+          {
+            "html": "<p>New iMacs and iPads! The long-anticipated debut of AirTags! Podcast subscriptions! A new Apple TV remote! Ted Lasso\u2019s secret shortbread recipe! Fresh from viewing Apple\u2019s latest event, Jason and Myke break down all the announcements.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "New iMacs and iPads! The long-anticipated debut of AirTags! Podcast subscriptions! A new Apple TV remote! Ted Lasso\u2019s secret shortbread recipe! Fresh from viewing Apple\u2019s latest event, Jason and Myke break down all the announcements.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

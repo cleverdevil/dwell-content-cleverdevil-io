@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Din Tai Fung"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Din Tai Fung"
+          ],
+          "latitude": [
+            "33.83331"
+          ],
+          "longitude": [
+            "-118.35044"
+          ]
+        },
+        "value": "Din Tai Fung"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Din Tai Fung"
+          ],
+          "latitude": [
+            "33.83331"
+          ],
+          "longitude": [
+            "-118.35044"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dumplings!</p>",
+        "value": "Dumplings!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-din-tai-fung"
+    ],
+    "published": [
+      "2017-04-10T01:21:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f5d82bc2b718b9f4bac2293f0e9fe6b8"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eaddfba36ecd2a1832e79b/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eaddfba36ecd2a1832e79b/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Din Tai Fung!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Din Tai Fung!</p>",
+              "value": "Your first check-in at Din Tai Fung!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f5d82bc2b718b9f4bac2293f0e9fe6b8"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eaddfba36ecd2a1832e79b/690076fc67c6bc3ed0309e4d545a6777"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eaddfba36ecd2a1832e79b/690076fc67c6bc3ed0309e4d545a6777"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58eaddfba36ecd2a1832e79b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d226a56910a5630c5920fe928aaddb94"
+    ]
+  }
+}

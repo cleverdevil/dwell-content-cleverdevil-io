@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-237-new-imacs-ipads-and-the-2019-march-event"
+    ],
+    "published": [
+      "2019-03-20T02:00:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Light Rain with a temperature of 56.57\u00b0F and 91% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Light Rain with a temperature of 56.57\u00b0F and 91% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Light Rain with a temperature of 56.57\u00b0F and 91% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-237-new-imacs-ipads-and-the-2019-march-event/annotations/384f033b09ad4de323ff14a3322ef9d7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-237-new-imacs-ipads-and-the-2019-march-event/annotations/384f033b09ad4de323ff14a3322ef9d7"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4d4b27bcdb637f5d9d4e65323853159e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-20T04:02:06Z",
+      "year": 2019,
+      "month": 3,
+      "day": 20,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37029485357935,
+      "y": 33.815429343274516,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 237: New iMacs, iPads, and the 2019 March Event Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d03341371f01c5d4d557d26c5864931f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8vPRGM"
+        ],
+        "content": [
+          {
+            "html": "<p>The new iMacs are here, and Jason has an exclusive interview with the iMac product manager. We also discuss the new iPads, and then Jason and Myke draft what they think will happen at next week\u2019s Apple Event!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The new iMacs are here, and Jason has an exclusive interview with the iMac product manager. We also discuss the new iPads, and then Jason and Myke draft what they think will happen at next week\u2019s Apple Event!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

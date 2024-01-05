@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played The Legend of Zelda: Link's Awakening\nPlayed on the Nintendo Switch.\nPlayed for 75 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/c5d81c241df635cca36f1796bc488bf9/thumb.jpg"
+    ],
+    "name": [
+      "The Legend of Zelda: Link's Awakening"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 75 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 75 minutes."
+      }
+    ],
+    "url": [
+      "/2019/the-legend-of-zelda-links-awakening-5"
+    ],
+    "published": [
+      "2019-10-28T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.23\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.23\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.23\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-legend-of-zelda-links-awakening-5/annotations/7c0a3cc3d074290ccaf5d705ba02f606"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-legend-of-zelda-links-awakening-5/annotations/7c0a3cc3d074290ccaf5d705ba02f606"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "46f82959385a1b53ff5be1e20894a35e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-28T11:58:11Z",
+      "year": 2019,
+      "month": 10,
+      "day": 28,
+      "hour": 11,
+      "minute": 58,
+      "x": -118.37055827978526,
+      "y": 33.81528914130049,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

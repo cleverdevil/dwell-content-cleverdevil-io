@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/355-the-wwdc-keynote-draft-2021"
+    ],
+    "published": [
+      "2021-06-03T07:54:22+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6970f2dc2a0e0c46f72f061845dafc35"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-03T07:57:07Z",
+      "year": 2021,
+      "month": 6,
+      "day": 3,
+      "hour": 7,
+      "minute": 57,
+      "x": -118.37055656798378,
+      "y": 33.81530645921016,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 355: The WWDC Keynote Draft 2021"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/53a9b539a10f7aa954b227f7df8ebb37/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm94xio0"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for our sixth annual competition regarding what will happen at Apple\u2019s WWDC keynote! Is this the year iPadOS gets all the love? Will there be Mac hardware? Can Myke and Jason figure out the future of HomeKit and watchOS?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s time for our sixth annual competition regarding what will happen at Apple\u2019s WWDC keynote! Is this the year iPadOS gets all the love? Will there be Mac hardware? Can Myke and Jason figure out the future of HomeKit and watchOS?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Palos Verdes Village Pet Hospital"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palos Verdes Village Pet Hospital"
+          ],
+          "latitude": [
+            "33.815851201981"
+          ],
+          "longitude": [
+            "-118.37525052124"
+          ]
+        },
+        "value": "Palos Verdes Village Pet Hospital"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palos Verdes Village Pet Hospital"
+          ],
+          "latitude": [
+            "33.815851201981"
+          ],
+          "longitude": [
+            "-118.37525052124"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Unhappy pug!</p>",
+        "value": "Unhappy pug!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-palos-verdes-village-pet-hospital-1"
+    ],
+    "published": [
+      "2017-08-23T00:02:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 1943 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 1943 miles since your last check-in!</p>",
+              "value": "You've traveled 1943 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f8cbb50f454cc74c95f199fd92807043"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599cc6174382ab149889b7ed/e28234bce768335df79d4364abb1a6a4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599cc6174382ab149889b7ed/e28234bce768335df79d4364abb1a6a4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599cc6174382ab149889b7ed"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "986784739b64c9b8f7a9f057129a1b7c"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Ooh, fun, an SDN startup pitch deck! I haven\u2019t seen one of those in a while."
+    ],
+    "content": [
+      {
+        "html": "Ooh, fun, an SDN startup pitch deck! I haven\u2019t seen one of those in a while.",
+        "value": "Ooh, fun, an SDN startup pitch deck! I haven\u2019t seen one of those in a while."
+      }
+    ],
+    "url": [
+      "/2019/ooh-fun-an-sdn-startup-pitch-deck"
+    ],
+    "published": [
+      "2019-03-04T22:05:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.44\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.44\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.44\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/ooh-fun-an-sdn-startup-pitch-deck/annotations/deb225454371bca71e396d2680ce1ec3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/ooh-fun-an-sdn-startup-pitch-deck/annotations/deb225454371bca71e396d2680ce1ec3"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1102691617197223937",
+      "https://mastodon.social/@cleverdevil/101694645470412130"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "2550903961ecb8cff8cbedc5538d17ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-04T22:01:44Z",
+      "year": 2019,
+      "month": 3,
+      "day": 4,
+      "hour": 22,
+      "minute": 1,
+      "x": -118.39503717779036,
+      "y": 33.918308108958065,
+      "altitude": 31,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": ""
+    }
+  }
+}

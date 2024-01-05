@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-240-i-got-no-time-for-automator"
+    ],
+    "published": [
+      "2019-04-29T15:34:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.72\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.72\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.72\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-240-i-got-no-time-for-automator/annotations/8bd8088c8890536b0dce5d0d50d688ab"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-240-i-got-no-time-for-automator/annotations/8bd8088c8890536b0dce5d0d50d688ab"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c0471ecdb23bacacfa6fac5cefac9f09"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-29T15:17:13Z",
+      "year": 2019,
+      "month": 4,
+      "day": 29,
+      "hour": 15,
+      "minute": 17,
+      "x": -118.4070919498845,
+      "y": 33.94748951244847,
+      "altitude": 36,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.7400000095367432,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 240: I Got No Time for Automator"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b2c3259e86d97a5d0d8412b3a53d0669/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5ayE9M"
+        ],
+        "content": [
+          {
+            "html": "<p>The European duo covers the latest in iPad keyboards (and DIY kickstands) before they consider the future of Mac automation and Shortcuts. At the end, Myke is sad about folding phones.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The European duo covers the latest in iPad keyboards (and DIY kickstands) before they consider the future of Mac automation and Shortcuts. At the end, Myke is sad about folding phones.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

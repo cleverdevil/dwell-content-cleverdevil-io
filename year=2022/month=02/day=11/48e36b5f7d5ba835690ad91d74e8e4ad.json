@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Kauai Inn"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Kauai Inn"
+          ],
+          "latitude": [
+            "21.951190137835"
+          ],
+          "longitude": [
+            "-159.36321789246"
+          ]
+        },
+        "value": "The Kauai Inn"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Kauai Inn"
+          ],
+          "latitude": [
+            "21.951190137835"
+          ],
+          "longitude": [
+            "-159.36321789246"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-kauai-inn"
+    ],
+    "published": [
+      "2022-02-11T03:38:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6205da403a017631b331dc69/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6205da403a017631b331dc69/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6205da403a017631b331dc69"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "48e36b5f7d5ba835690ad91d74e8e4ad"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-11T03:35:29Z",
+      "year": 2022,
+      "month": 2,
+      "day": 11,
+      "hour": 3,
+      "minute": 35,
+      "x": -159.35553585651755,
+      "y": 21.955867344700483,
+      "altitude": 3,
+      "motion": [
+        "driving"
+      ],
+      "speed": 8,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": ""
+    }
+  }
+}

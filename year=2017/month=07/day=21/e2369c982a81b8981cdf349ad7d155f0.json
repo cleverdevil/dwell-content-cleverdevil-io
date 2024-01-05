@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"DreamHost West\" src=\"https://cleverdevil.io/file/0f73611187491da24d492245179b9c3d\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "DreamHost West"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-40"
+    ],
+    "published": [
+      "2017-07-21T15:51:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're gonna need a frame for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>You're gonna need a frame for that photo.</p>",
+              "value": "You're gonna need a frame for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/03e21ef2f21024341e4c4483518b6f9e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597222fe1987ec1897a61bab/23f8cee0d7772beccef14dfed8aa3b24"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597222fe1987ec1897a61bab/23f8cee0d7772beccef14dfed8aa3b24"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597222fe1987ec1897a61bab"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e2369c982a81b8981cdf349ad7d155f0"
+    ]
+  }
+}

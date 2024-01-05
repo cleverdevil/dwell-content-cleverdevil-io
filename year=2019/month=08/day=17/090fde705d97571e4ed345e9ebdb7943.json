@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/339-ketchup-momentum"
+    ],
+    "published": [
+      "2019-08-17T07:10:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 62.61\u00b0F and 93% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 62.61\u00b0F and 93% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 62.61\u00b0F and 93% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/339-ketchup-momentum/annotations/d01fff744d8d3cba7754682e7413eb09"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/339-ketchup-momentum/annotations/d01fff744d8d3cba7754682e7413eb09"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "090fde705d97571e4ed345e9ebdb7943"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-17T07:29:13Z",
+      "year": 2019,
+      "month": 8,
+      "day": 17,
+      "hour": 7,
+      "minute": 29,
+      "x": -118.37052353340654,
+      "y": 33.815336994585415,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 339: Ketchup Momentum"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2d2ed513735757c9aba8edc184db829e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXKJY5w"
+        ],
+        "content": [
+          {
+            "html": "<p>Cheese graters, condiment battles, competitive electric cars, then maybe some tech stuff if we have time.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Cheese graters, condiment battles, competitive electric cars, then maybe some tech stuff if we have time.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

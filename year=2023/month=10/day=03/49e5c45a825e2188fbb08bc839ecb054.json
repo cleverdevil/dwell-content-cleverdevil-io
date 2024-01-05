@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/89-raintember"
+    ],
+    "published": [
+      "2023-10-03T03:04:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "49e5c45a825e2188fbb08bc839ecb054"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-03T04:01:26Z",
+      "year": 2023,
+      "month": 10,
+      "day": 3,
+      "hour": 4,
+      "minute": 1,
+      "x": -116.51717064669471,
+      "y": 33.89078909745781,
+      "altitude": 191,
+      "motion": [
+        "driving"
+      ],
+      "speed": 36,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "Smartphone_connect_cdcb42"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to #89: Raintember"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7e7ac08cf3af5f31167de8ae49aff8b3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+BA5zEt1jyA"
+        ],
+        "content": [
+          {
+            "html": "<p>#89: Raintember</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys: A Miami Hurricanes Podcast</p>",
+            "value": "#89: Raintember\nBy Orange Bowl Boys: A Miami Hurricanes Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

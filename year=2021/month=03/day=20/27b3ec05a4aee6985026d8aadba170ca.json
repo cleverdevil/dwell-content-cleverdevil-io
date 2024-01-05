@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/337-the-mini-version-of-nothing"
+    ],
+    "published": [
+      "2021-03-20T06:50:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "27b3ec05a4aee6985026d8aadba170ca"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-20T07:47:59Z",
+      "year": 2021,
+      "month": 3,
+      "day": 20,
+      "hour": 7,
+      "minute": 47,
+      "x": -118.37060485430028,
+      "y": 33.81529389911313,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 337: The Mini Version of Nothing"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9cc245bc3f55294f9a86f48579ce87ef/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6BVWzE"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen is accused of flip-flopping, while Myke has updated some firmware. Federico has reviewed a new iPad desktop stand and then the three descend into a Round Robin of iPhone features that wouldn\u2019t exist if Apple was starting over in 2021.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen is accused of flip-flopping, while Myke has updated some firmware. Federico has reviewed a new iPad desktop stand and then the three descend into a Round Robin of iPhone features that wouldn\u2019t exist if Apple was starting over in 2021.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

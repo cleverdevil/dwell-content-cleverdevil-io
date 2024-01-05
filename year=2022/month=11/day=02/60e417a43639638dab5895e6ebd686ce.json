@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943680365224"
+          ],
+          "longitude": [
+            "-118.40607404709"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943680365224"
+          ],
+          "longitude": [
+            "-118.40607404709"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>One night in SFO.</p>",
+        "value": "One night in SFO."
+      }
+    ],
+    "url": [
+      "/2022/checked-into-los-angeles-international-airport-lax-120"
+    ],
+    "published": [
+      "2022-11-02T18:03:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming!</p>",
+              "value": "This place is swarming!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6362b0ff9b05102ccd503f82/579d6ae3b492d69d9694b0034e24091e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6362b0ff9b05102ccd503f82/579d6ae3b492d69d9694b0034e24091e"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6362b0ff9b05102ccd503f82/113450713f79cf57706826ac4643e2af"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6362b0ff9b05102ccd503f82/113450713f79cf57706826ac4643e2af"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6362b0ff9b05102ccd503f82"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "60e417a43639638dab5895e6ebd686ce"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-02T17:59:46Z",
+      "year": 2022,
+      "month": 11,
+      "day": 2,
+      "hour": 17,
+      "minute": 59,
+      "x": -118.39595060337024,
+      "y": 33.919095005400976,
+      "altitude": 32,
+      "motion": [
+        "driving"
+      ],
+      "speed": 19,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  }
+}

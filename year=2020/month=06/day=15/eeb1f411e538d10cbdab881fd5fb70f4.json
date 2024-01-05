@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "bs_labs: Re-engine, Not Re-imagine"
+    ],
+    "like-of": [
+      "http://bslabs.net/2020/06/12/reengine-not-reimagine/"
+    ],
+    "url": [
+      "/2020/bs_labs-re-engine-not-re-imagine"
+    ],
+    "published": [
+      "2020-06-15T03:43:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.75\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.75\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.75\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/bs_labs-re-engine-not-re-imagine/annotations/ccc7768a4929472353cabc299f59292f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/bs_labs-re-engine-not-re-imagine/annotations/ccc7768a4929472353cabc299f59292f"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "eeb1f411e538d10cbdab881fd5fb70f4"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-15T03:36:29Z",
+      "year": 2020,
+      "month": 6,
+      "day": 15,
+      "hour": 3,
+      "minute": 36,
+      "x": -118.37029733815038,
+      "y": 33.815433455113805,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

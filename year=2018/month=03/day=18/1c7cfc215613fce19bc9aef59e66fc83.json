@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-19-soft-launching-monocle-and-aperture"
+    ],
+    "published": [
+      "2018-03-18T22:42:40+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1c7cfc215613fce19bc9aef59e66fc83"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 19: Soft-Launching Monocle and Aperture"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d44353178d9e042007c5bc6651e60d9c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+KZH9Kd7uc"
+        ],
+        "content": [
+          {
+            "html": "<p>Soft-launching Monocle and Aperture, and thinking about private feeds</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Percolator</p>",
+            "value": "Soft-launching Monocle and Aperture, and thinking about private feeds\nBy Percolator"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

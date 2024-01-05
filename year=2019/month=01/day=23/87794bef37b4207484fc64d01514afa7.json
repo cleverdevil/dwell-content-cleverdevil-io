@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Cost of a Centralized Web // Bright Pixels"
+    ],
+    "like-of": [
+      "https://brightpixels.blog/2019/01/the-cost-of-a-centralized-web/"
+    ],
+    "url": [
+      "/2019/the-cost-of-a-centralized-web-bright-pixels"
+    ],
+    "published": [
+      "2019-01-23T01:58:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.59\u00b0F and 19% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.59\u00b0F and 19% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.59\u00b0F and 19% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-cost-of-a-centralized-web-bright-pixels/annotations/e01f85dc3261471fd77407ba228a0e11"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-cost-of-a-centralized-web-bright-pixels/annotations/e01f85dc3261471fd77407ba228a0e11"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "87794bef37b4207484fc64d01514afa7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-23T01:56:11Z",
+      "year": 2019,
+      "month": 1,
+      "day": 23,
+      "hour": 1,
+      "minute": 56,
+      "x": -118.41150452871236,
+      "y": 33.9174047521457,
+      "altitude": 28,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "Mission"
+    }
+  }
+}

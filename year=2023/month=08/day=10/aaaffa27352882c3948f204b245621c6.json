@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/547-own-your-pricing"
+    ],
+    "published": [
+      "2023-08-10T16:07:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "aaaffa27352882c3948f204b245621c6"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-10T20:03:21Z",
+      "year": 2023,
+      "month": 8,
+      "day": 10,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.37032840681655,
+      "y": 33.81539995226966,
+      "altitude": 0,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 547: Own Your Pricing"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0e10985f6eaba4da6e2d1b3b52f2cf64/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfekv53I"
+        ],
+        "content": [
+          {
+            "html": "<p>547: Own Your Pricing</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "547: Own Your Pricing\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

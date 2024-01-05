@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/512-owned-with-a-p"
+    ],
+    "published": [
+      "2022-12-12T23:04:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fcb76d17d20d52977d624194b1f11e12"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-12-13T00:02:52Z",
+      "year": 2022,
+      "month": 12,
+      "day": 13,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.36132618016916,
+      "y": 33.88994567374586,
+      "altitude": 20,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.7900000214576721,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 512: Owned With a P"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9337f07e6fc4acaf3604d2e482a5dbb6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIiK6pI"
+        ],
+        "content": [
+          {
+            "html": "<p>Major new iCloud security features, more App Store price tiers, updates on Mastodon and Blackbird, and the wonderful world of printers.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Major new iCloud security features, more App Store price tiers, updates on Mastodon and Blackbird, and the wonderful world of printers.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

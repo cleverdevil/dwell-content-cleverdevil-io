@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Disney California Adventure Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": "Disney California Adventure Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-disney-california-adventure-park-5"
+    ],
+    "published": [
+      "2023-09-29T01:31:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Disneyland Resort for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Disneyland Resort for more coins!</p>",
+              "value": "Keep checking in to places inside Disneyland Resort for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/651628e6b2815e73f34b658e/ea9804de209ee7d3dcec7e0f264a3ddf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/651628e6b2815e73f34b658e/ea9804de209ee7d3dcec7e0f264a3ddf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/651628e6b2815e73f34b658e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a0aed9e6d38882d1daea012d893d4142"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-29T01:24:09Z",
+      "year": 2023,
+      "month": 9,
+      "day": 29,
+      "hour": 1,
+      "minute": 24,
+      "x": -117.92269680830299,
+      "y": 33.80982012465481,
+      "altitude": 38,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

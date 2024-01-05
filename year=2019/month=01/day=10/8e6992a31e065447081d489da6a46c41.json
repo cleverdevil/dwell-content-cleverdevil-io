@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/213-fixing-homepod-for-2019"
+    ],
+    "published": [
+      "2019-01-10T01:22:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8e6992a31e065447081d489da6a46c41"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 213: Fixing HomePod for 2019"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2854f67b1d8906289149ff715c1d4242/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+K8lgAql_U"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple brought an expensive speaker to a commodity assistant war. That was pretty much the narrative around HomePod in 2018. It nailed the computational audio model and AirPlay 2, when that part finally arrived, but a lot of people were too busy\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vector with Rene Ritchie</p>",
+            "value": "Apple brought an expensive speaker to a commodity assistant war. That was pretty much the narrative around HomePod in 2018. It nailed the computational audio model and AirPlay 2, when that part finally arrived, but a lot of people were too busy\u2026\nBy Vector with Rene Ritchie"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

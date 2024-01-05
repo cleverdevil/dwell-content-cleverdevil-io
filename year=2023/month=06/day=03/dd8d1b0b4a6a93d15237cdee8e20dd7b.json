@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/100-toasting-top-four"
+    ],
+    "published": [
+      "2023-06-03T07:47:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dd8d1b0b4a6a93d15237cdee8e20dd7b"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-03T07:49:56Z",
+      "year": 2023,
+      "month": 6,
+      "day": 3,
+      "hour": 7,
+      "minute": 49,
+      "x": -116.38035391061518,
+      "y": 33.701636565868306,
+      "altitude": 130,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 100: Toasting Top Four \ud83e\udd42"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c82132970ca28f5fd83d6d380b104786/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYTQZdw"
+        ],
+        "content": [
+          {
+            "html": "<p>Our 100th-episode spectacular! Here\u2019s to 100 great episodes \u2014 well, 100 episodes, at least \u2014 and more to come.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our 100th-episode spectacular! Here\u2019s to 100 great episodes \u2014 well, 100 episodes, at least \u2014 and more to come.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

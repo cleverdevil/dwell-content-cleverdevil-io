@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Desserts By Patrick"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": "Desserts By Patrick"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Desserts By Patrick\" src=\"https://cleverdevil.io/file/0b5387b69acef5d0a8cca0429b344f3d\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Yum</p>",
+        "value": "Desserts By Patrick\nYum"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-desserts-by-patrick-2"
+    ],
+    "published": [
+      "2017-08-12T03:08:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/687154376249a6ddb8514e4f8032fa29"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/598e7108646e38103d2e6a7f/1ac8f8e58c0d0711dba54ae1b6a76def"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/598e7108646e38103d2e6a7f/1ac8f8e58c0d0711dba54ae1b6a76def"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/598e7108646e38103d2e6a7f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ff5290776520729a48ad7b2c23cc0444"
+    ]
+  }
+}

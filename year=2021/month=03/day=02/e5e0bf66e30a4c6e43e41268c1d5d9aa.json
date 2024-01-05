@@ -1,0 +1,566 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Taking Control of my Personal Health Data"
+    ],
+    "content": [
+      {
+        "html": "<p>Over the past few years, I've invested time and effort into extricating important data and content from external services, and bringing it into systems that I own and control. I've <a href=\"https://cleverdevil.io/2018/freeing-myself-from-facebook\">moved on from Facebook and Instagram</a>, <a href=\"https://cleverdevil.io/2019/tracking-my-movie-tv-and-podcast-activity\">established tracking for my movie, tv, and podcast activity</a>, automatically <a href=\"https://cleverdevil.io/content/locations/\">track my location</a> in <a href=\"https://github.com/cleverdevil/punytrack\">multiple ways</a>, and much more. But, for years now, one type of data has eluded me: my personal health data.</p><p>As of today, that has changed! I'd like to share with you what I've built.</p><h2>Overview of Enhancements</h2><p>My website now features my personal health metrics in several places. First, there is now a <a href=\"https://cleverdevil.io/health\">health section</a> which shows both daily health metrics and historical metrics. You can go backward and forward in time and compare my daily metrics to historical min, max, and average values.</p><p>For the daily metrics, I use the familiar Apple Activity Rings format, and include supporting metrics across a variety of categories, including activity, heart health, and sleep analysis.</p><p><img alt=\"Daily Health Metrics Screenshot\" height=\"205\" src=\"https://cleverdevil.io/file/35c4ef8c4dac4cd73a1137b4b5f3427f/thumb.png\" style=\"margin-left:auto;margin-right:auto;\" width=\"600\"/></p><p>For the historical metrics, I am particularly proud of the visualization. Each metric has a bar representing the minimum, maximum, and average values, and the gradient that is used to fill the bar adjusts to reflect the position of the average value.</p><p><img alt=\"Historical Health Metrics Screenshot\" height=\"303\" src=\"https://cleverdevil.io/file/37fd561b24daad460c1ef21419ec24c2/thumb.png\" style=\"margin-left:auto;margin-right:auto;\" width=\"600\"/></p><p>In addition, I have augmented <a href=\"https://cleverdevil.io/summary/2020/03\">my</a> <a href=\"https://cleverdevil.io/summary/2020/01\">monthly</a> <a href=\"https://cleverdevil.io/summary/2019/10\">summaries</a>.</p><p><img alt=\"Monthly Health Summary Screenshot\" height=\"178\" src=\"https://cleverdevil.io/file/3be948291f8ac5eb38f072f31fb04fc8/thumb.png\" style=\"margin-left:auto;margin-right:auto;\" width=\"600\"/></p><p>Each day is represented by an Activity Ring and can be clicked on to view detailed, in-context metrics for that day.</p><p>Overall, I am quite pleased with how this project has turned out. Navigating through health metrics is snappy, the visualizations are attractive and useful, and it fits in neatly with the rest of my site.</p><p>Now that we've walked through what these features look like in practice, let's discuss how I gather the data and make it useful.</p><h2>Unlocking HealthKit</h2><p>I've owned an Apple Watch since the Series 2 watch was released, and have worn it fairly consistently ever since. As a result, I've got quite a lot of data amassed on my iPhone in <a href=\"https://www.apple.com/ios/health/\">Apple Health</a>. That data is accessible through the Health app, and also via the <a href=\"https://developer.apple.com/documentation/healthkit\">HealthKit APIs</a>. While I am a pretty strong developer, my skillset doesn't include much in the way of iOS development. I've made a few attempts at building an iOS app that will allow me to extract my HealthKit data automatically, but never made it far before I ran out of steam.</p><p>A few weeks ago, I discovered an app called <a href=\"https://apps.apple.com/us/app/health-auto-export-json-csv/id1115567069\">Health Auto Export</a> (which I will refer to as HAE for the rest of this post), which neatly solves the problem. HAE has many great features, but the key feature is \"API Export,\" which allows you to automatically have your HealthKit data sent to an HTTP endpoint in JSON or CSV\u00a0format, with control over time period and aggregation granularity. With this app in hand, I set about creating an API to store, index, and make that data searchable.</p><h2>Introducing Health Lake</h2><p>HAE uses a simple, but nested JSON\u00a0data structure to represent health metrics. Because the data is structured, in plain-text, and will mostly sit at rest, a <a href=\"https://en.wikipedia.org/wiki/Data_lake\">data lake</a> is a natural target to store the data. Data lakes on Amazon Web Services (AWS) are generally implemented with <a href=\"https://aws.amazon.com/s3/\">Amazon S3</a> for storage, as it is well-suited to the use case, is deeply integrated with AWS' data, analytics, and machine learning (DAML) services.</p><p>In order to keep most of the complexity out of my website, I decided to build a microservice which is entirely focused on getting data into the data lake and making it useful. I call this service Health Lake, and <a href=\"https://github.com/cleverdevil/healthlake\">the source is available on GitHub</a>.</p><h3>Sync and Store</h3><p>Let's take a look at the first endpoint of Health Lake, which accepts data from HAE, trasforms it to align with the requirments for AWS's DAML services, and stores it in S3 - <code>HTTP POST /sync</code>.</p><p>HAE structures its data in a nested format:</p><pre><code>{\n    \"data\": {\n        \"metrics\": [\n            {\n                \"units\": \"kcal\",\n                \"name\": \"active_energy\",\n                \"data\": [\n                    {\n                        \"date\": \"2021-01-20 00:00:00 -0800\",\n                        \"qty\": 370.75\n                    },\n                    ...\n                ]\n            },\n            ...\n        ],\n    }\n}\n</code></pre><p>As you can see, the data is nested fairly deeply. In order to simplify my ability to query the data, Health Lake transforms the data to a flatter structure, with each data point being formatted in JSON\u00a0on a single line. On each sync, I create a single object that contains many data points, one per line, in a format like this:</p><pre><code>{\"name\": \"active_energy\", \"date\": \"2021-01-20 00:00:00 -0800\", \"units\": \"kcal\", \"qty\": 370.75 }\n...\n</code></pre><p>Each sync object is stored in my target S3 bucket with the key format:</p><p><code>syncs/&lt;ISO-format date and time of sync&gt;.json</code></p><p>The prefix on the object name is critical, as it enables the indexing and querying of sync data independent from other data in the bucket.</p><h3>Querying the Data Lake</h3><p>Now that we have data being sent to our data lake and stored in an efficient, standardized format, we can focus on making that data searchable. Very often, I use relational databases like MySQL or PostgreSQL to store data and make it searchable with SQL. AWS provides a few great services which allow you to treat your data lake as a series of database tables that can be queried using SQL.</p><p>The first service we'll leverage is <a href=\"https://aws.amazon.com/glue/\">AWS Glue</a>, which provides powerful data integration capabilities:</p><blockquote><p>AWS Glue is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. AWS Glue provides all of the capabilities needed for data integration so that you can start analyzing your data and putting it to use in minutes instead of months.</p><p>Data integration is the process of preparing and combining data for analytics, machine learning, and application development. It involves multiple tasks, such as discovering and extracting data from various sources; enriching, cleaning, normalizing, and combining data; and loading and organizing data in databases, data warehouses, and data lakes.</p></blockquote><p>Using AWS Glue, I created a database called \"health,\" and then created a \"crawler,\" which connects to my data store in S3, walks through all of the data, and attempts to infer the schema based upon hints and classifiers. The crawler can be run manually on-demand, or can be scheduled to run on a regular basis to continuously update the schema as new fields are discovered. Here is what the configuration of my crawler looks like in the AWS Glue console:</p><p><img alt=\"AWS Glue Crawler Configuration Screenshot\" height=\"474\" src=\"https://cleverdevil.io/file/a3b08668d120d1b1c0ab7db1882c84b4/thumb.png\" style=\"margin-left:auto;margin-right:auto;\" width=\"600\"/></p><p>Upon the first run of the crawler, a new table was created in my health database called <code>syncs</code>, which inferred the following schema:</p><p><img alt=\"AWS Glue Table Schema Screenshot\" height=\"439\" src=\"https://cleverdevil.io/file/4f3bff75ab10cdd516698d295b1aea79\" style=\"margin-left:auto;margin-right:auto;\" width=\"300\"/></p><p>I wasn't able to get the crawler to match the date format properly, so I ended up creating a \"view\" which adds a proper column that is a <code>timestamp</code> using the following SQL statement:</p><pre><code>CREATE OR REPLACE VIEW \n    history \nAS SELECT\n    date_parse(substr(date, 1, 19), '%Y-%m-%d %H:%i:%s') as datetime,\n    *\nFROM\n    syncs\n</code></pre><p>Now that our data lake has been crawled, and a database, table, and view have been defined in our AWS Glue Data Catalog, we can use <a href=\"https://aws.amazon.com/athena/\">Amazon Athena</a> to query our data like using standard SQL. Athena is entirely serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.</p><h3>Daily Metrics</h3><p>For our daily metric view, we need a summary of all metrics gathered on a specific day. To accomplish this, I added an endpoint to our microservice:</p><p><code>HTTP GET /detail/&lt;YYYY-MM-DD&gt;</code></p><p>In response to this request, the client will receive a JSON data structure collecting all data points for that day. Under the hood, the microservice is running the following SQL query:</p><pre><code>SELECT * FROM history \nWHERE\n    datetime &gt;= TIMESTAMP 'YYYY-MM-DD 00:00:00'\nAND\n    datetime &lt;= TIMESTAMP 'YYYY-MM-DD 23:59:59'\n</code></pre><p>Because I pay for every query that I run on Athena, and to achieve great performance, I store the query results in the proper format for the client in S3 after I run the query. I then implemented some intelligence to decide if, for any given request, I should pull from the cache, or regenerate fresh data. Take a look at <a href=\"https://github.com/cleverdevil/healthlake/blob/97fecaa7d651b09a11c100e672d9a3e64f6f11da/healthlake.py#L311\">the source code</a> for more detail.</p><h3>Monthly Metrics</h3><p>To show our monthly summaries, we need to get data for each day of the month. Rather than sending a request and query for every single day of the month, I decided to implement another endpoint to our microservice:</p><p><code>HTTP GET /summary/&lt;YYYY-MM&gt;</code></p><p>In response to this request, the client will receive a JSON data structure collecting all data points for the month, sorted by date. To accomplish this, I run the following SQL query:</p><pre><code>SELECT * FROM history\nWHERE\n    datetime &gt;= TIMESTAMP 'YYYY-MM-01 00:00:00'\nAND\n    datetime &lt;= TIMESTAMP 'YYYY-MM-31 00:00:00'\n</code></pre><p>The start and end range are actually calculated to ensure I have the proper end date, as not every month has the same number of days. Again, to save costs and improve performance, results are intelligently cached in our S3 bucket.</p><h3>Global Metrics</h3><p>Generating a global summary of all data points in the data lake was a bit more challenging. To make things more efficient, I created another view in my database <a href=\"https://github.com/cleverdevil/healthlake/blob/main/schemas/global_metrics.sql\">with this query</a>. Results are, again, <a href=\"https://github.com/cleverdevil/healthlake/blob/97fecaa7d651b09a11c100e672d9a3e64f6f11da/healthlake.py#L369\">intelligently cached</a>.</p><h2>Website Integration</h2><p>With all of this great data available to me, it was time to integrate it with my website, which uses the <a href=\"https://github.com/idno/known\">Known CMS</a>. I have created <a href=\"https://github.com/cleverdevil/CleverCustomize\">a Known plugin</a> that provides enhancements that are specific to my website. Using this plugin, I simply send requests to the Health Lake microservice, parse the JSON, and create my visualizations.</p><h2>Conclusions</h2><p>Overall, I am quite pleased that I have been able to integrate this data into my website, and more importantly, to free the data from its walled garden and place it under my control and ownership.</p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a></p>",
+        "value": "Over the past few years, I've invested time and effort into extricating important data and content from external services, and bringing it into systems that I own and control. I've moved on from Facebook and Instagram, established tracking for my movie, tv, and podcast activity, automatically track my location in multiple ways, and much more. But, for years now, one type of data has eluded me: my personal health data.\nAs of today, that has changed! I'd like to share with you what I've built.Overview of Enhancements\nMy website now features my personal health metrics in several places. First, there is now a health section which shows both daily health metrics and historical metrics. You can go backward and forward in time and compare my daily metrics to historical min, max, and average values.\nFor the daily metrics, I use the familiar Apple Activity Rings format, and include supporting metrics across a variety of categories, including activity, heart health, and sleep analysis.\nDaily Health Metrics Screenshot\nFor the historical metrics, I am particularly proud of the visualization. Each metric has a bar representing the minimum, maximum, and average values, and the gradient that is used to fill the bar adjusts to reflect the position of the average value.\nHistorical Health Metrics Screenshot\nIn addition, I have augmented my monthly summaries.\nMonthly Health Summary Screenshot\nEach day is represented by an Activity Ring and can be clicked on to view detailed, in-context metrics for that day.\nOverall, I am quite pleased with how this project has turned out. Navigating through health metrics is snappy, the visualizations are attractive and useful, and it fits in neatly with the rest of my site.\nNow that we've walked through what these features look like in practice, let's discuss how I gather the data and make it useful.Unlocking HealthKit\nI've owned an Apple Watch since the Series 2 watch was released, and have worn it fairly consistently ever since. As a result, I've got quite a lot of data amassed on my iPhone in Apple Health. That data is accessible through the Health app, and also via the HealthKit APIs. While I am a pretty strong developer, my skillset doesn't include much in the way of iOS development. I've made a few attempts at building an iOS app that will allow me to extract my HealthKit data automatically, but never made it far before I ran out of steam.\nA few weeks ago, I discovered an app called Health Auto Export (which I will refer to as HAE for the rest of this post), which neatly solves the problem. HAE has many great features, but the key feature is \"API Export,\" which allows you to automatically have your HealthKit data sent to an HTTP endpoint in JSON or CSV\u00a0format, with control over time period and aggregation granularity. With this app in hand, I set about creating an API to store, index, and make that data searchable.Introducing Health Lake\nHAE uses a simple, but nested JSON\u00a0data structure to represent health metrics. Because the data is structured, in plain-text, and will mostly sit at rest, a data lake is a natural target to store the data. Data lakes on Amazon Web Services (AWS) are generally implemented with Amazon S3 for storage, as it is well-suited to the use case, is deeply integrated with AWS' data, analytics, and machine learning (DAML) services.\nIn order to keep most of the complexity out of my website, I decided to build a microservice which is entirely focused on getting data into the data lake and making it useful. I call this service Health Lake, and the source is available on GitHub.Sync and Store\nLet's take a look at the first endpoint of Health Lake, which accepts data from HAE, trasforms it to align with the requirments for AWS's DAML services, and stores it in S3 - HTTP POST /sync.\nHAE structures its data in a nested format:{\n    \"data\": {\n        \"metrics\": [\n            {\n                \"units\": \"kcal\",\n                \"name\": \"active_energy\",\n                \"data\": [\n                    {\n                        \"date\": \"2021-01-20 00:00:00 -0800\",\n                        \"qty\": 370.75\n                    },\n                    ...\n                ]\n            },\n            ...\n        ],\n    }\n}\n\nAs you can see, the data is nested fairly deeply. In order to simplify my ability to query the data, Health Lake transforms the data to a flatter structure, with each data point being formatted in JSON\u00a0on a single line. On each sync, I create a single object that contains many data points, one per line, in a format like this:{\"name\": \"active_energy\", \"date\": \"2021-01-20 00:00:00 -0800\", \"units\": \"kcal\", \"qty\": 370.75 }\n...\n\nEach sync object is stored in my target S3 bucket with the key format:\nsyncs/<ISO-format date and time of sync>.json\nThe prefix on the object name is critical, as it enables the indexing and querying of sync data independent from other data in the bucket.Querying the Data Lake\nNow that we have data being sent to our data lake and stored in an efficient, standardized format, we can focus on making that data searchable. Very often, I use relational databases like MySQL or PostgreSQL to store data and make it searchable with SQL. AWS provides a few great services which allow you to treat your data lake as a series of database tables that can be queried using SQL.\nThe first service we'll leverage is AWS Glue, which provides powerful data integration capabilities:\nAWS Glue is a serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. AWS Glue provides all of the capabilities needed for data integration so that you can start analyzing your data and putting it to use in minutes instead of months.\nData integration is the process of preparing and combining data for analytics, machine learning, and application development. It involves multiple tasks, such as discovering and extracting data from various sources; enriching, cleaning, normalizing, and combining data; and loading and organizing data in databases, data warehouses, and data lakes.\nUsing AWS Glue, I created a database called \"health,\" and then created a \"crawler,\" which connects to my data store in S3, walks through all of the data, and attempts to infer the schema based upon hints and classifiers. The crawler can be run manually on-demand, or can be scheduled to run on a regular basis to continuously update the schema as new fields are discovered. Here is what the configuration of my crawler looks like in the AWS Glue console:\nAWS Glue Crawler Configuration Screenshot\nUpon the first run of the crawler, a new table was created in my health database called syncs, which inferred the following schema:\nAWS Glue Table Schema Screenshot\nI wasn't able to get the crawler to match the date format properly, so I ended up creating a \"view\" which adds a proper column that is a timestamp using the following SQL statement:CREATE OR REPLACE VIEW \n    history \nAS SELECT\n    date_parse(substr(date, 1, 19), '%Y-%m-%d %H:%i:%s') as datetime,\n    *\nFROM\n    syncs\n\nNow that our data lake has been crawled, and a database, table, and view have been defined in our AWS Glue Data Catalog, we can use Amazon Athena to query our data like using standard SQL. Athena is entirely serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.Daily Metrics\nFor our daily metric view, we need a summary of all metrics gathered on a specific day. To accomplish this, I added an endpoint to our microservice:\nHTTP GET /detail/<YYYY-MM-DD>\nIn response to this request, the client will receive a JSON data structure collecting all data points for that day. Under the hood, the microservice is running the following SQL query:SELECT * FROM history \nWHERE\n    datetime >= TIMESTAMP 'YYYY-MM-DD 00:00:00'\nAND\n    datetime <= TIMESTAMP 'YYYY-MM-DD 23:59:59'\n\nBecause I pay for every query that I run on Athena, and to achieve great performance, I store the query results in the proper format for the client in S3 after I run the query. I then implemented some intelligence to decide if, for any given request, I should pull from the cache, or regenerate fresh data. Take a look at the source code for more detail.Monthly Metrics\nTo show our monthly summaries, we need to get data for each day of the month. Rather than sending a request and query for every single day of the month, I decided to implement another endpoint to our microservice:\nHTTP GET /summary/<YYYY-MM>\nIn response to this request, the client will receive a JSON data structure collecting all data points for the month, sorted by date. To accomplish this, I run the following SQL query:SELECT * FROM history\nWHERE\n    datetime >= TIMESTAMP 'YYYY-MM-01 00:00:00'\nAND\n    datetime <= TIMESTAMP 'YYYY-MM-31 00:00:00'\n\nThe start and end range are actually calculated to ensure I have the proper end date, as not every month has the same number of days. Again, to save costs and improve performance, results are intelligently cached in our S3 bucket.Global Metrics\nGenerating a global summary of all data points in the data lake was a bit more challenging. To make things more efficient, I created another view in my database with this query. Results are, again, intelligently cached.Website Integration\nWith all of this great data available to me, it was time to integrate it with my website, which uses the Known CMS. I have created a Known plugin that provides enhancements that are specific to my website. Using this plugin, I simply send requests to the Health Lake microservice, parse the JSON, and create my visualizations.Conclusions\nOverall, I am quite pleased that I have been able to integrate this data into my website, and more importantly, to free the data from its walled garden and place it under my control and ownership.\n#indienews"
+      }
+    ],
+    "category": [
+      "https://news.indieweb.org/en",
+      "#indienews"
+    ],
+    "url": [
+      "/2021/taking-control-of-my-personal-health-data"
+    ],
+    "published": [
+      "2021-03-02T01:08:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Neat stuff. Funny how you use SQL in the end, after all that lake-ing, json-ing, S3-ing :)"
+          ],
+          "content": [
+            {
+              "html": "<p>Neat stuff. Funny how you use SQL in the end, after all that lake-ing, json-ing, S3-ing :)</p>",
+              "value": "Neat stuff. Funny how you use SQL in the end, after all that lake-ing, json-ing, S3-ing :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU2NzQ2MTE3MTg3MjAyNjYyNC9qS3NsbHlMcy5qcGVn/300/square"
+                ],
+                "name": [
+                  "Stefano Maffulli"
+                ],
+                "url": [
+                  "https://twitter.com/smaffulli"
+                ]
+              },
+              "value": "Stefano Maffulli"
+            }
+          ],
+          "url": [
+            "https://twitter.com/smaffulli/status/1366568653542490123"
+          ]
+        },
+        "value": "https://twitter.com/smaffulli/status/1366568653542490123"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It\u2019s pretty great. I love SQL, but I don\u2019t love operating and maintaining MySQL, or paying for RDS. This way, I get the power of SQL, but none of the hassle. It\u2019ll also cost me pennies a year to keep running. Pennies!"
+          ],
+          "content": [
+            {
+              "html": "<p>It\u2019s pretty great. I love SQL, but I don\u2019t love operating and maintaining MySQL, or paying for RDS. This way, I get the power of SQL, but none of the hassle. It\u2019ll also cost me pennies a year to keep running. Pennies!</p>",
+              "value": "It\u2019s pretty great. I love SQL, but I don\u2019t love operating and maintaining MySQL, or paying for RDS. This way, I get the power of SQL, but none of the hassle. It\u2019ll also cost me pennies a year to keep running. Pennies!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366569849653129219"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1366569849653129219"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I wonder... how hard would it be to modify your latest to use Azure instead of Amazon S3?"
+          ],
+          "content": [
+            {
+              "html": "<p>I wonder... how hard would it be to modify your latest to use Azure instead of Amazon S3?</p>",
+              "value": "I wonder... how hard would it be to modify your latest to use Azure instead of Amazon S3?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ0MjgyMjEzODgwNjgxMjY3Mi9OaVdNSjFZNC5qcGVn/300/square"
+                ],
+                "name": [
+                  "Katherine M. Moss"
+                ],
+                "url": [
+                  "https://twitter.com/Cambridgeport90"
+                ]
+              },
+              "value": "Katherine M. Moss"
+            }
+          ],
+          "url": [
+            "https://twitter.com/Cambridgeport90/status/1366758499812712449"
+          ]
+        },
+        "value": "https://twitter.com/Cambridgeport90/status/1366758499812712449"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It would effectively be a rewrite, but should be possible. My code could mostly just be used for the basic endpoint creation and first level data transform. All of the storage and querying would have to be redone."
+          ],
+          "content": [
+            {
+              "html": "<p>It would effectively be a rewrite, but should be possible. My code could mostly just be used for the basic endpoint creation and first level data transform. All of the storage and querying would have to be redone.</p>",
+              "value": "It would effectively be a rewrite, but should be possible. My code could mostly just be used for the basic endpoint creation and first level data transform. All of the storage and querying would have to be redone."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366812408946171904"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1366812408946171904"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Ah. That makes sense, then. We'll see how bored I get, shall we? LOL"
+          ],
+          "content": [
+            {
+              "html": "<p>Ah. That makes sense, then. We'll see how bored I get, shall we? LOL</p>",
+              "value": "Ah. That makes sense, then. We'll see how bored I get, shall we? LOL"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ0MjgyMjEzODgwNjgxMjY3Mi9OaVdNSjFZNC5qcGVn/300/square"
+                ],
+                "name": [
+                  "Katherine M. Moss"
+                ],
+                "url": [
+                  "https://twitter.com/Cambridgeport90"
+                ]
+              },
+              "value": "Katherine M. Moss"
+            }
+          ],
+          "url": [
+            "https://twitter.com/Cambridgeport90/status/1366814640680837123"
+          ]
+        },
+        "value": "https://twitter.com/Cambridgeport90/status/1366814640680837123"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "The v4.5 update should have made it so that workouts are included in API Exports as well but if you\u2019re not seeing that data when you sync, let\u2019s follow up by email and track down the issue. I also have a beta with some neat upcoming features if you want to take it for a spin."
+          ],
+          "content": [
+            {
+              "html": "<p>The v4.5 update should have made it so that workouts are included in API Exports as well but if you\u2019re not seeing that data when you sync, let\u2019s follow up by email and track down the issue. I also have a beta with some neat upcoming features if you want to take it for a spin.</p>",
+              "value": "The v4.5 update should have made it so that workouts are included in API Exports as well but if you\u2019re not seeing that data when you sync, let\u2019s follow up by email and track down the issue. I also have a beta with some neat upcoming features if you want to take it for a spin."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMDUxNzQ0NjkzODA2NTcxNTMvUnphYmdvNGUuanBn/300/square"
+                ],
+                "name": [
+                  "Health Auto Export"
+                ],
+                "url": [
+                  "https://twitter.com/HealthExport"
+                ]
+              },
+              "value": "Health Auto Export"
+            }
+          ],
+          "url": [
+            "https://twitter.com/HealthExport/status/1366876236958605314"
+          ]
+        },
+        "value": "https://twitter.com/HealthExport/status/1366876236958605314"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Awesome. I just noticed that my code isn\u2019t checking for workout data. I\u2019ll be on vacation for much of this week so should have some time to tinker with it. If I have an issue, we can connect via email. Would love to test the beta."
+          ],
+          "content": [
+            {
+              "html": "<p>Awesome. I just noticed that my code isn\u2019t checking for workout data. I\u2019ll be on vacation for much of this week so should have some time to tinker with it. If I have an issue, we can connect via email. Would love to test the beta.</p>",
+              "value": "Awesome. I just noticed that my code isn\u2019t checking for workout data. I\u2019ll be on vacation for much of this week so should have some time to tinker with it. If I have an issue, we can connect via email. Would love to test the beta."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366878705255993345"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1366878705255993345"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Sounds great! Any feedback is welcome. Getting the data into JSON is much easier and I can add a lot more detail. If you have any requests, just let me know."
+          ],
+          "content": [
+            {
+              "html": "<p>Sounds great! Any feedback is welcome. Getting the data into JSON is much easier and I can add a lot more detail. If you have any requests, just let me know.</p>",
+              "value": "Sounds great! Any feedback is welcome. Getting the data into JSON is much easier and I can add a lot more detail. If you have any requests, just let me know."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMDUxNzQ0NjkzODA2NTcxNTMvUnphYmdvNGUuanBn/300/square"
+                ],
+                "name": [
+                  "Health Auto Export"
+                ],
+                "url": [
+                  "https://twitter.com/HealthExport"
+                ]
+              },
+              "value": "Health Auto Export"
+            }
+          ],
+          "url": [
+            "https://twitter.com/HealthExport/status/1366884597825478657"
+          ]
+        },
+        "value": "https://twitter.com/HealthExport/status/1366884597825478657"
+      }
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "e5e0bf66e30a4c6e43e41268c1d5d9aa"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366562014395576322#favorited-by-20292370"
+          ],
+          "published": [
+            "2021-03-02T10:27:59+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "John Ritsema"
+                ],
+                "url": [
+                  "https://twitter.com/jritsema"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square John Ritsema"
+            }
+          ]
+        },
+        "value": "John Ritsema"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366562014395576322#favorited-by-6016212"
+          ],
+          "published": [
+            "2021-03-02T10:27:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Marty McGuire"
+                ],
+                "url": [
+                  "https://twitter.com/schmarty"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyOTA1Njk0OTU1MjgzNjYwOC9pYWFnZnllbi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyOTA1Njk0OTU1MjgzNjYwOC9pYWFnZnllbi5qcGc,/300/square Marty McGuire"
+            }
+          ]
+        },
+        "value": "Marty McGuire"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2021/03/02/taking-control-of-my-personal-health-data"
+          ],
+          "published": [
+            "2021-03-02T18:54:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366592410654887937#favorited-by-231445532"
+          ],
+          "published": [
+            "2021-03-02T19:31:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://twitter.com/johanbove"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyOTM5OTM5NzY4MTk3NDQ3NjgvT1h6RnFmaDYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyOTM5OTM5NzY4MTk3NDQ3NjgvT1h6RnFmaDYuanBn/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1366592410654887937#favorited-by-1259649223714312192"
+          ],
+          "published": [
+            "2021-03-02T22:39:11+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Health Auto Export"
+                ],
+                "url": [
+                  "https://twitter.com/HealthExport"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMDUxNzQ0NjkzODA2NTcxNTMvUnphYmdvNGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMDUxNzQ0NjkzODA2NTcxNTMvUnphYmdvNGUuanBn/300/square Health Auto Export"
+            }
+          ]
+        },
+        "value": "Health Auto Export"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1540517824652648451#favorited-by-636923"
+          ],
+          "published": [
+            "2022-06-25T05:34:22+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "John Siracusa"
+                ],
+                "url": [
+                  "https://twitter.com/siracusa"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MDEwNzAwMzAvSm9obl8yMDExXzFfNTAweDUwMC5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MDEwNzAwMzAvSm9obl8yMDExXzFfNTAweDUwMC5wbmc,/300/square John Siracusa"
+            }
+          ]
+        },
+        "value": "John Siracusa"
+      }
+    ]
+  }
+}

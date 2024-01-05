@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/514-my-immense-softness"
+    ],
+    "published": [
+      "2022-12-25T08:42:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b779427f1a246ba990108130b1177c9f"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-12-25T10:17:05Z",
+      "year": 2022,
+      "month": 12,
+      "day": 25,
+      "hour": 10,
+      "minute": 17,
+      "x": -118.37056950881419,
+      "y": 33.815356428097374,
+      "altitude": 52,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 514: My Immense Softness"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/aed690e9d2878fa5c9347e65d02d8f74/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJxFgr4"
+        ],
+        "content": [
+          {
+            "html": "<p>Alternative browser engines on iOS, the latest Mac Pro rumors, and \u2014 at long last \u2014 the solution to Marco\u2019s biggest winter problem.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Alternative browser engines on iOS, the latest Mac Pro rumors, and \u2014 at long last \u2014 the solution to Marco\u2019s biggest winter problem.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

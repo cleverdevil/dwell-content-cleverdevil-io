@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/apple-tv-vs-disney"
+    ],
+    "published": [
+      "2019-09-09T15:06:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.7\u00b0F and 82% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.7\u00b0F and 82% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 68.7\u00b0F and 82% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/apple-tv-vs-disney/annotations/d8f7aff8aadd57cdd01698a2398687ee"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/apple-tv-vs-disney/annotations/d8f7aff8aadd57cdd01698a2398687ee"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3a43f14f587571397643d5253addc3c3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-09T16:03:03Z",
+      "year": 2019,
+      "month": 9,
+      "day": 9,
+      "hour": 16,
+      "minute": 3,
+      "x": -118.37862429710488,
+      "y": 33.897842102273174,
+      "altitude": 22,
+      "motion": [
+        "driving"
+      ],
+      "speed": 19,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Apple TV+ vs. Disney+"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f10b8437a4f507dffd63f4852453e7bb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+K8ljqKoaE"
+        ],
+        "content": [
+          {
+            "html": "<p>Disney just held their annual D23 event, jam-packed with new programming and information about their upcoming Disney+ streaming service and Apple has released more trailers for the shows set to debut on their upcoming TV+ streaming service. But\u2026 one\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vector with Rene Ritchie</p>",
+            "value": "Disney just held their annual D23 event, jam-packed with new programming and information about their upcoming Disney+ streaming service and Apple has released more trailers for the shows set to debut on their upcoming TV+ streaming service. But\u2026 one\u2026\nBy Vector with Rene Ritchie"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

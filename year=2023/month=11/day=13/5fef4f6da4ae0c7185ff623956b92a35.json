@@ -1,0 +1,251 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Been having fun building out a potential replacement CMS for my website. Really impressed with DuckDB. I\u2019ll have all of the performance and simplicity of a static site generator with the power of SQL for querying a directory of JSON files."
+    ],
+    "content": [
+      {
+        "html": "Been having fun building out a potential replacement CMS for my website. Really impressed with DuckDB. I\u2019ll have all of the performance and simplicity of a static site generator with the power of SQL for querying a directory of JSON files.",
+        "value": "Been having fun building out a potential replacement CMS for my website. Really impressed with DuckDB. I\u2019ll have all of the performance and simplicity of a static site generator with the power of SQL for querying a directory of JSON files."
+      }
+    ],
+    "url": [
+      "/2023/been-having-fun-building-out-a-potential"
+    ],
+    "published": [
+      "2023-11-13T04:17:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil duckdb is massively under appreciated. It\u2019s incredible"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil duckdb is massively under appreciated. It\u2019s incredible</p>",
+              "value": "@cleverdevil duckdb is massively under appreciated. It\u2019s incredible"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzZkMWM4MDc1YmUyMGFjNzI5MDI2NDIwZDg2OGIxMmY3P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/26308877"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/26308877"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker it\u2019s so good! My entire site is around 14,000 JSON files in hive partitioned directories, and DuckDB ingests it all in a few seconds. I\u2019ve long been a fan of SQLite, but DuckDB is next level."
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker it\u2019s so good! My entire site is around 14,000 JSON files in hive partitioned directories, and DuckDB ingests it all in a few seconds. I\u2019ve long been a fan of SQLite, but DuckDB is next level.</p>",
+              "value": "@jsonbecker it\u2019s so good! My entire site is around 14,000 JSON files in hive partitioned directories, and DuckDB ingests it all in a few seconds. I\u2019ve long been a fan of SQLite, but DuckDB is next level."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/26312189"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/26312189"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111401306640271916",
+      "https://bsky.app/profile/cleverdevil.io/post/3ke25t5m6zq2q"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "5fef4f6da4ae0c7185ff623956b92a35"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/111401306640271916#favorited-by-109615034148105658"
+          ],
+          "published": [
+            "2023-11-13T05:30:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "hannah"
+                ],
+                "url": [
+                  "https://mastodon.world/@h_thoreson"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82MTUvMDM0LzE0OC8xMDUvNjU4L29yaWdpbmFsLzNjYTI4MWFmZWIxZjE3Y2QucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS82MTUvMDM0LzE0OC8xMDUvNjU4L29yaWdpbmFsLzNjYTI4MWFmZWIxZjE3Y2QucG5n/300/square hannah"
+            }
+          ]
+        },
+        "value": "hannah"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/111401306640271916#favorited-by-110107001279446803"
+          ],
+          "published": [
+            "2023-11-13T05:30:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Boris Mann"
+                ],
+                "url": [
+                  "https://cosocial.ca/@boris"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzExMC8xMDcvMDAxLzI3OS80NDYvODAzL29yaWdpbmFsLzY5YzQ4M2RjYTZlMGQwNDguanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzExMC8xMDcvMDAxLzI3OS80NDYvODAzL29yaWdpbmFsLzY5YzQ4M2RjYTZlMGQwNDguanBn/300/square Boris Mann"
+            }
+          ]
+        },
+        "value": "Boris Mann"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/111401306640271916#favorited-by-109524399513129285"
+          ],
+          "published": [
+            "2023-11-13T05:30:37+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Royce \ud83c\uddfa\ud83c\udde6 green IOTA\ud83c\udf43"
+                ],
+                "url": [
+                  "https://techhub.social/@accretionist"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81MjQvMzk5LzUxMy8xMjkvMjg1L29yaWdpbmFsLzc2YWViMTA3ZmNlYmY5YWQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81MjQvMzk5LzUxMy8xMjkvMjg1L29yaWdpbmFsLzc2YWViMTA3ZmNlYmY5YWQuanBn/300/square Ben Royce \ud83c\uddfa\ud83c\udde6 green IOTA\ud83c\udf43"
+            }
+          ]
+        },
+        "value": "Ben Royce \ud83c\uddfa\ud83c\udde6 green IOTA\ud83c\udf43"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-13T04:16:49Z",
+      "year": 2023,
+      "month": 11,
+      "day": 13,
+      "hour": 4,
+      "minute": 16,
+      "x": -118.39318981687148,
+      "y": 33.86507847979941,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

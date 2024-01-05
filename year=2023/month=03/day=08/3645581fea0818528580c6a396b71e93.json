@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Westin Seattle"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Seattle"
+          ],
+          "latitude": [
+            "47.6136997"
+          ],
+          "longitude": [
+            "-122.3381933"
+          ]
+        },
+        "value": "The Westin Seattle"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Seattle"
+          ],
+          "latitude": [
+            "47.6136997"
+          ],
+          "longitude": [
+            "-122.3381933"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-westin-seattle-2"
+    ],
+    "published": [
+      "2023-03-08T21:17:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Seattle was in September '19 at Hot Cakes Molten Chocolate Cakery."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Seattle was in September '19 at Hot Cakes Molten Chocolate Cakery.</p>",
+              "value": "Your last check-in in Seattle was in September '19 at Hot Cakes Molten Chocolate Cakery."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6408fb7db294b0584a5a8e6d/0af14fae78cd00ce5c00ec589a8ee84d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6408fb7db294b0584a5a8e6d/0af14fae78cd00ce5c00ec589a8ee84d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6408fb7db294b0584a5a8e6d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3645581fea0818528580c6a396b71e93"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-08T21:16:59Z",
+      "year": 2023,
+      "month": 3,
+      "day": 8,
+      "hour": 21,
+      "minute": 16,
+      "x": -122.33774457923421,
+      "y": 47.613780161712164,
+      "altitude": 33,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.4699999988079071,
+      "wifi": ""
+    }
+  }
+}

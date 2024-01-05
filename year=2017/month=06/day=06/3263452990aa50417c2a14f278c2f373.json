@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-64"
+    ],
+    "published": [
+      "2017-06-06T03:03:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still got the crown! Just don't get Joffrey'd."
+          ],
+          "content": [
+            {
+              "html": "<p>Still got the crown! Just don't get Joffrey'd.</p>",
+              "value": "Still got the crown! Just don't get Joffrey'd."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/606524b538af1e6bee6c623c8a360ffc"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59361b8367e5f2267dc5e3d0/9f983aea8e2b00ed8934ea7cef7e3461"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59361b8367e5f2267dc5e3d0/9f983aea8e2b00ed8934ea7cef7e3461"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59361b8367e5f2267dc5e3d0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3263452990aa50417c2a14f278c2f373"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59361b8367e5f2267dc5e3d0/2d758de31f5a5efea21d2e0b3c8e4c1d"
+          ],
+          "published": [
+            "2017-06-06T03:03:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/c2f7ac7e1ed00fa661921fe3720eb5d9"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/c2f7ac7e1ed00fa661921fe3720eb5d9 Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

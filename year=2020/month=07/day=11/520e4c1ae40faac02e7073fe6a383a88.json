@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-305-a-high-school-production-of-dracula"
+    ],
+    "published": [
+      "2020-07-11T18:56:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 113.18\u00b0F and 11% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 113.18\u00b0F and 11% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 113.18\u00b0F and 11% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-305-a-high-school-production-of-dracula/annotations/3aa2062cdd9763a9f2f71712d14fa713"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-305-a-high-school-production-of-dracula/annotations/3aa2062cdd9763a9f2f71712d14fa713"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "520e4c1ae40faac02e7073fe6a383a88"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-11T19:55:38Z",
+      "year": 2020,
+      "month": 7,
+      "day": 11,
+      "hour": 19,
+      "minute": 55,
+      "x": -116.3168603438303,
+      "y": 33.737807641809894,
+      "altitude": 52,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6700000166893005,
+      "wifi": "GPS"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 305: A High School Production of Dracula"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/093848a73de448137262e0ef6c2d5b12/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9JOPPw"
+        ],
+        "content": [
+          {
+            "html": "<p>This week services are in the spotlight, as Apple TV+ adds material, Apple News gets some bad news, Apple Arcade redefines its ideal game, and we watch \u201cHamilton\u201d on Disney+.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week services are in the spotlight, as Apple TV+ adds material, Apple News gets some bad news, Apple Arcade redefines its ideal game, and we watch \u201cHamilton\u201d on Disney+.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

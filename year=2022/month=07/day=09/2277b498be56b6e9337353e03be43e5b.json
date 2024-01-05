@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/490-tiny-pictures-of-knobs"
+    ],
+    "published": [
+      "2022-07-09T22:18:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2277b498be56b6e9337353e03be43e5b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-09T23:31:44Z",
+      "year": 2022,
+      "month": 7,
+      "day": 9,
+      "hour": 23,
+      "minute": 31,
+      "x": -116.38030950870447,
+      "y": 33.701642862304205,
+      "altitude": 128,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.28999999165534973,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 490: Tiny Pictures of Knobs"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3b017ca604aef1b067a3e26524977e3d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJgYD98"
+        ],
+        "content": [
+          {
+            "html": "<p>The imminent MacBook Air, Lockdown Mode, improvements in Ventura beta 3, and finally jumping into SwiftUI.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The imminent MacBook Air, Lockdown Mode, improvements in Ventura beta 3, and finally jumping into SwiftUI.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

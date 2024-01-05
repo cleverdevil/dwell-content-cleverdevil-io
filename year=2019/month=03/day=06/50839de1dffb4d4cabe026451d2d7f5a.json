@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-98-youre-killing-your-father"
+    ],
+    "published": [
+      "2019-03-06T20:30:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Light Rain with a temperature of 59.43\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Light Rain with a temperature of 59.43\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Light Rain with a temperature of 59.43\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-98-youre-killing-your-father/annotations/37ddf15c6fd6b8ea884813eb04359b20"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-98-youre-killing-your-father/annotations/37ddf15c6fd6b8ea884813eb04359b20"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "50839de1dffb4d4cabe026451d2d7f5a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-06T23:56:55Z",
+      "year": 2019,
+      "month": 3,
+      "day": 6,
+      "hour": 23,
+      "minute": 56,
+      "x": -118.37046081969888,
+      "y": 33.81542540259491,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4099999964237213,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 98: You\u2019re Killing Your Father"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a930de0011f5d66312959d8480e88a4e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INTRgus"
+        ],
+        "content": [
+          {
+            "html": "<p>Can\u2019t we just always have the flaps face the same way? Shouldn\u2019t we just stack the forks here in the forks area? Why is Daisy leaving caltrops in the hallway?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Can\u2019t we just always have the flaps face the same way? Shouldn\u2019t we just stack the forks here in the forks area? Why is Daisy leaving caltrops in the hallway?\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

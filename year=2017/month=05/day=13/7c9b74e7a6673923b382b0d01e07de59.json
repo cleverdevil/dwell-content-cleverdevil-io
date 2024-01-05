@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-coffee-bean-tea-leaf-1"
+    ],
+    "published": [
+      "2017-05-13T17:16:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 3 straight days at Coffee Shops. You set a new record!"
+          ],
+          "content": [
+            {
+              "html": "<p>That's 3 straight days at Coffee Shops. You set a new record!</p>",
+              "value": "That's 3 straight days at Coffee Shops. You set a new record!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/693cec3118855e3e8a3e0cf186596f9a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59173f6bdb2aeb533727bb29/8aa982d7d193932c2235dae229e91305"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59173f6bdb2aeb533727bb29/8aa982d7d193932c2235dae229e91305"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59173f6bdb2aeb533727bb29"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7c9b74e7a6673923b382b0d01e07de59"
+    ]
+  }
+}

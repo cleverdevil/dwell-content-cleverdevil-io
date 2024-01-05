@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-ironwood-park-7"
+    ],
+    "published": [
+      "2022-03-21T00:24:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6237c5a2ff81643c574a142c/5edb62ca8fbe70f132c7670628819145"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6237c5a2ff81643c574a142c/5edb62ca8fbe70f132c7670628819145"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6237c5a2ff81643c574a142c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c3835b673a7f282e96f6d699291aad69"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-21T00:21:01Z",
+      "year": 2022,
+      "month": 3,
+      "day": 21,
+      "hour": 0,
+      "minute": 21,
+      "x": -116.38547171748338,
+      "y": 33.70054543253671,
+      "altitude": 145,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

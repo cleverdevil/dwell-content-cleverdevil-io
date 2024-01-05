@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/67-sports"
+    ],
+    "published": [
+      "2020-08-30T00:44:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6806efe637a7162a77d3b7641dcbcbf2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-30T04:04:48Z",
+      "year": 2020,
+      "month": 8,
+      "day": 30,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.37056512185592,
+      "y": 33.81534698499971,
+      "altitude": 57,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 67: Sports \u26be\ufe0f\ud83c\udff9\ud83e\udd4c\u26f3\ufe0f\ud83e\udd3a\ud83c\udfd3\ud83c\udfc4\ud83c\udffd"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/76f1dabdd00e2afde11b67408e63abfb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDaZoyN4"
+        ],
+        "content": [
+          {
+            "html": "<p>The world\u2019s worst sports commentators rank the world\u2019s sports.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "The world\u2019s worst sports commentators rank the world\u2019s sports.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

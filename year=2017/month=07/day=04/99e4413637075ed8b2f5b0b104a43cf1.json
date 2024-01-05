@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Just finished planting strawberries, bell peppers, pole beans, and butter lettuces in our hydro garden. \ud83e\udd57</p>",
+        "value": "Just finished planting strawberries, bell peppers, pole beans, and butter lettuces in our hydro garden. \ud83e\udd57"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-82"
+    ],
+    "published": [
+      "2017-07-04T22:30:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Rocking that crown like it's 1599."
+          ],
+          "content": [
+            {
+              "html": "<p>Rocking that crown like it's 1599.</p>",
+              "value": "Rocking that crown like it's 1599."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6a45edccfba624882473b79497a753a0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595c16f186f4cc7f4f28cb77/e1ecf3ebf978410dc9a73239042afc3f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595c16f186f4cc7f4f28cb77/e1ecf3ebf978410dc9a73239042afc3f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595c16f186f4cc7f4f28cb77"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "99e4413637075ed8b2f5b0b104a43cf1"
+    ]
+  }
+}

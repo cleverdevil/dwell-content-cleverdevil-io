@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Well that was a shitty commute today!</p>",
+        "value": "Well that was a shitty commute today!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-28"
+    ],
+    "published": [
+      "2017-06-08T16:24:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Holding down your court."
+          ],
+          "content": [
+            {
+              "html": "<p>Holding down your court.</p>",
+              "value": "Holding down your court."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/b8335181a6ee175cfae16aad931f6621"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59397a33ad1ea47fcbd8d5ae/52b869e87e19639a679baf963b10f63d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59397a33ad1ea47fcbd8d5ae/52b869e87e19639a679baf963b10f63d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59397a33ad1ea47fcbd8d5ae"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0c66a90bdfd2bff32c5f6de92d396c2e"
+    ]
+  }
+}

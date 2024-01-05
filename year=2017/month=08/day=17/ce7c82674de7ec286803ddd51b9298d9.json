@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Revolution Doughnuts & Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Revolution Doughnuts & Coffee"
+          ],
+          "latitude": [
+            "33.765637910491"
+          ],
+          "longitude": [
+            "-84.308362393374"
+          ]
+        },
+        "value": "Revolution Doughnuts & Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Revolution Doughnuts & Coffee"
+          ],
+          "latitude": [
+            "33.765637910491"
+          ],
+          "longitude": [
+            "-84.308362393374"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Revolution Doughnuts &amp; Coffee\" src=\"https://cleverdevil.io/file/e5af213f4103ee3ebcbf7af0bdd88a07\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Nom</p>",
+        "value": "Revolution Doughnuts & Coffee\nNom"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-revolution-doughnuts-coffee"
+    ],
+    "published": [
+      "2017-08-17T15:39:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Revolution Doughnuts & Coffee!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Revolution Doughnuts &amp; Coffee!</p>",
+              "value": "Your first check-in at Revolution Doughnuts & Coffee!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/954053c98ca14714a279601b423ec6c6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5995b8a05315931c79b7d488/a1377df5411c4fbcc636b6fda725ea97"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5995b8a05315931c79b7d488/a1377df5411c4fbcc636b6fda725ea97"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5995b8a05315931c79b7d488"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ce7c82674de7ec286803ddd51b9298d9"
+    ]
+  }
+}

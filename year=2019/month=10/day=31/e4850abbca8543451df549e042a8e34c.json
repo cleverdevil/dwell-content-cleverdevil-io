@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-los-angeles-international-airport-lax-88"
+    ],
+    "published": [
+      "2019-10-31T00:39:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "590 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>590 miles since last check-in</p>",
+              "value": "590 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dba2d3ae5b2ba0007b0eede/b1992d61fbfb1f71d355b116607f8154"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dba2d3ae5b2ba0007b0eede/b1992d61fbfb1f71d355b116607f8154"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 27.82\u00b0F and 42% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 27.82\u00b0F and 42% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 27.82\u00b0F and 42% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-88/annotations/271009be70911f999e2be0f2e47900ef"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-88/annotations/271009be70911f999e2be0f2e47900ef"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dba2d3ae5b2ba0007b0eede"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e4850abbca8543451df549e042a8e34c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-30T23:16:14Z",
+      "year": 2019,
+      "month": 10,
+      "day": 30,
+      "hour": 23,
+      "minute": 16,
+      "x": -111.99952122239321,
+      "y": 40.80677142356437,
+      "altitude": 1476,
+      "motion": [
+        "driving"
+      ],
+      "speed": 82,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": ""
+    }
+  }
+}

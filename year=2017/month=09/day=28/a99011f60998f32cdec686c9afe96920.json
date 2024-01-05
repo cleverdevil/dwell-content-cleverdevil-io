@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Counter"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048286935057"
+          ],
+          "longitude": [
+            "-118.25822986871"
+          ]
+        },
+        "value": "The Counter"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048286935057"
+          ],
+          "longitude": [
+            "-118.25822986871"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Counter\" src=\"https://cleverdevil.io/file/c0cfd1c43d3238c4414c499cbf56bfb2\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Burger time!</p>",
+        "value": "The Counter\nBurger time!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-counter-2"
+    ],
+    "published": [
+      "2017-09-28T18:45:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+          ],
+          "content": [
+            {
+              "html": "<p>Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.</p>",
+              "value": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59cd4328a795bd44b011008f/02c9c54da903dc2ada0368f7b502f3ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59cd4328a795bd44b011008f/02c9c54da903dc2ada0368f7b502f3ae"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to The Counter since April."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to The Counter since April.</p>",
+              "value": "You haven't checked in to The Counter since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59cd4328a795bd44b011008f/80aa1964f97f917d6b0e0d1ff0627e0e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59cd4328a795bd44b011008f/80aa1964f97f917d6b0e0d1ff0627e0e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59cd4328a795bd44b011008f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a99011f60998f32cdec686c9afe96920"
+    ]
+  }
+}

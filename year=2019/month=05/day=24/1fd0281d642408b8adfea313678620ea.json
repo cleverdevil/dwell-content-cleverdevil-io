@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/327-better-late-than-wrong"
+    ],
+    "published": [
+      "2019-05-24T21:09:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.67\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.67\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.67\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/327-better-late-than-wrong/annotations/2b812d7bca2caf12e8a2af5370a1da68"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/327-better-late-than-wrong/annotations/2b812d7bca2caf12e8a2af5370a1da68"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1fd0281d642408b8adfea313678620ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-25T00:01:55Z",
+      "year": 2019,
+      "month": 5,
+      "day": 25,
+      "hour": 0,
+      "minute": 1,
+      "x": -118.37032702145363,
+      "y": 33.81546003738919,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 327: Better Late Than Wrong"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/82e8c29440b83ebfd7ebc49796e78bc9/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DX2ydgY"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey\u2019s new app, Apple\u2019s new MacBook Pros, Panic\u2019s new Playdate, and Marco\u2019s failed Greycation.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey\u2019s new app, Apple\u2019s new MacBook Pros, Panic\u2019s new Playdate, and Marco\u2019s failed Greycation.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

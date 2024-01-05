@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/386-laptops-too-complicated"
+    ],
+    "published": [
+      "2022-02-28T01:10:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "19b0a262b32d2b0aa7108ef238cde4ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-28T04:01:00Z",
+      "year": 2022,
+      "month": 2,
+      "day": 28,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37032646551434,
+      "y": 33.815435434543524,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 386: Laptops? Too Complicated!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/288004bd6dd16dc2140df8683dc45cf4/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7J-snA"
+        ],
+        "content": [
+          {
+            "html": "<p>After blindly obeying a website written by someone else, Myke, Federico and Stephen dream up a new vision for the iPod touch, discuss Safari\u2019s fading marketshare and wonder what foldable devices Apple could be working on.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "After blindly obeying a website written by someone else, Myke, Federico and Stephen dream up a new vision for the iPod touch, discuss Safari\u2019s fading marketshare and wonder what foldable devices Apple could be working on.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

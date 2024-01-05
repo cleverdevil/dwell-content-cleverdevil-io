@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2020/04/03/24/"
+    ],
+    "name": [
+      "Here are the details! https://cleverdevil.io/2020/hey-siri-dont-bother-daddy"
+    ],
+    "content": [
+      {
+        "html": "Here are the details! <a href=\"https://cleverdevil.io/2020/hey-siri-dont-bother-daddy\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2020/<wbr/>hey-siri-dont-bother-daddy</a>",
+        "value": "Here are the details! https://cleverdevil.io/2020/hey-siri-dont-bother-daddy"
+      }
+    ],
+    "url": [
+      "/2020/here-are-the-details-2020hey-siri-dont-bother-daddy"
+    ],
+    "published": [
+      "2020-04-04T01:04:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.21\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.21\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.21\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/here-are-the-details-2020hey-siri-dont-bother-daddy/annotations/164083734417c7d2d400c7c4f94e1643"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/here-are-the-details-2020hey-siri-dont-bother-daddy/annotations/164083734417c7d2d400c7c4f94e1643"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "bb31a2bc0c04f4e7687895ff3a34b134"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-04T01:00:29Z",
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "hour": 1,
+      "minute": 0,
+      "x": -118.37029086531615,
+      "y": 33.815433931552555,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

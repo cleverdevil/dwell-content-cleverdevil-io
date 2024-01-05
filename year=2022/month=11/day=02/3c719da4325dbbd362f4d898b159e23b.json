@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.616763990697"
+          ],
+          "longitude": [
+            "-122.38701939583"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.616763990697"
+          ],
+          "longitude": [
+            "-122.38701939583"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-san-francisco-international-airport-sfo-18"
+    ],
+    "published": [
+      "2022-11-02T21:07:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "337 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>337 miles since last check-in</p>",
+              "value": "337 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6362dbf723ff77610251785d/375f46ad9dc5b5ca6b204f435c24ad54"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6362dbf723ff77610251785d/375f46ad9dc5b5ca6b204f435c24ad54"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6362dbf723ff77610251785d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3c719da4325dbbd362f4d898b159e23b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-02T20:04:56Z",
+      "year": 2022,
+      "month": 11,
+      "day": 2,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.3994103841148,
+      "y": 33.950478589108215,
+      "altitude": 34,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  }
+}

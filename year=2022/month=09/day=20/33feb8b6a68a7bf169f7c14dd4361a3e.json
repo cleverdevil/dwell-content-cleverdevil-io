@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/425-this-intelligent-blob"
+    ],
+    "published": [
+      "2022-09-20T19:45:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "33feb8b6a68a7bf169f7c14dd4361a3e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-20T20:03:22Z",
+      "year": 2022,
+      "month": 9,
+      "day": 20,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.3804067959746,
+      "y": 33.701629408995046,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 425: This Intelligent Blob"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c97f32f2dddfd6ec4f0184eb1c3b4995/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-k-5g4"
+        ],
+        "content": [
+          {
+            "html": "<p>After reviewing the iPhone 14 Pro and discussing the pros and cons of the Dynamic Island and the new 48MP camera, Jason and Myke discuss the current pace of upgrades and innovation across all of Apple\u2019s product lines.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "After reviewing the iPhone 14 Pro and discussing the pros and cons of the Dynamic Island and the new 48MP camera, Jason and Myke discuss the current pace of upgrades and innovation across all of Apple\u2019s product lines.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

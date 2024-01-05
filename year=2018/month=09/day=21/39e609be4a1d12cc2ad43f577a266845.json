@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Club at SJC"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Club at SJC"
+          ],
+          "latitude": [
+            "37.368421104109"
+          ],
+          "longitude": [
+            "-121.92839330111"
+          ]
+        },
+        "value": "The Club at SJC"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Club at SJC"
+          ],
+          "latitude": [
+            "37.368421104109"
+          ],
+          "longitude": [
+            "-121.92839330111"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-club-at-sjc"
+    ],
+    "published": [
+      "2018-09-21T21:42:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Club at SJC!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Club at SJC!</p>",
+              "value": "Your first check-in at The Club at SJC!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba565bb628c83002c0a9d95/80345cb37d279e6fa4497bdd42fb61c4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba565bb628c83002c0a9d95/80345cb37d279e6fa4497bdd42fb61c4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba565bb628c83002c0a9d95"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "39e609be4a1d12cc2ad43f577a266845"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Capitan Theatre"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Capitan Theatre"
+          ],
+          "latitude": [
+            "34.101464246535"
+          ],
+          "longitude": [
+            "-118.33979129791"
+          ]
+        },
+        "value": "El Capitan Theatre"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Capitan Theatre"
+          ],
+          "latitude": [
+            "34.101464246535"
+          ],
+          "longitude": [
+            "-118.33979129791"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-el-capitan-theatre"
+    ],
+    "published": [
+      "2018-11-21T20:39:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at El Capitan Theatre!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at El Capitan Theatre!</p>",
+              "value": "Your first check-in at El Capitan Theatre!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bf5c274c9a517002cfb4471/e010733694b14213c757c59368764830"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bf5c274c9a517002cfb4471/e010733694b14213c757c59368764830"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Ohhh, fun! What movie did you all see?"
+          ],
+          "content": [
+            {
+              "html": "<p>Ohhh, fun! What movie did you all see?</p>",
+              "value": "Ohhh, fun! What movie did you all see?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://eddiehinkle.com/2018/11/21/21/reply/"
+          ]
+        },
+        "value": "https://eddiehinkle.com/2018/11/21/21/reply/"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bf5c274c9a517002cfb4471"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "02c6eb26302384bf3860d62d477e4573"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Oakland International Airport (OAK)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Oakland International Airport (OAK)"
+          ],
+          "latitude": [
+            "37.711936392584"
+          ],
+          "longitude": [
+            "-122.21341609955"
+          ]
+        },
+        "value": "Oakland International Airport (OAK)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Oakland International Airport (OAK)"
+          ],
+          "latitude": [
+            "37.711936392584"
+          ],
+          "longitude": [
+            "-122.21341609955"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-oakland-international-airport-oak-1"
+    ],
+    "published": [
+      "2023-09-08T16:18:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Oakland was in March '22 at Oakland International Airport."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Oakland was in March '22 at Oakland International Airport.</p>",
+              "value": "Your last check-in in Oakland was in March '22 at Oakland International Airport."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64fb496e8e86495ad1893011/4266aac3b3fd0d6f1c767c703158d8a8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64fb496e8e86495ad1893011/4266aac3b3fd0d6f1c767c703158d8a8"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Oakland International Airport since March '22."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Oakland International Airport since March '22.</p>",
+              "value": "Welcome back! You haven't checked in to Oakland International Airport since March '22."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64fb496e8e86495ad1893011/098d10eb94df4dd843125725e3668dd1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64fb496e8e86495ad1893011/098d10eb94df4dd843125725e3668dd1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64fb496e8e86495ad1893011"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e6093fcef295890bee766cf1abf7999a"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-08T16:16:05Z",
+      "year": 2023,
+      "month": 9,
+      "day": 8,
+      "hour": 16,
+      "minute": 16,
+      "x": -122.19969423039281,
+      "y": 37.730711551532984,
+      "altitude": 1,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/habeas-cropus"
+    ],
+    "published": [
+      "2022-10-05T20:56:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "697cd7190fe09c0e0f54cdbb602f564e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-05T23:45:00Z",
+      "year": 2022,
+      "month": 10,
+      "day": 5,
+      "hour": 23,
+      "minute": 45,
+      "x": -116.38678052182577,
+      "y": 33.70271801097679,
+      "altitude": 142,
+      "motion": [
+        "driving"
+      ],
+      "speed": 26,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Habeas Cropus"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dc3a58d76ae1a68b23311169599fc175/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0FAHOg"
+        ],
+        "content": [
+          {
+            "html": "<p>Alan brings the case against his wife, Tawni. Tawni has accumulated a lot of plants in their apartment. She says that some of the plants need to have grow lights in order to thrive. But, Alan does not like the lights. He would rather have plants that don\u2019t need the lights. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Alan brings the case against his wife, Tawni. Tawni has accumulated a lot of plants in their apartment. She says that some of the plants need to have grow lights in order to thrive. But, Alan does not like the lights. He would rather have plants that don\u2019t need the lights. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

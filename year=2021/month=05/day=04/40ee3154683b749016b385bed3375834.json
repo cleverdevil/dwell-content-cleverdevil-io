@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/351-long-hair-is-in-disco-is-back"
+    ],
+    "published": [
+      "2021-05-04T06:38:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "40ee3154683b749016b385bed3375834"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-04T07:01:54Z",
+      "year": 2021,
+      "month": 5,
+      "day": 4,
+      "hour": 7,
+      "minute": 1,
+      "x": -118.37049855988292,
+      "y": 33.815294786744424,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 351: Long Hair Is In, Disco Is Back"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/deb0968194b2fa5563cf11a573961b84/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9RREGo"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we cover Apple\u2019s record-breaking product sales, as well as the clouds on the horizon\u2014a global semiconductor shortage, the EU\u2019s ruling against it, and the arrival of the Epic Games court case.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we cover Apple\u2019s record-breaking product sales, as well as the clouds on the horizon\u2014a global semiconductor shortage, the EU\u2019s ruling against it, and the arrival of the Epic Games court case.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

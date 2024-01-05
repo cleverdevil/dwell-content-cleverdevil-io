@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/197-my-waking-hour-pie"
+    ],
+    "published": [
+      "2022-12-18T20:17:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "20e7d7a923942f5bb78e390500139e3e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-12-19T00:05:52Z",
+      "year": 2022,
+      "month": 12,
+      "day": 19,
+      "hour": 0,
+      "minute": 5,
+      "x": -118.37050830524109,
+      "y": 33.81529082456099,
+      "altitude": 59,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 197: My Waking-Hour Pie"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0e2c7c197ff16d2f2ea68f875ef8c253/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IN93gDY"
+        ],
+        "content": [
+          {
+            "html": "<p>197: My Waking-Hour Pie</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "197: My Waking-Hour Pie\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

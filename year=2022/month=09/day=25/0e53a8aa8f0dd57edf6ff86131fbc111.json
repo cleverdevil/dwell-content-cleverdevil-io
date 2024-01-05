@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/the-deceitful-dish"
+    ],
+    "published": [
+      "2022-09-25T17:19:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0e53a8aa8f0dd57edf6ff86131fbc111"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-25T20:03:44Z",
+      "year": 2022,
+      "month": 9,
+      "day": 25,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.38034859447973,
+      "y": 33.70161109108136,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8700000047683716,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The Deceitful Dish"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/127c9b3d7b5a1a811623423010d3101b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0kbUzw"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! Monte Belmonte and Joel Mann are back again to squeeze in one last summertime fun time! Disputes about oyster sauce, The Lion King, when to sing \u201cHappy Birthday,\u201d and a sound in a song from the musical Hamilton. Plus much more!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! Monte Belmonte and Joel Mann are back again to squeeze in one last summertime fun time! Disputes about oyster sauce, The Lion King, when to sing \u201cHappy Birthday,\u201d and a sound in a song from the musical Hamilton. Plus much more!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

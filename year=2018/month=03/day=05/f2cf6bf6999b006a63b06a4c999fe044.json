@@ -1,0 +1,2074 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Freeing Myself from Facebook"
+    ],
+    "content": [
+      {
+        "html": "<p>Ever since my discovery of the <a href=\"https://indieweb.org\">IndieWeb movement</a>, I've wanted to free myself from Facebook (and Instagram) and their brand of <a href=\"https://en.wikipedia.org/wiki/Surveillance_capitalism\">surveillance capitalism</a>. I want to own my own data, and be in control of how it is shared, and I don't want it to be used for advertising.</p><p>I've had this incarnation of a personal website for a few years, and have mostly been following the <a href=\"https://indieweb.org/POSSE\">POSSE publishing model</a>, publishing most forms of content on my website, and then automatically (or manually) syndicating that content to <a href=\"https://indieweb.org/silo\">silos</a> like Facebook and Twitter. But, much of my content still remains trapped inside of Facebook and Instagram.</p><p><em>Until now</em>.</p><p>As of March 4, 2018, I've pulled the vast majority of my Facebook content into my website, and all of my Instagram photos into my website, paving the way for me to delete myself from Facebook (and potentially Instagram) by the end of 2018. What follows is a high-level overview of how I made the move.</p><h2>Facebook</h2><h3>Exporting Data from Facebook</h3><p>While Facebook does offer an export feature, its extremely limited, only includes very low resolution versions of your photos, and is generally very difficult to process programmatically. After some research, I discovered the <a href=\"https://github.com/danburzo/fb-export\">excellent fb-export project</a> on GitHub. Once installed, this tool will dump a huge amount (though, not quite all) of your Facebook data into machine-readable JSON files.</p><p>Since my website is compatible with the <a href=\"https://indieweb.org/Micropub\">Micropub publishing standard</a>, I then needed to convert this Facebook-native JSON data into <a href=\"http://microformats.org/wiki/microformats2\">microformats2 formatted JSON</a>. Enter <a href=\"https://github.com/snarfed/granary\">granary</a>, an amazing swiss-army knife of IndieWeb by <a href=\"https://snarfed.org\">Ryan Barrett</a>. Using granary, I whipped up a quick script that transforms the exported data into native microformats2 formatted JSON:</p><p><a href=\"https://gist.github.com/cleverdevil/f33530706d6e8dacd13a8bd8e8c15dba\"></a><a class=\"u-in-reply-to\" href=\"https://gist.github.com/cleverdevil/f33530706d6e8dacd13a8bd8e8c15dba\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>gist.github.com/<wbr/>cleverdevil/<wbr/>f33530706d6e8dacd13a8bd8e8c15dba</a></p><h3>Publishing Liberated Data</h3><p>At this point, I had a directory full of data ready to publish. Sort of. Unfortunately, not all of the data is easily translatable, or even desirable, to publish to my website. As a result, I created another script that let me, on a case by case basis, publish a piece of content, choose to skip it entirely, or save it to deal with later.</p><p><a href=\"https://gist.github.com/cleverdevil/c857695bb2de1e46686d720cad9d124c\"></a><a class=\"u-in-reply-to\" href=\"https://gist.github.com/cleverdevil/c857695bb2de1e46686d720cad9d124c\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>gist.github.com/<wbr/>cleverdevil/<wbr/>c857695bb2de1e46686d720cad9d124c</a></p><p>After running this script, I had a significant amount of my data copied from Facebook to my website. Huzzah!</p><h3>Dealing with Photo Albums</h3><p>Facebook has a \"photo albums\" feature, and I definitely wanted to get those memories onto my website. Again, I wrote a script that processes the exported data, and selectively allows me to upload all of the photos in an album to my website via Micropub, and then drops microformats2 JSON out that I could publish later.</p><p><a href=\"https://gist.github.com/cleverdevil/d9c08ddc6eb2da0d060a5f6fe87ddf64\"></a><a class=\"u-in-reply-to\" href=\"https://gist.github.com/cleverdevil/d9c08ddc6eb2da0d060a5f6fe87ddf64\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>gist.github.com/<wbr/>cleverdevil/<wbr/>d9c08ddc6eb2da0d060a5f6fe87ddf64</a></p><p>Once I finished processing and uploading all of the photos for the albums I wished to copy over, I ran a simple utility script I keep around to publish all of the albums as new posts to my website.</p><p>Here are some of the results:</p><ul><li><a href=\"https://cleverdevil.io/2015/the-lunds-visit-for-easter-and-palm-springs\"></a><a class=\"u-in-reply-to\" href=\"https://cleverdevil.io/2015/the-lunds-visit-for-easter-and-palm-springs\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2015/<wbr/>the-lunds-visit-for-easter-and-palm-springs</a></li>\n<li><a href=\"https://cleverdevil.io/2014/maui-2014\"></a><a class=\"u-in-reply-to\" href=\"https://cleverdevil.io/2014/maui-2014\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2014/<wbr/>maui-2014</a></li>\n<li><a href=\"https://cleverdevil.io/2012/hawaii-2012\"></a><a class=\"u-in-reply-to\" href=\"https://cleverdevil.io/2012/hawaii-2012\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2012/<wbr/>hawaii-2012</a></li>\n<li><a href=\"https://cleverdevil.io/2012/out-and-about-with-colette\"></a><a class=\"u-in-reply-to\" href=\"https://cleverdevil.io/2012/out-and-about-with-colette\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2012/<wbr/>out-and-about-with-colette</a></li>\n<li><a href=\"https://cleverdevil.io/2009/europe-trip---part-1\"></a><a class=\"u-in-reply-to\" href=\"https://cleverdevil.io/2009/europe-trip---part-1\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2009/<wbr/>europe-trip---part-1</a></li>\n</ul><p>Notice, one of these comes all the way back from 2009!</p><h3>Almost There</h3><p>There are still quite a few photos and other types of posts that I haven't yet been able to figure out how to migrate. Notably, Facebook has strange special albums such as \"iOS Uploads,\" \"Mobile Uploads,\" and \"iPhoto Uploads\" that represent how the photos were uploaded, not so much a group of related photos. Unfortunately, the data contained in the export produced by fb-export isn't quite adequate to deal with these yet.</p><p>Still, I am quite pleased with my progress so far. Time to move on to Instagram!</p><h2>Instagram</h2><p>Instagram has been slowly deteriorating as a service for years, so much so that I decided to <a href=\"https://www.instagram.com/p/Bd6HunOBMJ1/\">completely stop publishing to Instagram</a> earlier this year. It turns out, dealing with Instagram is a lot easier than Facebook when it comes to liberating your data.</p><h3>Downloading My Data</h3><p>After some research, I found <a href=\"https://github.com/althonos/instaLooter\">instaLooter</a> on GitHub, which allowed me to quickly export every single photo in its original resolution, along with nearly every bit of data I needed... except the photo captions. I ran instaLooter, and embedded the unique identifier in the filenames (which instaLooter refers to as the \"code').</p><h3>Getting Metadata and Publishing</h3><p>I wrote a script that used granary to lookup the photo metadata and publish to my website via Micropub:</p><p><a href=\"https://gist.github.com/cleverdevil/5bb767fd152de9b4c246d01086e91399\"></a><a class=\"u-in-reply-to\" href=\"https://gist.github.com/cleverdevil/5bb767fd152de9b4c246d01086e91399\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>gist.github.com/<wbr/>cleverdevil/<wbr/>5bb767fd152de9b4c246d01086e91399</a></p><p>Note, I used the non-JSON form of Micropub in this case, because <a href=\"https://github.com/idno/Known\">Known</a>'s Micropub implementation doesn't properly handle JSON for photos yet.</p><h2>Conclusions</h2><p>It turns out, that with a little knowhow, and a lot of persistence, you can liberate much of your data from Facebook and Instagram. I feel well on target to my goal of leaving Facebook (and maybe Instagram) entirely.</p>",
+        "value": "Ever since my discovery of the IndieWeb movement, I've wanted to free myself from Facebook (and Instagram) and their brand of surveillance capitalism. I want to own my own data, and be in control of how it is shared, and I don't want it to be used for advertising.\nI've had this incarnation of a personal website for a few years, and have mostly been following the POSSE publishing model, publishing most forms of content on my website, and then automatically (or manually) syndicating that content to silos like Facebook and Twitter. But, much of my content still remains trapped inside of Facebook and Instagram.\nUntil now.\nAs of March 4, 2018, I've pulled the vast majority of my Facebook content into my website, and all of my Instagram photos into my website, paving the way for me to delete myself from Facebook (and potentially Instagram) by the end of 2018. What follows is a high-level overview of how I made the move.FacebookExporting Data from Facebook\nWhile Facebook does offer an export feature, its extremely limited, only includes very low resolution versions of your photos, and is generally very difficult to process programmatically. After some research, I discovered the excellent fb-export project on GitHub. Once installed, this tool will dump a huge amount (though, not quite all) of your Facebook data into machine-readable JSON files.\nSince my website is compatible with the Micropub publishing standard, I then needed to convert this Facebook-native JSON data into microformats2 formatted JSON. Enter granary, an amazing swiss-army knife of IndieWeb by Ryan Barrett. Using granary, I whipped up a quick script that transforms the exported data into native microformats2 formatted JSON:\nhttps://gist.github.com/cleverdevil/f33530706d6e8dacd13a8bd8e8c15dbaPublishing Liberated Data\nAt this point, I had a directory full of data ready to publish. Sort of. Unfortunately, not all of the data is easily translatable, or even desirable, to publish to my website. As a result, I created another script that let me, on a case by case basis, publish a piece of content, choose to skip it entirely, or save it to deal with later.\nhttps://gist.github.com/cleverdevil/c857695bb2de1e46686d720cad9d124c\nAfter running this script, I had a significant amount of my data copied from Facebook to my website. Huzzah!Dealing with Photo Albums\nFacebook has a \"photo albums\" feature, and I definitely wanted to get those memories onto my website. Again, I wrote a script that processes the exported data, and selectively allows me to upload all of the photos in an album to my website via Micropub, and then drops microformats2 JSON out that I could publish later.\nhttps://gist.github.com/cleverdevil/d9c08ddc6eb2da0d060a5f6fe87ddf64\nOnce I finished processing and uploading all of the photos for the albums I wished to copy over, I ran a simple utility script I keep around to publish all of the albums as new posts to my website.\nHere are some of the results:https://cleverdevil.io/2015/the-lunds-visit-for-easter-and-palm-springs https://cleverdevil.io/2014/maui-2014 https://cleverdevil.io/2012/hawaii-2012 https://cleverdevil.io/2012/out-and-about-with-colette https://cleverdevil.io/2009/europe-trip---part-1\nNotice, one of these comes all the way back from 2009!Almost There\nThere are still quite a few photos and other types of posts that I haven't yet been able to figure out how to migrate. Notably, Facebook has strange special albums such as \"iOS Uploads,\" \"Mobile Uploads,\" and \"iPhoto Uploads\" that represent how the photos were uploaded, not so much a group of related photos. Unfortunately, the data contained in the export produced by fb-export isn't quite adequate to deal with these yet.\nStill, I am quite pleased with my progress so far. Time to move on to Instagram!Instagram\nInstagram has been slowly deteriorating as a service for years, so much so that I decided to completely stop publishing to Instagram earlier this year. It turns out, dealing with Instagram is a lot easier than Facebook when it comes to liberating your data.Downloading My Data\nAfter some research, I found instaLooter on GitHub, which allowed me to quickly export every single photo in its original resolution, along with nearly every bit of data I needed... except the photo captions. I ran instaLooter, and embedded the unique identifier in the filenames (which instaLooter refers to as the \"code').Getting Metadata and Publishing\nI wrote a script that used granary to lookup the photo metadata and publish to my website via Micropub:\nhttps://gist.github.com/cleverdevil/5bb767fd152de9b4c246d01086e91399\nNote, I used the non-JSON form of Micropub in this case, because Known's Micropub implementation doesn't properly handle JSON for photos yet.Conclusions\nIt turns out, that with a little knowhow, and a lot of persistence, you can liberate much of your data from Facebook and Instagram. I feel well on target to my goal of leaving Facebook (and maybe Instagram) entirely."
+      }
+    ],
+    "in-reply-to": [
+      "https://gist.github.com/cleverdevil/f33530706d6e8dacd13a8bd8e8c15dba",
+      "https://gist.github.com/cleverdevil/c857695bb2de1e46686d720cad9d124c",
+      "https://gist.github.com/cleverdevil/d9c08ddc6eb2da0d060a5f6fe87ddf64",
+      "https://cleverdevil.io/2015/the-lunds-visit-for-easter-and-palm-springs",
+      "https://cleverdevil.io/2014/maui-2014",
+      "https://cleverdevil.io/2012/hawaii-2012",
+      "https://cleverdevil.io/2012/out-and-about-with-colette",
+      "https://cleverdevil.io/2009/europe-trip---part-1",
+      "https://gist.github.com/cleverdevil/5bb767fd152de9b4c246d01086e91399"
+    ],
+    "url": [
+      "/2018/freeing-myself-from-facebook"
+    ],
+    "published": [
+      "2018-03-05T01:43:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Nice work! I pretty much stopped using Facebook about a year ago, but have some lingering activity on Instagram. This is a nice push to finish cutting all those cables. (Sorry, replied to the wrong post the first time... want to keep this post for reference.)"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Nice work! I pretty much stopped using Facebook about a year ago, but have some lingering activity on Instagram. This is a nice push to finish cutting all those cables. (Sorry, replied to the wrong post the first time... want to keep this post for reference.)</p>",
+              "value": "@cleverdevil Nice work! I pretty much stopped using Facebook about a year ago, but have some lingering activity on Instagram. This is a nice push to finish cutting all those cables. (Sorry, replied to the wrong post the first time... want to keep this post for reference.)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2FsYW5zL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "alans"
+                ],
+                "url": [
+                  "https://micro.blog/alans"
+                ]
+              },
+              "value": "alans"
+            }
+          ],
+          "url": [
+            "https://micro.blog/alans/380618"
+          ]
+        },
+        "value": "https://micro.blog/alans/380618"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Technically impressive, but I always hate to see friends leave Facebook.\n(I've never understood the point of Instagram.)"
+          ],
+          "content": [
+            {
+              "html": "<p>Technically impressive, but I always hate to see friends leave Facebook.</p>\n\n<p>(I've never understood the point of Instagram.)</p>",
+              "value": "Technically impressive, but I always hate to see friends leave Facebook.\n(I've never understood the point of Instagram.)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxNTY1NTIzNzgzNTEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Rodney Gurdal"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207156552378351"
+                ]
+              },
+              "value": "Rodney Gurdal"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754630375569"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754630375569"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I\u2019m hoping that it becomes easier to follow friends using something other than Facebook.\nYou can always follow me on my website \ud83d\ude00"
+          ],
+          "content": [
+            {
+              "html": "<p>I\u2019m hoping that it becomes easier to follow friends using something other than Facebook.</p>\n\n<p>You can always follow me on my website \ud83d\ude00</p>",
+              "value": "I\u2019m hoping that it becomes easier to follow friends using something other than Facebook.\nYou can always follow me on my website \ud83d\ude00"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754631727859"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754631727859"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Is there something you can envision replacing FB, with a more acceptable business model that doesn't really on advertising?"
+          ],
+          "content": [
+            {
+              "html": "<p>Is there something you can envision replacing FB, with a more acceptable business model that doesn't really on advertising?</p>",
+              "value": "Is there something you can envision replacing FB, with a more acceptable business model that doesn't really on advertising?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxNTY1NTIzNzgzNTEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Rodney Gurdal"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207156552378351"
+                ]
+              },
+              "value": "Rodney Gurdal"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754644557149"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754644557149"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Rodney Gurdal I think it\u2019s inevitable. I\u2019m currently enjoying Micro.blog as an alternative, and working on a project called \u201cTogether\u201d that gives a very nice experience similar to Facebook, Instagram, and Twitter in a decentralized way.\nFor people who aren\u2019t hyper technical, we are at least a year, maybe two (three?) away from it being viable."
+          ],
+          "content": [
+            {
+              "html": "<p>Rodney Gurdal I think it\u2019s inevitable. I\u2019m currently enjoying Micro.blog as an alternative, and working on a project called \u201cTogether\u201d that gives a very nice experience similar to Facebook, Instagram, and Twitter in a decentralized way.</p>\n\n<p>For people who aren\u2019t hyper technical, we are at least a year, maybe two (three?) away from it being viable.</p>",
+              "value": "Rodney Gurdal I think it\u2019s inevitable. I\u2019m currently enjoying Micro.blog as an alternative, and working on a project called \u201cTogether\u201d that gives a very nice experience similar to Facebook, Instagram, and Twitter in a decentralized way.\nFor people who aren\u2019t hyper technical, we are at least a year, maybe two (three?) away from it being viable."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754649542159"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754649542159"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Impressive work Jonathan LaCour!"
+          ],
+          "content": [
+            {
+              "html": "<p>Impressive work Jonathan LaCour!</p>",
+              "value": "Impressive work Jonathan LaCour!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTMxNTMzMDA0NTE5MzYvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Al LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10153153300451936"
+                ]
+              },
+              "value": "Al LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754651483269"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754651483269"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "\ud83d\ude22"
+          ],
+          "content": [
+            {
+              "html": "<p>\ud83d\ude22</p>",
+              "value": "\ud83d\ude22"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxNTY1NTIzNzgzNTEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Rodney Gurdal"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207156552378351"
+                ]
+              },
+              "value": "Rodney Gurdal"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109#sad-by-10207156552378351"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109#sad-by-10207156552378351"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "What's its business model?"
+          ],
+          "content": [
+            {
+              "html": "<p>What's its business model?</p>",
+              "value": "What's its business model?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxNTY1NTIzNzgzNTEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Rodney Gurdal"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207156552378351"
+                ]
+              },
+              "value": "Rodney Gurdal"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754657795619"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754657795619"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Rodney Gurdal content is placed on your own website. You only pay for having a website. Everything is decentralized. Together is free and open source.\nMicro.blog is the same concept, except it offers people who don\u2019t have a website an easy path to getting one, and they pay a nominal monthly fee to host their website."
+          ],
+          "content": [
+            {
+              "html": "<p>Rodney Gurdal content is placed on your own website. You only pay for having a website. Everything is decentralized. Together is free and open source.</p>\n\n<p>Micro.blog is the same concept, except it offers people who don\u2019t have a website an easy path to getting one, and they pay a nominal monthly fee to host their website.</p>",
+              "value": "Rodney Gurdal content is placed on your own website. You only pay for having a website. Everything is decentralized. Together is free and open source.\nMicro.blog is the same concept, except it offers people who don\u2019t have a website an easy path to getting one, and they pay a nominal monthly fee to host their website."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754660764669"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754660764669"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hmm. Hard to imagine paid replacing free for regular people. And you have to go browse one friend's website after another? No more just browsing a feed? Sounds exhausting."
+          ],
+          "content": [
+            {
+              "html": "<p>Hmm. Hard to imagine paid replacing free for regular people. And you have to go browse one friend's website after another? No more just browsing a feed? Sounds exhausting.</p>",
+              "value": "Hmm. Hard to imagine paid replacing free for regular people. And you have to go browse one friend's website after another? No more just browsing a feed? Sounds exhausting."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxNTY1NTIzNzgzNTEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Rodney Gurdal"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207156552378351"
+                ]
+              },
+              "value": "Rodney Gurdal"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754669207749"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754669207749"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I would love to do the same; just so much work and time"
+          ],
+          "content": [
+            {
+              "html": "<p>I would love to do the same; just so much work and time</p>",
+              "value": "I would love to do the same; just so much work and time"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTYyMTU3NzcxMTU2MDcvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Peter Choi"
+                ],
+                "url": [
+                  "https://www.facebook.com/10156215777115607"
+                ]
+              },
+              "value": "Peter Choi"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754671732689"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754671732689"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Rodney Gurdal in Together, you get a feed just like on Facebook. It\u2019s just populated with content from your friend\u2019s websites."
+          ],
+          "content": [
+            {
+              "html": "<p>Rodney Gurdal in Together, you get a feed just like on Facebook. It\u2019s just populated with content from your friend\u2019s websites.</p>",
+              "value": "Rodney Gurdal in Together, you get a feed just like on Facebook. It\u2019s just populated with content from your friend\u2019s websites."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754671762629"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754671762629"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour chat books offers a great option to print your Instagram photos and keep the date/caption/location. My kids love the books we make. I only use Instagram to create my chat books. ;-)"
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour chat books offers a great option to print your Instagram photos and keep the date/caption/location. My kids love the books we make. I only use Instagram to create my chat books. ;-)</p>",
+              "value": "Jonathan LaCour chat books offers a great option to print your Instagram photos and keep the date/caption/location. My kids love the books we make. I only use Instagram to create my chat books. ;-)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDY4NTEyODY0OTM1MzcvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Katie Van Buren Glymin"
+                ],
+                "url": [
+                  "https://www.facebook.com/10206851286493537"
+                ]
+              },
+              "value": "Katie Van Buren Glymin"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754688833419"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754688833419"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "We do chatbooks with Instagram too! Helps us document our life and work in the neighborhood. I pick them up with the kids and we always enjoy looking through them ."
+          ],
+          "content": [
+            {
+              "html": "<p>We do chatbooks with Instagram too! Helps us document our life and work in the neighborhood. I pick them up with the kids and we always enjoy looking through them .</p>",
+              "value": "We do chatbooks with Instagram too! Helps us document our life and work in the neighborhood. I pick them up with the kids and we always enjoy looking through them ."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvNzg2OTAxNTQ3NDY5L3BpY3R1cmU_dHlwZT1sYXJnZQ,,/300/square"
+                ],
+                "name": [
+                  "Ruth Ann North"
+                ],
+                "url": [
+                  "https://www.facebook.com/786901547469"
+                ]
+              },
+              "value": "Ruth Ann North"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754710804389"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754710804389"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "For the curious, here is a video of what our Together project looks like: https://cleverdevil.io/s/A94HmEbBLALplpcALmAc.mov"
+          ],
+          "content": [
+            {
+              "html": "<p>For the curious, here is a video of what our Together project looks like: <a href=\"https://cleverdevil.io/s/A94HmEbBLALplpcALmAc.mov\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>s/<wbr/>A94HmEbBLALplpcALmAc.mov</a></p>",
+              "value": "For the curious, here is a video of what our Together project looks like: https://cleverdevil.io/s/A94HmEbBLALplpcALmAc.mov"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754719891179"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754719891179"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Oh, no!! How will I keep up w the kids??"
+          ],
+          "content": [
+            {
+              "html": "<p>Oh, no!! How will I keep up w the kids??</p>",
+              "value": "Oh, no!! How will I keep up w the kids??"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvOTMwODQyMzYwMjg3ODYzL3BpY3R1cmU_dHlwZT1sYXJnZQ,,/300/square"
+                ],
+                "name": [
+                  "Paula Lampert Kyrios"
+                ],
+                "url": [
+                  "https://www.facebook.com/930842360287863"
+                ]
+              },
+              "value": "Paula Lampert Kyrios"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754754566689"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754754566689"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@alans thanks! I\u2019m relatively pleased with the progress \ud83d\ude00 Hopefully, soon I\u2019ll figure out the other bits and pieces. Oh, and I still need to backfill Twitter."
+          ],
+          "content": [
+            {
+              "html": "<p>@alans thanks! I\u2019m relatively pleased with the progress \ud83d\ude00 Hopefully, soon I\u2019ll figure out the other bits and pieces. Oh, and I still need to backfill Twitter.</p>",
+              "value": "@alans thanks! I\u2019m relatively pleased with the progress \ud83d\ude00 Hopefully, soon I\u2019ll figure out the other bits and pieces. Oh, and I still need to backfill Twitter."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/380645"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/380645"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This could get me blogging again. Is together allowing new users?"
+          ],
+          "content": [
+            {
+              "html": "<p>This could get me blogging again. Is together allowing new users?</p>",
+              "value": "This could get me blogging again. Is together allowing new users?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTMxMTkwMTM5MDMxNzUvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://www.facebook.com/10153119013903175"
+                ]
+              },
+              "value": "Joe Joyce"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754831407699"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102754831407699"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour has done some great work freeing himself from Facebook and Instagram, and his post is a good starting point for others who want to do the same. So far, I confess, I have not felt the need myself. There are no photographs in either of those silos that I don't have a copy of (actually, the original, not a copy) on my desktop computer. And any text I may have place on FB is also either a copy of something here or else completely insubstantial. Heck, I'm still bringing in old blog posts to my new system by hand, very slowly, and I haven't begun to bring in old posts from a previous incarnation of this stream. Maybe it is because I was an independent blogger long before either FB or IG saw the light of day, but I have never regarded those places as worthy of original material."
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour has done some great work freeing himself from Facebook and Instagram, and his post is a good starting point for others who want to do the same. So far, I confess, I have not felt the need myself. There are no photographs in either of those silos that I don't have a copy of (actually, the original, not a copy) on my desktop computer. And any text I may have place on FB is also either a copy of something here or else completely insubstantial. Heck, I'm still bringing in old blog posts to my new system by hand, very slowly, and I haven't begun to bring in old posts from a previous incarnation of this stream. Maybe it is because I was an independent blogger long before either FB or IG saw the light of day, but I have never regarded those places as worthy of original material.</p>",
+              "value": "Jonathan LaCour has done some great work freeing himself from Facebook and Instagram, and his post is a good starting point for others who want to do the same. So far, I confess, I have not felt the need myself. There are no photographs in either of those silos that I don't have a copy of (actually, the original, not a copy) on my desktop computer. And any text I may have place on FB is also either a copy of something here or else completely insubstantial. Heck, I'm still bringing in old blog posts to my new system by hand, very slowly, and I haven't begun to bring in old posts from a previous incarnation of this stream. Maybe it is because I was an independent blogger long before either FB or IG saw the light of day, but I have never regarded those places as worthy of original material."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zdHJlYW0uamVyZW15Y2hlcmZhcy5uZXQvZmlsZS9lZjgwMWUwNTczMGViYTU2MDA0YzViNzEyYWQ4NDczMS90aHVtYi5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jeremy Cherfas"
+                ],
+                "url": [
+                  "https://stream.jeremycherfas.net/profile/jeremy"
+                ]
+              },
+              "value": "Jeremy Cherfas"
+            }
+          ],
+          "url": [
+            "https://stream.jeremycherfas.net/2018/jonathan-lacour-has-done-some-great-work-freeing-himself-from"
+          ]
+        },
+        "value": "https://stream.jeremycherfas.net/2018/jonathan-lacour-has-done-some-great-work-freeing-himself-from"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I\u2019ll get Papa to help me! Don\u2019t want to miss anything \u2764\ufe0f"
+          ],
+          "content": [
+            {
+              "html": "<p>I\u2019ll get Papa to help me! Don\u2019t want to miss anything \u2764\ufe0f</p>",
+              "value": "I\u2019ll get Papa to help me! Don\u2019t want to miss anything \u2764\ufe0f"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTI5ODA0NTUwODE1MTYvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Elaine LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10152980455081516"
+                ]
+              },
+              "value": "Elaine LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755046731189"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755046731189"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Cool setup and migration scripts, Jonathan!"
+          ],
+          "content": [
+            {
+              "html": "<p>Cool setup and migration scripts, Jonathan!</p>",
+              "value": "Cool setup and migration scripts, Jonathan!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTUxNDA5OTM2MjYzMDEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Renoir Boulanger"
+                ],
+                "url": [
+                  "https://www.facebook.com/10155140993626301"
+                ]
+              },
+              "value": "Renoir Boulanger"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755187374339"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755187374339"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Just bookmark my website in your browser! I'm also thinking of setting up an email newsletter that will automatically email content from my site on a weekly basis."
+          ],
+          "content": [
+            {
+              "html": "<p>Just bookmark my website in your browser! I'm also thinking of setting up an email newsletter that will automatically email content from my site on a weekly basis.</p>",
+              "value": "Just bookmark my website in your browser! I'm also thinking of setting up an email newsletter that will automatically email content from my site on a weekly basis."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755241101669"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755241101669"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Joe Joyce Together is freely available on GitHub, and we have a hosted version available at https://alltogethernow.io, but you won't be able to use it yet unless you have a compatible website, which is really not easy to do yet for mere mortals :) We're working on it, though! That said, if you're looking to start down the path, I highly recommend https://micro.blog!"
+          ],
+          "content": [
+            {
+              "html": "<p>Joe Joyce Together is freely available on GitHub, and we have a hosted version available at <a href=\"https://alltogethernow.io\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>alltogethernow.io</a>, but you won't be able to use it yet unless you have a compatible website, which is really not easy to do yet for mere mortals :) We're working on it, though! That said, if you're looking to start down the path, I highly recommend <a href=\"https://micro.blog\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>micro.blog</a>!</p>",
+              "value": "Joe Joyce Together is freely available on GitHub, and we have a hosted version available at https://alltogethernow.io, but you won't be able to use it yet unless you have a compatible website, which is really not easy to do yet for mere mortals :) We're working on it, though! That said, if you're looking to start down the path, I highly recommend https://micro.blog!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755242109649"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755242109649"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour Is Micro.blog compatible with alltogether?"
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour Is Micro.blog compatible with alltogether?</p>",
+              "value": "Jonathan LaCour Is Micro.blog compatible with alltogether?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTMxMTkwMTM5MDMxNzUvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://www.facebook.com/10153119013903175"
+                ]
+              },
+              "value": "Joe Joyce"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755329255009"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755329255009"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour uh oh. You lost me at bookmark. Literally. YIkes, I know I'm old school, but I usually get past the second word."
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour uh oh. You lost me at bookmark. Literally. YIkes, I know I'm old school, but I usually get past the second word.</p>",
+              "value": "Jonathan LaCour uh oh. You lost me at bookmark. Literally. YIkes, I know I'm old school, but I usually get past the second word."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvOTMwODQyMzYwMjg3ODYzL3BpY3R1cmU_dHlwZT1sYXJnZQ,,/300/square"
+                ],
+                "name": [
+                  "Paula Lampert Kyrios"
+                ],
+                "url": [
+                  "https://www.facebook.com/930842360287863"
+                ]
+              },
+              "value": "Paula Lampert Kyrios"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755376719889"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755376719889"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Paula Lampert Kyrios just visit this link: https://cleverdevil.io"
+          ],
+          "content": [
+            {
+              "html": "<p>Paula Lampert Kyrios just visit this link: <a href=\"https://cleverdevil.io\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>cleverdevil.io</a></p>",
+              "value": "Paula Lampert Kyrios just visit this link: https://cleverdevil.io"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MTgxMDE4OTkzNDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101418101899349"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755377643039"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755377643039"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour Okay. I'll do my best."
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour Okay. I'll do my best.</p>",
+              "value": "Jonathan LaCour Okay. I'll do my best."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvOTMwODQyMzYwMjg3ODYzL3BpY3R1cmU_dHlwZT1sYXJnZQ,,/300/square"
+                ],
+                "name": [
+                  "Paula Lampert Kyrios"
+                ],
+                "url": [
+                  "https://www.facebook.com/930842360287863"
+                ]
+              },
+              "value": "Paula Lampert Kyrios"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755378132059"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755378132059"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Glad Papa\u2019s retiring soon so we can see your faces up close and personal! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+          ],
+          "content": [
+            {
+              "html": "<p>Glad Papa\u2019s retiring soon so we can see your faces up close and personal! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f</p>",
+              "value": "Glad Papa\u2019s retiring soon so we can see your faces up close and personal! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTI5ODA0NTUwODE1MTYvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Elaine LaCour"
+                ],
+                "url": [
+                  "https://www.facebook.com/10152980455081516"
+                ]
+              },
+              "value": "Elaine LaCour"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755386824639"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102755386824639"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Excellent. If you turn it into a WP plug-in with a free version for XXX items and a paid version above XXX I bet you could make a nice chunk of change. #IdBeHappyToBeABeta"
+          ],
+          "content": [
+            {
+              "html": "<p>Excellent. If you turn it into a WP plug-in with a free version for XXX items and a paid version above XXX I bet you could make a nice chunk of change. #IdBeHappyToBeABeta</p>",
+              "value": "Excellent. If you turn it into a WP plug-in with a free version for XXX items and a paid version above XXX I bet you could make a nice chunk of change. #IdBeHappyToBeABeta"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMjQ4MTg4ODI0MTczNy9waWN0dXJlP3R5cGU9bGFyZ2U,/300/square"
+                ],
+                "name": [
+                  "Steve Kaye"
+                ],
+                "url": [
+                  "https://www.facebook.com/2481888241737"
+                ]
+              },
+              "value": "Steve Kaye"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102756258298199"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102756258298199"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I am going to physically mail you recipe videos where the video is real fast and you can see the text and please follow my page"
+          ],
+          "content": [
+            {
+              "html": "<p>I am going to physically mail you recipe videos where the video is real fast and you can see the text and please follow my page</p>",
+              "value": "I am going to physically mail you recipe videos where the video is real fast and you can see the text and please follow my page"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MjM0OTgzMDQ5MDkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ],
+                "name": [
+                  "Christian Ashlock"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101423498304909"
+                ]
+              },
+              "value": "Christian Ashlock"
+            }
+          ],
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102756864318729"
+          ]
+        },
+        "value": "https://www.facebook.com/10101418101899349/posts/10102754557751109?comment_id=10102756864318729"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathon, there are many posts out there arguing to get off Facebook or clean up your data, however my question has always been what to do with the data. I really like Martin Hawksey\u2019s work associated with archiving Twitter, but I have never really come upon any process for bringing Facebook content into my own domain. I am going to explore this, even if to keep a private archive. Thanks you."
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathon, there are many posts out there arguing to get off Facebook or clean up your data, however my question has always been what to do with the data. I really like Martin Hawksey\u2019s work associated with archiving Twitter, but I have never really come upon any process for bringing Facebook content into my own domain. I am going to explore this, even if to keep a private archive. Thanks you.</p>",
+              "value": "Jonathon, there are many posts out there arguing to get off Facebook or clean up your data, however my question has always been what to do with the data. I really like Martin Hawksey\u2019s work associated with archiving Twitter, but I have never really come upon any process for bringing Facebook content into my own domain. I am going to explore this, even if to keep a private archive. Thanks you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci9kMDBlN2NhMjRjYTFiOWM4NTNkYTQzYWYyMjljMGUwZT9zPTEyNSZkPWRlZmF1bHQmcj1n/300/square"
+                ],
+                "name": [
+                  "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g"
+                ],
+                "url": [
+                  "https://readwriterespond.com/"
+                ]
+              },
+              "value": "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g"
+            }
+          ],
+          "url": [
+            "https://collect.readwriterespond.com/freeing-myself-from-facebook/"
+          ]
+        },
+        "value": "https://collect.readwriterespond.com/freeing-myself-from-facebook/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            ""
+          ],
+          "content": [
+            {
+              "html": "",
+              "value": ""
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  ""
+                ],
+                "name": [
+                  "Ravi Sagar"
+                ],
+                "url": [
+                  "http://ravisagar.in"
+                ]
+              },
+              "value": "Ravi Sagar"
+            }
+          ],
+          "url": [
+            "http://www.ravisagar.in/notes/interesting-know-facebook-data-can-be-exported-and-imported-well"
+          ]
+        },
+        "value": "http://www.ravisagar.in/notes/interesting-know-facebook-data-can-be-exported-and-imported-well"
+      }
+    ],
+    "syndication": [
+      "https://facebook.com/10101416927213429/posts/10102754557751109",
+      "https://twitter.com/cleverdevil/status/970475617220222976"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "f2cf6bf6999b006a63b06a4c999fe044"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2018/03/04/25/"
+          ],
+          "published": [
+            "2018-03-05T01:43:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F14447132"
+          ],
+          "published": [
+            "2018-03-05T02:45:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10153419527957931"
+          ],
+          "published": [
+            "2018-03-05T02:57:53+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Liz Saunders"
+                ],
+                "url": [
+                  "https://www.facebook.com/10153419527957931"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTM0MTk1Mjc5NTc5MzEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTM0MTk1Mjc5NTc5MzEvcGljdHVyZT90eXBlPWxhcmdl/300/square Liz Saunders"
+            }
+          ]
+        },
+        "value": "Liz Saunders"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10152863329552202"
+          ],
+          "published": [
+            "2018-03-05T02:58:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "David Park"
+                ],
+                "url": [
+                  "https://www.facebook.com/10152863329552202"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTI4NjMzMjk1NTIyMDIvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTI4NjMzMjk1NTIyMDIvcGljdHVyZT90eXBlPWxhcmdl/300/square David Park"
+            }
+          ]
+        },
+        "value": "David Park"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F2341631617"
+          ],
+          "published": [
+            "2018-03-05T03:12:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Steven"
+                ],
+                "url": [
+                  "https://twitter.com/ruiz4real"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk1NzY2OTk5MDA4OTQzNzE4NC91cjZuTnV3Ny5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk1NzY2OTk5MDA4OTQzNzE4NC91cjZuTnV3Ny5qcGc,/300/square Steven"
+            }
+          ]
+        },
+        "value": "Steven"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10156215777115607"
+          ],
+          "published": [
+            "2018-03-05T03:26:13+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Peter Choi"
+                ],
+                "url": [
+                  "https://www.facebook.com/10156215777115607"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTYyMTU3NzcxMTU2MDcvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTYyMTU3NzcxMTU2MDcvcGljdHVyZT90eXBlPWxhcmdl/300/square Peter Choi"
+            }
+          ]
+        },
+        "value": "Peter Choi"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10207194932968935"
+          ],
+          "published": [
+            "2018-03-05T03:26:28+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Heidi Hansen"
+                ],
+                "url": [
+                  "https://www.facebook.com/10207194932968935"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxOTQ5MzI5Njg5MzUvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMDcxOTQ5MzI5Njg5MzUvcGljdHVyZT90eXBlPWxhcmdl/300/square Heidi Hansen"
+            }
+          ]
+        },
+        "value": "Heidi Hansen"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F1537525484"
+          ],
+          "published": [
+            "2018-03-05T03:42:38+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nolan Leake"
+                ],
+                "url": [
+                  "https://twitter.com/NolanCumulus"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square Nolan Leake"
+            }
+          ]
+        },
+        "value": "Nolan Leake"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2018-03-04_freeing-myself-from-facebook"
+          ],
+          "published": [
+            "2018-03-05T03:58:12+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zbmFyZmVkLm9yZy93L3dwLWNvbnRlbnQvcGx1Z2lucy9qZXRwYWNrL21vZHVsZXMvbGF6eS1pbWFnZXMvaW1hZ2VzLzF4MS50cmFucy5naWY,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zbmFyZmVkLm9yZy93L3dwLWNvbnRlbnQvcGx1Z2lucy9qZXRwYWNrL21vZHVsZXMvbGF6eS1pbWFnZXMvaW1hZ2VzLzF4MS50cmFucy5naWY,/300/square Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10155889474075114"
+          ],
+          "published": [
+            "2018-03-05T04:23:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Stephen Russell"
+                ],
+                "url": [
+                  "https://www.facebook.com/10155889474075114"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTU4ODk0NzQwNzUxMTQvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTU4ODk0NzQwNzUxMTQvcGljdHVyZT90eXBlPWxhcmdl/300/square Stephen Russell"
+            }
+          ]
+        },
+        "value": "Stephen Russell"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10153440182905661"
+          ],
+          "published": [
+            "2018-03-05T04:49:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Christopher Sundar"
+                ],
+                "url": [
+                  "https://www.facebook.com/10153440182905661"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTM0NDAxODI5MDU2NjEvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxNTM0NDAxODI5MDU2NjEvcGljdHVyZT90eXBlPWxhcmdl/300/square Christopher Sundar"
+            }
+          ]
+        },
+        "value": "Christopher Sundar"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F379433691"
+          ],
+          "published": [
+            "2018-03-05T05:07:52+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "coderpete"
+                ],
+                "url": [
+                  "https://twitter.com/coderpete"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2OTU3ODY3NjA2NTkzOTQ1Ni9SQXVxUi1FbC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2OTU3ODY3NjA2NTkzOTQ1Ni9SQXVxUi1FbC5qcGVn/300/square coderpete"
+            }
+          ]
+        },
+        "value": "coderpete"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/03/04/13/like/"
+          ],
+          "published": [
+            "2018-03-05T03:59:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10101423498374769"
+          ],
+          "published": [
+            "2018-03-05T07:00:05+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Victor Allen"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101423498374769"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MjM0OTgzNzQ3NjkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MjM0OTgzNzQ3NjkvcGljdHVyZT90eXBlPWxhcmdl/300/square Victor Allen"
+            }
+          ]
+        },
+        "value": "Victor Allen"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10101423498424669"
+          ],
+          "published": [
+            "2018-03-05T14:12:03+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ying Guo"
+                ],
+                "url": [
+                  "https://www.facebook.com/10101423498424669"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MjM0OTg0MjQ2NjkvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAxMDE0MjM0OTg0MjQ2NjkvcGljdHVyZT90eXBlPWxhcmdl/300/square Ying Guo"
+            }
+          ]
+        },
+        "value": "Ying Guo"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://www.facebook.com/10101418101899349/posts/10102754557751109?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ffacebook%2F10101418101899349%2F10102754557751109%2F10212031081704767"
+          ],
+          "published": [
+            "2018-03-05T16:12:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Katie Ford"
+                ],
+                "url": [
+                  "https://www.facebook.com/10212031081704767"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMTIwMzEwODE3MDQ3NjcvcGljdHVyZT90eXBlPWxhcmdl/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjIuMTAvMTAyMTIwMzEwODE3MDQ3NjcvcGljdHVyZT90eXBlPWxhcmdl/300/square Katie Ford"
+            }
+          ]
+        },
+        "value": "Katie Ford"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F9085712"
+          ],
+          "published": [
+            "2018-03-05T16:23:02+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Burrito Lee"
+                ],
+                "url": [
+                  "https://twitter.com/slashclee"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square Burrito Lee"
+            }
+          ]
+        },
+        "value": "Burrito Lee"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://j4y.co/p/20180305175604_5a9d84b494466"
+          ],
+          "published": [
+            "2018-03-05T17:56:04+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jay Robinson"
+                ],
+                "url": [
+                  "https://j4y.co/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9qNHkuY28vcHJvZmlsZV9waWMuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9qNHkuY28vcHJvZmlsZV9waWMuanBlZw,,/300/square Jay Robinson"
+            }
+          ]
+        },
+        "value": "Jay Robinson"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/970475617220222976?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F970475617220222976%2F1339832880"
+          ],
+          "published": [
+            "2018-03-05T18:02:38+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Adam Young"
+                ],
+                "url": [
+                  "https://twitter.com/admiyoung"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM0OTkyNzM1MDQvNmQ3ZTNiYWU3M2EzNGFkMmQ3YTM3ZGI0YTlmZTYwMGUuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM0OTkyNzM1MDQvNmQ3ZTNiYWU3M2EzNGFkMmQ3YTM3ZGI0YTlmZTYwMGUuanBlZw,,/300/square Adam Young"
+            }
+          ]
+        },
+        "value": "Adam Young"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://grant.codes/2018/03/06/5a9e9b2eddcba7417a178401"
+          ],
+          "published": [
+            "2018-03-06T13:44:14+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Grant Richmond"
+                ],
+                "url": [
+                  "https://grant.codes"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFudC5jb2Rlcy9pbWcvbWUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9ncmFudC5jb2Rlcy9pbWcvbWUuanBn/300/square Grant Richmond"
+            }
+          ]
+        },
+        "value": "Grant Richmond"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977616308530331649?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977616308530331649%2F15699553"
+          ],
+          "published": [
+            "2018-03-24T18:49:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff Campbell"
+                ],
+                "url": [
+                  "https://twitter.com/Darchmare"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTY0OTI1MjI4MTI4NjY2Mi9RdVhjQXJjQy5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTY0OTI1MjI4MTI4NjY2Mi9RdVhjQXJjQy5qcGc,/300/square Jeff Campbell"
+            }
+          ]
+        },
+        "value": "Jeff Campbell"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977616308530331649?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977616308530331649%2F28994317"
+          ],
+          "published": [
+            "2018-03-25T04:14:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nitin"
+                ],
+                "url": [
+                  "https://twitter.com/nitinnain"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg5NjU0MjU3Mzc2MTc3NzY2NS90LUFBV0JvOS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg5NjU0MjU3Mzc2MTc3NzY2NS90LUFBV0JvOS5qcGc,/300/square Nitin"
+            }
+          ]
+        },
+        "value": "Nitin"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977616308530331649?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977616308530331649%2F184625565"
+          ],
+          "published": [
+            "2018-03-26T01:17:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Richard Schwartz"
+                ],
+                "url": [
+                  "https://twitter.com/ResearchLaw"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ1ODg0OTQxNDg3NDgxMjQxNy9vbmFHYk5NUC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ1ODg0OTQxNDg3NDgxMjQxNy9vbmFHYk5NUC5qcGVn/300/square Richard Schwartz"
+            }
+          ]
+        },
+        "value": "Richard Schwartz"
+      }
+    ]
+  }
+}

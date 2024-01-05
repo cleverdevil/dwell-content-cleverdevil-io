@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Clift Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Clift Hotel"
+          ],
+          "latitude": [
+            "37.786962406998"
+          ],
+          "longitude": [
+            "-122.411289821"
+          ]
+        },
+        "value": "Clift Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Clift Hotel"
+          ],
+          "latitude": [
+            "37.786962406998"
+          ],
+          "longitude": [
+            "-122.411289821"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-clift-hotel"
+    ],
+    "published": [
+      "2017-06-13T06:26:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Tenderloin."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Tenderloin.</p>",
+              "value": "First check-in in Tenderloin."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a6048502e022412ff216207483f53c5c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593f859cefa82a08cc4e9cee/11638141030aaf1d45726bb12e8fc11f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593f859cefa82a08cc4e9cee/11638141030aaf1d45726bb12e8fc11f"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Clift Hotel!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Clift Hotel!</p>",
+              "value": "Your first check-in at Clift Hotel!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/18c143437a8157139e026531bdecb05b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593f859cefa82a08cc4e9cee/9a07f26f9b8d88fda4ac50014c96317f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593f859cefa82a08cc4e9cee/9a07f26f9b8d88fda4ac50014c96317f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/593f859cefa82a08cc4e9cee"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4d304f0551717293212632f3cd87ce75"
+    ]
+  }
+}

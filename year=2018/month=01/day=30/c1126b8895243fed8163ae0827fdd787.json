@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into McCarran International Airport (LAS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.084535107056"
+          ],
+          "longitude": [
+            "-115.14694144869"
+          ]
+        },
+        "value": "McCarran International Airport (LAS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.084535107056"
+          ],
+          "longitude": [
+            "-115.14694144869"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-mccarran-international-airport-las-3"
+    ],
+    "published": [
+      "2018-01-30T02:39:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 2 months since you've checked in to McCarran International Airport."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 2 months since you've checked in to McCarran International Airport.</p>",
+              "value": "Welcome back! It's been 2 months since you've checked in to McCarran International Airport."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6fdad1e2d4aa0790a5fc88/a2d3699051e5e9aea45d592858cc0fa5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6fdad1e2d4aa0790a5fc88/a2d3699051e5e9aea45d592858cc0fa5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6fdad1e2d4aa0790a5fc88"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c1126b8895243fed8163ae0827fdd787"
+    ]
+  }
+}

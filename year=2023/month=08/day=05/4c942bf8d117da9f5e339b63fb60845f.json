@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/dear-internet-episode-168-breaded-meat"
+    ],
+    "published": [
+      "2023-08-05T17:48:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4c942bf8d117da9f5e339b63fb60845f"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-05T20:03:01Z",
+      "year": 2023,
+      "month": 8,
+      "day": 5,
+      "hour": 20,
+      "minute": 3,
+      "x": -117.45128600990836,
+      "y": 33.90960161981555,
+      "altitude": 234,
+      "motion": [
+        "driving"
+      ],
+      "speed": 7,
+      "battery_state": "charging",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 168: Breaded Meat"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/085f67768fc06f627a65841528ff3421/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_5--QMpg"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,This week, we\u2019re talking about cooked shrimp, couch wars, and gifts from a neighbor!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,This week, we\u2019re talking about cooked shrimp, couch wars, and gifts from a neighbor!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

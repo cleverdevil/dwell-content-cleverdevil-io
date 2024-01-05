@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Regal Cinemas Promenade 13"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Regal Cinemas Promenade 13"
+          ],
+          "latitude": [
+            "33.771895"
+          ],
+          "longitude": [
+            "-118.372833"
+          ]
+        },
+        "value": "Regal Cinemas Promenade 13"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Regal Cinemas Promenade 13"
+          ],
+          "latitude": [
+            "33.771895"
+          ],
+          "longitude": [
+            "-118.372833"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-regal-cinemas-promenade-13-5"
+    ],
+    "published": [
+      "2018-06-30T20:02:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "So fancy! That's 10 check-ins at Movies!"
+          ],
+          "content": [
+            {
+              "html": "<p>So fancy! That's 10 check-ins at Movies!</p>",
+              "value": "So fancy! That's 10 check-ins at Movies!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fdGlja2V0LnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b37e1c267f62b002c1e01ea/d8e4ad90e9a6fda9d0b4f70c04b13b9a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b37e1c267f62b002c1e01ea/d8e4ad90e9a6fda9d0b4f70c04b13b9a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b37e1c267f62b002c1e01ea"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "af277fc0cdc75e0464d6c68f011ec531"
+    ]
+  }
+}

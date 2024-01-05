@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Mexican Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Mexican Grill"
+          ],
+          "latitude": [
+            "33.819490925216"
+          ],
+          "longitude": [
+            "-118.38568115679"
+          ]
+        },
+        "value": "Riviera Mexican Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Mexican Grill"
+          ],
+          "latitude": [
+            "33.819490925216"
+          ],
+          "longitude": [
+            "-118.38568115679"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Riviera Mexican Grill\" src=\"https://cleverdevil.io/file/b243f5c6f89c1e74bf10cbd01b769238\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Margs and food</p>",
+        "value": "Riviera Mexican Grill\nMargs and food"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-mexican-grill-2"
+    ],
+    "published": [
+      "2017-08-31T02:14:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nice photo. You're gonna want some 3x5 glossy doubles."
+          ],
+          "content": [
+            {
+              "html": "<p>Nice photo. You're gonna want some 3x5 glossy doubles.</p>",
+              "value": "Nice photo. You're gonna want some 3x5 glossy doubles."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6429c70d4d4a3fa0818e00425631760f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a771002632ec250a1d94ef/5b1aef716adc83246ec85d425d594b28"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a771002632ec250a1d94ef/5b1aef716adc83246ec85d425d594b28"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59a771002632ec250a1d94ef"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fdc8d1b6a478a8f9fd2cb359f9481bda"
+    ]
+  }
+}

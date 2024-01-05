@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-269-read-my-email-through-my-eyes"
+    ],
+    "published": [
+      "2019-11-18T20:16:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.65\u00b0F and 44% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.65\u00b0F and 44% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.65\u00b0F and 44% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-269-read-my-email-through-my-eyes/annotations/3710c26d777c4ea575a852fdea4b6c0c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-269-read-my-email-through-my-eyes/annotations/3710c26d777c4ea575a852fdea4b6c0c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f6afb1dedaa8805053c902efe43bb49b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-18T23:55:03Z",
+      "year": 2019,
+      "month": 11,
+      "day": 18,
+      "hour": 23,
+      "minute": 55,
+      "x": -97.66373985079579,
+      "y": 30.202711169472344,
+      "altitude": 152,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "DeltaWiFi"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 269: Read My Email Through My Eyes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8cc48ec96d6ba6006da89154e0c8be05/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6Z8RjI"
+        ],
+        "content": [
+          {
+            "html": "<p>There\u2019s a new MacBook Pro in town, bringing with it an updated design and a new keyboard, and Apple\u2019s rumored AR glasses make everyone feel old. Myke is crowned the Popsocket Enthusiast, Stephen gets an email and Federico explains Toolbox Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "There\u2019s a new MacBook Pro in town, bringing with it an updated design and a new keyboard, and Apple\u2019s rumored AR glasses make everyone feel old. Myke is crowned the Popsocket Enthusiast, Stephen gets an email and Federico explains Toolbox Pro.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

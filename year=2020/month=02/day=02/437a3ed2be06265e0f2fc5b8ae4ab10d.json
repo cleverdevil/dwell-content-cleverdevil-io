@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/363-the-floor-is-lava"
+    ],
+    "published": [
+      "2020-02-02T18:27:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.35\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/363-the-floor-is-lava/annotations/210a7df151b31cdf1df79fb11acfbe53"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/363-the-floor-is-lava/annotations/210a7df151b31cdf1df79fb11acfbe53"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "437a3ed2be06265e0f2fc5b8ae4ab10d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-08T16:37:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "hour": 16,
+      "minute": 37,
+      "x": -83.35898008332713,
+      "y": 42.20693489241923,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 363: The Floor is Lava"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/175a0966734247a19dfff3ab0dba83b7/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DWQEXJE"
+        ],
+        "content": [
+          {
+            "html": "<p>We fix two big bugs, and use the adrenaline rush to solve iPad multitasking. You\u2019re welcome, Apple.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "We fix two big bugs, and use the adrenaline rush to solve iPad multitasking. You\u2019re welcome, Apple.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

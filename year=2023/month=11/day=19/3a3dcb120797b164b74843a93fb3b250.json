@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into JC's Patio Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": "JC's Patio Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-jcs-patio-cafe-6"
+    ],
+    "published": [
+      "2023-11-19T21:16:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to JC's Patio Cafe since January."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to JC's Patio Cafe since January.</p>",
+              "value": "Welcome back! You haven't checked in to JC's Patio Cafe since January."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/655a7b3a8221e77cd8d339ec/e392031d705ef878658c0530f58d0c2a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/655a7b3a8221e77cd8d339ec/e392031d705ef878658c0530f58d0c2a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/655a7b3a8221e77cd8d339ec"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3a3dcb120797b164b74843a93fb3b250"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-19T20:54:22Z",
+      "year": 2023,
+      "month": 11,
+      "day": 19,
+      "hour": 20,
+      "minute": 54,
+      "x": -116.386686,
+      "y": 33.719832,
+      "altitude": 77,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9,
+      "wifi": ""
+    }
+  }
+}

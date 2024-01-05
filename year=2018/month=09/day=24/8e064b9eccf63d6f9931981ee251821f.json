@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mama Kat's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mama Kat's"
+          ],
+          "latitude": [
+            "33.135477569142"
+          ],
+          "longitude": [
+            "-117.18649586073"
+          ]
+        },
+        "value": "Mama Kat's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mama Kat's"
+          ],
+          "latitude": [
+            "33.135477569142"
+          ],
+          "longitude": [
+            "-117.18649586073"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-mama-kats"
+    ],
+    "published": [
+      "2018-09-24T16:28:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Mama Kat's!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Mama Kat's!</p>",
+              "value": "Your first check-in at Mama Kat's!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba9109b0fe7a0002c56467e/f4cd2889ade707e6aa587382bd904034"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba9109b0fe7a0002c56467e/f4cd2889ade707e6aa587382bd904034"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba9109b0fe7a0002c56467e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8e064b9eccf63d6f9931981ee251821f"
+    ]
+  }
+}

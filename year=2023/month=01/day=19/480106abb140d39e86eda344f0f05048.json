@@ -1,0 +1,150 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I am using a Shortcut to post via #Micropub to my website, which automatically syndicates to Mastodon. I wish I read, post, reply, and interact from a single app."
+    ],
+    "content": [
+      {
+        "html": "I am using a Shortcut to post via <a class=\"p-category\" href=\"/tag/Micropub\" rel=\"tag\">#Micropub</a> to my website, which automatically syndicates to Mastodon. I wish I read, post, reply, and interact from a single app.",
+        "value": "I am using a Shortcut to post via #Micropub to my website, which automatically syndicates to Mastodon. I wish I read, post, reply, and interact from a single app."
+      }
+    ],
+    "category": [
+      "#Micropub"
+    ],
+    "url": [
+      "/2023/i-am-using-a-shortcut-to-post"
+    ],
+    "published": [
+      "2023-01-19T21:46:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I'm using an actions in Drafts.app that you made a while back. Thanks!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I'm using an actions in Drafts.app that you made a while back. Thanks!</p>",
+              "value": "@cleverdevil I'm using an actions in Drafts.app that you made a while back. Thanks!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2U3NTgwYjYzN2VjN2Q5YzdhMWFiOGRjMzk0ODRjOWZlP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "kwlblt"
+                ],
+                "url": [
+                  "https://micro.blog/kwlblt"
+                ]
+              },
+              "value": "kwlblt"
+            }
+          ],
+          "url": [
+            "https://micro.blog/kwlblt/16088028"
+          ]
+        },
+        "value": "https://micro.blog/kwlblt/16088028"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@kwlblt that\u2019s fun to hear! \ud83e\udd29"
+          ],
+          "content": [
+            {
+              "html": "<p>@kwlblt that\u2019s fun to hear! \ud83e\udd29</p>",
+              "value": "@kwlblt that\u2019s fun to hear! \ud83e\udd29"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/16143867"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/16143867"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109718062749956589"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "480106abb140d39e86eda344f0f05048"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-19T21:45:56Z",
+      "year": 2023,
+      "month": 1,
+      "day": 19,
+      "hour": 21,
+      "minute": 45,
+      "x": -104.37284374461976,
+      "y": 31.450959209640583,
+      "altitude": 10557,
+      "motion": [],
+      "speed": 188,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "DeltaWiFi.com"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "37.615348527481"
+          ],
+          "longitude": [
+            "-122.38366407154"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "37.615348527481"
+          ],
+          "longitude": [
+            "-122.38366407154"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-delta-sky-club-8"
+    ],
+    "published": [
+      "2018-03-28T22:23:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Delta Sky Club since September '17."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Delta Sky Club since September '17.</p>",
+              "value": "You haven't checked in to Delta Sky Club since September '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5abc15f6cbcdee002b2ecee4/254794aac5eacae81eeb5926c8755be9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5abc15f6cbcdee002b2ecee4/254794aac5eacae81eeb5926c8755be9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5abc15f6cbcdee002b2ecee4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1176892b9a29f6d6025ef47ec8d42d26"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5abc15f6cbcdee002b2ecee4/ac2337cba6bbaa480f6e00e6ab1259b5"
+          ],
+          "published": [
+            "2018-03-28T22:23:50+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "esther julee"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1111760"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square esther julee"
+            }
+          ]
+        },
+        "value": "esther julee"
+      }
+    ]
+  }
+}

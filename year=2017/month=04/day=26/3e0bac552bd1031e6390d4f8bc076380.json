@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Redondo Beach Brewing Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816904589288"
+          ],
+          "longitude": [
+            "-118.38723314346"
+          ]
+        },
+        "value": "Redondo Beach Brewing Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816904589288"
+          ],
+          "longitude": [
+            "-118.38723314346"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch</p>",
+        "value": "Lunch"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-redondo-beach-brewing-company"
+    ],
+    "published": [
+      "2017-04-26T19:20:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Redondo Beach Brewing Company!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Redondo Beach Brewing Company!</p>",
+              "value": "Your first check-in at Redondo Beach Brewing Company!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/35c14f4ce19778af584ca784c29cf991"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5900f2dac62b49171d883058/344c11e24f2d570376d68598fa306cd9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5900f2dac62b49171d883058/344c11e24f2d570376d68598fa306cd9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/57adcad2055c9d6e18724e52bb1ed110"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5900f2dac62b49171d883058/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5900f2dac62b49171d883058/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5900f2dac62b49171d883058"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3e0bac552bd1031e6390d4f8bc076380"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta SkyClub & SkyDeck"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta SkyClub & SkyDeck"
+          ],
+          "latitude": [
+            "40.639024116848"
+          ],
+          "longitude": [
+            "-73.781258855522"
+          ]
+        },
+        "value": "Delta SkyClub & SkyDeck"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta SkyClub & SkyDeck"
+          ],
+          "latitude": [
+            "40.639024116848"
+          ],
+          "longitude": [
+            "-73.781258855522"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-delta-skyclub-skydeck-2"
+    ],
+    "published": [
+      "2023-07-28T16:20:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in John F Kennedy International Airport was in June '22 at Delta SkyClub & SkyDeck."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in John F Kennedy International Airport was in June '22 at Delta SkyClub &amp; SkyDeck.</p>",
+              "value": "Your last check-in in John F Kennedy International Airport was in June '22 at Delta SkyClub & SkyDeck."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64c3eadfaa5db902983186ad/0b7f0db2f4748d5bc85f7fcfa98ab041"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64c3eadfaa5db902983186ad/0b7f0db2f4748d5bc85f7fcfa98ab041"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64c3eadfaa5db902983186ad"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4bdede0ec0916aa4135646f20ebe39a5"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-28T16:14:38Z",
+      "year": 2023,
+      "month": 7,
+      "day": 28,
+      "hour": 16,
+      "minute": 14,
+      "x": -73.78135797070365,
+      "y": 40.63906513517639,
+      "altitude": 11,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": ""
+    }
+  }
+}

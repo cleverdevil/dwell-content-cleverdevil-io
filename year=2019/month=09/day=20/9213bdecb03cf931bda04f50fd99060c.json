@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-261-you-handed-me-a-watermelon"
+    ],
+    "published": [
+      "2019-09-20T17:37:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 81.85\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 81.85\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 81.85\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-261-you-handed-me-a-watermelon/annotations/986d40d2a9832cf2979fca381bf768d2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-261-you-handed-me-a-watermelon/annotations/986d40d2a9832cf2979fca381bf768d2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9213bdecb03cf931bda04f50fd99060c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-20T20:03:58Z",
+      "year": 2019,
+      "month": 9,
+      "day": 20,
+      "hour": 20,
+      "minute": 3,
+      "x": -83.35465965861786,
+      "y": 42.21297963847485,
+      "altitude": 194,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 261: You Handed Me a Watermelon"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/52aa2ab5d181644f9ffabe75c5145f65/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5oTC0o"
+        ],
+        "content": [
+          {
+            "html": "<p>The Big Tall Italian Boy is gone, but Stephen and Myke are together in person to review the iPhone XS on its way out the door, discuss reviews of the iPhones and the Apple Watch Series 5. Then, they explore Apple Arcade and share what they are playing.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The Big Tall Italian Boy is gone, but Stephen and Myke are together in person to review the iPhone XS on its way out the door, discuss reviews of the iPhones and the Apple Watch Series 5. Then, they explore Apple Arcade and share what they are playing.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-333-i-will-be-speaking-briefly"
+    ],
+    "published": [
+      "2018-06-23T21:37:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e2bce904c0337849223b7260a27bd720"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 333: I Will Be Speaking Briefly"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a0ac1d5c07f5db7923a26e1d7044a514/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+IpwFzkiU"
+        ],
+        "content": [
+          {
+            "html": "<p>Daniel and Manton talk about upcoming travel plans, and the challenge of carving out time for work during the summer. Daniel shares his experience hacking on macOS Mojave\u2019s new \u201cMarzipan\u201d support for iOS apps. They both talk about the deprecation of WebView and their respective plans for migrating code to WebKit2\u2019s WKWebView.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Core Intuition</p>",
+            "value": "Daniel and Manton talk about upcoming travel plans, and the challenge of carving out time for work during the summer. Daniel shares his experience hacking on macOS Mojave\u2019s new \u201cMarzipan\u201d support for iOS apps. They both talk about the deprecation of WebView and their respective plans for migrating code to WebKit2\u2019s WKWebView.\nBy Core Intuition"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

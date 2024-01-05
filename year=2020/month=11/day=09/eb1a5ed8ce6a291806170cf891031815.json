@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/403-a-vcr-for-the-internet"
+    ],
+    "published": [
+      "2020-11-09T04:13:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "eb1a5ed8ce6a291806170cf891031815"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-09T07:56:52Z",
+      "year": 2020,
+      "month": 11,
+      "day": 9,
+      "hour": 7,
+      "minute": 56,
+      "x": -118.37055066512463,
+      "y": 33.81532179912439,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 403: A VCR for the Internet"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b37221a24723d0ace756a68e92d622f6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIBySIE"
+        ],
+        "content": [
+          {
+            "html": "<p>John\u2019s bottom-covering issues, the AirPods Pro repair program, RIAA vs. youtube-dl, and what we hope to see at Apple\u2019s event next week.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John\u2019s bottom-covering issues, the AirPods Pro repair program, RIAA vs. youtube-dl, and what we hope to see at Apple\u2019s event next week.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

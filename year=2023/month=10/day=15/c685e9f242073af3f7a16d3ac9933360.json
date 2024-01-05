@@ -1,0 +1,68 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Running a single user Mastodon instance is really pretty straightforward with Docker. Every month or so, I run:\n\nsudo docker-compose pull\nsudo docker-compose up -d\nsudo docker image prune\n\nDone and done!"
+    ],
+    "content": [
+      {
+        "html": "Running a single user Mastodon instance is really pretty straightforward with Docker. Every month or so, I run:<br/>\n<br/>\nsudo docker-compose pull<br/>\nsudo docker-compose up -d<br/>\nsudo docker image prune<br/>\n<br/>\nDone and done!",
+        "value": "Running a single user Mastodon instance is really pretty straightforward with Docker. Every month or so, I run:\n\nsudo docker-compose pull\nsudo docker-compose up -d\nsudo docker image prune\n\nDone and done!"
+      }
+    ],
+    "url": [
+      "/2023/running-a-single-user-mastodon-instance-is"
+    ],
+    "published": [
+      "2023-10-15T23:21:30+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111241598761043086",
+      "https://bsky.app/profile/cleverdevil.io/post/3kbtaafxjcl2w"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "c685e9f242073af3f7a16d3ac9933360"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-15T23:20:52Z",
+      "year": 2023,
+      "month": 10,
+      "day": 15,
+      "hour": 23,
+      "minute": 20,
+      "x": -118.37046372431838,
+      "y": 33.815346694644795,
+      "altitude": 58,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  }
+}

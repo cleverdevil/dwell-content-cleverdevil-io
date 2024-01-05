@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Joe's Seafood, Prime Steak & Stone Crab"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Joe's Seafood, Prime Steak & Stone Crab"
+          ],
+          "latitude": [
+            "36.118928691579"
+          ],
+          "longitude": [
+            "-115.17332467476"
+          ]
+        },
+        "value": "Joe's Seafood, Prime Steak & Stone Crab"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Joe's Seafood, Prime Steak & Stone Crab"
+          ],
+          "latitude": [
+            "36.118928691579"
+          ],
+          "longitude": [
+            "-115.17332467476"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-joes-seafood-prime-steak-stone-crab"
+    ],
+    "published": [
+      "2023-05-12T03:32:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Joe's Seafood, Prime Steak & Stone Crab!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Joe's Seafood, Prime Steak &amp; Stone Crab!</p>",
+              "value": "Your first check-in at Joe's Seafood, Prime Steak & Stone Crab!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/645db35543f7620df8c48c4c/ed473a30bb50f8253e78a5b863e904f0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/645db35543f7620df8c48c4c/ed473a30bb50f8253e78a5b863e904f0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/645db35543f7620df8c48c4c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e3372979303743ff8af1db1991a471fb"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

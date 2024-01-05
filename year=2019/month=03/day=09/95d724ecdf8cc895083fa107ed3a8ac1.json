@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-233-airdrop-the-bass"
+    ],
+    "published": [
+      "2019-03-09T23:20:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.88\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.88\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 55.88\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-233-airdrop-the-bass/annotations/2f0dd34b852793bbfbac285d3c7175ba"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-233-airdrop-the-bass/annotations/2f0dd34b852793bbfbac285d3c7175ba"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "95d724ecdf8cc895083fa107ed3a8ac1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-10T00:01:55Z",
+      "year": 2019,
+      "month": 3,
+      "day": 10,
+      "hour": 0,
+      "minute": 1,
+      "x": -118.36761126149506,
+      "y": 33.81344115879711,
+      "altitude": 25,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 233: AirDrop the Bass"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/abfbc53ae79244449dc00f7886132285/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6__o_4"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico talks about the new MacStories Shortcuts Archive and the guys check in with iOS 12 halfway through its lifecycle.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico talks about the new MacStories Shortcuts Archive and the guys check in with iOS 12 halfway through its lifecycle.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

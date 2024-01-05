@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/362-the-rickies-september-2021"
+    ],
+    "published": [
+      "2021-09-10T07:47:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "77bd445f7989f9133b3e1b04a3ece821"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-10T07:53:49Z",
+      "year": 2021,
+      "month": 9,
+      "day": 10,
+      "hour": 7,
+      "minute": 53,
+      "x": -118.3705053464639,
+      "y": 33.81532343370712,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 362: The Rickies (September 2021)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/332af0c1019b0ee3c36acb19a154711a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5Crqo4"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple will be California Streaming, so the Connected guys are dreaming of sweet, sweet victories in the September \u201821 Rickies.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple will be California Streaming, so the Connected guys are dreaming of sweet, sweet victories in the September \u201821 Rickies.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

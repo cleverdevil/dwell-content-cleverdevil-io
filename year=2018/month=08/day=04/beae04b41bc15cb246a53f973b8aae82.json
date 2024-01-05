@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tin Roof Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": "Tin Roof Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tin Roof Bistro"
+          ],
+          "latitude": [
+            "33.899809188393"
+          ],
+          "longitude": [
+            "-118.39545919383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-tin-roof-bistro-3"
+    ],
+    "published": [
+      "2018-08-04T02:18:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Wine Bar check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Wine Bar check-in in 2 months!</p>",
+              "value": "First Wine Bar check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b650cf6f2554e002cee1ff4/36f1389d7e33fc37652b05c609699c2b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b650cf6f2554e002cee1ff4/36f1389d7e33fc37652b05c609699c2b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b650cf6f2554e002cee1ff4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "beae04b41bc15cb246a53f973b8aae82"
+    ]
+  }
+}

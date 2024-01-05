@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/362-hes-posting-more-chickens"
+    ],
+    "published": [
+      "2021-07-26T15:22:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "acf11157f72e8ad0d181f369983dbbb7"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-26T15:19:09Z",
+      "year": 2021,
+      "month": 7,
+      "day": 26,
+      "hour": 15,
+      "minute": 19,
+      "x": -118.37038347006927,
+      "y": 33.81542060317919,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 362: He\u2019s Posting More Chickens!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/48952dd1203515cce309dee331bdab70/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8SexAY"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason\u2019s back, and Myke has a lot of questions about his vacation. They also discuss a load of Apple TV+ news, new Safari betas, the MagSafe battery pack, and a bunch of Apple hardware rumors.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason\u2019s back, and Myke has a lot of questions about his vacation. They also discuss a load of Apple TV+ news, new Safari betas, the MagSafe battery pack, and a bunch of Apple hardware rumors.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

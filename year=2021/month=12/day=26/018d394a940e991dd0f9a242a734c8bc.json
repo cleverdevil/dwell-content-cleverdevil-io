@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/83-road-trip-songs"
+    ],
+    "published": [
+      "2021-12-26T23:14:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "018d394a940e991dd0f9a242a734c8bc"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-26T23:59:40Z",
+      "year": 2021,
+      "month": 12,
+      "day": 26,
+      "hour": 23,
+      "minute": 59,
+      "x": -116.38036174895835,
+      "y": 33.70160842153934,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 83: Road-Trip Songs \ud83d\ude99\ud83c\udfb6"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/59cbb70d206b2e888e42f4896d112cd1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDa2J9lE"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite songs for road-trip playlists.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite songs for road-trip playlists.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

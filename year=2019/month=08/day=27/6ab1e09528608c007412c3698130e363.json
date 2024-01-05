@@ -1,0 +1,188 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://beko.famkos.net/2019/08/28/freeing-from-facebook/"
+    ],
+    "name": [
+      "Thanks for reading my post on my departure from Facebook, Beko! As it turns out, I've developed another tool that doesn't require anything but a JSON export from Facebook and a website that supports Micropub. Check it out here - https://github.com/cleverdevil/ditchbook"
+    ],
+    "content": [
+      {
+        "html": "Thanks for reading my post on my departure from Facebook, Beko! As it turns out, I've developed another tool that doesn't require anything but a JSON export from Facebook and a website that supports Micropub. Check it out here - <a href=\"https://github.com/cleverdevil/ditchbook\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>ditchbook</a>",
+        "value": "Thanks for reading my post on my departure from Facebook, Beko! As it turns out, I've developed another tool that doesn't require anything but a JSON export from Facebook and a website that supports Micropub. Check it out here - https://github.com/cleverdevil/ditchbook"
+      }
+    ],
+    "url": [
+      "/2019/thanks-for-reading-my-post-on-my"
+    ],
+    "published": [
+      "2019-08-27T23:51:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76.37\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76.37\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76.37\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/thanks-for-reading-my-post-on-my/annotations/02734ea0859459755f306d7365ab9480"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/thanks-for-reading-my-post-on-my/annotations/02734ea0859459755f306d7365ab9480"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Ditchbook may be exactly what I was looking for \u2013 thanks Cleverdevil!"
+          ],
+          "content": [
+            {
+              "html": "<p>Ditchbook may be exactly what I was looking for \u2013 thanks Cleverdevil!</p>",
+              "value": "Ditchbook may be exactly what I was looking for \u2013 thanks Cleverdevil!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9iZWtvLmZhbWtvcy5uZXQvd3AtY29udGVudC91cGxvYWRzL2F2YXRhci1wcml2YWN5L2NhY2hlL3VzZXIvNS81LzU1Yjk4OWI3ZjQxZjY0Mzk4NzZiMzIzNjQxZTkzNTM5YjA4ZWYwZDhiYTlmNDZjZjYxMDFhOTQwNTJjMDk2MzAtNDAuanBn/300/square"
+                ],
+                "name": [
+                  "Beko Pharm"
+                ],
+                "url": [
+                  "https://beko.famkos.net/author/beko/"
+                ]
+              },
+              "value": "Beko Pharm"
+            }
+          ],
+          "url": [
+            "https://beko.famkos.net/2019/08/28/exactly-what-i-needed/"
+          ]
+        },
+        "value": "https://beko.famkos.net/2019/08/28/exactly-what-i-needed/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Follow-Up: Sadly no longer compatible.\nLooks like FB changed it\u2019s export format:\n[{\"timestamp\": 1566833332,\"attachments\": [],\"data\": [{\"post\": \"\"},{\"update_timestamp\": 1566833332}],\"title\": \"\"}]\nThis is not what Ditchpost expects.\nThe posts file is also no longer posts/your_posts.json but posts/your_posts_01.json Also on GitHub icon"
+          ],
+          "content": [
+            {
+              "html": "<p>Follow-Up: Sadly no longer compatible.<br/>Looks like FB changed it\u2019s export format:<br/>[{\"timestamp\": 1566833332,\"attachments\": [],\"data\": [{\"post\": \"\"},{\"update_timestamp\": 1566833332}],\"title\": \"\"}]<br/>This is not what Ditchpost expects.<br/>The posts file is also no longer posts/your_posts.json but posts/your_posts_01.json Also on GitHub icon</p>",
+              "value": "Follow-Up: Sadly no longer compatible.\nLooks like FB changed it\u2019s export format:\n[{\"timestamp\": 1566833332,\"attachments\": [],\"data\": [{\"post\": \"\"},{\"update_timestamp\": 1566833332}],\"title\": \"\"}]\nThis is not what Ditchpost expects.\nThe posts file is also no longer posts/your_posts.json but posts/your_posts_01.json Also on GitHub icon"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9iZWtvLmZhbWtvcy5uZXQvd3AtY29udGVudC91cGxvYWRzL2F2YXRhci1wcml2YWN5L2NhY2hlL3VzZXIvNS81LzU1Yjk4OWI3ZjQxZjY0Mzk4NzZiMzIzNjQxZTkzNTM5YjA4ZWYwZDhiYTlmNDZjZjYxMDFhOTQwNTJjMDk2MzAtNDAuanBn/300/square"
+                ],
+                "name": [
+                  "Beko Pharm"
+                ],
+                "url": [
+                  "https://beko.famkos.net/author/beko/"
+                ]
+              },
+              "value": "Beko Pharm"
+            }
+          ],
+          "url": [
+            "https://beko.famkos.net/2019/08/31/ditchbook-it-is-not/"
+          ]
+        },
+        "value": "https://beko.famkos.net/2019/08/31/ditchbook-it-is-not/"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "6ab1e09528608c007412c3698130e363"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-27T18:39:50Z",
+      "year": 2019,
+      "month": 8,
+      "day": 27,
+      "hour": 18,
+      "minute": 39,
+      "x": -118.39604281807762,
+      "y": 33.92105997624108,
+      "altitude": 34,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

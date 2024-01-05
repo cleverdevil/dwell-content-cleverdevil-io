@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/395-receive-their-honking"
+    ],
+    "published": [
+      "2020-09-13T18:15:27+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "28639193482735bea43bb7f91c4af5c0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-13T20:00:17Z",
+      "year": 2020,
+      "month": 9,
+      "day": 13,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37029863622966,
+      "y": 33.81541465463428,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6299999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 395: Receive Their Honking"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b0167838044288bc797f782323d1399c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI2VoVM"
+        ],
+        "content": [
+          {
+            "html": "<p>Hopes and dreams for next week\u2019s event, Epic\u2019s Sign In With Apple problem, and driving lessons from John.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Hopes and dreams for next week\u2019s event, Epic\u2019s Sign In With Apple problem, and driving lessons from John.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

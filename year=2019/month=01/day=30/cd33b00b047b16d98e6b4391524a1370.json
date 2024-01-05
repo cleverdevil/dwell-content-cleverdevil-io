@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ami Ami Bar & Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ami Ami Bar & Grill"
+          ],
+          "latitude": [
+            "20.723889726987"
+          ],
+          "longitude": [
+            "-156.44770707523"
+          ]
+        },
+        "value": "Ami Ami Bar & Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ami Ami Bar & Grill"
+          ],
+          "latitude": [
+            "20.723889726987"
+          ],
+          "longitude": [
+            "-156.44770707523"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Brunch before we leave.</p>",
+        "value": "Brunch before we leave."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-ami-ami-bar-grill"
+    ],
+    "published": [
+      "2019-01-30T20:04:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Ami Ami Bar & Grill!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Ami Ami Bar &amp; Grill!</p>",
+              "value": "Your first check-in at Ami Ami Bar & Grill!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c520354971317002db698e2/c1cccc1ce00974340eb16638d8860c83"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c520354971317002db698e2/c1cccc1ce00974340eb16638d8860c83"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.95\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.95\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.95\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-ami-ami-bar-grill/annotations/988891b22fd875eed5ecac0fcc76261d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-ami-ami-bar-grill/annotations/988891b22fd875eed5ecac0fcc76261d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c520354971317002db698e2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cd33b00b047b16d98e6b4391524a1370"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-30T19:50:21Z",
+      "year": 2019,
+      "month": 1,
+      "day": 30,
+      "hour": 19,
+      "minute": 50,
+      "x": -156.43941248576442,
+      "y": 20.701097776043436,
+      "altitude": 55,
+      "motion": [
+        "driving"
+      ],
+      "speed": 15,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  }
+}

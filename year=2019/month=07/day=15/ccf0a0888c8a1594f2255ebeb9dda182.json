@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Manton Reece"
+    ],
+    "like-of": [
+      "https://www.manton.org/2019/07/14/reading-a-lot.html"
+    ],
+    "url": [
+      "/2019/manton-reece-1"
+    ],
+    "published": [
+      "2019-07-15T00:21:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.7\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.7\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.7\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/manton-reece-1/annotations/9606125bedd28d229552686667904958"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/manton-reece-1/annotations/9606125bedd28d229552686667904958"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "ccf0a0888c8a1594f2255ebeb9dda182"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-15T00:16:39Z",
+      "year": 2019,
+      "month": 7,
+      "day": 15,
+      "hour": 0,
+      "minute": 16,
+      "x": -118.37029392723832,
+      "y": 33.815418428528766,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  }
+}

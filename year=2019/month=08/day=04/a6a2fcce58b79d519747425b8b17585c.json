@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-barber-shop-25"
+    ],
+    "published": [
+      "2019-08-04T18:22:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "C, is for cookie, that's good enough for me. #NationalChocolateChipCookieDay \ud83c\udf6a"
+          ],
+          "content": [
+            {
+              "html": "<p>C, is for cookie, that's good enough for me. #NationalChocolateChipCookieDay \ud83c\udf6a</p>",
+              "value": "C, is for cookie, that's good enough for me. #NationalChocolateChipCookieDay \ud83c\udf6a"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3Rhci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d47226106757a00083d478e/da9713ade13e7dba3c52c51925892a06"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d47226106757a00083d478e/da9713ade13e7dba3c52c51925892a06"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.52\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.52\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.52\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-25/annotations/1e51c65c1c48c197f0ec28e574f732b8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-25/annotations/1e51c65c1c48c197f0ec28e574f732b8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d47226106757a00083d478e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a6a2fcce58b79d519747425b8b17585c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-04T18:21:40Z",
+      "year": 2019,
+      "month": 8,
+      "day": 4,
+      "hour": 18,
+      "minute": 21,
+      "x": -118.38503997522272,
+      "y": 33.81801005462081,
+      "altitude": 22,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

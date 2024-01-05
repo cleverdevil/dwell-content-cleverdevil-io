@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Yogurtland"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yogurtland"
+          ],
+          "latitude": [
+            "33.818323239121"
+          ],
+          "longitude": [
+            "-118.38612621326"
+          ]
+        },
+        "value": "Yogurtland"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yogurtland"
+          ],
+          "latitude": [
+            "33.818323239121"
+          ],
+          "longitude": [
+            "-118.38612621326"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Yogurtland\" src=\"https://cleverdevil.io/file/17fdf7ec0d098fc7ab5ebc3691c70f26\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Froyo for my little girl, who just had two teeth pulled!</p>",
+        "value": "Yogurtland\nFroyo for my little girl, who just had two teeth pulled!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-yogurtland-1"
+    ],
+    "published": [
+      "2017-06-28T01:40:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "iScream sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>iScream sticker bonus!</p>",
+              "value": "iScream sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3b53ad95d58fa6e96dcbd9f6f4840ebf"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59530913a6ec9820737ad67a/d850aa298a9a9d151754d74fb053ecc1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59530913a6ec9820737ad67a/d850aa298a9a9d151754d74fb053ecc1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "No filters needed for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>No filters needed for that photo.</p>",
+              "value": "No filters needed for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7a74ca918eb9087a585d949b83eae57d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59530913a6ec9820737ad67a/4bdb400281a1b04757721e95fe28dcb1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59530913a6ec9820737ad67a/4bdb400281a1b04757721e95fe28dcb1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59530913a6ec9820737ad67a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5770842d648dfe5f5c73a1029bfa26fe"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59530913a6ec9820737ad67a/83f8fa56d37d608d4e16515ff36781cf"
+          ],
+          "published": [
+            "2017-06-28T01:40:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://foursquare.com/user/148783"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/7ea0dce9f94580ec43b3cf7825fd64bf"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/7ea0dce9f94580ec43b3cf7825fd64bf Joe Joyce"
+            }
+          ]
+        },
+        "value": "Joe Joyce"
+      }
+    ]
+  }
+}

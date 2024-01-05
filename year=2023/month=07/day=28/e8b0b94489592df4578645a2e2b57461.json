@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/545-my-butler-cant-use-it"
+    ],
+    "published": [
+      "2023-07-28T02:46:34+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e8b0b94489592df4578645a2e2b57461"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-27T20:31:57Z",
+      "year": 2023,
+      "month": 7,
+      "day": 27,
+      "hour": 20,
+      "minute": 31,
+      "x": -73.98897540229737,
+      "y": 40.75772470424039,
+      "altitude": 16,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 545: My Butler Can\u2019t Use It"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fc927b2546b3ced2d210c6da7a214546/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIUK_U8"
+        ],
+        "content": [
+          {
+            "html": "<p>This isn\u2019t Tim.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "This isn\u2019t Tim.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

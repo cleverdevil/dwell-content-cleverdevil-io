@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/445-best-blender-is-a-wasteland-1"
+    ],
+    "published": [
+      "2021-08-27T03:31:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f221b5f32986b5f24c7d21e2c5c13aac"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-27T07:57:32Z",
+      "year": 2021,
+      "month": 8,
+      "day": 27,
+      "hour": 7,
+      "minute": 57,
+      "x": -118.37050916150275,
+      "y": 33.81533564909401,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 445: Best Blender Is a Wasteland"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9e454dad6faf697c153e7e510a95c438/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULh-m7s"
+        ],
+        "content": [
+          {
+            "html": "<p>NeuralHash collisions, Safari design updates, Apple\u2019s recent PR war against itself, and Marco\u2019s experience at a Phish concert.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "NeuralHash collisions, Safari design updates, Apple\u2019s recent PR war against itself, and Marco\u2019s experience at a Phish concert.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

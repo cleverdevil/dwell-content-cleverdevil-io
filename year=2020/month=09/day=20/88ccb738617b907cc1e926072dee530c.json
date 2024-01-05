@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/game-2-recap-louisville"
+    ],
+    "published": [
+      "2020-09-20T17:45:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "88ccb738617b907cc1e926072dee530c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-20T19:48:58Z",
+      "year": 2020,
+      "month": 9,
+      "day": 20,
+      "hour": 19,
+      "minute": 48,
+      "x": -118.37031656565915,
+      "y": 33.81542756364561,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Game #2 Recap: @ Louisville"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/41bcb8bfa94e8b6c5bd115854939a011/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf6HTufs"
+        ],
+        "content": [
+          {
+            "html": "<p>The Canes pounded Louisville 47-34.King: 18/30 325 yds 3 TD\u2019sHarris: 139 yards rushingJordan: 7 for 120 yards and 1 TDAudio courtesy of ABC/ESPN</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "The Canes pounded Louisville 47-34.King: 18/30 325 yds 3 TD\u2019sHarris: 139 yards rushingJordan: 7 for 120 yards and 1 TDAudio courtesy of ABC/ESPN\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

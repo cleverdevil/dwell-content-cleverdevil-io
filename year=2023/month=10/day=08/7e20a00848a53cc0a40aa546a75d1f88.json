@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/episode-7---yoghurt-special"
+    ],
+    "published": [
+      "2023-10-08T21:54:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7e20a00848a53cc0a40aa546a75d1f88"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-08T23:59:46Z",
+      "year": 2023,
+      "month": 10,
+      "day": 8,
+      "hour": 23,
+      "minute": 59,
+      "x": -118.370510866758,
+      "y": 33.81532312664052,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 7 - Yoghurt Special"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/801c624af855ae88b6e9b66b5e7a4a2c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E8qT-lNLM"
+        ],
+        "content": [
+          {
+            "html": "<p>Katy Wix joins in with our yoghurt special. We talk to GP Dr. Sam Archer about sell by dates and former child star Wendy Axminster about her campaign to raise awareness of the poor treatment of child actors by the dairy industry. By Benjamin Partridge, Tom Neenan and Katy Wix. Thanks to Mike Wozniak. Stock media provided by and Soundrangers/Pond5.com. Audio: missozzy/Freesound.org, cormi/Freesound.org Licensed under Creative Commons: By Attribution 3.0</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Beef And Dairy Network</p>",
+            "value": "Katy Wix joins in with our yoghurt special. We talk to GP Dr. Sam Archer about sell by dates and former child star Wendy Axminster about her campaign to raise awareness of the poor treatment of child actors by the dairy industry. By Benjamin Partridge, Tom Neenan and Katy Wix. Thanks to Mike Wozniak. Stock media provided by and Soundrangers/Pond5.com. Audio: missozzy/Freesound.org, cormi/Freesound.org Licensed under Creative Commons: By Attribution 3.0\nBy Beef And Dairy Network"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

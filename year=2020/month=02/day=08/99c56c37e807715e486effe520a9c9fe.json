@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Detroit Metropolitan Wayne County Airport (DTW)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.215169381674"
+          ],
+          "longitude": [
+            "-83.354644775391"
+          ]
+        },
+        "value": "Detroit Metropolitan Wayne County Airport (DTW)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.215169381674"
+          ],
+          "longitude": [
+            "-83.354644775391"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Layover</p>",
+        "value": "Layover"
+      }
+    ],
+    "url": [
+      "/2020/checked-into-detroit-metropolitan-wayne-county-airport-dtw-4"
+    ],
+    "published": [
+      "2020-02-08T16:12:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "630 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>630 miles since last check-in</p>",
+              "value": "630 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e3eddfc874fd00008eb8262/ba0f65c77a58eb741388c37880dcff3f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e3eddfc874fd00008eb8262/ba0f65c77a58eb741388c37880dcff3f"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 28.45\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 28.45\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 28.45\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-detroit-metropolitan-wayne-county-airport-dtw-4/annotations/3fca2bf954ffc420090fc5abf24fc7e1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-detroit-metropolitan-wayne-county-airport-dtw-4/annotations/3fca2bf954ffc420090fc5abf24fc7e1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e3eddfc874fd00008eb8262"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "99c56c37e807715e486effe520a9c9fe"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-08T16:12:23Z",
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "hour": 16,
+      "minute": 12,
+      "x": -83.3605543633273,
+      "y": 42.205037334251166,
+      "altitude": 195,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

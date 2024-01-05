@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Alton Brown on Twitter: \"\u2026 \""
+    ],
+    "repost-of": [
+      "https://twitter.com/altonbrown/status/1135280446512795654"
+    ],
+    "url": [
+      "/2019/alton-brown-on-twitter"
+    ],
+    "published": [
+      "2019-06-02T20:23:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.35\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.35\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 63.35\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/alton-brown-on-twitter/annotations/e8fc1884e9a06ca3d539559fae6eb98a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/alton-brown-on-twitter/annotations/e8fc1884e9a06ca3d539559fae6eb98a"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1135280911166058496"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "4377875f317c2c44f93d6152576daba6"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-02T20:22:21Z",
+      "year": 2019,
+      "month": 6,
+      "day": 2,
+      "hour": 20,
+      "minute": 22,
+      "x": -118.37033717536929,
+      "y": 33.815471922441326,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "LaCour"
+    }
+  }
+}

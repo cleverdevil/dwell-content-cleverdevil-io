@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played New Super Mario Bros. U Deluxe\nPlayed on the Nintendo Switch.\nPlayed for 110 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/d3a84789251f00d7d0557f7bc4e2849b/thumb.jpg"
+    ],
+    "name": [
+      "New Super Mario Bros. U Deluxe"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 110 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 110 minutes."
+      }
+    ],
+    "url": [
+      "/2019/new-super-mario-bros-u-deluxe"
+    ],
+    "published": [
+      "2019-04-02T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.11\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.11\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.11\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/new-super-mario-bros-u-deluxe/annotations/c4d2f11282466ce9746e849d0d24ac66"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/new-super-mario-bros-u-deluxe/annotations/c4d2f11282466ce9746e849d0d24ac66"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "049192b4be1334942cdad965e2fadc0a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-02T11:51:29Z",
+      "year": 2019,
+      "month": 4,
+      "day": 2,
+      "hour": 11,
+      "minute": 51,
+      "x": -118.37045173472228,
+      "y": 33.815388700000625,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  }
+}

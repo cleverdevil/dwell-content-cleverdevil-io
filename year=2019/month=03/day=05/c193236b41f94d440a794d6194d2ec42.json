@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-235-dont-be-so-mean"
+    ],
+    "published": [
+      "2019-03-05T22:59:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 57.53\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 57.53\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 57.53\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-235-dont-be-so-mean/annotations/210181d26d891943df0198d4c297d7db"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-235-dont-be-so-mean/annotations/210181d26d891943df0198d4c297d7db"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c193236b41f94d440a794d6194d2ec42"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-06T00:03:14Z",
+      "year": 2019,
+      "month": 3,
+      "day": 6,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.37035684818996,
+      "y": 33.81545717974724,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 235: Don\u2019t Be So Mean"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b1ef6cbd99f7086a25d3c1cb966e0c31/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8Tnz_o"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Upgrade gets controversial! Face ID vs. Touch ID! Apple execs tinkering with TV content! iOS apps invading the Mac! Netflix - threat or menace? The British TV licence! And a laser explosion!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week, Upgrade gets controversial! Face ID vs. Touch ID! Apple execs tinkering with TV content! iOS apps invading the Mac! Netflix - threat or menace? The British TV licence! And a laser explosion!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

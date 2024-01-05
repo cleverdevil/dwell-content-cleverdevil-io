@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/238---belgian-gp-2023"
+    ],
+    "published": [
+      "2023-08-03T03:49:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "04fe14e1158b4760550060ebd7a5d077"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-03T03:54:25Z",
+      "year": 2023,
+      "month": 8,
+      "day": 3,
+      "hour": 3,
+      "minute": 54,
+      "x": -116.66698533333336,
+      "y": 33.9224255,
+      "altitude": 366,
+      "motion": [
+        "driving"
+      ],
+      "speed": 34,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 238 - Belgian GP 2023"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6c212f357342bfa639e67cbcd7959e95/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+IsYwL3bEI"
+        ],
+        "content": [
+          {
+            "html": "<p>F1 earns its summer break after multiple wet-to-dry qualifying sessions, smashed sidepods, and a \u201csurprise\u201d team principal exit. SHOW NOTES The from Belgium Kid commentary: and a pic from the Support the show on and get all our bonus\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shift+F1: A Formula 1 Podcast</p>",
+            "value": "F1 earns its summer break after multiple wet-to-dry qualifying sessions, smashed sidepods, and a \u201csurprise\u201d team principal exit. SHOW NOTES The from Belgium Kid commentary: and a pic from the Support the show on and get all our bonus\u2026\nBy Shift+F1: A Formula 1 Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

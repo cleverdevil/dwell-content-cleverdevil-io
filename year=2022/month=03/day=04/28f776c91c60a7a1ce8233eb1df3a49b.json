@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Liberty Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Liberty Hotel"
+          ],
+          "latitude": [
+            "42.3620711"
+          ],
+          "longitude": [
+            "-71.0700948"
+          ]
+        },
+        "value": "The Liberty Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Liberty Hotel"
+          ],
+          "latitude": [
+            "42.3620711"
+          ],
+          "longitude": [
+            "-71.0700948"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Checking out!</p>",
+        "value": "Checking out!"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-liberty-hotel"
+    ],
+    "published": [
+      "2022-03-04T18:09:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside The Liberty Hotel! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside The Liberty Hotel! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside The Liberty Hotel! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622255d15f85046dfda220a8/46f7621b221894081a33b99653643d19"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622255d15f85046dfda220a8/46f7621b221894081a33b99653643d19"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Liberty Hotel!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Liberty Hotel!</p>",
+              "value": "Your first check-in at The Liberty Hotel!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622255d15f85046dfda220a8/5e07fdd57f3f53011716571ccc50628b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622255d15f85046dfda220a8/5e07fdd57f3f53011716571ccc50628b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/622255d15f85046dfda220a8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "28f776c91c60a7a1ce8233eb1df3a49b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-04T16:41:23Z",
+      "year": 2022,
+      "month": 3,
+      "day": 4,
+      "hour": 16,
+      "minute": 41,
+      "x": -71.07034616966884,
+      "y": 42.3620843438451,
+      "altitude": 33,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  }
+}

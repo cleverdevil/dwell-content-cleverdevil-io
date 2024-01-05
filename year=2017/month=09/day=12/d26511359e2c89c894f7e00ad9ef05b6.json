@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Marquee Nightclub & Dayclub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Marquee Nightclub & Dayclub"
+          ],
+          "latitude": [
+            "36.109537683675"
+          ],
+          "longitude": [
+            "-115.17442134717"
+          ]
+        },
+        "value": "Marquee Nightclub & Dayclub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Marquee Nightclub & Dayclub"
+          ],
+          "latitude": [
+            "36.109537683675"
+          ],
+          "longitude": [
+            "-115.17442134717"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Marquee Nightclub &amp; Dayclub\" src=\"https://cleverdevil.io/file/e1738e20960b1f7beb6477d6a439728d\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "Marquee Nightclub & Dayclub"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-marquee-nightclub-dayclub"
+    ],
+    "published": [
+      "2017-09-12T06:10:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Marquee Nightclub & Dayclub!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Marquee Nightclub &amp; Dayclub!</p>",
+              "value": "Your first check-in at Marquee Nightclub & Dayclub!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b77a492ebb344cd4f76d10/becc66b665ef036da6c148fb067de8c2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59b77a492ebb344cd4f76d10/becc66b665ef036da6c148fb067de8c2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59b77a492ebb344cd4f76d10"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d26511359e2c89c894f7e00ad9ef05b6"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b77a492ebb344cd4f76d10/9662403d0ddade63744265c8f7fc925c"
+          ],
+          "published": [
+            "2017-09-12T06:10:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "esther julee"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1111760"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square esther julee"
+            }
+          ]
+        },
+        "value": "esther julee"
+      }
+    ]
+  }
+}

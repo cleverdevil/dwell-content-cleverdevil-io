@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/242-the-butts-incident-with-special-guest-john-moltz"
+    ],
+    "published": [
+      "2019-02-05T17:24:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 52.18\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 52.18\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 52.18\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/242-the-butts-incident-with-special-guest-john-moltz/annotations/bf3054f53696b9df4a51cd268ff744de"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/242-the-butts-incident-with-special-guest-john-moltz/annotations/bf3054f53696b9df4a51cd268ff744de"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "210166e17ba94ae20d9dd54b83177e45"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-05T20:02:52Z",
+      "year": 2019,
+      "month": 2,
+      "day": 5,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37030141235881,
+      "y": 33.81537693316008,
+      "altitude": 52,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3400000035762787,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 242: \u2018The Butts Incident\u2019, With Special Guest John Moltz"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/03e4fed32eecc94e747ff16e4c17b2b6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBEwylk"
+        ],
+        "content": [
+          {
+            "html": "<p>242: \u2018The Butts Incident\u2019, With Special Guest John Moltz</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "242: \u2018The Butts Incident\u2019, With Special Guest John Moltz\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/237-cameos"
+    ],
+    "published": [
+      "2022-07-04T05:18:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "34684fd1ca2f410d0949e9f371dd1958"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-04T06:39:29Z",
+      "year": 2022,
+      "month": 7,
+      "day": 4,
+      "hour": 6,
+      "minute": 39,
+      "x": -116.380351691634,
+      "y": 33.70170438218212,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 237: Cameos"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/aab5bd61e38bb8e21d4664a1036717d3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2R7Y1Jk"
+        ],
+        "content": [
+          {
+            "html": "<p>Is that just a really short acting part, or is it only a cameo?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "Is that just a really short acting part, or is it only a cameo?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

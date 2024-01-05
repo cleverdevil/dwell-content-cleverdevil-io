@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/episode-600-family-feuds"
+    ],
+    "published": [
+      "2023-01-17T07:09:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "44d3702025da4a69bc53492856e58abd"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-17T08:04:56Z",
+      "year": 2023,
+      "month": 1,
+      "day": 17,
+      "hour": 8,
+      "minute": 4,
+      "x": -97.74710283332448,
+      "y": 30.266038387825965,
+      "altitude": 192,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": "W Austin"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 600: Family Feuds"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/30aa2f398fb20c6fcf28a0b975181110/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1HTrWg"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! This week, we\u2019re tackling FAMILY FEUDS. Is it okay to run in Crocs? Should you serve your sister old, old honey? Is \u201ctweets\u201d an acceptable Scrabble word? Plus: baby names, Chex mix and frosty facial hair!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! This week, we\u2019re tackling FAMILY FEUDS. Is it okay to run in Crocs? Should you serve your sister old, old honey? Is \u201ctweets\u201d an acceptable Scrabble word? Plus: baby names, Chex mix and frosty facial hair!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

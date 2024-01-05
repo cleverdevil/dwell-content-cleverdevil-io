@@ -1,0 +1,124 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Micropub and the IndieWeb"
+    ],
+    "content": [
+      {
+        "html": "<p>It's been years since I last maintained a personal website. Why? Sadly, because of the rise of social media, and content walled-gardens. A few weeks ago, I discovered <a href=\"http://withknown.com\">Known, a new, open source CMS</a>. Known acts as more than just a CMS, enabling users to create a single site that captures all of their content from social media and walled-gardens like Twitter, Facebook, and Instagram.</p><p>Known was born out of <a href=\"http://indiewebcamp.com\">the IndieWeb movement</a>, which focuses on resurrecting the web of the past, where your content is owned by you, not by an ad-driven corporation. The IndieWeb crew have developed a series of standards and specifications to encourage <a href=\"http://indiewebcamp.com/POSSE\">what they call POSSE</a>, or <em>Publish on your Own Site, Syndicate Elsewhere</em>.</p><h3>Surprise, It's Markdown!</h3><p>This site that you are reading right now is created with Known, and fully supports IndieWeb standards like <a href=\"http://indiewebcamp.com/micropub\">Micropub</a>. In fact, this very post was created in <a href=\"http://omz-software.com/editorial\">Editorial for iOS</a> and published via Micropub to this site via <a href=\"http://www.editorial-workflows.com/workflow/5227209878929408/JZrTPYnXAiY\">two</a> <a href=\"http://www.editorial-workflows.com/workflow/5833229495959552/tO76Z7cIfTU\">workflows</a>.</p><h3>The Future is Open and Bright</h3><p>I am thoroughly enjoying being able to microblog, create long form posts, share photos, and otherwise participate in the open web again, while maintaining my ownership over my own content in a single, canonical, self-managed site on my own domain.</p><p>The future of the open web is looking up!</p>",
+        "value": "It's been years since I last maintained a personal website. Why? Sadly, because of the rise of social media, and content walled-gardens. A few weeks ago, I discovered Known, a new, open source CMS. Known acts as more than just a CMS, enabling users to create a single site that captures all of their content from social media and walled-gardens like Twitter, Facebook, and Instagram.\nKnown was born out of the IndieWeb movement, which focuses on resurrecting the web of the past, where your content is owned by you, not by an ad-driven corporation. The IndieWeb crew have developed a series of standards and specifications to encourage what they call POSSE, or Publish on your Own Site, Syndicate Elsewhere.Surprise, It's Markdown!\nThis site that you are reading right now is created with Known, and fully supports IndieWeb standards like Micropub. In fact, this very post was created in Editorial for iOS and published via Micropub to this site via two workflows.The Future is Open and Bright\nI am thoroughly enjoying being able to microblog, create long form posts, share photos, and otherwise participate in the open web again, while maintaining my ownership over my own content in a single, canonical, self-managed site on my own domain.\nThe future of the open web is looking up!"
+      }
+    ],
+    "url": [
+      "/2015/micropub-and-the-indieweb"
+    ],
+    "published": [
+      "2015-08-13T17:07:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Yeah, but... PHP."
+          ],
+          "content": [
+            {
+              "html": "<p>Yeah, but... PHP.</p>",
+              "value": "Yeah, but... PHP."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/gfx/users/default-03.png"
+                ],
+                "name": [
+                  "clee"
+                ],
+                "url": [
+                  "https://c133.org/"
+                ]
+              },
+              "value": "clee"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2015/micropub-and-the-indieweb/annotations/a7a5cb0a24fe60e5f9501b28d7798ef1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2015/micropub-and-the-indieweb/annotations/a7a5cb0a24fe60e5f9501b28d7798ef1"
+      }
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "7d066c655398d68bebbeff5ae0f05c4a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2015-08-13_micropub-and-the-indieweb"
+          ],
+          "published": [
+            "2015-08-14T00:25:54+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/29bc36dff986689abd512cfa1807f4de"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/29bc36dff986689abd512cfa1807f4de Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      }
+    ]
+  }
+}

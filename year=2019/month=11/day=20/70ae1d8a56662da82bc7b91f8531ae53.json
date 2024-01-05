@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 10x07 \"Land of the Loft\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/28a687cace38d7c79176c8e0965bed9d/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 10x07 \"Land of the Loft\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3798230"
+          ]
+        },
+        "value": "Bob's Burgers 10x07 \"Land of the Loft\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bob and Linda attend a loft party on a stormy night while the kids challenge their babysitter and face the storm in an ice cream truck.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Bob and Linda attend a loft party on a stormy night while the kids challenge their babysitter and face the storm in an ice cream truck.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/bobs-burgers-10x07-land-of-the-loft"
+    ],
+    "published": [
+      "2019-11-20T07:15:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.05\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.05\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.05\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/bobs-burgers-10x07-land-of-the-loft/annotations/41c6610b2d4a74906ab9e93d99330b53"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/bobs-burgers-10x07-land-of-the-loft/annotations/41c6610b2d4a74906ab9e93d99330b53"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "70ae1d8a56662da82bc7b91f8531ae53"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-20T07:12:01Z",
+      "year": 2019,
+      "month": 11,
+      "day": 20,
+      "hour": 7,
+      "minute": 12,
+      "x": -118.37032336967903,
+      "y": 33.81542063484183,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

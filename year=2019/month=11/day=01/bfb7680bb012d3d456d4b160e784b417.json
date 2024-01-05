@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/350-wax-buddies"
+    ],
+    "published": [
+      "2019-11-01T20:20:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.43\u00b0F and 51% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.43\u00b0F and 51% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.43\u00b0F and 51% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/350-wax-buddies/annotations/16b2444e5e8376e3b1fdd8574cf2d2b8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/350-wax-buddies/annotations/16b2444e5e8376e3b1fdd8574cf2d2b8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bfb7680bb012d3d456d4b160e784b417"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-02T00:02:22Z",
+      "year": 2019,
+      "month": 11,
+      "day": 2,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.37039686191389,
+      "y": 33.81543598641575,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 350: Wax Buddies"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/38f205b6ddf9d7bed9aab8fd1b6ec888/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DWGCHQ4"
+        ],
+        "content": [
+          {
+            "html": "<p>Did you ever wish we\u2019d do a sports podcast? After this, you won\u2019t.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Did you ever wish we\u2019d do a sports podcast? After this, you won\u2019t.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

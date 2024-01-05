@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Tipsy Pig"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Tipsy Pig"
+          ],
+          "latitude": [
+            "37.800248793749"
+          ],
+          "longitude": [
+            "-122.44004310229"
+          ]
+        },
+        "value": "The Tipsy Pig"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Tipsy Pig"
+          ],
+          "latitude": [
+            "37.800248793749"
+          ],
+          "longitude": [
+            "-122.44004310229"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-the-tipsy-pig"
+    ],
+    "published": [
+      "2019-11-08T05:48:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Gastropub check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Gastropub check-in in 3 months!</p>",
+              "value": "First Gastropub check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dc501a656e63a0007f98523/e6876cea890ef0dd4a98c44d1bc6195c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dc501a656e63a0007f98523/e6876cea890ef0dd4a98c44d1bc6195c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.33\u00b0F and 93% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.33\u00b0F and 93% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.33\u00b0F and 93% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-the-tipsy-pig/annotations/e3151b8cffd5b30bd05819d99e29389a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-the-tipsy-pig/annotations/e3151b8cffd5b30bd05819d99e29389a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dc501a656e63a0007f98523"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4ebb6d87c9f6862364194a049be1b3b0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-08T05:45:40Z",
+      "year": 2019,
+      "month": 11,
+      "day": 8,
+      "hour": 5,
+      "minute": 45,
+      "x": -122.43993878476446,
+      "y": 37.79998188326758,
+      "altitude": 11,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": ""
+    }
+  }
+}

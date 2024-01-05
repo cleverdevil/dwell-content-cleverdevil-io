@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/357-fluent-cupertinoese-with-nilay-patel"
+    ],
+    "published": [
+      "2022-09-24T01:42:32+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "302296782dd71355f577edff79343e6f"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-24T03:52:33Z",
+      "year": 2022,
+      "month": 9,
+      "day": 24,
+      "hour": 3,
+      "minute": 52,
+      "x": -116.38037812547043,
+      "y": 33.70165886598387,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 357: \u2018Fluent Cupertinoese\u2019, With Nilay Patel"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/826b7760279044a76adea9dea418b15f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCpSbk8"
+        ],
+        "content": [
+          {
+            "html": "<p>357: \u2018Fluent Cupertinoese\u2019, With Nilay Patel</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "357: \u2018Fluent Cupertinoese\u2019, With Nilay Patel\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://www.manton.org/2017/07/5476.html"
+    ],
+    "name": [
+      "@manton nice! You should consider adding a Safari Pinned Tab Icon \u2013 https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebConte..."
+    ],
+    "content": [
+      {
+        "html": "@manton nice! You should consider adding a Safari Pinned Tab Icon \u2013 <a href=\"https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html\" target=\"_blank\">https://<wbr/>developer.apple.com/<wbr/>library/<wbr/>content/<wbr/>documentation/<wbr/>AppleApplications/<wbr/>Reference/<wbr/>SafariWebConte...</a>",
+        "value": "@manton nice! You should consider adding a Safari Pinned Tab Icon \u2013 https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebConte..."
+      }
+    ],
+    "url": [
+      "/2017/manton-nice-you-should-consider-adding-a-safari-pinned-tab"
+    ],
+    "published": [
+      "2017-07-24T23:56:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Thanks for the link! That sounds like it's worth adding. I was wondering why Safari pinned tabs didn't pick up the favicon."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Thanks for the link! That sounds like it's worth adding. I was wondering why Safari pinned tabs didn't pick up the favicon.</p>",
+              "value": "@cleverdevil Thanks for the link! That sounds like it's worth adding. I was wondering why Safari pinned tabs didn't pick up the favicon."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4259a564b34b74026885a2b34d49ae78"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/119698"
+          ]
+        },
+        "value": "https://micro.blog/manton/119698"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton On your personal blog, any reason you haven\u2019t updated the header scripts to point to your different RSS feeds (full and microblog)?"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton On your personal blog, any reason you haven\u2019t updated the header scripts to point to your different RSS feeds (full and microblog)?</p>",
+              "value": "@manton On your personal blog, any reason you haven\u2019t updated the header scripts to point to your different RSS feeds (full and microblog)?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/942571863ab83123682fe0ae7212278e"
+                ],
+                "name": [
+                  "Mtt"
+                ],
+                "url": [
+                  "https://micro.blog/Mtt"
+                ]
+              },
+              "value": "Mtt"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Mtt/119976"
+          ]
+        },
+        "value": "https://micro.blog/Mtt/119976"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@Mtt I think I just never got around to it. I\u2019ve been thinking about consolidating back to a single feed, though. For JSON Feed I didn\u2019t split it up."
+          ],
+          "content": [
+            {
+              "html": "<p>@Mtt I think I just never got around to it. I\u2019ve been thinking about consolidating back to a single feed, though. For JSON Feed I didn\u2019t split it up.</p>",
+              "value": "@Mtt I think I just never got around to it. I\u2019ve been thinking about consolidating back to a single feed, though. For JSON Feed I didn\u2019t split it up."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2e5302243b733321e3f06ba7e3ccfa8c"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/120090"
+          ]
+        },
+        "value": "https://micro.blog/manton/120090"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "07a350bae970b1cf041722432d40b940"
+    ]
+  }
+}

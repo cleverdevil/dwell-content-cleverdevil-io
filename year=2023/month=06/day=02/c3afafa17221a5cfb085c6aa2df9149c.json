@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/452-the-rickies-wwdc-2023"
+    ],
+    "published": [
+      "2023-06-02T16:24:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c3afafa17221a5cfb085c6aa2df9149c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-02T17:08:07Z",
+      "year": 2023,
+      "month": 6,
+      "day": 2,
+      "hour": 17,
+      "minute": 8,
+      "x": -118.37041430698241,
+      "y": 33.81539223739957,
+      "altitude": 60,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 452: The Rickies (WWDC 2023)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a02ef0709939471a9b28f995c0658237/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6N6Rqw"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC23 is just a few days away, so Myke, Federico and Stephen have made their predictions for what Apple will \u2014 and won\u2019t \u2014 announce.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "WWDC23 is just a few days away, so Myke, Federico and Stephen have made their predictions for what Apple will \u2014 and won\u2019t \u2014 announce.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

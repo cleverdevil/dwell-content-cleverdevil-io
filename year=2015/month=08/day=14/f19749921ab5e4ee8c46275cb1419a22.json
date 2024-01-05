@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2015/fresh-whisky-sours"
+    ],
+    "published": [
+      "2015-08-14T22:49:10+0000"
+    ],
+    "post-kind": [
+      "Recipe"
+    ],
+    "post-id": [
+      "f19749921ab5e4ee8c46275cb1419a22"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-recipe"
+      ],
+      "properties": {
+        "name": [
+          "Recipe: Fresh Whisky Sours"
+        ],
+        "ingredient": [
+          "1 cup bourbon whiskey",
+          "1/2 cup freshly squeezed lemon juice",
+          "1/2 cup freshly squeezed lime juice",
+          "1/2 cup freshly squeezed orange juice",
+          "2/3 cup sugar syrup",
+          "Ice cubes"
+        ],
+        "duration": [
+          "five minutes"
+        ],
+        "yield": [
+          "four"
+        ],
+        "instructions": [
+          {
+            "html": "<p>Combine the whiskey, lemon juice, lime juice, orange juice and syrup. Fill a cocktail shaker halfway with ice and pour in the drink mix 2/3 full. Shake for 15 seconds and pour into glasses.</p><p><em>Note: To make the sugar syrup, bring 1 cup of water and 1 cup of sugar to a boil, and simmer until the sugar is completely dissolved. Chill before using.</em></p>",
+            "value": "Combine the whiskey, lemon juice, lime juice, orange juice and syrup. Fill a cocktail shaker halfway with ice and pour in the drink mix 2/3 full. Shake for 15 seconds and pour into glasses.\nNote: To make the sugar syrup, bring 1 cup of water and 1 cup of sugar to a boil, and simmer until the sugar is completely dissolved. Chill before using."
+          }
+        ]
+      }
+    }
+  ]
+}

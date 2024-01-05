@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-52"
+    ],
+    "published": [
+      "2017-05-20T19:09:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/dade18d5a5d155f053cb21fa66ad1c0b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/592094759ba3e542b8a82910/4e8d46a3b5e12ec8561281d4ffc2fbc9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/592094759ba3e542b8a82910/4e8d46a3b5e12ec8561281d4ffc2fbc9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/592094759ba3e542b8a82910"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d11e46193284299cc59949943dd533ba"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/592094759ba3e542b8a82910/3c86f505f25d6dc1f9acb7f2fc0bc00f"
+          ],
+          "published": [
+            "2017-05-20T19:09:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "esther julee"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1111760"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/5a0cd1d12855a33dd0629ebfe9772483"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/5a0cd1d12855a33dd0629ebfe9772483 esther julee"
+            }
+          ]
+        },
+        "value": "esther julee"
+      }
+    ]
+  }
+}

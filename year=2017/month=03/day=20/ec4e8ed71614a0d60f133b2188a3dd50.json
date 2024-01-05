@@ -1,0 +1,611 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "User Experience and the IndieWeb"
+    ],
+    "content": [
+      {
+        "html": "<p><img alt=\"\" height=\"108\" src=\"https://cleverdevil.io/file/1c771d9b162bacc38d31221a0387d657\" style=\"float:right;margin:0 0 1em 1em;\" width=\"270\"/></p><p>Those of you who have been following me on this site and on Twitter for the last few years know that I've been a proponent of the <a href=\"http://indieweb.org\">IndieWeb</a>\u00a0and its ideals, and would like to see a return to the open web.</p><p>Earlier today, I published a series of tweets about my desire for better, more unfied experiences for people who want to actively participate in the <a class=\"reference external\" href=\"http://indieweb.org\">IndieWeb</a>:</p><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\">Wanted: Twitter client for iOS that sends all tweets, RTs, replies, and likes to my website via Micropub and then syndicates back. <a href=\"https://twitter.com/hashtag/indieweb?src=hash\"></a><a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a></p><p>\u2014 Jonathan LaCour (@cleverdevil) <a href=\"https://twitter.com/cleverdevil/status/843863371783045121\">March 20, 2017</a></p></blockquote><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\">I\u2019d also like the same thing for macOS, but can settle for a web app there if I must. <a href=\"https://twitter.com/hashtag/indieweb?src=hash\"></a><a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a></p><p>\u2014 Jonathan LaCour (@cleverdevil) <a href=\"https://twitter.com/cleverdevil/status/843863514951442433\">March 20, 2017</a></p></blockquote><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\">I\u2019d also like the same thing for macOS, but can settle for a web app there if I must. <a href=\"https://twitter.com/hashtag/indieweb?src=hash\"></a><a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a></p><p>\u2014 Jonathan LaCour (@cleverdevil) <a href=\"https://twitter.com/cleverdevil/status/843863514951442433\">March 20, 2017</a></p></blockquote><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\">Ultimately, I want to see a \u201creader\u201d that pulls in from a variety of sources (RSS, Twitter), and enables <a href=\"https://twitter.com/hashtag/IndieWeb?src=hash\"></a><a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a> interactions.</p><p>\u2014 Jonathan LaCour (@cleverdevil) <a href=\"https://twitter.com/cleverdevil/status/843865309144666113\">March 20, 2017</a></p></blockquote><p>I received some great replies from fellow members of the IndieWeb community, including some links to interesting building blocks that people have been working on for years:</p><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\"><a href=\"https://twitter.com/cleverdevil\">@cleverdevil</a> yes! some thoughts: <a href=\"https://t.co/jwvQP6h9fY\"></a><a class=\"u-in-reply-to\" href=\"https://t.co/jwvQP6h9fY\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>t.co/<wbr/>jwvQP6h9fY</a><br/>and <a href=\"https://twitter.com/dissolve333\">@dissolve333</a>'s <a href=\"https://t.co/CEaY92OtGk\"></a><a class=\"u-in-reply-to\" href=\"https://t.co/CEaY92OtGk\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>t.co/<wbr/>CEaY92OtGk</a> is pretty great!</p><p>\u2014 Ryan Barrett (@schnarfed) <a href=\"https://twitter.com/schnarfed/status/843873946382487552\">March 20, 2017</a></p></blockquote><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\"><a href=\"https://twitter.com/cleverdevil\">@cleverdevil</a> it\u2019s not the final piece of the puzzle but I\u2019m hoping that <a href=\"https://t.co/wDJoAL32Ky\"></a><a class=\"u-in-reply-to\" href=\"https://t.co/wDJoAL32Ky\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>t.co/<wbr/>wDJoAL32Ky</a> can help fill some of the gap.</p><p>\u2014 Eddie Hinkle (@EddieHinkle) <a href=\"https://twitter.com/EddieHinkle/status/843881231959965696\">March 20, 2017</a></p></blockquote><blockquote class=\"twitter-tweet\"><p dir=\"ltr\" lang=\"en\" xml:lang=\"en\"><a href=\"https://twitter.com/EddieHinkle\">@EddieHinkle</a> <a href=\"https://twitter.com/keithjgrant\">@keithjgrant</a> <a href=\"https://twitter.com/cleverdevil\">@cleverdevil</a> yup, done. <a href=\"https://t.co/9UqgTEsvGa\"></a><a class=\"u-in-reply-to\" href=\"https://t.co/9UqgTEsvGa\" rel=\"in-reply-to\" target=\"_blank\">https://<wbr/>t.co/<wbr/>9UqgTEsvGa</a></p><p>\u2014 Ryan Barrett (@schnarfed) <a href=\"https://twitter.com/schnarfed/status/843885558262718464\">March 20, 2017</a></p></blockquote><p><a class=\"reference external\" href=\"https://snarfed.org/posting-to-the-indieweb-from-your-phone\">Ryan Barrett also shared his thoughts on the topic way back in 2015</a>, with many great ideas.</p><h3>Building Blocks vs. Unified Experiences</h3><p><img alt=\"\" height=\"200\" src=\"https://cleverdevil.io/file/e0bb237cecd9ed4ada47485c868fa2cd\" style=\"float:right;margin:0 0 1em 1em;\" width=\"200\"/></p><p>Tools like <a class=\"reference external\" href=\"https://granary-demo.appspot.com\">Granary</a>, <a class=\"reference external\" href=\"http://eddiehinkle.com/indigenous\">Indigenous</a>, and <a class=\"reference external\" href=\"https://inklings.io/inkstone\">InkStone</a> are great pieces of the puzzle, as are open source CMS's like <a class=\"reference external\" href=\"http://withknown.com\">Known</a> and <a class=\"reference external\" href=\"http://wordpress.org\">WordPress</a> with support for <a class=\"reference external\" href=\"https://indieweb.org/micropub\">Micropub</a>, <a class=\"reference external\" href=\"https://indieweb.org/webmention\">Webmention</a>, and other IndieWeb building blocks. But, the reason that <a class=\"reference external\" href=\"https://indieweb.org/silo\">silos</a> like <a class=\"reference external\" href=\"http://facebook.com\">Facebook</a>, <a class=\"reference external\" href=\"http://twitter.com\">Twitter</a>, and <a class=\"reference external\" href=\"http://instagram.com\">Instagram</a> are popular is that they provide a convenient, easy, and attractive <em>unified</em> experience for content <em>consumption</em>, content <em>creation</em>, and <em>interactions</em>. In order to be successful, and drive mass adoption, the IndieWeb must provide a user experience on par with silos on all three of these fronts.</p><p>I think that <a class=\"reference external\" href=\"http://manton.org\">Manton Reece</a>'s <a class=\"reference external\" href=\"http://micro.blog\">Micro.blog</a> project is another good start on attacking the problem, and may get us closer than we've ever been before, which is why I <a class=\"reference external\" href=\"https://cleverdevil.io/2017/supporting-the-open-web\">pushed my employer to back the project</a>. But, again, its likely not enough on its own.</p><p>Between <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/RSS\">RSS</a> and <a class=\"reference external\" href=\"https://en.wikipedia.org/wiki/Atom_(standard)\">Atom</a>, Webmention, and Micropub, the building blocks are there to create such an experience in a decentralized way, with participants in the network owning their own domains, websites, and data, pulling in content from a variety of sources via feeds, and creating posts, reactions, and interactions to their own sites with notifications to other participant sites.</p><h3>My Vision for a Unified Experience</h3><p>Today, most people's experience of the web is through algorithmically generated, ad-supported timelines like Twitter and Facebook. Frequently, its on mobile devices in the native app clients for these silos, rather than through a web browser. That's really a shame.</p><p>These algorithmically curated timelines are filling the gap that feed readers and aggregators like <a class=\"reference external\" href=\"http://www.google.com/reader/about/\">Google Reader</a> left open. Web browsers have also ceded ground to silos, focusing purely on navigation, tab management, and search, rather than thinking about the bigger picture.</p><p>The ideal solution to this problem would be a native application for desktop operating systems and mobile platforms that places user experience at the forefront, and provides:</p><ul><li>\n<p><strong>Content consumption</strong> for both the open web, through RSS/Atom, and silos like Twitter and Facebook in separate tabs or timelines.</p>\n</li>\n<li>\n<p><strong>Content creation</strong> for both the open web, through Micropub, and silos like Twitter and Facebook via syndication or their APIs.</p>\n</li>\n<li>\n<p><strong>Rich interactions</strong> for both the open web, through Webmention, and silos like Twitter and Facebook via their APIs.</p>\n</li>\n</ul><p>Back in the early days of Twitter and the iOS App Store, <a class=\"reference external\" href=\"http://daringfireball.net/2009/04/twitter_clients_playground\">John Gruber wrote about Twitter clients as pioneers of user experience</a>. He was absolutely right! Twitter's (then) open-ish API enabled indie software companies like <a class=\"reference external\" href=\"http://iconfactory.com\">The Iconfactory</a>, <a class=\"reference external\" href=\"http://www.atebits.com\">Atebits</a>, and others to innovate and create incredible user experiences. In fact, the early work of The Iconfactory in <a class=\"reference external\" href=\"http://twitterrific.com\">Twitterific</a> led to the hashtag, @-mention, and other patterns to take hold. The concept of \"pull to refresh\" was born out of this storm of innovation. Then, as it tried to figure out how to monetize its VC-backed platform, <a class=\"reference external\" href=\"http://www.theverge.com/2012/7/9/3135406/twitter-api-open-closed-facebook-walled-garden\">Twitter closed up its APIs</a>, cutting off this innovation.</p><p>A unified experience for the rebirth of the open web is a massive market opportunity. The building blocks are there. History has shown that these kinds of experiences can become massively popular and drive innovation.</p><h3>Opportunity for Who?</h3><p><img alt=\"\" src=\"https://cleverdevil.io/file/dc65d3048a7f8a3a7584a0caa7e86fae\" style=\"float:right;margin:0 0 1em 1em;\" width=\"300\"/></p><p>This opportunity begs the question: who will build this unified experience? Well, this time, the building blocks are truly open, so <em>anyone</em> can participate. All of those amazing indie developers who were creating Twitter clients back in 2007-2012 could absolutely dust off their code, and pick up where they left off.</p><p>That said, I think that browser vendors are in the best possible position to create these experiences, as this is all about driving people to the open web, and consuming it inside of web browsers. I firmly believe that innovation in web browsers has been stagnant for <em>years</em>, with the focus mostly being on search, navigation, rendering, and tabbed browsing, while the ultimate user experience has remained fundamentally the same.</p><p>Because of its values and origins, <a class=\"reference external\" href=\"http://mozilla.org\">Mozilla</a> is perfectly suited to the problem, and needs to reinvent itself after years of declining market share for <a class=\"reference external\" href=\"http://mozilla.org/firefox\">Firefox</a>. Mozilla has spent years on distractions like phone operating systems, and a client for enabling publishing, interaction, and content discovery and consumption on the open web, free from silos, is a great opportunity to get back to its roots.</p><h3>How Can I Help?</h3><p>For my part, I'm going to continue to advocate for the IndieWeb, support the members of the community that are making the future possible, and work with my employer, <a class=\"reference external\" href=\"http://dreamhost.com\">DreamHost</a>, to help enable people to own their own digital identity with open platforms like <a class=\"reference external\" href=\"http://wordpress.org\">WordPress</a>.</p><p>How can you help? Well, that's a blog post for another day.</p>",
+        "value": "Those of you who have been following me on this site and on Twitter for the last few years know that I've been a proponent of the IndieWeb\u00a0and its ideals, and would like to see a return to the open web.\nEarlier today, I published a series of tweets about my desire for better, more unfied experiences for people who want to actively participate in the IndieWeb:\nWanted: Twitter client for iOS that sends all tweets, RTs, replies, and likes to my website via Micropub and then syndicates back. #indieweb\n\u2014 Jonathan LaCour (@cleverdevil) March 20, 2017\nI\u2019d also like the same thing for macOS, but can settle for a web app there if I must. #indieweb\n\u2014 Jonathan LaCour (@cleverdevil) March 20, 2017\nI\u2019d also like the same thing for macOS, but can settle for a web app there if I must. #indieweb\n\u2014 Jonathan LaCour (@cleverdevil) March 20, 2017\nUltimately, I want to see a \u201creader\u201d that pulls in from a variety of sources (RSS, Twitter), and enables #IndieWeb interactions.\n\u2014 Jonathan LaCour (@cleverdevil) March 20, 2017\nI received some great replies from fellow members of the IndieWeb community, including some links to interesting building blocks that people have been working on for years:\n@cleverdevil yes! some thoughts: https://t.co/jwvQP6h9fY\nand @dissolve333's https://t.co/CEaY92OtGk is pretty great!\n\u2014 Ryan Barrett (@schnarfed) March 20, 2017\n@cleverdevil it\u2019s not the final piece of the puzzle but I\u2019m hoping that https://t.co/wDJoAL32Ky can help fill some of the gap.\n\u2014 Eddie Hinkle (@EddieHinkle) March 20, 2017\n@EddieHinkle @keithjgrant @cleverdevil yup, done. https://t.co/9UqgTEsvGa\n\u2014 Ryan Barrett (@schnarfed) March 20, 2017\nRyan Barrett also shared his thoughts on the topic way back in 2015, with many great ideas.Building Blocks vs. Unified Experiences\n\nTools like Granary, Indigenous, and InkStone are great pieces of the puzzle, as are open source CMS's like Known and WordPress with support for Micropub, Webmention, and other IndieWeb building blocks. But, the reason that silos like Facebook, Twitter, and Instagram are popular is that they provide a convenient, easy, and attractive unified experience for content consumption, content creation, and interactions. In order to be successful, and drive mass adoption, the IndieWeb must provide a user experience on par with silos on all three of these fronts.\nI think that Manton Reece's Micro.blog project is another good start on attacking the problem, and may get us closer than we've ever been before, which is why I pushed my employer to back the project. But, again, its likely not enough on its own.\nBetween RSS and Atom, Webmention, and Micropub, the building blocks are there to create such an experience in a decentralized way, with participants in the network owning their own domains, websites, and data, pulling in content from a variety of sources via feeds, and creating posts, reactions, and interactions to their own sites with notifications to other participant sites.My Vision for a Unified Experience\nToday, most people's experience of the web is through algorithmically generated, ad-supported timelines like Twitter and Facebook. Frequently, its on mobile devices in the native app clients for these silos, rather than through a web browser. That's really a shame.\nThese algorithmically curated timelines are filling the gap that feed readers and aggregators like Google Reader left open. Web browsers have also ceded ground to silos, focusing purely on navigation, tab management, and search, rather than thinking about the bigger picture.\nThe ideal solution to this problem would be a native application for desktop operating systems and mobile platforms that places user experience at the forefront, and provides:\nContent consumption for both the open web, through RSS/Atom, and silos like Twitter and Facebook in separate tabs or timelines.\nContent creation for both the open web, through Micropub, and silos like Twitter and Facebook via syndication or their APIs.\nRich interactions for both the open web, through Webmention, and silos like Twitter and Facebook via their APIs.\nBack in the early days of Twitter and the iOS App Store, John Gruber wrote about Twitter clients as pioneers of user experience. He was absolutely right! Twitter's (then) open-ish API enabled indie software companies like The Iconfactory, Atebits, and others to innovate and create incredible user experiences. In fact, the early work of The Iconfactory in Twitterific led to the hashtag, @-mention, and other patterns to take hold. The concept of \"pull to refresh\" was born out of this storm of innovation. Then, as it tried to figure out how to monetize its VC-backed platform, Twitter closed up its APIs, cutting off this innovation.\nA unified experience for the rebirth of the open web is a massive market opportunity. The building blocks are there. History has shown that these kinds of experiences can become massively popular and drive innovation.Opportunity for Who?\n\nThis opportunity begs the question: who will build this unified experience? Well, this time, the building blocks are truly open, so anyone can participate. All of those amazing indie developers who were creating Twitter clients back in 2007-2012 could absolutely dust off their code, and pick up where they left off.\nThat said, I think that browser vendors are in the best possible position to create these experiences, as this is all about driving people to the open web, and consuming it inside of web browsers. I firmly believe that innovation in web browsers has been stagnant for years, with the focus mostly being on search, navigation, rendering, and tabbed browsing, while the ultimate user experience has remained fundamentally the same.\nBecause of its values and origins, Mozilla is perfectly suited to the problem, and needs to reinvent itself after years of declining market share for Firefox. Mozilla has spent years on distractions like phone operating systems, and a client for enabling publishing, interaction, and content discovery and consumption on the open web, free from silos, is a great opportunity to get back to its roots.How Can I Help?\nFor my part, I'm going to continue to advocate for the IndieWeb, support the members of the community that are making the future possible, and work with my employer, DreamHost, to help enable people to own their own digital identity with open platforms like WordPress.\nHow can you help? Well, that's a blog post for another day."
+      }
+    ],
+    "category": [
+      "#indieweb",
+      "#indieweb",
+      "#indieweb",
+      "#IndieWeb"
+    ],
+    "in-reply-to": [
+      "https://t.co/jwvQP6h9fY",
+      "https://t.co/CEaY92OtGk",
+      "https://t.co/wDJoAL32Ky",
+      "https://t.co/9UqgTEsvGa"
+    ],
+    "url": [
+      "/2017/user-experience-and-the-indieweb"
+    ],
+    "published": [
+      "2017-03-20T19:46:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This is a great, well thought-out post on what is needed for the IndieWeb to get to a place of wider adoption and for these principles to begin to challenge the place of Twitter and Facebook. There is a reason that large numbers of everyday people didn\u2019t use the internet until Myspace, Facebook and Twitter. It was the innovations around the ease of use and the fact that everything was in one place. \nI know that Jonathan\u2019s thoughts echo what has been floating around in the back of my mind and I hope is a challenge to everyone that reads it. The building blocks that have brought the IndieWeb to the place it is have been vital and important. However, that lack of unified experience is what left me not fully engaged for years. I\u2019ve come around to the IndieWeb recently because I believe the building blocks have begun to develop to a point that it is possible to begin thinking about what unified experiences in a \u201cWeb 2.0\u201d Open Web world means."
+          ],
+          "content": [
+            {
+              "html": "<p>This is a great, well thought-out post on what is needed for the IndieWeb to get to a place of wider adoption and for these principles to begin to challenge the place of Twitter and Facebook. There is a reason that large numbers of everyday people didn\u2019t use the internet until Myspace, Facebook and Twitter. It was the innovations around the ease of use and the fact that everything was in one place. </p>\n\n<p>I know that Jonathan\u2019s thoughts echo what has been floating around in the back of my mind and I hope is a challenge to everyone that reads it. The building blocks that have brought the IndieWeb to the place it is have been vital and important. However, that lack of unified experience is what left me not fully engaged for years. I\u2019ve come around to the IndieWeb recently because I believe the building blocks have begun to develop to a point that it is possible to begin thinking about what unified experiences in a \u201cWeb 2.0\u201d Open Web world means.</p>",
+              "value": "This is a great, well thought-out post on what is needed for the IndieWeb to get to a place of wider adoption and for these principles to begin to challenge the place of Twitter and Facebook. There is a reason that large numbers of everyday people didn\u2019t use the internet until Myspace, Facebook and Twitter. It was the innovations around the ease of use and the fact that everything was in one place. \nI know that Jonathan\u2019s thoughts echo what has been floating around in the back of my mind and I hope is a challenge to everyone that reads it. The building blocks that have brought the IndieWeb to the place it is have been vital and important. However, that lack of unified experience is what left me not fully engaged for years. I\u2019ve come around to the IndieWeb recently because I believe the building blocks have begun to develop to a point that it is possible to begin thinking about what unified experiences in a \u201cWeb 2.0\u201d Open Web world means."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e288b28fe54e63f724090d6beb5d5406/thumb.jpg"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "http://eddiehinkle.com"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "http://eddiehinkle.com/social/2017/03/indieweb-ux/"
+          ]
+        },
+        "value": "http://eddiehinkle.com/social/2017/03/indieweb-ux/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "nice!"
+          ],
+          "content": [
+            {
+              "html": "<p>nice!</p>",
+              "value": "nice!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0309ed0d9eea1764cc94fe15df427f98/thumb.jpg"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "http://eddiehinkle.com"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://twitter.com/EddieHinkle/status/843923549211574272"
+          ]
+        },
+        "value": "https://twitter.com/EddieHinkle/status/843923549211574272"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I agree. I think a frictionless UX is going to be vital for adoption. That\u2019s my motivation w/ Omnibear chrome.google.com/webstore/detai\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>I agree. I think a frictionless UX is going to be vital for adoption. That\u2019s my motivation w/ Omnibear chrome.google.com/webstore/detai\u2026</p>",
+              "value": "I agree. I think a frictionless UX is going to be vital for adoption. That\u2019s my motivation w/ Omnibear chrome.google.com/webstore/detai\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/66604f19282af4ac773b67630c23a779/thumb.jpg"
+                ],
+                "name": [
+                  "keith\u2022j\u2022grant"
+                ],
+                "url": [
+                  "http://keithjgrant.com"
+                ]
+              },
+              "value": "keith\u2022j\u2022grant"
+            }
+          ],
+          "url": [
+            "https://twitter.com/keithjgrant/status/843924425972088832"
+          ]
+        },
+        "value": "https://twitter.com/keithjgrant/status/843924425972088832"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Hi Jonathan, thanks for this post I really do share your vision for a unified reading and writing experience. I've been working on it for years, and would work on it full time if my resources would allow. unicyclic.com isn't as polished as it could be yet, but it is good enough for me to use as the primary way to interact with the feeds I follow, and it's open to others to try. Combined with snarfed's twitter-atom.appspot.com and facebook-atom.appspot.com it also covers my requirements for interacting with silo users."
+          ],
+          "content": [
+            {
+              "html": "<p>Hi Jonathan, thanks for this post I really do share your vision for a unified reading and writing experience. I've been working on it for years, and would work on it full time if my resources would allow. unicyclic.com isn't as polished as it could be yet, but it is good enough for me to use as the primary way to interact with the feeds I follow, and it's open to others to try. Combined with snarfed's twitter-atom.appspot.com and facebook-atom.appspot.com it also covers my requirements for interacting with silo users.</p>",
+              "value": "Hi Jonathan, thanks for this post I really do share your vision for a unified reading and writing experience. I've been working on it for years, and would work on it full time if my resources would allow. unicyclic.com isn't as polished as it could be yet, but it is good enough for me to use as the primary way to interact with the feeds I follow, and it's open to others to try. Combined with snarfed's twitter-atom.appspot.com and facebook-atom.appspot.com it also covers my requirements for interacting with silo users."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5e775fbbae367ec2bed8765db6ae3612"
+                ],
+                "name": [
+                  "Malcolm Blaney"
+                ],
+                "url": [
+                  "https://unicyclic.com/mal"
+                ]
+              },
+              "value": "Malcolm Blaney"
+            }
+          ],
+          "url": [
+            "https://unicyclic.com/mal/2017-03-21-Hi_Jonathan_thanks_for_this_post_I_really_do_shar"
+          ]
+        },
+        "value": "https://unicyclic.com/mal/2017-03-21-Hi_Jonathan_thanks_for_this_post_I_really_do_shar"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Agree with this mainly but unsure of a native application solution. I would like to plan a discussion (maybe at a future IndieWebCamp) on emergence of Progressive Web Apps to further enhance the user experience on the web offline as much as online; with native app-like interaction, re-engagement with things like push notifications. All such things start to bring us much more inline with the merits you speak of in regard of popular silos.\n\nIn reply to https://cleverdevil.io/2017/user-experience-and-the-indieweb"
+          ],
+          "content": [
+            {
+              "html": "<p>Agree with this mainly but unsure of a native application solution. I would like to plan a discussion (maybe at a future IndieWebCamp) on emergence of Progressive Web Apps to further enhance the user experience on the web offline as much as online; with native app-like interaction, re-engagement with things like push notifications. All such things start to bring us much more inline with the merits you speak of in regard of popular silos.<br/></p>\n\n<p>In reply to <a href=\"https://cleverdevil.io/2017/user-experience-and-the-indieweb\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2017/<wbr/>user-experience-and-the-indieweb</a></p>",
+              "value": "Agree with this mainly but unsure of a native application solution. I would like to plan a discussion (maybe at a future IndieWebCamp) on emergence of Progressive Web Apps to further enhance the user experience on the web offline as much as online; with native app-like interaction, re-engagement with things like push notifications. All such things start to bring us much more inline with the merits you speak of in regard of popular silos.\n\nIn reply to https://cleverdevil.io/2017/user-experience-and-the-indieweb"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/94386f881b844f6cab3f0247a0086a35"
+                ],
+                "name": [
+                  "Calum Ryan"
+                ],
+                "url": [
+                  "https://www.calumryan.com/"
+                ]
+              },
+              "value": "Calum Ryan"
+            }
+          ],
+          "url": [
+            "https://calumryan.com/note/536"
+          ]
+        },
+        "value": "https://calumryan.com/note/536"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "interesting twist conclusion!\u2026 but regardless, hell yes. i obviously agree that UX should be one of the indieweb\u2019s highest priorities. \none more building block to be aware of: https://indieweb.org/webactions . they\u2019re how woodwind\u2019s inline like, reply, etc buttons on each feed item automatically create posts on your own site that do those things. \n(also, a couple much smaller incremental steps:\nhttps://snarfed.org/easy-indieweb-interactions-on-android\nhttps://snarfed.org/indie-checkin-flow )"
+          ],
+          "content": [
+            {
+              "html": "<p>interesting twist conclusion!\u2026 but regardless, hell yes. i obviously agree that UX should be one of the indieweb\u2019s highest priorities. </p>\n\n<p>one more building block to be aware of: <a href=\"https://indieweb.org/webactions\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>indieweb.org/<wbr/>webactions</a> . they\u2019re how woodwind\u2019s inline like, reply, etc buttons on each feed item automatically create posts on your own site that do those things. </p>\n\n<p>(also, a couple much smaller incremental steps:<br/><a href=\"https://snarfed.org/easy-indieweb-interactions-on-android\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>snarfed.org/<wbr/>easy-indieweb-interactions-on-android</a><br/><a href=\"https://snarfed.org/indie-checkin-flow\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>snarfed.org/<wbr/>indie-checkin-flow</a> )</p>",
+              "value": "interesting twist conclusion!\u2026 but regardless, hell yes. i obviously agree that UX should be one of the indieweb\u2019s highest priorities. \none more building block to be aware of: https://indieweb.org/webactions . they\u2019re how woodwind\u2019s inline like, reply, etc buttons on each feed item automatically create posts on your own site that do those things. \n(also, a couple much smaller incremental steps:\nhttps://snarfed.org/easy-indieweb-interactions-on-android\nhttps://snarfed.org/indie-checkin-flow )"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bb4c718e16b8688e29413e31484e6e21"
+                ],
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ]
+              },
+              "value": "Ryan Barrett"
+            }
+          ],
+          "url": [
+            "https://snarfed.org/2017-03-20_user-experience-and-the-indieweb"
+          ]
+        },
+        "value": "https://snarfed.org/2017-03-20_user-experience-and-the-indieweb"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jonathan LaCour (aka @cleverdevil) has done a fine job of articulating what it might take to make the web more interesting again. That it contributes to my feeling of being hopelessly underpowered might conceivably add to my motivation."
+          ],
+          "content": [
+            {
+              "html": "<p>Jonathan LaCour (aka @cleverdevil) has done a fine job of articulating what it might take to make the web more interesting again. That it contributes to my feeling of being hopelessly underpowered might conceivably add to my motivation.</p>",
+              "value": "Jonathan LaCour (aka @cleverdevil) has done a fine job of articulating what it might take to make the web more interesting again. That it contributes to my feeling of being hopelessly underpowered might conceivably add to my motivation."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/86c31d2437851c85c5af0721625b3ee5"
+                ],
+                "name": [
+                  "Jeremy Cherfas"
+                ],
+                "url": [
+                  "https://stream.jeremycherfas.net/profile/jeremy"
+                ]
+              },
+              "value": "Jeremy Cherfas"
+            }
+          ],
+          "url": [
+            "https://stream.jeremycherfas.net/2017/jonathan-lacoeur-aka-cleverdevil-has-done-a-fine-job-of"
+          ]
+        },
+        "value": "https://stream.jeremycherfas.net/2017/jonathan-lacoeur-aka-cleverdevil-has-done-a-fine-job-of"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thank you! Will give it a read."
+          ],
+          "content": [
+            {
+              "html": "<p>Thank you! Will give it a read.</p>",
+              "value": "Thank you! Will give it a read."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9f82a84740910183e4572ba24133286a/thumb.png"
+                ],
+                "name": [
+                  "Matt Mullenweg"
+                ],
+                "url": [
+                  "https://ma.tt/"
+                ]
+              },
+              "value": "Matt Mullenweg"
+            }
+          ],
+          "url": [
+            "https://twitter.com/photomatt/status/876110689810751488"
+          ]
+        },
+        "value": "https://twitter.com/photomatt/status/876110689810751488"
+      }
+    ],
+    "syndication": [
+      "https://facebook.com/10101416927213429/posts/10102208491776699",
+      "https://twitter.com/cleverdevil/status/843918251549736963"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "ec4e8ed71614a0d60f133b2188a3dd50"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "http://keithjgrant.com/likes/2017/03/73775/"
+          ],
+          "published": [
+            "2017-03-20T20:29:35+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Keith J. Grant"
+                ],
+                "url": [
+                  "http://keithjgrant.com"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/9c73f7826a180d74a0a44f89dff49dfa/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/9c73f7826a180d74a0a44f89dff49dfa/thumb.jpg Keith J. Grant"
+            }
+          ]
+        },
+        "value": "Keith J. Grant"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/843918251549736963?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F843918251549736963%2F308803734"
+          ],
+          "published": [
+            "2017-03-20T20:44:53+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d324e575202434c085ca6a314e6bc4ef/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d324e575202434c085ca6a314e6bc4ef/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://calumryan.com/note/535"
+          ],
+          "published": [
+            "2017-03-21T01:20:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Calum Ryan"
+                ],
+                "url": [
+                  "https://www.calumryan.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/7f433294f55d393dd31162392c30b9d8"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/7f433294f55d393dd31162392c30b9d8 Calum Ryan"
+            }
+          ]
+        },
+        "value": "Calum Ryan"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/843918251549736963?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F843918251549736963%2F6758842"
+          ],
+          "published": [
+            "2017-03-21T12:47:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "daiyi (chris \u26a1 )"
+                ],
+                "url": [
+                  "https://twitter.com/daiyitastic"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/e03f20d72e4f83b817c0c9384417ec07/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/e03f20d72e4f83b817c0c9384417ec07/thumb.jpg daiyi (chris \u26a1 )"
+            }
+          ]
+        },
+        "value": "daiyi (chris \u26a1 )"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/843918251549736963?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F843918251549736963%2F14465889"
+          ],
+          "published": [
+            "2017-03-21T13:23:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "jalbertbowdenii"
+                ],
+                "url": [
+                  "https://twitter.com/jalbertbowdenii"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/761e65806cc21ae3c2e7544f5c357969/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/761e65806cc21ae3c2e7544f5c357969/thumb.jpg jalbertbowdenii"
+            }
+          ]
+        },
+        "value": "jalbertbowdenii"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2019/06/21/user-experience-and-the-indieweb"
+          ],
+          "published": [
+            "2019-06-21T20:34:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1361875255212433415#favorited-by-783092"
+          ],
+          "published": [
+            "2021-02-18T07:03:14+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      }
+    ]
+  }
+}

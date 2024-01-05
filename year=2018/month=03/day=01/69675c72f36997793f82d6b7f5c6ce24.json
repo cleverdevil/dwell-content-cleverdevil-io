@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Rebel Republic Bar & Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rebel Republic Bar & Grill"
+          ],
+          "latitude": [
+            "33.818016600697"
+          ],
+          "longitude": [
+            "-118.38784481637"
+          ]
+        },
+        "value": "Rebel Republic Bar & Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rebel Republic Bar & Grill"
+          ],
+          "latitude": [
+            "33.818016600697"
+          ],
+          "longitude": [
+            "-118.38784481637"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Biz meeting!</p>",
+        "value": "Biz meeting!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-rebel-republic-bar-grill-3"
+    ],
+    "published": [
+      "2018-03-01T23:20:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Rebel Republic Bar & Grill since September '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Rebel Republic Bar &amp; Grill since September '17.</p>",
+              "value": "Welcome back! You haven't checked in to Rebel Republic Bar & Grill since September '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a988aa8772fbc405fae9767/bae2322de46b794830ea422eced9d897"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a988aa8772fbc405fae9767/bae2322de46b794830ea422eced9d897"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a988aa8772fbc405fae9767"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "69675c72f36997793f82d6b7f5c6ce24"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a988aa8772fbc405fae9767/907d25b51eb39262a0fb1d59750754c3"
+          ],
+          "published": [
+            "2018-03-01T23:20:08+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ty"
+                ],
+                "url": [
+                  "https://foursquare.com/user/61820288"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9VQk9KMFlSRkxENFlSR0RTLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9VQk9KMFlSRkxENFlSR0RTLmpwZw,,/300/square Ty"
+            }
+          ]
+        },
+        "value": "Ty"
+      }
+    ]
+  }
+}

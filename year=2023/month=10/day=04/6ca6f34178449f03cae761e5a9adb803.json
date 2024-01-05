@@ -1,0 +1,144 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Baking some blueberry pie in the smoker like a boss."
+    ],
+    "content": [
+      {
+        "html": "Baking some blueberry pie in the smoker like a boss.",
+        "value": "Baking some blueberry pie in the smoker like a boss."
+      }
+    ],
+    "url": [
+      "/2023/baking-some-blueberry-pie-in-the-smoker"
+    ],
+    "published": [
+      "2023-10-04T05:20:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil ...ooo!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil ...ooo!</p>",
+              "value": "@cleverdevil ...ooo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvMTExMC5qcGc,/300/square"
+                ],
+                "name": [
+                  "darby3"
+                ],
+                "url": [
+                  "https://micro.blog/darby3"
+                ]
+              },
+              "value": "darby3"
+            }
+          ],
+          "url": [
+            "https://micro.blog/darby3/24446506"
+          ]
+        },
+        "value": "https://micro.blog/darby3/24446506"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/111175063554245256",
+      "https://bsky.app/profile/cleverdevil.io/post/3kavopolmi32y"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "6ca6f34178449f03cae761e5a9adb803"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/111175063554245256#favorited-by-109369044782129716"
+          ],
+          "published": [
+            "2023-10-04T05:35:43+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Kelly Sims"
+                ],
+                "url": [
+                  "https://mastodon.social/@kellysims"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjkvMDQ0Lzc4Mi8xMjkvNzE2L29yaWdpbmFsLzUxMTk2ZTI4MjYyMmQ1OWUucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjkvMDQ0Lzc4Mi8xMjkvNzE2L29yaWdpbmFsLzUxMTk2ZTI4MjYyMmQ1OWUucG5n/300/square Kelly Sims"
+            }
+          ]
+        },
+        "value": "Kelly Sims"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-04T00:34:54Z",
+      "year": 2023,
+      "month": 10,
+      "day": 4,
+      "hour": 0,
+      "minute": 34,
+      "x": -116.380360655539,
+      "y": 33.701682532456644,
+      "altitude": 127,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  }
+}

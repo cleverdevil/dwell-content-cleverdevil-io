@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "39.050388625495"
+          ],
+          "longitude": [
+            "-84.656127624261"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "39.050388625495"
+          ],
+          "longitude": [
+            "-84.656127624261"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-delta-sky-club-38"
+    ],
+    "published": [
+      "2019-09-18T14:47:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Delta Sky Club!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Delta Sky Club!</p>",
+              "value": "Your first check-in at Delta Sky Club!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d82436b0d2125000872ed22/e04de0c9453bbdf6ac7ff0822a2ccff6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d82436b0d2125000872ed22/e04de0c9453bbdf6ac7ff0822a2ccff6"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.67\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.67\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.67\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-delta-sky-club-38/annotations/21d0e32edd70563c8d6340e655b9c161"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-delta-sky-club-38/annotations/21d0e32edd70563c8d6340e655b9c161"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d82436b0d2125000872ed22"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "dd93162dabc764ec3e1118e2bd43e260"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-18T14:34:47Z",
+      "year": 2019,
+      "month": 9,
+      "day": 18,
+      "hour": 14,
+      "minute": 34,
+      "x": -84.65171545580321,
+      "y": 39.05212955123281,
+      "altitude": 265,
+      "motion": [
+        "cycling"
+      ],
+      "speed": 8,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

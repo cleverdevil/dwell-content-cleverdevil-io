@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into W Chicago - Lakeshore"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Chicago - Lakeshore"
+          ],
+          "latitude": [
+            "41.893918560742"
+          ],
+          "longitude": [
+            "-87.615366088712"
+          ]
+        },
+        "value": "W Chicago - Lakeshore"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Chicago - Lakeshore"
+          ],
+          "latitude": [
+            "41.893918560742"
+          ],
+          "longitude": [
+            "-87.615366088712"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-w-chicago---lakeshore-1"
+    ],
+    "published": [
+      "2020-01-13T06:29:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to W Chicago - Lakeshore since May '19."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to W Chicago - Lakeshore since May '19.</p>",
+              "value": "Welcome back! You haven't checked in to W Chicago - Lakeshore since May '19."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e1c0e590107ec0007fe185d/b5b56a709223ed84a1d8860416ff46d9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e1c0e590107ec0007fe185d/b5b56a709223ed84a1d8860416ff46d9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 31.9\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 31.9\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 31.9\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-w-chicago---lakeshore-1/annotations/ec685e1ce0768c3448fa552c97d1af39"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-w-chicago---lakeshore-1/annotations/ec685e1ce0768c3448fa552c97d1af39"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e1c0e590107ec0007fe185d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d9576fe70a16eff86e68590e327463e2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-13T06:26:21Z",
+      "year": 2020,
+      "month": 1,
+      "day": 13,
+      "hour": 6,
+      "minute": 26,
+      "x": -87.6160353931891,
+      "y": 41.893671822488535,
+      "altitude": 184,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  }
+}

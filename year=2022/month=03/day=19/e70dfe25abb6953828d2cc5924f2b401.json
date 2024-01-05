@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Living Desert Zoo & Botanical Gardens"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Living Desert Zoo & Botanical Gardens"
+          ],
+          "latitude": [
+            "33.700683043643"
+          ],
+          "longitude": [
+            "-116.37438987492"
+          ]
+        },
+        "value": "The Living Desert Zoo & Botanical Gardens"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Living Desert Zoo & Botanical Gardens"
+          ],
+          "latitude": [
+            "33.700683043643"
+          ],
+          "longitude": [
+            "-116.37438987492"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-living-desert-zoo-botanical-gardens-2"
+    ],
+    "published": [
+      "2022-03-19T19:17:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Zoo check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Zoo check-in in 3 months!</p>",
+              "value": "First Zoo check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62362c2eed52a6515ed009f8/e89b356e3ebf446fd846510c2479eb21"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62362c2eed52a6515ed009f8/e89b356e3ebf446fd846510c2479eb21"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62362c2eed52a6515ed009f8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e70dfe25abb6953828d2cc5924f2b401"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-19T19:17:24Z",
+      "year": 2022,
+      "month": 3,
+      "day": 19,
+      "hour": 19,
+      "minute": 17,
+      "x": -116.37506763325452,
+      "y": 33.69942879846875,
+      "altitude": 119,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": ""
+    }
+  }
+}

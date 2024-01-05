@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-302-looking-out-across-antarctica"
+    ],
+    "published": [
+      "2020-07-16T19:38:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 107.41\u00b0F and 9% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 107.41\u00b0F and 9% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 107.41\u00b0F and 9% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-302-looking-out-across-antarctica/annotations/ce063fd7446bfe8d38b460a435df8f9e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-302-looking-out-across-antarctica/annotations/ce063fd7446bfe8d38b460a435df8f9e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ecb5a5b8747a8ba9d8090046f9d8bc9e"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-16T20:00:31Z",
+      "year": 2020,
+      "month": 7,
+      "day": 16,
+      "hour": 20,
+      "minute": 0,
+      "x": -116.3166858790064,
+      "y": 33.737712323171316,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "GPS-5G"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 302: Looking Out Across Antarctica"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/67b1e3544f8f1da60390db33138c4069/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6zKaG0"
+        ],
+        "content": [
+          {
+            "html": "<p>With WWDC in the rearview mirror, Stephen and Myke shift their minds to the future and discuss rumors of the upcoming iPhone 12, changes coming with Apple Silicon Macs and macOS Big Sur.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "With WWDC in the rearview mirror, Stephen and Myke shift their minds to the future and discuss rumors of the upcoming iPhone 12, changes coming with Apple Silicon Macs and macOS Big Sur.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

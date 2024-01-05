@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/atp-tier-list-every-imac"
+    ],
+    "published": [
+      "2023-08-24T07:34:24+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "30146a46a6f2a68303adfabec63d72c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-24T04:02:41Z",
+      "year": 2023,
+      "month": 8,
+      "day": 24,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37043939526431,
+      "y": 33.81536435665131,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to ATP Tier List: Every iMac"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b45c16c925bc380c5a6d7763a935746e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKNmzZI"
+        ],
+        "content": [
+          {
+            "html": "<p>In this member-exclusive episode, we grade every iMac released to date.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "In this member-exclusive episode, we grade every iMac released to date.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

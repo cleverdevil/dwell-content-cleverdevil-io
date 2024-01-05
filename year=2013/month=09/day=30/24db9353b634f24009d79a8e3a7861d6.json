@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hello, World!"
+    ],
+    "content": [
+      {
+        "html": "<div class=\"photo-view\">\n                <a data-footer=\"\" data-gallery=\"Hello, World!\" data-original-img=\"https://cleverdevil.io/file/a4ccaac256b62a349c0f9baecba10c50/10100657094718839.jpg\" data-title=\"Hello, World!\" href=\"https://cleverdevil.io/file/a4ccaac256b62a349c0f9baecba10c50/10100657094718839.jpg\"><img alt=\"Hello, World!\" class=\"u-photo\" src=\"https://cleverdevil.io/file/c28024ac27bd04c77b48d8a881622cec/thumb.jpg\"/></a>\n            </div>",
+        "value": "Hello, World!"
+      }
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/a4ccaac256b62a349c0f9baecba10c50/10100657094718839.jpg"
+    ],
+    "url": [
+      "/2013/hello-world-2"
+    ],
+    "published": [
+      "2013-09-30T18:57:20+0000"
+    ],
+    "post-kind": [
+      "Photo"
+    ],
+    "post-id": [
+      "24db9353b634f24009d79a8e3a7861d6"
+    ]
+  }
+}

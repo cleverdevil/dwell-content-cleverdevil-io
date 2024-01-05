@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/210-my-personal-fantasia"
+    ],
+    "published": [
+      "2023-07-28T23:18:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "76a66e1f0851471412c568489f689360"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-28T23:41:29Z",
+      "year": 2023,
+      "month": 7,
+      "day": 28,
+      "hour": 23,
+      "minute": 41,
+      "x": -118.405612379518,
+      "y": 33.94692516076922,
+      "altitude": 41,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": "DeltaWiFi.com"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 210: My Personal Fantasia"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dfe767deb9d0cdf0e8279838b378969e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INTC7Ek"
+        ],
+        "content": [
+          {
+            "html": "<p>At last, the pop quiz show.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "At last, the pop quiz show.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

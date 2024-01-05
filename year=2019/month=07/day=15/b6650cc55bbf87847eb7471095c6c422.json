@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-251-the-worrier-warrior"
+    ],
+    "published": [
+      "2019-07-15T15:33:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 65.66\u00b0F and 97% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 65.66\u00b0F and 97% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 65.66\u00b0F and 97% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-251-the-worrier-warrior/annotations/47e8b115754a332bc55a645e33b1a796"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-251-the-worrier-warrior/annotations/47e8b115754a332bc55a645e33b1a796"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b6650cc55bbf87847eb7471095c6c422"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-15T16:03:02Z",
+      "year": 2019,
+      "month": 7,
+      "day": 15,
+      "hour": 16,
+      "minute": 3,
+      "x": -118.39484261354933,
+      "y": 33.919957088635456,
+      "altitude": 32,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 251: The Worrier Warrior"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3647494ecb3b379d6715f9815cb16e8d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5QW3So"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke has a story about the beach, Federico has a plan for NFC stickers, and Stephen has some thoughts on this week\u2019s MacBook news.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke has a story about the beach, Federico has a plan for NFC stickers, and Stephen has some thoughts on this week\u2019s MacBook news.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into H\u00f4tel Amour"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "H\u00f4tel Amour"
+          ],
+          "latitude": [
+            "48.879657525382"
+          ],
+          "longitude": [
+            "2.3394280672073"
+          ]
+        },
+        "value": "H\u00f4tel Amour"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "H\u00f4tel Amour"
+          ],
+          "latitude": [
+            "48.879657525382"
+          ],
+          "longitude": [
+            "2.3394280672073"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-h%C3%B4tel-amour"
+    ],
+    "published": [
+      "2017-06-17T18:07:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Saint Georges."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Saint Georges.</p>",
+              "value": "First check-in in Saint Georges."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f421cd9d948f39744138a53388e6127a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/53fb63ca671702635ed78de5f4ed26bc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/53fb63ca671702635ed78de5f4ed26bc"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at H\u00f4tel Amour!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at H\u00f4tel Amour!</p>",
+              "value": "Your first check-in at H\u00f4tel Amour!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c71e26b5dff11f66f4cd39b80a5e7bff"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/28d8c75b1294a4588eb6f6dbb2de5090"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/28d8c75b1294a4588eb6f6dbb2de5090"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c78e6a7d95794a6d5427c9cd45d2adb8"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59456fda8c812a427fc7100a/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59456fda8c812a427fc7100a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7ecaa83ce4cf4939da9d9f3e01f010aa"
+    ]
+  }
+}

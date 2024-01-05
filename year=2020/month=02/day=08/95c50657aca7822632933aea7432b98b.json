@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/reconcilable-differences-123-squirrel-list"
+    ],
+    "published": [
+      "2020-02-08T14:18:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.34\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.34\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.34\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/reconcilable-differences-123-squirrel-list/annotations/983d902fe15bc5dd8f9c36f3cb3acf81"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/reconcilable-differences-123-squirrel-list/annotations/983d902fe15bc5dd8f9c36f3cb3acf81"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "95c50657aca7822632933aea7432b98b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-08T16:37:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "hour": 16,
+      "minute": 37,
+      "x": -83.35898008332713,
+      "y": 42.20693489241923,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 123: Squirrel List"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/55ff18cb9ff52e4c577ad6270a2ac2f3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INvkfOI"
+        ],
+        "content": [
+          {
+            "html": "<p>A litany of the lost things is presented and analyzed, and a catechism for finding the lost things is interrogated.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "A litany of the lost things is presented and analyzed, and a catechism for finding the lost things is interrogated.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

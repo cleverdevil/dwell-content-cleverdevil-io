@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/350-the-time-for-color-is-now"
+    ],
+    "published": [
+      "2021-04-28T15:29:12+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0c4b3aa47b833f72bcd30ab3c2bba2cb"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-28T15:50:06Z",
+      "year": 2021,
+      "month": 4,
+      "day": 28,
+      "hour": 15,
+      "minute": 50,
+      "x": -118.37033655356808,
+      "y": 33.81542151451329,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 350: The Time for Color is Now"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a890ddd3f68cfa0bbf05a75f40875f1c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9g6SuE"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s Colleen Novielli and Navpreet Kaloty visit the show to discuss the new 24-inch iMac in depth. Then Jason and Myke discuss the positioning of the new iPad Pro, and what it means that Apple has given it an M1 processor.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple\u2019s Colleen Novielli and Navpreet Kaloty visit the show to discuss the new 24-inch iMac in depth. Then Jason and Myke discuss the positioning of the new iPad Pro, and what it means that Apple has given it an M1 processor.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Concorde Atlantique"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Concorde Atlantique"
+          ],
+          "latitude": [
+            "48.862078"
+          ],
+          "longitude": [
+            "2.322534"
+          ]
+        },
+        "value": "Concorde Atlantique"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Concorde Atlantique"
+          ],
+          "latitude": [
+            "48.862078"
+          ],
+          "longitude": [
+            "2.322534"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>I'm on a \ud83d\udee5</p>",
+        "value": "I'm on a \ud83d\udee5"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-concorde-atlantique"
+    ],
+    "published": [
+      "2017-06-15T17:05:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e135778591cc4871f746bf7b43f97328"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5942be49851de5735d17a6d5/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5942be49851de5735d17a6d5/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5942be49851de5735d17a6d5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "69a6efe5cc8261a5c93ad4816de65327"
+    ]
+  }
+}

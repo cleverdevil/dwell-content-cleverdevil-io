@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/189-the-cutting-edge-of-technological-grievance"
+    ],
+    "published": [
+      "2022-08-23T02:58:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0c656fde0f17a2e30fb7f95f24e0755a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-23T04:00:59Z",
+      "year": 2022,
+      "month": 8,
+      "day": 23,
+      "hour": 4,
+      "minute": 0,
+      "x": -116.38055521074345,
+      "y": 33.70142917617569,
+      "altitude": 120,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8500000238418579,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 189: The Cutting Edge of Technological Grievance"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fc2259bf125a79505d64c38650a8f647/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INQRoKE"
+        ],
+        "content": [
+          {
+            "html": "<p>Your hosts dig in to the continuing saga of John\u2019s TV.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Your hosts dig in to the continuing saga of John\u2019s TV.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

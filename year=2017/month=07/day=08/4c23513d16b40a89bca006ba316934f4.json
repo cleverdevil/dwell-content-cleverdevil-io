@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Honolua Store"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Honolua Store"
+          ],
+          "latitude": [
+            "20.998776535208"
+          ],
+          "longitude": [
+            "-156.65454161079"
+          ]
+        },
+        "value": "Honolua Store"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Honolua Store"
+          ],
+          "latitude": [
+            "20.998776535208"
+          ],
+          "longitude": [
+            "-156.65454161079"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Honolua Store\" src=\"https://cleverdevil.io/file/3c963c7950c4348330f467f456246860\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Breakfast in paradise.</p>",
+        "value": "Honolua Store\nBreakfast in paradise."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-honolua-store"
+    ],
+    "published": [
+      "2017-07-08T18:20:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1276ec244521e5b29be987beee1ad494"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596122458c812a6cd1fcba0d/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596122458c812a6cd1fcba0d/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo!</p>",
+              "value": "Great photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1eda8e573b8982c48ade4dca90e8c203"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596122458c812a6cd1fcba0d/2cb42aac853575838111bb997babe436"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596122458c812a6cd1fcba0d/2cb42aac853575838111bb997babe436"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596122458c812a6cd1fcba0d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4c23513d16b40a89bca006ba316934f4"
+    ]
+  }
+}

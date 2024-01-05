@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/314-beta-tourism"
+    ],
+    "published": [
+      "2020-09-11T07:10:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a7b1cb9f9d544571df9db89ca360a149"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-11T07:14:59Z",
+      "year": 2020,
+      "month": 9,
+      "day": 11,
+      "hour": 7,
+      "minute": 14,
+      "x": -118.37052440892755,
+      "y": 33.815327923141076,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 314: Beta Tourism"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/028cffc3da86bd79840da659bc4f7499/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-hGd5w"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason dives into macOS Big Sur and has to podcast from exile, Apple gets excited about Emmy nominations while prepping for fall product launches, and the release of \u201cMulan\u201d leads us to discuss which movie theaters are worth saving.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason dives into macOS Big Sur and has to podcast from exile, Apple gets excited about Emmy nominations while prepping for fall product launches, and the release of \u201cMulan\u201d leads us to discuss which movie theaters are worth saving.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daniel Jalkut on Apple's \"Clips\" and Social Networks"
+    ],
+    "bookmark-of": [
+      "http://bitsplitting.org/2017/03/22/social-networks-are-a-feature"
+    ],
+    "content": [
+      {
+        "html": "<p>Great post by\u00a0<a href=\"http://bitsplitting.org\">Daniel Jalkut</a>\u00a0on <a href=\"http://www.apple.com/clips/\">Apple's new Clips app</a>, an upcoming app that takes inspiration from Snapchat, Instagram, and Facebook \"stories\" to enable users to create fun videos to share with their friends. Interestingly, rather than trying to build out yet another social network (which <a href=\"https://en.wikipedia.org/wiki/ITunes_Ping\">Apple has famously failed on in the past</a>), Clips targets existing social networks.</p><blockquote><p>...\u00a0any time Apple might have spent building out their own social network is better spent investing in tools that maximize users\u2019 enjoyment of the social networks they already belong to. Rather than obsessing over the venue in which social interactions occur, Apple can profit by equipping its users to be more expressive, wherever they may roam.</p></blockquote><p>I like this core philosophy, and it actually aligns quite nicely with <a href=\"http://cleverdevil.io/2017/user-experience-and-the-indieweb\">my vision for the IndieWeb</a>. Rather than targeting only silos like Facebook, Snapchat, and Instagram, it'd be wonderful if great user experiences like Clips could enable publishing and sharing to user sites through Micropub and the ilk. Looking forward to playing with Clips!</p>",
+        "value": "Great post by\u00a0Daniel Jalkut\u00a0on Apple's new Clips app, an upcoming app that takes inspiration from Snapchat, Instagram, and Facebook \"stories\" to enable users to create fun videos to share with their friends. Interestingly, rather than trying to build out yet another social network (which Apple has famously failed on in the past), Clips targets existing social networks.\n...\u00a0any time Apple might have spent building out their own social network is better spent investing in tools that maximize users\u2019 enjoyment of the social networks they already belong to. Rather than obsessing over the venue in which social interactions occur, Apple can profit by equipping its users to be more expressive, wherever they may roam.\nI like this core philosophy, and it actually aligns quite nicely with my vision for the IndieWeb. Rather than targeting only silos like Facebook, Snapchat, and Instagram, it'd be wonderful if great user experiences like Clips could enable publishing and sharing to user sites through Micropub and the ilk. Looking forward to playing with Clips!"
+      }
+    ],
+    "url": [
+      "/2017/daniel-jalkut-on-apples-clips-and-social-networks"
+    ],
+    "published": [
+      "2017-03-22T23:48:00+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/844697201582452736"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "36327ff80732fed0f291e45cf8d75b6b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/844697201582452736?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F844697201582452736%2F243831930"
+          ],
+          "published": [
+            "2017-03-23T00:04:10+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "g"
+                ],
+                "url": [
+                  "https://twitter.com/None"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/5e3e6cdf7b0a2087803d72e753da3816/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/5e3e6cdf7b0a2087803d72e753da3816/thumb.jpg g"
+            }
+          ]
+        },
+        "value": "g"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/844697346659135488?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F844697346659135488%2F243831930"
+          ],
+          "published": [
+            "2017-03-23T00:04:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "g"
+                ],
+                "url": [
+                  "https://twitter.com/None"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/c86aefdcec431f52d07de9fda14b0b49/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/c86aefdcec431f52d07de9fda14b0b49/thumb.jpg g"
+            }
+          ]
+        },
+        "value": "g"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/live-from-sf-sketchfest"
+    ],
+    "published": [
+      "2023-04-24T23:06:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d12f97b6893b6a7964f2abf86ce9b61f"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-25T00:04:37Z",
+      "year": 2023,
+      "month": 4,
+      "day": 25,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.37051210252446,
+      "y": 33.81532225643485,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.46000000834465027,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Live from SF Sketchfest"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9ac574a5dc7bd25fe2637d5ef3210de9/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0er4RY"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s episode was recorded live in front of an audience at the Sydney Goldstein Theater! Our first case is SCOTTISH RITE OF WAY: Nate brings the case against his partner Chan. The two live together in a building that once was a Masonic lodge. One of the rooms in their apartment has a strange door that opens onto a dark and mysterious hallway. Nate wants to investigate the hallway. Chan wants him to leave the mystery door alone!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "This week\u2019s episode was recorded live in front of an audience at the Sydney Goldstein Theater! Our first case is SCOTTISH RITE OF WAY: Nate brings the case against his partner Chan. The two live together in a building that once was a Masonic lodge. One of the rooms in their apartment has a strange door that opens onto a dark and mysterious hallway. Nate wants to investigate the hallway. Chan wants him to leave the mystery door alone!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

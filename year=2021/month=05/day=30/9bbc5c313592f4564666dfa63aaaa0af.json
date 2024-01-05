@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/432-i-shouldnt-need-to-wiggle"
+    ],
+    "published": [
+      "2021-05-30T07:28:08+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9bbc5c313592f4564666dfa63aaaa0af"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-28T19:55:25Z",
+      "year": 2021,
+      "month": 5,
+      "day": 28,
+      "hour": 19,
+      "minute": 55,
+      "x": -118.37041250418412,
+      "y": 33.81539230744514,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 432: I Shouldn\u2019t Need to Wiggle"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4503c2f3ffed40e7245ac542da165a91/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJWlORo"
+        ],
+        "content": [
+          {
+            "html": "<p>Compacted sugar, Jade theories, TV-remote button feel, and looking \u2014 but not reaching! \u2014 very far upward.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Compacted sugar, Jade theories, TV-remote button feel, and looking \u2014 but not reaching! \u2014 very far upward.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

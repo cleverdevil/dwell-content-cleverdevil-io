@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-239-pizza-trousers"
+    ],
+    "published": [
+      "2019-04-22T07:15:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 54.53\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 54.53\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 54.53\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-239-pizza-trousers/annotations/686008a5cb6f1d0eaff81a190927b98b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-239-pizza-trousers/annotations/686008a5cb6f1d0eaff81a190927b98b"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9384d3649e8580b7ea4471b62a021c3e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-22T07:37:39Z",
+      "year": 2019,
+      "month": 4,
+      "day": 22,
+      "hour": 7,
+      "minute": 37,
+      "x": -118.37054246819044,
+      "y": 33.81529219257158,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.550000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 239: Pizza Trousers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/71661d0d007e7c83fae54df28fc4e669/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4XQFOY"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, in the absence of adult supervision, Myke and Federico discuss their new favorite time zone app and consider some recent iOS 13 rumors before Ticci talks about what arrived in his mailbox.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, in the absence of adult supervision, Myke and Federico discuss their new favorite time zone app and consider some recent iOS 13 rumors before Ticci talks about what arrived in his mailbox.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

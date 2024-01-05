@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Enterprise Rent-A-Car"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Enterprise Rent-A-Car"
+          ],
+          "latitude": [
+            "20.891507020778"
+          ],
+          "longitude": [
+            "-156.44520890158"
+          ]
+        },
+        "value": "Enterprise Rent-A-Car"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Enterprise Rent-A-Car"
+          ],
+          "latitude": [
+            "20.891507020778"
+          ],
+          "longitude": [
+            "-156.44520890158"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Returning the car \u2639\ufe0f</p>",
+        "value": "Returning the car \u2639\ufe0f"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-enterprise-rent-a-car"
+    ],
+    "published": [
+      "2017-07-17T06:00:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Enterprise Rent-A-Car!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Enterprise Rent-A-Car!</p>",
+              "value": "Your first check-in at this Enterprise Rent-A-Car!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d3fdae68902b1fd0df10288038e93b88"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596c526c66611663b182add0/239dbf29fca862335e8a8244138cb373"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596c526c66611663b182add0/239dbf29fca862335e8a8244138cb373"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596c526c66611663b182add0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7e6f2a6c0830b1db95237eb247ff79e7"
+    ]
+  }
+}

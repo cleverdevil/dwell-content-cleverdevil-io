@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Chez M\u00e9lange Bouzys"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez M\u00e9lange Bouzys"
+          ],
+          "latitude": [
+            "33.819483776686"
+          ],
+          "longitude": [
+            "-118.38848182774"
+          ]
+        },
+        "value": "Chez M\u00e9lange Bouzys"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez M\u00e9lange Bouzys"
+          ],
+          "latitude": [
+            "33.819483776686"
+          ],
+          "longitude": [
+            "-118.38848182774"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-chez-m%C3%A9lange-bouzys-1"
+    ],
+    "published": [
+      "2020-01-29T02:19:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Chez M\u00e9lange Bouzys since March '19."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Chez M\u00e9lange Bouzys since March '19.</p>",
+              "value": "Welcome back! You haven't checked in to Chez M\u00e9lange Bouzys since March '19."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e30eba38f299c000805bd60/87e83ef755668890380fb9a1f29d2c4b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e30eba38f299c000805bd60/87e83ef755668890380fb9a1f29d2c4b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.91\u00b0F and 59% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.91\u00b0F and 59% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.91\u00b0F and 59% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-chez-m%C3%A9lange-bouzys-1/annotations/9ecd3c7e25b8e287c13b8a8daba5f04f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-chez-m%C3%A9lange-bouzys-1/annotations/9ecd3c7e25b8e287c13b8a8daba5f04f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e30eba38f299c000805bd60"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0038f22fed25bb0af9303c640c4fc9f3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-29T02:11:26Z",
+      "year": 2020,
+      "month": 1,
+      "day": 29,
+      "hour": 2,
+      "minute": 11,
+      "x": -118.3722303735649,
+      "y": 33.815804653955915,
+      "altitude": 42,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/316-macbook-hierarchy-of-needs"
+    ],
+    "published": [
+      "2019-03-07T16:28:08+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d6dbfa9761ac69e450fd3ff937458a13"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-07T20:01:33Z",
+      "year": 2019,
+      "month": 3,
+      "day": 7,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.3951425393802,
+      "y": 33.91987348791206,
+      "altitude": 32,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": "Mission"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 316: MacBook Hierarchy of Needs"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dcb26edb3cb3015a83f4aa7f313071a2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdSPCcY4"
+        ],
+        "content": [
+          {
+            "html": "<p>Two-handed dragging, Apple vs. NVIDIA, the end of configurable Macs, and our minimum requirements for the next MacBook Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Two-handed dragging, Apple vs. NVIDIA, the end of configurable Macs, and our minimum requirements for the next MacBook Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

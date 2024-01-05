@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-293-opt-in-your-face"
+    ],
+    "published": [
+      "2020-04-16T21:02:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.1\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.1\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.1\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-293-opt-in-your-face/annotations/154914767fafba0b0d5855dd00f2df6a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-293-opt-in-your-face/annotations/154914767fafba0b0d5855dd00f2df6a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "065fd04c3cf8cd5303d188acb4bd68b9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-17T00:04:15Z",
+      "year": 2020,
+      "month": 4,
+      "day": 17,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.37037951040102,
+      "y": 33.815384248934926,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 293: Opt In Your Face"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/43268911db7a485c82c52c05dbf54990/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8W1fp8"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple and Google join up to trace virus contacts, a bunch of TV shows are available for free, and Bloomberg adds a bit of normalcy by reporting about the next generation of iPhones. Finally, Myke at the Movies voyages to \u201cStar Trek IV.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple and Google join up to trace virus contacts, a bunch of TV shows are available for free, and Bloomberg adds a bit of normalcy by reporting about the next generation of iPhones. Finally, Myke at the Movies voyages to \u201cStar Trek IV.\u201d\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-301-show-me-youre-serious"
+    ],
+    "published": [
+      "2020-06-13T19:21:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.73\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.73\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.73\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-301-show-me-youre-serious/annotations/05191dae9c5742c106e4a295a9e8174c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-301-show-me-youre-serious/annotations/05191dae9c5742c106e4a295a9e8174c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dd76fdf712c373583cef5692455b7236"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-13T20:01:59Z",
+      "year": 2020,
+      "month": 6,
+      "day": 13,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.37036891384793,
+      "y": 33.8154529805026,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 301: Show Me You\u2019re Serious"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ce6e4d0b3d69abc86d99500eda962003/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm960r14"
+        ],
+        "content": [
+          {
+            "html": "<p>With WWDC two weeks away, Myke and Jason share their wishes for iPadOS updates. They also analyze why they love certain kinds of games but are repelled by others and discuss Apple\u2019s inevitable move into streaming live sports.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "With WWDC two weeks away, Myke and Jason share their wishes for iPadOS updates. They also analyze why they love certain kinds of games but are repelled by others and discuss Apple\u2019s inevitable move into streaming live sports.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

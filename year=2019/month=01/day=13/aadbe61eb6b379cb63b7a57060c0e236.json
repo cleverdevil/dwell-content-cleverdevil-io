@@ -1,0 +1,223 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Tracking My Movie, TV, and Podcast Activity"
+    ],
+    "content": [
+      {
+        "html": "<p>As part of my continuing efforts to preserve and capture my memories, I\u2019ve been spending some energy adding more capabilities to my website. I already capture <a href=\"https://cleverdevil.io/photos\">photos</a>, <a href=\"https://cleverdevil.io/content/recipes/\">recipes</a>, <a href=\"https://cleverdevil.io/content/posts/\">blog posts</a>, <a href=\"https://cleverdevil.io/content/statusupdates/\">status updates</a>, and other more traditional types of content. In addition, I\u2019ve been privately tracking my own location continuously for months now, including the ability to see some <a href=\"https://cleverdevil.io/now\">current details about my location and status</a>. I also use the excellent <a href=\"https://ownyourswarm.p3k.io\">OwnYourSwarm</a> service from <a href=\"https://aaronparecki.com\">Aaron Parecki</a> to record <a href=\"https://cleverdevil.io/content/locations/\">check-ins at specific locations on my site</a>.</p><p>Last week, I realized that I was missing some data on my website that would add additional context when exploring my memories: my TV and movie watching history, and a record of what podcasts I listen to. As of today, I am now automatically tracking all of this data, and I\u2019m happy to share a bit about how I made it happen.</p><h2>Movies and TV</h2><p>Let\u2019s start with how I am tracking what movies and TV shows I watch. As it turns out, there is already a wonderful service out there for tracking this data called <a href=\"https://trakt.tv/\">Trakt</a>, which is a startup based out of San Diego. Trakt has done the hard part for me, with an extensive and complete database of movies and TV shows for me to pull from, and a <a href=\"https://trakt.tv/apps\">host of great apps</a> that use its <a href=\"https://trakt.docs.apiary.io/\">powerful API</a> to help users put data into their Trakt account. I am personally using the <a href=\"https://itunes.apple.com/us/app/watcht/id1396920723\">Watcht app for iOS</a> to manually ad TV episodes and movies to my watch history on Trakt, and to show me a calendar of upcoming TV episodes for my favorite shows.</p><p><img alt=\"Trakt Logo\" class=\"right\" src=\"https://cleverdevil.io/file/5ad93d807b661160ac745a859f20d175\" width=\"200\"/></p><p>But, being an <a href=\"https://indieweb.org\">IndieWeb</a> community member, I want to make sure that my memories don\u2019t get lost in the event that Trakt goes away one day. In addition, I want to be able to see my TV and movie history in the context of the rest of my website\u2019s content. So, I needed to find a way to automatically sync that data to my website.</p><p>At first, I thought about using the extremely capable Trakt API to periodically sync to my website, but then I noticed that Trakt Pro members get access to an Atom feed of their watch history. Working with a custom REST API takes a lot of effort, while integrating with a standard feed format is extremely easy. So, I happily paid for a Trakt Pro subscription!</p><p>I created <a href=\"https://gist.github.com/cleverdevil/d6290a023c28bd8f6aee4ef136a3ba98\">a Python script which periodically parses my Trakt feed and then creates entries on my website</a> for each movie and TV episode I watch. It only took me about an hour to put the whole thing together.</p><h3>Sidebar: Automatic Tracking from Plex</h3><p><img alt=\"Plex Logo\" class=\"right\" height=\"200\" src=\"https://cleverdevil.io/file/e9222840ba7d883607a84d6b29b6eab8\" width=\"200\"/></p><p>As you may already know, I have a great collection of digital movies and TV shows. I use the outstanding <a href=\"https://www.plex.tv\">Plex Media Server</a> to enable me to stream and sync content to all my devices. As <a href=\"https://eddiehinkle.com\">Eddie</a>, my co-host from <a href=\"https://twodads.fm\">Two Dads Talking</a>, recently mused, <a href=\"https://eddiehinkle.com/2019/01/11/30/article/\">tracking activity automatically is much more reliable than remembering to manually track activity</a>. <a href=\"https://github.com/trakt/Plex-Trakt-Scrobbler\">Trakt provides a Plex plugin that automatically syncs your Plex history to Trakt</a>, and once I had that installed, a significant chunk of my activity is now automatically synced!</p><p>I still have to manually track content watched outside of Plex, like live TV from Hulu, and content consumed on Netflix, but it\u2019s a good start.</p><h2>Podcasts</h2><p>I\u2019m not only a podcaster with a <a href=\"http://cleverca.st\">microcast</a> and a <a href=\"https://twodads.fm\">podcast</a>, I\u2019m also an avid podcast listener. I listen to podcasts on my daily commute, to relax after work, and to kill time on airplanes. Wouldn\u2019t it be great to have that history tracked on my website as well? As I mentioned above, tracking that history automatically is greatly preferable to manually having to log every episode I listen to. With that in mind, I set out to see if I could capture my activity.</p><p><img alt=\"Overcast Logo\" class=\"right\" height=\"200\" src=\"https://cleverdevil.io/file/410aaf36faf848a2e12b3b89ec7278fc/thumb.png\" width=\"200\"/></p><p>I use the wonderful <a href=\"https://overcast.fm\">Overcast podcast app for iOS</a>. Overcast is created by <a href=\"https://marco.org\">Marco Arment</a>, who is also a prolific podcaster. It\u2019s a fantastic and pleasant app to use, and is perhaps my favorite iOS app ever. Overcast has a sync service and web frontend available for users at <a href=\"https://overcast.fm\">overcast.fm</a>. Not only can you listen to podcasts in your web browser on overcast.fm, you can also export an extended OPML file that contains all details about your account, including a listing of all podcast episodes you\u2019ve ever listened to. Bingo!</p><p>I whipped up <a href=\"https://gist.github.com/cleverdevil/a8215850420493c1ee06364161e281c0\">a script that logs into my account at Overcast.fm, then downloads a copy of this OPML file, and uses it to sync my history to my website</a>. It works a treat, but I will caution that Marco seems to be rate limiting that OPML export pretty aggressively. For the time being, I\u2019ve limited my sync to once daily, and I\u2019ve also contacted Marco to get his input on how I am using his service. In an ideal world, I\u2019d love to see Marco add a standard RSS, Atom, or JSON Feed for Overcast paid subscribers similar to what Trakt has done for Trakt Pro users. In the meantime, I\u2019ll be conservative about how often I sync and await a reply from Marco.</p><h2>Why Track Activity?</h2><p>You may be wondering why I want to track all of this information. Eddie and I briefly touched on the topic in the <a href=\"https://twodads.fm/2019/01/10/episode-im-not.html\">last episode of Two Dads Talking</a>, but it really comes down to the fact that our memories are precious, and the more context I have when looking back on my life, the richer my appreciation will be for the life I\u2019ve been blessed to live.</p><p>During the process of adding these new types of memories to my website, I also have added a monthly \u201crecap\u201d feature which has been one of my all time favorite enhancements. I like them so much, I\u2019ve added links to the last twelve monthly summaries to my home page to surface them. My favorite examples of monthly summaries so far:</p><ul><li><a href=\"https://cleverdevil.io/summary/2018/1\">January 2018</a>, which marked my departure from DreamHost, the beginning of a new chapter in my career, and my second viewing of my favorite musical of all time.</li>\n<li><a href=\"https://cleverdevil.io/summary/2018/7\">July 2018</a>, which includes travel all over the globe, some progress on my Indiepaper project, and outdoor movies in my front yard with my kids.</li>\n<li><a href=\"https://cleverdevil.io/summary/2017/11\">November 2017</a>, which includes a trip to Australia, the acquisition of the best car I\u2019ve ever owned, and my son\u2019s first ever NFL football game.</li>\n</ul><p>I\u2019m delighted to continue enriching my database of memories, and really happy with the way my movie, TV, and podcast tracking is shaping up so far.</p><p><a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a></p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a></p>",
+        "value": "As part of my continuing efforts to preserve and capture my memories, I\u2019ve been spending some energy adding more capabilities to my website. I already capture photos, recipes, blog posts, status updates, and other more traditional types of content. In addition, I\u2019ve been privately tracking my own location continuously for months now, including the ability to see some current details about my location and status. I also use the excellent OwnYourSwarm service from Aaron Parecki to record check-ins at specific locations on my site.\nLast week, I realized that I was missing some data on my website that would add additional context when exploring my memories: my TV and movie watching history, and a record of what podcasts I listen to. As of today, I am now automatically tracking all of this data, and I\u2019m happy to share a bit about how I made it happen.Movies and TV\nLet\u2019s start with how I am tracking what movies and TV shows I watch. As it turns out, there is already a wonderful service out there for tracking this data called Trakt, which is a startup based out of San Diego. Trakt has done the hard part for me, with an extensive and complete database of movies and TV shows for me to pull from, and a host of great apps that use its powerful API to help users put data into their Trakt account. I am personally using the Watcht app for iOS to manually ad TV episodes and movies to my watch history on Trakt, and to show me a calendar of upcoming TV episodes for my favorite shows.\nTrakt Logo\nBut, being an IndieWeb community member, I want to make sure that my memories don\u2019t get lost in the event that Trakt goes away one day. In addition, I want to be able to see my TV and movie history in the context of the rest of my website\u2019s content. So, I needed to find a way to automatically sync that data to my website.\nAt first, I thought about using the extremely capable Trakt API to periodically sync to my website, but then I noticed that Trakt Pro members get access to an Atom feed of their watch history. Working with a custom REST API takes a lot of effort, while integrating with a standard feed format is extremely easy. So, I happily paid for a Trakt Pro subscription!\nI created a Python script which periodically parses my Trakt feed and then creates entries on my website for each movie and TV episode I watch. It only took me about an hour to put the whole thing together.Sidebar: Automatic Tracking from Plex\nPlex Logo\nAs you may already know, I have a great collection of digital movies and TV shows. I use the outstanding Plex Media Server to enable me to stream and sync content to all my devices. As Eddie, my co-host from Two Dads Talking, recently mused, tracking activity automatically is much more reliable than remembering to manually track activity. Trakt provides a Plex plugin that automatically syncs your Plex history to Trakt, and once I had that installed, a significant chunk of my activity is now automatically synced!\nI still have to manually track content watched outside of Plex, like live TV from Hulu, and content consumed on Netflix, but it\u2019s a good start.Podcasts\nI\u2019m not only a podcaster with a microcast and a podcast, I\u2019m also an avid podcast listener. I listen to podcasts on my daily commute, to relax after work, and to kill time on airplanes. Wouldn\u2019t it be great to have that history tracked on my website as well? As I mentioned above, tracking that history automatically is greatly preferable to manually having to log every episode I listen to. With that in mind, I set out to see if I could capture my activity.\nOvercast Logo\nI use the wonderful Overcast podcast app for iOS. Overcast is created by Marco Arment, who is also a prolific podcaster. It\u2019s a fantastic and pleasant app to use, and is perhaps my favorite iOS app ever. Overcast has a sync service and web frontend available for users at overcast.fm. Not only can you listen to podcasts in your web browser on overcast.fm, you can also export an extended OPML file that contains all details about your account, including a listing of all podcast episodes you\u2019ve ever listened to. Bingo!\nI whipped up a script that logs into my account at Overcast.fm, then downloads a copy of this OPML file, and uses it to sync my history to my website. It works a treat, but I will caution that Marco seems to be rate limiting that OPML export pretty aggressively. For the time being, I\u2019ve limited my sync to once daily, and I\u2019ve also contacted Marco to get his input on how I am using his service. In an ideal world, I\u2019d love to see Marco add a standard RSS, Atom, or JSON Feed for Overcast paid subscribers similar to what Trakt has done for Trakt Pro users. In the meantime, I\u2019ll be conservative about how often I sync and await a reply from Marco.Why Track Activity?\nYou may be wondering why I want to track all of this information. Eddie and I briefly touched on the topic in the last episode of Two Dads Talking, but it really comes down to the fact that our memories are precious, and the more context I have when looking back on my life, the richer my appreciation will be for the life I\u2019ve been blessed to live.\nDuring the process of adding these new types of memories to my website, I also have added a monthly \u201crecap\u201d feature which has been one of my all time favorite enhancements. I like them so much, I\u2019ve added links to the last twelve monthly summaries to my home page to surface them. My favorite examples of monthly summaries so far:January 2018, which marked my departure from DreamHost, the beginning of a new chapter in my career, and my second viewing of my favorite musical of all time. July 2018, which includes travel all over the globe, some progress on my Indiepaper project, and outdoor movies in my front yard with my kids. November 2017, which includes a trip to Australia, the acquisition of the best car I\u2019ve ever owned, and my son\u2019s first ever NFL football game.\nI\u2019m delighted to continue enriching my database of memories, and really happy with the way my movie, TV, and podcast tracking is shaping up so far.\n#IndieWeb\n#indienews"
+      }
+    ],
+    "category": [
+      "#IndieWeb",
+      "https://news.indieweb.org/en",
+      "#indienews"
+    ],
+    "url": [
+      "/2019/tracking-my-movie-tv-and-podcast-activity"
+    ],
+    "published": [
+      "2019-01-13T21:27:40+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1084563105080844291"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "aadbe61eb6b379cb63b7a57060c0e236"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2019/01/13/10/like/"
+          ],
+          "published": [
+            "2019-01-14T01:49:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://eddiehinkle.com"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1084563105080844291?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1084563105080844291%2F308803734"
+          ],
+          "published": [
+            "2019-01-14T08:35:58+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1084563105080844291?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1084563105080844291%2F24284646"
+          ],
+          "published": [
+            "2019-01-16T18:53:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mission"
+                ],
+                "url": [
+                  "https://twitter.com/MissionCloud"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTAwNTg4NDk2OTUwOTI3MzYvaFhUUnE2SE4uanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTAwNTg4NDk2OTUwOTI3MzYvaFhUUnE2SE4uanBn/300/square Mission"
+            }
+          ]
+        },
+        "value": "Mission"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1084563105080844291?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1084563105080844291%2F16472145"
+          ],
+          "published": [
+            "2019-01-19T14:47:49+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Absolon Kent"
+                ],
+                "url": [
+                  "https://twitter.com/absolonkent"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk5OTU4MDIyNzQ4MjI3NTg0MS9mWEpFMFdvTC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk5OTU4MDIyNzQ4MjI3NTg0MS9mWEpFMFdvTC5qcGc,/300/square Absolon Kent"
+            }
+          ]
+        },
+        "value": "Absolon Kent"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://lostfocus.de/2019/01/23153/"
+          ],
+          "published": [
+            "2019-01-22T10:54:44+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Dominik Schwind"
+                ],
+                "url": [
+                  "https://lostfocus.de"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Dominik Schwind"
+            }
+          ]
+        },
+        "value": "Dominik Schwind"
+      }
+    ]
+  }
+}

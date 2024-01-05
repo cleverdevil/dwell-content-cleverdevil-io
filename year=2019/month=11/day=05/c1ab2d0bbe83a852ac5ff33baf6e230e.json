@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-270-the-toughest-compare"
+    ],
+    "published": [
+      "2019-11-05T23:11:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.23\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.23\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.23\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-270-the-toughest-compare/annotations/9f0f9b37d5922f7ec9552546d1562248"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-270-the-toughest-compare/annotations/9f0f9b37d5922f7ec9552546d1562248"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c1ab2d0bbe83a852ac5ff33baf6e230e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-05T23:57:29Z",
+      "year": 2019,
+      "month": 11,
+      "day": 5,
+      "hour": 23,
+      "minute": 57,
+      "x": -118.37039930982925,
+      "y": 33.81535261508096,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 270: The Toughest Compare"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/14a63976b16039a24b21c11c4f688e2f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8lyi1c"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple TV+ has finally arrived, so this week we talk about the first round of shows (and the disappointing TV app) Also: Our review of the new AirPods Pro and Apple\u2019s quarterly results show that down is up.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple TV+ has finally arrived, so this week we talk about the first round of shows (and the disappointing TV app) Also: Our review of the new AirPods Pro and Apple\u2019s quarterly results show that down is up.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

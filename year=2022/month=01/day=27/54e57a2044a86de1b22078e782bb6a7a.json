@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Palm Springs Aerial Tramway"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Springs Aerial Tramway"
+          ],
+          "latitude": [
+            "33.837052328896"
+          ],
+          "longitude": [
+            "-116.61418772422"
+          ]
+        },
+        "value": "Palm Springs Aerial Tramway"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Springs Aerial Tramway"
+          ],
+          "latitude": [
+            "33.837052328896"
+          ],
+          "longitude": [
+            "-116.61418772422"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-palm-springs-aerial-tramway"
+    ],
+    "published": [
+      "2022-01-27T00:07:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Palm Springs Aerial Tramway!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Palm Springs Aerial Tramway!</p>",
+              "value": "Your first check-in at Palm Springs Aerial Tramway!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61f1e23658acca2675996a28/83020f66423c0699450ea272ba4e3441"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61f1e23658acca2675996a28/83020f66423c0699450ea272ba4e3441"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61f1e23658acca2675996a28"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "54e57a2044a86de1b22078e782bb6a7a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-27T00:07:08Z",
+      "year": 2022,
+      "month": 1,
+      "day": 27,
+      "hour": 0,
+      "minute": 7,
+      "x": -116.61385832106156,
+      "y": 33.83674013650324,
+      "altitude": 806,
+      "motion": [],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": "TRAMWAY GUEST"
+    }
+  }
+}

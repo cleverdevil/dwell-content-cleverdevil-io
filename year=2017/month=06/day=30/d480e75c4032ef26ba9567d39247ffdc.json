@@ -1,0 +1,157 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "IndieWeb Summit 2017 Recap"
+    ],
+    "content": [
+      {
+        "html": "<p>On June 24-25, I attended my first ever <a href=\"https://2017.indieweb.org\">IndieWeb Summit</a>\u00a0in Portland, Oregon. IWS is:</p><blockquote><p>...an\u00a0annual gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.</p></blockquote><p>IWS 2017 was graciously hosted by <a href=\"https://mozilla.org\">Mozilla</a>\u00a0in their very cool\u00a0Portland office, which provided fantastic video conferencing gear enabling people from around the world to join in. Day one\u00a0kicked off with keynotes providing an overview of the IndieWeb, the state of the IndieWeb, and real-world examples of IndieWeb sites. Following the keynotes, attendees had an opportunity to introduce themselves and show a demo of their own personal websites. In my introduction, I showed off <a href=\"https://cleverdevil.io/onthisday/\">my On This Day implementation</a>, along with a live demo of my website <a href=\"https://cleverdevil.io/content/watching\">automatically logging</a>\u00a0when I <a href=\"https://github.com/cleverdevil/Known-Watching\">watch media\u00a0on my Plex server</a>.</p><p>The group then adjourns for lunch, followed by a Barcamp-style scheduling session, where individuals can propose topics of conversation, where we quickly filled four tracks with amazing hour-long sessions for the day. Topics included <a href=\"https://indieweb.org/2017/wordpress-shrug\">WordPress</a>, <a href=\"https://indieweb.org/2017/specialmicropub\">specialized Micropub clients</a>,\u00a0<a href=\"https://indieweb.org/2017/perweb\">personal website designs</a>, <a href=\"https://indieweb.org/2017/indiesiri\">voice and the IndieWeb</a>, and a <a href=\"https://indieweb.org/2017/together\">session that I proposed on creating a timeline for the open web</a>.\u00a0Every session was fun, engaging, and thought-provoking. In the evening, I joined a group of attendees for dinner and drinks, and then headed over to <a href=\"http://groundkontrol.com/\">Ground Kontrol</a>\u00a0for some classic arcade games before calling it a night.</p><p>Day two gave attendees some time for hands-on assistance with their personal websites. I joined <a href=\"https://david.shanske.com\">David Shanske</a>\u00a0and <a href=\"http://snarfed.org\">Ryan Barrett</a>\u00a0in leading a session to help people interesting in IndieWeb-ifying their WordPress websites. The afternoon was all about personal hack time and projects before we wrapped the day up with demos. I <a href=\"https://github.com/idno/Known/commit/f0cc0fd3b9aadc5b53cedea4f5e3c537416143df\">contributed a Micropub Media endpoint implementation to Known</a>\u00a0and then started working on <a href=\"https://github.com/cleverdevil/together\">a new Indie-reader called \"together\"</a>\u00a0with <a href=\"https://grant.codes\">Grant Richmond</a>\u00a0and a few others. To wrap up, there was an afterparty at\u00a0<a href=\"http://voiceboxkaraoke.com/locations/southeast-portland/\">Voicebox Karaoke</a>\u00a0sponsored by <a href=\"https://dreamhost.com\">DreamHost</a>, which was an absolute blast.</p><p>I have attended many conferences over the years, and IndieWeb Summit 2017 was one of my all time favorites. Kudos to organizers <a href=\"http://tantek.com\">Tantek \u00c7elik</a>\u00a0and <a href=\"https://aaronparecki.com\">Aaron Parecki</a>\u00a0for doing an incredible job putting the event together. Everything was top notch!</p><p>Probably the best news of all is that nearly every moment of the event was <a href=\"https://indieweb.org/2017/Schedule\">recorded and posted online</a>, along with detailed notes of each session. I've been catching up on sessions that I missed over the last few days, and my appreciation for the event is only growing.</p><p>Can't wait for next year!</p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a>\u00a0<a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a></p>",
+        "value": "On June 24-25, I attended my first ever IndieWeb Summit\u00a0in Portland, Oregon. IWS is:\n...an\u00a0annual gathering for independent web creators of all kinds, from graphic artists, to designers, UX engineers, coders, hackers, to share ideas, actively work on creating for their own personal websites, and build upon each others creations.\nIWS 2017 was graciously hosted by Mozilla\u00a0in their very cool\u00a0Portland office, which provided fantastic video conferencing gear enabling people from around the world to join in. Day one\u00a0kicked off with keynotes providing an overview of the IndieWeb, the state of the IndieWeb, and real-world examples of IndieWeb sites. Following the keynotes, attendees had an opportunity to introduce themselves and show a demo of their own personal websites. In my introduction, I showed off my On This Day implementation, along with a live demo of my website automatically logging\u00a0when I watch media\u00a0on my Plex server.\nThe group then adjourns for lunch, followed by a Barcamp-style scheduling session, where individuals can propose topics of conversation, where we quickly filled four tracks with amazing hour-long sessions for the day. Topics included WordPress, specialized Micropub clients,\u00a0personal website designs, voice and the IndieWeb, and a session that I proposed on creating a timeline for the open web.\u00a0Every session was fun, engaging, and thought-provoking. In the evening, I joined a group of attendees for dinner and drinks, and then headed over to Ground Kontrol\u00a0for some classic arcade games before calling it a night.\nDay two gave attendees some time for hands-on assistance with their personal websites. I joined David Shanske\u00a0and Ryan Barrett\u00a0in leading a session to help people interesting in IndieWeb-ifying their WordPress websites. The afternoon was all about personal hack time and projects before we wrapped the day up with demos. I contributed a Micropub Media endpoint implementation to Known\u00a0and then started working on a new Indie-reader called \"together\"\u00a0with Grant Richmond\u00a0and a few others. To wrap up, there was an afterparty at\u00a0Voicebox Karaoke\u00a0sponsored by DreamHost, which was an absolute blast.\nI have attended many conferences over the years, and IndieWeb Summit 2017 was one of my all time favorites. Kudos to organizers Tantek \u00c7elik\u00a0and Aaron Parecki\u00a0for doing an incredible job putting the event together. Everything was top notch!\nProbably the best news of all is that nearly every moment of the event was recorded and posted online, along with detailed notes of each session. I've been catching up on sessions that I missed over the last few days, and my appreciation for the event is only growing.\nCan't wait for next year!\n#indienews\u00a0#indieweb"
+      }
+    ],
+    "category": [
+      "https://news.indieweb.org/en",
+      "#indienews",
+      "#indieweb"
+    ],
+    "url": [
+      "/2017/indieweb-summit-2017-recap"
+    ],
+    "published": [
+      "2017-06-30T16:30:14+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/880825819765112832"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "d480e75c4032ef26ba9567d39247ffdc"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2017-06-30_indieweb-summit-2017-recap"
+          ],
+          "published": [
+            "2017-06-30T16:31:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/3e2951aeb1e8bb3912224d7930de6f8e"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/3e2951aeb1e8bb3912224d7930de6f8e Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://gregorlove.com/2017/06/star-indieweb-summit-2017-recap/"
+          ],
+          "published": [
+            "2017-06-30T20:38:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "gRegor Morrill"
+                ],
+                "url": [
+                  "https://gregorlove.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/2983d08266a9bcc5acc37ddd6299aa59"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/2983d08266a9bcc5acc37ddd6299aa59 gRegor Morrill"
+            }
+          ]
+        },
+        "value": "gRegor Morrill"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/880825819765112832?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F880825819765112832%2F13645402"
+          ],
+          "published": [
+            "2017-07-03T06:55:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "ChrisAldrich"
+                ],
+                "url": [
+                  "https://twitter.com/ChrisAldrich"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/1708b8701150125bfbcbd1609a230093"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/1708b8701150125bfbcbd1609a230093 ChrisAldrich"
+            }
+          ]
+        },
+        "value": "ChrisAldrich"
+      }
+    ]
+  }
+}

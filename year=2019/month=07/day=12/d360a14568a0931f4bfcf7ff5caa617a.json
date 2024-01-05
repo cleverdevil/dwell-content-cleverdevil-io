@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/334-mechanical-disadvantage"
+    ],
+    "published": [
+      "2019-07-12T23:55:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.87\u00b0F and 70% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.87\u00b0F and 70% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.87\u00b0F and 70% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/334-mechanical-disadvantage/annotations/7c9482fe6672f7a508bcd71603121e92"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/334-mechanical-disadvantage/annotations/7c9482fe6672f7a508bcd71603121e92"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d360a14568a0931f4bfcf7ff5caa617a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-13T00:00:29Z",
+      "year": 2019,
+      "month": 7,
+      "day": 13,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.40415373759767,
+      "y": 33.945762326729536,
+      "altitude": 34,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 334: Mechanical Disadvantage"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/950e2f85129a3abe0972fb0a00e90def/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DULHyYY"
+        ],
+        "content": [
+          {
+            "html": "<p>John\u2019s cheese grater broke.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John\u2019s cheese grater broke.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

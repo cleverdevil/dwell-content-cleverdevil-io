@@ -1,0 +1,215 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "@rosemaryorchard enjoying the latest episode of Automators with @siracusa! I was thinking that you should do an episode on Hammerspoon - http://www.hammerspoon.org - which I utterly adore. I\u2019ve even created a Micropub integration for Hammerspoon - https://github.com/cleverdevil/Micropub.spoon"
+    ],
+    "content": [
+      {
+        "html": "@rosemaryorchard enjoying the latest episode of Automators with @siracusa! I was thinking that you should do an episode on Hammerspoon - <a href=\"http://www.hammerspoon.org\" target=\"_blank\">http://<wbr/>www.hammerspoon.org</a> - which I utterly adore. I\u2019ve even created a Micropub integration for Hammerspoon - <a href=\"https://github.com/cleverdevil/Micropub.spoon\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>Micropub.spoon</a>",
+        "value": "@rosemaryorchard enjoying the latest episode of Automators with @siracusa! I was thinking that you should do an episode on Hammerspoon - http://www.hammerspoon.org - which I utterly adore. I\u2019ve even created a Micropub integration for Hammerspoon - https://github.com/cleverdevil/Micropub.spoon"
+      }
+    ],
+    "url": [
+      "/2019/rosemaryorchard-enjoying-the-latest-episode-of-automators"
+    ],
+    "published": [
+      "2019-03-02T22:32:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.77\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/rosemaryorchard-enjoying-the-latest-episode-of-automators/annotations/d8b5b6792348cfc0d07cf634ddd5b03d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/rosemaryorchard-enjoying-the-latest-episode-of-automators/annotations/d8b5b6792348cfc0d07cf634ddd5b03d"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "...and while you\u2019re at it, CommandPost is a fork of Hammerspoon adding a heap of automation tools for professional editors using apps like Apple\u2019s Final Cut Pro X.\ncommandpost.io"
+          ],
+          "content": [
+            {
+              "html": "<p>...and while you\u2019re at it, CommandPost is a fork of Hammerspoon adding a heap of automation tools for professional editors using apps like Apple\u2019s Final Cut Pro X.</p>\n\n<p>commandpost.io</p>",
+              "value": "...and while you\u2019re at it, CommandPost is a fork of Hammerspoon adding a heap of automation tools for professional editors using apps like Apple\u2019s Final Cut Pro X.\ncommandpost.io"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDU5MjE4MDA0Mi9iNTc3NGMzOWQ1OTM1ZmFlZjAwODhkYmM0NjMzNzhlNS5qcGVn/300/square"
+                ],
+                "name": [
+                  "LateNite Films"
+                ],
+                "url": [
+                  "https://twitter.com/latenitefilms"
+                ]
+              },
+              "value": "LateNite Films"
+            }
+          ],
+          "url": [
+            "https://twitter.com/latenitefilms/status/1104213249321426946"
+          ]
+        },
+        "value": "https://twitter.com/latenitefilms/status/1104213249321426946"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1101973562519375873"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "e31813fefcc837e39646e47bb60ac85c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1101973562519375873?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1101973562519375873%2F75626644"
+          ],
+          "published": [
+            "2019-03-06T08:05:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "dotemacs"
+                ],
+                "url": [
+                  "https://twitter.com/dotemacs"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzMwNjE3OTg4MzkyMzQ1NjAvU1FkRnd5TE0uanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzMwNjE3OTg4MzkyMzQ1NjAvU1FkRnd5TE0uanBn/300/square dotemacs"
+            }
+          ]
+        },
+        "value": "dotemacs"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1101973562519375873?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1101973562519375873%2F14918459"
+          ],
+          "published": [
+            "2019-03-09T03:07:11+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "LateNite Films"
+                ],
+                "url": [
+                  "https://twitter.com/latenitefilms"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDU5MjE4MDA0Mi9iNTc3NGMzOWQ1OTM1ZmFlZjAwODhkYmM0NjMzNzhlNS5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDU5MjE4MDA0Mi9iNTc3NGMzOWQ1OTM1ZmFlZjAwODhkYmM0NjMzNzhlNS5qcGVn/300/square LateNite Films"
+            }
+          ]
+        },
+        "value": "LateNite Films"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-02T22:31:18Z",
+      "year": 2019,
+      "month": 3,
+      "day": 2,
+      "hour": 22,
+      "minute": 31,
+      "x": -118.37038421550581,
+      "y": 33.81541354852562,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": "LaCour"
+    }
+  }
+}

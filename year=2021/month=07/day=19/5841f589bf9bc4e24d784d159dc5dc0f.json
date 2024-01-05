@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/439-eventually-converge-on-correctness"
+    ],
+    "published": [
+      "2021-07-19T02:56:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5841f589bf9bc4e24d784d159dc5dc0f"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-19T04:03:57Z",
+      "year": 2021,
+      "month": 7,
+      "day": 19,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37032052930019,
+      "y": 33.81544191291619,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.38999998569488525,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 439: Eventually Converge on Correctness"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/deeaf365dd132a1f176cef5c0db60750/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI_PA44"
+        ],
+        "content": [
+          {
+            "html": "<p>Spaces, Safari beta UI tweaks, the design feedback loop, photo-ingest updates, and shocking news from Casey.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Spaces, Safari beta UI tweaks, the design feedback loop, photo-ingest updates, and shocking news from Casey.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

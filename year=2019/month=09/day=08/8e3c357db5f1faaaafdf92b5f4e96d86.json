@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-259-the-rickies-fall-2019"
+    ],
+    "published": [
+      "2019-09-08T06:39:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.33\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.33\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.33\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-259-the-rickies-fall-2019/annotations/e8216f4821212bcf8ce9399d05e8dbcd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-259-the-rickies-fall-2019/annotations/e8216f4821212bcf8ce9399d05e8dbcd"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8e3c357db5f1faaaafdf92b5f4e96d86"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-08T07:55:22Z",
+      "year": 2019,
+      "month": 9,
+      "day": 8,
+      "hour": 7,
+      "minute": 55,
+      "x": -118.37049939702906,
+      "y": 33.81526063671197,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 259: The Rickies (Fall 2019)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cfc1e77b9e4cb9a8c6ec1311974995aa/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5bRzKc"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke, Federico and Stephen complete their annual tradition of making predictions before Apple\u2019s iPhone event, this time with a new name: The Rickies.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke, Federico and Stephen complete their annual tradition of making predictions before Apple\u2019s iPhone event, this time with a new name: The Rickies.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

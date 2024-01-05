@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/363-faceidsensorthatsupportspartiallyoccludedfaces"
+    ],
+    "published": [
+      "2021-09-24T16:20:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "63a1324af2e60e36962983e357a503e3"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-24T20:04:00Z",
+      "year": 2021,
+      "month": 9,
+      "day": 24,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.37040027091919,
+      "y": 33.8154221063196,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 363: FaceIDSensorThatSupportsPartiallyOccludedFaces"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a5411a46270bb96664217bcdcc560737/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6z4vdc"
+        ],
+        "content": [
+          {
+            "html": "<p>The dust has settled from Apple\u2019s iPhone 13 event and a Chairman has emerged from the haze.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The dust has settled from Apple\u2019s iPhone 13 event and a Chairman has emerged from the haze.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

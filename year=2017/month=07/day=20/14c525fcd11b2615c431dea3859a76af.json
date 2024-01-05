@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fresh Brothers"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fresh Brothers"
+          ],
+          "latitude": [
+            "33.847571987745"
+          ],
+          "longitude": [
+            "-118.38957309723"
+          ]
+        },
+        "value": "Fresh Brothers"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fresh Brothers"
+          ],
+          "latitude": [
+            "33.847571987745"
+          ],
+          "longitude": [
+            "-118.38957309723"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Picking up pizza and salad for park picnic.</p>",
+        "value": "Picking up pizza and salad for park picnic."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-fresh-brothers"
+    ],
+    "published": [
+      "2017-07-20T02:19:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f68902cd0fa104dadb2ec10bb1887f92"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5970132ea6ec98686e81dd64/5e7d16b41392930f8c314f4ac8a73024"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5970132ea6ec98686e81dd64/5e7d16b41392930f8c314f4ac8a73024"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5970132ea6ec98686e81dd64"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "14c525fcd11b2615c431dea3859a76af"
+    ]
+  }
+}

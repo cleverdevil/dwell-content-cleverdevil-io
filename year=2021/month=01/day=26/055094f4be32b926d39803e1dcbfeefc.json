@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/336-cool-report-though"
+    ],
+    "published": [
+      "2021-01-26T01:02:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "055094f4be32b926d39803e1dcbfeefc"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-26T04:01:21Z",
+      "year": 2021,
+      "month": 1,
+      "day": 26,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37033813394683,
+      "y": 33.81546787487346,
+      "altitude": 55,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 336: Cool Report, Though"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6c1fc54b01997d2e68eb4e92ac75ee10/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_4NxGU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week Myke and Jason discuss Apple\u2019s rumored VR headset, a smaller MacBook Air, Fitness+ walks with celebrities, and why more movies and sports are making the move to streaming outlets.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week Myke and Jason discuss Apple\u2019s rumored VR headset, a smaller MacBook Air, Fitness+ walks with celebrities, and why more movies and sports are making the move to streaming outlets.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

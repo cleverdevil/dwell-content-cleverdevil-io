@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/mac-power-users-470-from-computing-to-sheep-farming-with"
+    ],
+    "published": [
+      "2019-03-02T21:35:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.62\u00b0F and 97% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.62\u00b0F and 97% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.62\u00b0F and 97% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/mac-power-users-470-from-computing-to-sheep-farming-with/annotations/070ca0e70a78edbed76cf60d263ba36d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/mac-power-users-470-from-computing-to-sheep-farming-with/annotations/070ca0e70a78edbed76cf60d263ba36d"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fa2e44a76c161f46eec6d57a755cfffd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-03T00:00:50Z",
+      "year": 2019,
+      "month": 3,
+      "day": 3,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.3703846648302,
+      "y": 33.815409354041066,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Mac Power Users 470: From Computing to Sheep Farming, with Oogie McGuire"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ad070836b2cb0b3fca552745611d5d4d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FrCGGiTdE"
+        ],
+        "content": [
+          {
+            "html": "<p>Programmer and sheep farmer Oogie McGuire talks about LambTracker, her application for managing flocks and the hardware that goes along with it, as well as her on-going project of digitizing historical photos.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Mac Power Users</p>",
+            "value": "Programmer and sheep farmer Oogie McGuire talks about LambTracker, her application for managing flocks and the hardware that goes along with it, as well as her on-going project of digitizing historical photos.\nBy Mac Power Users"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

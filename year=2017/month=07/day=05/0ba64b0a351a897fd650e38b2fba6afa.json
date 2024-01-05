@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hermosa Beach Pier"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hermosa Beach Pier"
+          ],
+          "latitude": [
+            "33.861843752484"
+          ],
+          "longitude": [
+            "-118.40129736783"
+          ]
+        },
+        "value": "Hermosa Beach Pier"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hermosa Beach Pier"
+          ],
+          "latitude": [
+            "33.861843752484"
+          ],
+          "longitude": [
+            "-118.40129736783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-hermosa-beach-pier"
+    ],
+    "published": [
+      "2017-07-05T19:41:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Hermosa Beach Pier!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Hermosa Beach Pier!</p>",
+              "value": "Your first check-in at Hermosa Beach Pier!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/88ed2f0acc6393d3f78efa1237d87455"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595d40c11cf2e175a507772d/34adff22b510d1c25a5fa97a048a00fa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595d40c11cf2e175a507772d/34adff22b510d1c25a5fa97a048a00fa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595d40c11cf2e175a507772d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0ba64b0a351a897fd650e38b2fba6afa"
+    ]
+  }
+}

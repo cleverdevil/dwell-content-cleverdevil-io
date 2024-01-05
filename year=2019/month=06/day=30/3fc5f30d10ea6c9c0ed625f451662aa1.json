@@ -1,0 +1,177 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Amazing dinner with IndieWeb friends at Jackrabbit in Portland. Wonderful food and even better company."
+    ],
+    "content": [
+      {
+        "html": "Amazing dinner with IndieWeb friends at Jackrabbit in Portland. Wonderful food and even better company.",
+        "value": "Amazing dinner with IndieWeb friends at Jackrabbit in Portland. Wonderful food and even better company."
+      }
+    ],
+    "url": [
+      "/2019/amazing-dinner-with-indieweb-friends-at-jackrabbit"
+    ],
+    "published": [
+      "2019-06-30T05:09:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.81\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.81\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.81\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/amazing-dinner-with-indieweb-friends-at-jackrabbit/annotations/2e24f24ea678938eb2751a4f3fbf0c32"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/amazing-dinner-with-indieweb-friends-at-jackrabbit/annotations/2e24f24ea678938eb2751a4f3fbf0c32"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1145197760230121473",
+      "https://mastodon.social/@cleverdevil/102358803956952445"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "3fc5f30d10ea6c9c0ed625f451662aa1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145197760230121473?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145197760230121473%2F76772442"
+          ],
+          "published": [
+            "2019-06-30T05:36:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johannes Ernst"
+                ],
+                "url": [
+                  "https://twitter.com/Johannes_Ernst"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square Johannes Ernst"
+            }
+          ]
+        },
+        "value": "Johannes Ernst"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145197760230121473?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145197760230121473%2F64085356"
+          ],
+          "published": [
+            "2019-07-01T00:08:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andrea"
+                ],
+                "url": [
+                  "https://twitter.com/thismissy"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzgyNTk3NDQ5NTgzNzc5ODQvaExMbHRTczYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMzgyNTk3NDQ5NTgzNzc5ODQvaExMbHRTczYuanBn/300/square Andrea"
+            }
+          ]
+        },
+        "value": "Andrea"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T05:08:26Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 5,
+      "minute": 8,
+      "x": -122.67630151670242,
+      "y": 45.516936141816906,
+      "altitude": 12,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": ""
+    }
+  }
+}

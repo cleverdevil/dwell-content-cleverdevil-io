@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/539-the-strap-situation"
+    ],
+    "published": [
+      "2023-06-17T22:24:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "711391867acac52ab783931512d02afc"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-17T20:44:19Z",
+      "year": 2023,
+      "month": 6,
+      "day": 17,
+      "hour": 20,
+      "minute": 44,
+      "x": -87.27694701999997,
+      "y": 36.212486259999984,
+      "altitude": 1724,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "DeltaWiFi.com"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 539: The Strap Situation"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4085b29cdc2613e4d862258601fec6da/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKAk1pI"
+        ],
+        "content": [
+          {
+            "html": "<p>More on Apple Vision Pro and visionOS, writing SwiftUI at cruising altitude, new hopes for Mac gaming, and what John really thinks of the new Mac Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "More on Apple Vision Pro and visionOS, writing SwiftUI at cruising altitude, new hopes for Mac gaming, and what John really thinks of the new Mac Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

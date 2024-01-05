@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into McCallum Theater"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCallum Theater"
+          ],
+          "latitude": [
+            "33.729569322872"
+          ],
+          "longitude": [
+            "-116.38908965062"
+          ]
+        },
+        "value": "McCallum Theater"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCallum Theater"
+          ],
+          "latitude": [
+            "33.729569322872"
+          ],
+          "longitude": [
+            "-116.38908965062"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Pink martini</p>",
+        "value": "Pink martini"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-mccallum-theater"
+    ],
+    "published": [
+      "2018-02-11T03:58:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7fbf6bbb2a4754661c4c08/5e7d16b41392930f8c314f4ac8a73024"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7fbf6bbb2a4754661c4c08/5e7d16b41392930f8c314f4ac8a73024"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've seen Pink Martini 2 times. The last time was August '17 at The Hollywood Bowl."
+          ],
+          "content": [
+            {
+              "html": "<p>You've seen Pink Martini 2 times. The last time was August '17 at The Hollywood Bowl.</p>",
+              "value": "You've seen Pink Martini 2 times. The last time was August '17 at The Hollywood Bowl."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fdGlja2V0LnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7fbf6bbb2a4754661c4c08/aca2869815a9f7c7242e619f7c70231a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7fbf6bbb2a4754661c4c08/aca2869815a9f7c7242e619f7c70231a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a7fbf6bbb2a4754661c4c08"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0c06b6c1325be67f0856fd1cbb28746b"
+    ]
+  }
+}

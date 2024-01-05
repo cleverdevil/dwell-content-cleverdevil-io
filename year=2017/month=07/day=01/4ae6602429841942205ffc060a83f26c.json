@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into City of Manhattan Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Manhattan Beach"
+          ],
+          "latitude": [
+            "33.899062587518"
+          ],
+          "longitude": [
+            "-118.3890019343"
+          ]
+        },
+        "value": "City of Manhattan Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Manhattan Beach"
+          ],
+          "latitude": [
+            "33.899062587518"
+          ],
+          "longitude": [
+            "-118.3890019343"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch with the kids</p>",
+        "value": "Lunch with the kids"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-city-of-manhattan-beach"
+    ],
+    "published": [
+      "2017-07-01T19:59:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Manhattan Village was in April '11 at Il Fornaio Manhattan Beach."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Manhattan Village was in April '11 at Il Fornaio Manhattan Beach.</p>",
+              "value": "Your last check-in in Manhattan Village was in April '11 at Il Fornaio Manhattan Beach."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/05dda965eebf053d276794f38ae07c2e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5957ff0fb3d8e244ad9a61c3/ec357b6d969231845af4a1248bd07eba"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5957ff0fb3d8e244ad9a61c3/ec357b6d969231845af4a1248bd07eba"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5957ff0fb3d8e244ad9a61c3"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4ae6602429841942205ffc060a83f26c"
+    ]
+  }
+}

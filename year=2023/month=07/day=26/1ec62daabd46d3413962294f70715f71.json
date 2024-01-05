@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into 535 Madison Avenue"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "535 Madison Avenue"
+          ],
+          "latitude": [
+            "40.760759080832"
+          ],
+          "longitude": [
+            "-73.973804020506"
+          ]
+        },
+        "value": "535 Madison Avenue"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "535 Madison Avenue"
+          ],
+          "latitude": [
+            "40.760759080832"
+          ],
+          "longitude": [
+            "-73.973804020506"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-535-madison-avenue"
+    ],
+    "published": [
+      "2023-07-26T12:39:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Midtown East was in June '22 at Lavo."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Midtown East was in June '22 at Lavo.</p>",
+              "value": "Your last check-in in Midtown East was in June '22 at Lavo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64c113f7cbdd5a4287f2b543/11dbd99b14e7a1f680166171736fdacf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64c113f7cbdd5a4287f2b543/11dbd99b14e7a1f680166171736fdacf"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Office check-in in 9 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Office check-in in 9 months!</p>",
+              "value": "First Office check-in in 9 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64c113f7cbdd5a4287f2b543/8d8e3c324e4b57b1fdd12b2d0f056d70"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64c113f7cbdd5a4287f2b543/8d8e3c324e4b57b1fdd12b2d0f056d70"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64c113f7cbdd5a4287f2b543"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1ec62daabd46d3413962294f70715f71"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-26T12:24:10Z",
+      "year": 2023,
+      "month": 7,
+      "day": 26,
+      "hour": 12,
+      "minute": 24,
+      "x": -73.97339384661521,
+      "y": 40.760302133896815,
+      "altitude": 18,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"DreamHost West\" src=\"https://cleverdevil.io/file/39ab1834a3026477575d2596588d99dd\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "DreamHost West"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-2"
+    ],
+    "published": [
+      "2017-04-04T19:45:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a0febac84ef26dee1bee362d92698406"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e3f7d57220e601ec4c4335/af7faf388927878e86471cb4a2e36241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e3f7d57220e601ec4c4335/af7faf388927878e86471cb4a2e36241"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e3f7d57220e601ec4c4335"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c849b6edfe70ef344095c2e840bab2cb"
+    ]
+  }
+}

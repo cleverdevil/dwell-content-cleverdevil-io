@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco Marriott Marquis"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco Marriott Marquis"
+          ],
+          "latitude": [
+            "37.7853366"
+          ],
+          "longitude": [
+            "-122.4044068"
+          ]
+        },
+        "value": "San Francisco Marriott Marquis"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco Marriott Marquis"
+          ],
+          "latitude": [
+            "37.7853366"
+          ],
+          "longitude": [
+            "-122.4044068"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-san-francisco-marriott-marquis"
+    ],
+    "published": [
+      "2022-10-04T00:44:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Michael Galpert (friends with Tantek) created this place 13 years ago."
+          ],
+          "content": [
+            {
+              "html": "<p>Michael Galpert (friends with Tantek) created this place 13 years ago.</p>",
+              "value": "Michael Galpert (friends with Tantek) created this place 13 years ago."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/633b82088494684de8823153/156da7639811d42be65e7e88eaae1b7d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/633b82088494684de8823153/156da7639811d42be65e7e88eaae1b7d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/633b82088494684de8823153"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bee761420a81b10e386982712fd208cd"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-04T00:43:43Z",
+      "year": 2022,
+      "month": 10,
+      "day": 4,
+      "hour": 0,
+      "minute": 43,
+      "x": -122.40399864902997,
+      "y": 37.78527987771401,
+      "altitude": 92,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": ""
+    }
+  }
+}

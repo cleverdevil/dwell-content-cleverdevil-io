@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/413-suddenly-im-the-marco"
+    ],
+    "published": [
+      "2021-01-15T22:40:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e0a1b9fcdb980bbbd424501c26c6e0bf"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-15T23:22:41Z",
+      "year": 2021,
+      "month": 1,
+      "day": 15,
+      "hour": 23,
+      "minute": 22,
+      "x": -118.37039469422447,
+      "y": 33.81540405085987,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 413: Suddenly I\u2019m the Marco"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/755c0da60236d8c6d6eb5c8fcd580dd4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULIzO28"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s REJI projects, Marco\u2019s Pro Display XDR, John\u2019s AirPods anxiety, the right way to do \u201ccomputer\u201d speakers, and the olfactory peril of the Waffle House.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s REJI projects, Marco\u2019s Pro Display XDR, John\u2019s AirPods anxiety, the right way to do \u201ccomputer\u201d speakers, and the olfactory peril of the Waffle House.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

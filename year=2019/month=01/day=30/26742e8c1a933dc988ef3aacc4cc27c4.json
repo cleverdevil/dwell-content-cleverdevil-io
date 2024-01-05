@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-48-milks"
+    ],
+    "published": [
+      "2019-01-30T03:13:16+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "26742e8c1a933dc988ef3aacc4cc27c4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-29T15:33:39Z",
+      "year": 2019,
+      "month": 1,
+      "day": 29,
+      "hour": 15,
+      "minute": 33,
+      "x": -156.44159385789035,
+      "y": 20.67483721708192,
+      "altitude": 41,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "Fairmont"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 48: \u201cMilks\u201d \ud83e\udd5b"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b5075e713a2b341dd6978eb69c2b9a4b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDai5faI"
+        ],
+        "content": [
+          {
+            "html": "<p>We taste and rank 12 different \u201cmilk\u201d beverages of various animal, plant, and scientific origins.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "We taste and rank 12 different \u201cmilk\u201d beverages of various animal, plant, and scientific origins.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

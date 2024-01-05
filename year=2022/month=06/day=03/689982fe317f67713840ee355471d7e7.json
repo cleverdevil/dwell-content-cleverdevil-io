@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/400-the-rickies-wwdc-2022"
+    ],
+    "published": [
+      "2022-06-03T01:04:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "689982fe317f67713840ee355471d7e7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-03T04:06:43Z",
+      "year": 2022,
+      "month": 6,
+      "day": 3,
+      "hour": 4,
+      "minute": 6,
+      "x": -116.38041904140916,
+      "y": 33.70168363811836,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5099999904632568,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 400: The Rickies (WWDC 2022)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1e6f2905b5acdb85c5b251c8b72d0ef9/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4PSTGk"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2022 is just around the corner, and the guys have come prepared with a series of Picks, Risky Picks and Flexies.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "WWDC 2022 is just around the corner, and the guys have come prepared with a series of Picks, Risky Picks and Flexies.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

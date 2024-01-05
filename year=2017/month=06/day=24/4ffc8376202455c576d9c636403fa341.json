@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mozilla Portland"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": "Mozilla Portland"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IWS part deux \u2014 with <a href=\"https://aaronparecki.com/\">aaronpk</a></p>",
+        "value": "IWS part deux \u2014 with aaronpk"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-mozilla-portland-1"
+    ],
+    "published": [
+      "2017-06-24T20:18:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights.</p>",
+              "value": "Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4b2ba99f22239ee11ae303ee4c089009"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594ec8e9a0215b6667599079/bff36936af4f5fcc73a43ac8ebd82c48"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594ec8e9a0215b6667599079/bff36936af4f5fcc73a43ac8ebd82c48"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594ec8e9a0215b6667599079"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4ffc8376202455c576d9c636403fa341"
+    ]
+  }
+}

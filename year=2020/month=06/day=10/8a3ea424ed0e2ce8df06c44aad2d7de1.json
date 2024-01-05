@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-300-its-so-hard-to-predict-the-future"
+    ],
+    "published": [
+      "2020-06-10T07:42:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 77.57\u00b0F and 12% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 77.57\u00b0F and 12% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 77.57\u00b0F and 12% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-300-its-so-hard-to-predict-the-future/annotations/ed994af662cbb2a713c7cf079dfa3c22"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-300-its-so-hard-to-predict-the-future/annotations/ed994af662cbb2a713c7cf079dfa3c22"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8a3ea424ed0e2ce8df06c44aad2d7de1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-10T08:03:18Z",
+      "year": 2020,
+      "month": 6,
+      "day": 10,
+      "hour": 8,
+      "minute": 3,
+      "x": -118.370545408795,
+      "y": 33.815299381442586,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.3799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 300: It\u2019s So Hard to Predict the Future"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ce76a5af0543e4a9f1b43436905ffe06/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-R0sbo"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s episode 300! This week Myke and Jason draft stories from the next hundred episodes of Upgrade, and we answer all of your questions about the podcast.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s episode 300! This week Myke and Jason draft stories from the next hundred episodes of Upgrade, and we answer all of your questions about the podcast.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

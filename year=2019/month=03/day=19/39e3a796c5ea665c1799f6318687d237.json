@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>\ud83c\udfe1\ud83c\udf34</p>",
+        "value": "\ud83c\udfe1\ud83c\udf34"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-los-angeles-international-airport-lax-64"
+    ],
+    "published": [
+      "2019-03-19T01:37:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 307 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 307 miles since your last check-in!</p>",
+              "value": "You've traveled 307 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c9047e4c66666002cf0475e/4d550282a9495dd87342de2907f811e5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c9047e4c66666002cf0475e/4d550282a9495dd87342de2907f811e5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.51\u00b0F and 47% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.51\u00b0F and 47% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.51\u00b0F and 47% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-64/annotations/6b337f16cb35711c177c4b26d5ef1588"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-64/annotations/6b337f16cb35711c177c4b26d5ef1588"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c9047e4c66666002cf0475e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "39e3a796c5ea665c1799f6318687d237"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-19T01:20:06Z",
+      "year": 2019,
+      "month": 3,
+      "day": 19,
+      "hour": 1,
+      "minute": 20,
+      "x": -118.93363877382893,
+      "y": 34.24540325927123,
+      "altitude": 4938,
+      "motion": [
+        "driving"
+      ],
+      "speed": 149,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": "gogoinflight"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-303-the-return-of-two-old-friends"
+    ],
+    "published": [
+      "2020-06-30T14:38:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.78\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.78\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.78\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-303-the-return-of-two-old-friends/annotations/8d748e0c3dd742ce2e18f46f2bff01a3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-303-the-return-of-two-old-friends/annotations/8d748e0c3dd742ce2e18f46f2bff01a3"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2311e9fd7acb03ada532016ccca6d443"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-30T15:23:54Z",
+      "year": 2020,
+      "month": 6,
+      "day": 30,
+      "hour": 15,
+      "minute": 23,
+      "x": -118.37041622793161,
+      "y": 33.8153928854561,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 303: The Return of Two Old Friends"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d5c29505d8e641abdaff83902f04591b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_oO_ZI"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke and Jason break down the WWDC 2020 keynote, which featured changes to the Mac both expected and unexpected and some long-wanted updates for iOS. Did the iPad updates let us down? Are we ready for the Apple Watch to track our sleep?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Myke and Jason break down the WWDC 2020 keynote, which featured changes to the Mac both expected and unexpected and some long-wanted updates for iOS. Did the iPad updates let us down? Are we ready for the Apple Watch to track our sleep?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

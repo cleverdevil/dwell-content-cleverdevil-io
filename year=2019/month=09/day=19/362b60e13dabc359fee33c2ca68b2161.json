@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Grand Hyatt New York"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Grand Hyatt New York"
+          ],
+          "latitude": [
+            "40.751786080347"
+          ],
+          "longitude": [
+            "-73.976574432386"
+          ]
+        },
+        "value": "Grand Hyatt New York"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Grand Hyatt New York"
+          ],
+          "latitude": [
+            "40.751786080347"
+          ],
+          "longitude": [
+            "-73.976574432386"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>New Relic FutureStack</p>",
+        "value": "New Relic FutureStack"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-grand-hyatt-new-york"
+    ],
+    "published": [
+      "2019-09-19T11:27:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Grand Hyatt New York!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Grand Hyatt New York!</p>",
+              "value": "Your first check-in at Grand Hyatt New York!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d83660ec98bfd00088deb72/f53512658eb955b343fcbca83e16ebb7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d83660ec98bfd00088deb72/f53512658eb955b343fcbca83e16ebb7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 49.47\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 49.47\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 49.47\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-grand-hyatt-new-york/annotations/2138f04f72ac43ff1a10db28038266db"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-grand-hyatt-new-york/annotations/2138f04f72ac43ff1a10db28038266db"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d83660ec98bfd00088deb72"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "362b60e13dabc359fee33c2ca68b2161"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-19T11:25:20Z",
+      "year": 2019,
+      "month": 9,
+      "day": 19,
+      "hour": 11,
+      "minute": 25,
+      "x": -73.9763221226321,
+      "y": 40.75158589731305,
+      "altitude": 17,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  }
+}

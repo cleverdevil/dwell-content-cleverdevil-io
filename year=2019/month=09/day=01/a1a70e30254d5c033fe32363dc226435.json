@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera United Methodist Church"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812084335325"
+          ],
+          "longitude": [
+            "-118.38738149434"
+          ]
+        },
+        "value": "Riviera United Methodist Church"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812084335325"
+          ],
+          "longitude": [
+            "-118.38738149434"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-united-methodist-church-40"
+    ],
+    "published": [
+      "2019-09-01T16:49:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still the Mayor! They might as well name the place after you!"
+          ],
+          "content": [
+            {
+              "html": "<p>Still the Mayor! They might as well name the place after you!</p>",
+              "value": "Still the Mayor! They might as well name the place after you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d6bf687cd702d0008a06f85/86f59f5294580a5981c07adf2bae9cac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d6bf687cd702d0008a06f85/86f59f5294580a5981c07adf2bae9cac"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.61\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.61\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.61\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-riviera-united-methodist-church-40/annotations/71535b9e59fd5087ac14293569195076"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-riviera-united-methodist-church-40/annotations/71535b9e59fd5087ac14293569195076"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d6bf687cd702d0008a06f85"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a1a70e30254d5c033fe32363dc226435"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-01T16:46:50Z",
+      "year": 2019,
+      "month": 9,
+      "day": 1,
+      "hour": 16,
+      "minute": 46,
+      "x": -118.38524999877461,
+      "y": 33.81637751795385,
+      "altitude": 22,
+      "motion": [
+        "driving"
+      ],
+      "speed": 15,
+      "battery_state": "charging",
+      "battery_level": 0.5299999713897705,
+      "wifi": ""
+    }
+  }
+}

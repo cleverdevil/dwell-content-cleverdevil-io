@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Eliot Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eliot Center"
+          ],
+          "latitude": [
+            "45.518610347414"
+          ],
+          "longitude": [
+            "-122.68594895097"
+          ]
+        },
+        "value": "Eliot Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eliot Center"
+          ],
+          "latitude": [
+            "45.518610347414"
+          ],
+          "longitude": [
+            "-122.68594895097"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-eliot-center-3"
+    ],
+    "published": [
+      "2018-06-28T00:40:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in with michelle in 12 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in with michelle in 12 months!</p>",
+              "value": "First check-in with michelle in 12 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25faGVhcnRfZmFjZS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b342e71cad1b6002ce365f5/c3ab2cbd80c01f92d398f72f14ea6241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b342e71cad1b6002ce365f5/c3ab2cbd80c01f92d398f72f14ea6241"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b342e71cad1b6002ce365f5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "163662eb8a8ba41dd30982dc513bddc2"
+    ]
+  }
+}

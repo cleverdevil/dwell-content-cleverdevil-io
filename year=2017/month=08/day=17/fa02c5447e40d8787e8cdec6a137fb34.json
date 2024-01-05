@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hartsfield-Jackson Atlanta International Airport (ATL)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640458171417"
+          ],
+          "longitude": [
+            "-84.441550957551"
+          ]
+        },
+        "value": "Hartsfield-Jackson Atlanta International Airport (ATL)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640458171417"
+          ],
+          "longitude": [
+            "-84.441550957551"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Landed.</p>",
+        "value": "Landed."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-hartsfield-jackson-atlanta-international-airport-atl"
+    ],
+    "published": [
+      "2017-08-17T02:43:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Georgia was in September '11 at Hartsfield-Jackson Atlanta International Airport."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Georgia was in September '11 at Hartsfield-Jackson Atlanta International Airport.</p>",
+              "value": "Your last check-in in Georgia was in September '11 at Hartsfield-Jackson Atlanta International Airport."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e2c51657492623e5f0793ee0bb11a698"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599502b90fe7a04bbe026745/fee9d343b7fda8122f55c83d6741378b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599502b90fe7a04bbe026745/fee9d343b7fda8122f55c83d6741378b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599502b90fe7a04bbe026745"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fa02c5447e40d8787e8cdec6a137fb34"
+    ]
+  }
+}

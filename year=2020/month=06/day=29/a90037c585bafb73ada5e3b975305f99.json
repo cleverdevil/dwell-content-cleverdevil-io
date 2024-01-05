@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Last Week Tonight with John Oliver 7x17 \"Episode 196\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/c140e50cdea66db35e1af273c5dfe117/thumb.jpg"
+          ],
+          "name": [
+            "Last Week Tonight with John Oliver 7x17 \"Episode 196\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/4181160"
+          ]
+        },
+        "value": "Last Week Tonight with John Oliver 7x17 \"Episode 196\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Last Week Tonight with John Oliver 7x17 \"Episode 196\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Last Week Tonight with John Oliver 7x17 \"Episode 196\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/last-week-tonight-with-john-oliver-7x17-episode-196"
+    ],
+    "published": [
+      "2020-06-29T06:55:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 61.95\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 61.95\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 61.95\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/last-week-tonight-with-john-oliver-7x17-episode-196/annotations/10291d0ee945324f74c341ce5d04517e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/last-week-tonight-with-john-oliver-7x17-episode-196/annotations/10291d0ee945324f74c341ce5d04517e"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "a90037c585bafb73ada5e3b975305f99"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-29T03:25:15Z",
+      "year": 2020,
+      "month": 6,
+      "day": 29,
+      "hour": 3,
+      "minute": 25,
+      "x": -118.37030938141127,
+      "y": 33.81541591038676,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5099999904632568,
+      "wifi": "LaCour"
+    }
+  }
+}

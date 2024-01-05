@@ -1,0 +1,452 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "In my quest for better video conference quality, I discovered a way to use my iPhone 11 Pro as a webcam. The quality is way better than my existing Logitech. Still some tweaking to do, but very promising."
+    ],
+    "content": [
+      {
+        "html": "In my quest for better video conference quality, I discovered a way to use my iPhone 11 Pro as a webcam. The quality is way better than my existing Logitech. Still some tweaking to do, but very promising.",
+        "value": "In my quest for better video conference quality, I discovered a way to use my iPhone 11 Pro as a webcam. The quality is way better than my existing Logitech. Still some tweaking to do, but very promising."
+      }
+    ],
+    "url": [
+      "/2020/in-my-quest-for-better-video-conference"
+    ],
+    "published": [
+      "2020-05-10T20:56:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.78\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.78\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.78\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/in-my-quest-for-better-video-conference/annotations/718d2acc2cb2380b93112ee43b936f82"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/in-my-quest-for-better-video-conference/annotations/718d2acc2cb2380b93112ee43b936f82"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Details pls... front or rear camera?"
+          ],
+          "content": [
+            {
+              "html": "<p>Details pls... front or rear camera?</p>",
+              "value": "Details pls... front or rear camera?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzUzNzE0MTc4L2ZsYW1pbmdfcGlhbm8uanBn/300/square"
+                ],
+                "name": [
+                  "Eric Southard"
+                ],
+                "url": [
+                  "https://twitter.com/esouthard"
+                ]
+              },
+              "value": "Eric Southard"
+            }
+          ],
+          "url": [
+            "https://twitter.com/esouthard/status/1259607428481650691"
+          ]
+        },
+        "value": "https://twitter.com/esouthard/status/1259607428481650691"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It supports both! There are a bunch of apps that make this possible, but I\u2019ve been using EpocCam HD. kinoni.com If you want it to work with Zoom, you have to do some CLI tinkering: codesign --remove-signature /Applications/zoom.us.app/"
+          ],
+          "content": [
+            {
+              "html": "<p>It supports both! There are a bunch of apps that make this possible, but I\u2019ve been using EpocCam HD. kinoni.com If you want it to work with Zoom, you have to do some CLI tinkering: codesign --remove-signature /Applications/zoom.us.app/</p>",
+              "value": "It supports both! There are a bunch of apps that make this possible, but I\u2019ve been using EpocCam HD. kinoni.com If you want it to work with Zoom, you have to do some CLI tinkering: codesign --remove-signature /Applications/zoom.us.app/"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1259610227424374784"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1259610227424374784"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I\u2019m in the middle of a search for apps to enable this. I\u2019ve found about a dozen so far but nothing that works well. Please share how you\u2019re doing it when you get a moment!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I\u2019m in the middle of a search for apps to enable this. I\u2019ve found about a dozen so far but nothing that works well. Please share how you\u2019re doing it when you get a moment!</p>",
+              "value": "@cleverdevil I\u2019m in the middle of a search for apps to enable this. I\u2019ve found about a dozen so far but nothing that works well. Please share how you\u2019re doing it when you get a moment!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8xMDk5MDA4ZjgyYWQzOGFmZDBmYTNlMmQzYzRkNzhmNz9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "fgtech"
+                ],
+                "url": [
+                  "https://micro.blog/fgtech"
+                ]
+              },
+              "value": "fgtech"
+            }
+          ],
+          "url": [
+            "https://micro.blog/fgtech/9631990"
+          ]
+        },
+        "value": "https://micro.blog/fgtech/9631990"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@fgtech the app I am using (so far) is EpocCam HD. It seems to work nicely, especially when the iPhone is plugged in via a lightning cable. It also works over Wi-Fi, but with lower frame rates and more latency.\nIf you want to use it with Zoom, you\u2019ll need to install XCode and \u201cunsign\u201d the application using this command:\ncodesign --remove-signature /Applications/zoom.us.app/"
+          ],
+          "content": [
+            {
+              "html": "<p>@fgtech the app I am using (so far) is EpocCam HD. It seems to work nicely, especially when the iPhone is plugged in via a lightning cable. It also works over Wi-Fi, but with lower frame rates and more latency.<br/>If you want to use it with Zoom, you\u2019ll need to install XCode and \u201cunsign\u201d the application using this command:<br/>codesign --remove-signature /Applications/zoom.us.app/</p>",
+              "value": "@fgtech the app I am using (so far) is EpocCam HD. It seems to work nicely, especially when the iPhone is plugged in via a lightning cable. It also works over Wi-Fi, but with lower frame rates and more latency.\nIf you want to use it with Zoom, you\u2019ll need to install XCode and \u201cunsign\u201d the application using this command:\ncodesign --remove-signature /Applications/zoom.us.app/"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/9632127"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/9632127"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Ahh.. I had given up on EpocCam as broken, but didn\u2019t know the \u201cunsign\u201d trick. Thanks!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Ahh.. I had given up on EpocCam as broken, but didn\u2019t know the \u201cunsign\u201d trick. Thanks!</p>",
+              "value": "@cleverdevil Ahh.. I had given up on EpocCam as broken, but didn\u2019t know the \u201cunsign\u201d trick. Thanks!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8xMDk5MDA4ZjgyYWQzOGFmZDBmYTNlMmQzYzRkNzhmNz9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "fgtech"
+                ],
+                "url": [
+                  "https://micro.blog/fgtech"
+                ]
+              },
+              "value": "fgtech"
+            }
+          ],
+          "url": [
+            "https://micro.blog/fgtech/9632281"
+          ]
+        },
+        "value": "https://micro.blog/fgtech/9632281"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "How's latency? I tried to duct tape this together with some RTSP streamer android app and v4l2loopback (FUSE for v4l2!) and couldn't get below ~100ms of latency, which ended up being too annoying, so I gave up and learned to love the lame 720p cam in my X1 carbon."
+          ],
+          "content": [
+            {
+              "html": "<p>How's latency? I tried to duct tape this together with some RTSP streamer android app and v4l2loopback (FUSE for v4l2!) and couldn't get below ~100ms of latency, which ended up being too annoying, so I gave up and learned to love the lame 720p cam in my X1 carbon.</p>",
+              "value": "How's latency? I tried to duct tape this together with some RTSP streamer android app and v4l2loopback (FUSE for v4l2!) and couldn't get below ~100ms of latency, which ended up being too annoying, so I gave up and learned to love the lame 720p cam in my X1 carbon."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square"
+                ],
+                "name": [
+                  "Nolan Leake"
+                ],
+                "url": [
+                  "https://twitter.com/NolanSIGBUS"
+                ]
+              },
+              "value": "Nolan Leake"
+            }
+          ],
+          "url": [
+            "https://twitter.com/NolanSIGBUS/status/1259706977946501122"
+          ]
+        },
+        "value": "https://twitter.com/NolanSIGBUS/status/1259706977946501122"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I haven\u2019t measured it, but to my eye it\u2019s pretty impressive. Definitely not perfect, but better than I expected."
+          ],
+          "content": [
+            {
+              "html": "<p>I haven\u2019t measured it, but to my eye it\u2019s pretty impressive. Definitely not perfect, but better than I expected.</p>",
+              "value": "I haven\u2019t measured it, but to my eye it\u2019s pretty impressive. Definitely not perfect, but better than I expected."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1259717353933164545"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1259717353933164545"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1259588075887484929",
+      "https://mastodon.social/@cleverdevil/104146152687805227"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "503819094e04ed6405bb685904868a0f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1259588075887484929?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1259588075887484929%2F308803734"
+          ],
+          "published": [
+            "2020-05-11T11:57:12+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie @ home"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square Eddie @ home"
+            }
+          ]
+        },
+        "value": "Eddie @ home"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1259588075887484929?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1259588075887484929%2F17219685"
+          ],
+          "published": [
+            "2020-05-15T02:46:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eric Brown"
+                ],
+                "url": [
+                  "https://twitter.com/eweirdguy"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMzYxMDk0MTAvRUhCMjAxMTA0LmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMzYxMDk0MTAvRUhCMjAxMTA0LmpwZw,,/300/square Eric Brown"
+            }
+          ]
+        },
+        "value": "Eric Brown"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-10T20:52:06Z",
+      "year": 2020,
+      "month": 5,
+      "day": 10,
+      "hour": 20,
+      "minute": 52,
+      "x": -118.37038029788187,
+      "y": 33.81548833643945,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  }
+}

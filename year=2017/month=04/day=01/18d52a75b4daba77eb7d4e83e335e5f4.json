@@ -1,0 +1,247 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Nelson's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736724405313"
+          ],
+          "longitude": [
+            "-118.39901447296"
+          ]
+        },
+        "value": "Nelson's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736724405313"
+          ],
+          "longitude": [
+            "-118.39901447296"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Nelson's\" src=\"https://cleverdevil.io/file/9a780d4e84e66bb596930f33af4bb41d\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Lunch in paradise.</p>",
+        "value": "Nelson's\nLunch in paradise."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-nelsons"
+    ],
+    "published": [
+      "2017-04-02T04:00:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thanks for sharing."
+          ],
+          "content": [
+            {
+              "html": "<p>Thanks for sharing.</p>",
+              "value": "Thanks for sharing."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ffb285e2dda3446e200a6aab82805870"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/d305b211487a1bd9980ad5014dfbd873"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/d305b211487a1bd9980ad5014dfbd873"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Nelson's!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Nelson's!</p>",
+              "value": "Your first check-in at Nelson's!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2212793a696a12546ff212dd76ee430b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/6d872b66c23f22581220cb0a28d3f435"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/6d872b66c23f22581220cb0a28d3f435"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ffb285e2dda3446e200a6aab82805870"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Rancho Palos Verdes."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Rancho Palos Verdes.</p>",
+              "value": "First check-in in Rancho Palos Verdes."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2212793a696a12546ff212dd76ee430b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/c713ac2f154f5e1549696d0993b9f6eb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e0035d95383944737169a2/c713ac2f154f5e1549696d0993b9f6eb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e0035d95383944737169a2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "18d52a75b4daba77eb7d4e83e335e5f4"
+    ]
+  }
+}

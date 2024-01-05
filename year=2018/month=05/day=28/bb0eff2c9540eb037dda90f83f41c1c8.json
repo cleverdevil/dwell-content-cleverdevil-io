@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Retiro Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": "El Retiro Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"El Retiro Park\" src=\"https://cleverdevil.io/file/aaef7f07b73135f5c488c69cd97fd505\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "El Retiro Park"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-el-retiro-park-3"
+    ],
+    "published": [
+      "2018-05-28T20:48:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Park check-in in 8 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Park check-in in 8 months!</p>",
+              "value": "First Park check-in in 8 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b0c6b2c340a58002c78977a/d6f9303fcb729feea6d49b657a0bd6b5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b0c6b2c340a58002c78977a/d6f9303fcb729feea6d49b657a0bd6b5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b0c6b2c340a58002c78977a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bb0eff2c9540eb037dda90f83f41c1c8"
+    ]
+  }
+}

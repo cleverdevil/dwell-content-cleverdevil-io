@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/obb-ep-685-they-left-me"
+    ],
+    "published": [
+      "2020-02-10T17:05:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.98\u00b0F and 23% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.98\u00b0F and 23% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.98\u00b0F and 23% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/obb-ep-685-they-left-me/annotations/cdf09cf448477fae260ea8a9b5534417"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/obb-ep-685-they-left-me/annotations/cdf09cf448477fae260ea8a9b5534417"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1fa69c25b8ff2359e43e1a763ba85558"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-10T20:03:28Z",
+      "year": 2020,
+      "month": 2,
+      "day": 10,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.39520753834567,
+      "y": 33.919548029160495,
+      "altitude": 31,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep: 68.5: They Left Me"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2f004faae248dce8957a814e4e111ad7/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf72bDgI"
+        ],
+        "content": [
+          {
+            "html": "<p>Recap of NSD and an interview with Brady Quinn</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "Recap of NSD and an interview with Brady Quinn\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

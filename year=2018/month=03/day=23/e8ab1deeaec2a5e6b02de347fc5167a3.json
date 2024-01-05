@@ -1,0 +1,349 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "While it is electron-based, I actually am really digging on Oni, an editor that embeds NeoVim into a beautiful user experience \u2013\u00a0https://www.onivim.io"
+    ],
+    "content": [
+      {
+        "html": "While it is electron-based, I actually am really digging on Oni, an editor that embeds NeoVim into a beautiful user experience \u2013\u00a0<a href=\"https://www.onivim.io\" target=\"_blank\">https://<wbr/>www.onivim.io</a>",
+        "value": "While it is electron-based, I actually am really digging on Oni, an editor that embeds NeoVim into a beautiful user experience \u2013\u00a0https://www.onivim.io"
+      }
+    ],
+    "url": [
+      "/2018/while-it-is-electron-based-i-actually-am"
+    ],
+    "published": [
+      "2018-03-23T18:30:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I like Oni, but if I'm going to sacrifice my RAM to the Electron deities, I like VSCode (with neovim integration!) a little more."
+          ],
+          "content": [
+            {
+              "html": "<p>I like Oni, but if I'm going to sacrifice my RAM to the Electron deities, I like VSCode (with neovim integration!) a little more.</p>",
+              "value": "I like Oni, but if I'm going to sacrifice my RAM to the Electron deities, I like VSCode (with neovim integration!) a little more."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square"
+                ],
+                "name": [
+                  "Burrito Lee"
+                ],
+                "url": [
+                  "https://keybase.io/clee"
+                ]
+              },
+              "value": "Burrito Lee"
+            }
+          ],
+          "url": [
+            "https://twitter.com/slashclee/status/977251795029422080"
+          ]
+        },
+        "value": "https://twitter.com/slashclee/status/977251795029422080"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fair!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fair!</p>",
+              "value": "Fair!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/977257218801221632"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/977257218801221632"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First read this as, \"While I am electron-based\" and really rather enjoyed that thought."
+          ],
+          "content": [
+            {
+              "html": "<p>First read this as, \"While I am electron-based\" and really rather enjoyed that thought.</p>",
+              "value": "First read this as, \"While I am electron-based\" and really rather enjoyed that thought."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square"
+                ],
+                "name": [
+                  "VM (Vicky) Brasseur"
+                ],
+                "url": [
+                  "https://www.vmbrasseur.com/services/"
+                ]
+              },
+              "value": "VM (Vicky) Brasseur"
+            }
+          ],
+          "url": [
+            "https://twitter.com/vmbrasseur/status/977268472492118016"
+          ]
+        },
+        "value": "https://twitter.com/vmbrasseur/status/977268472492118016"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil did you have a preexisting nvim config? I couldn\u2019t get Oni to play nicely with my core set of plugins."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil did you have a preexisting nvim config? I couldn\u2019t get Oni to play nicely with my core set of plugins.</p>",
+              "value": "@cleverdevil did you have a preexisting nvim config? I couldn\u2019t get Oni to play nicely with my core set of plugins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci81MDY1MDU2MDliYmYyMTkxYWZlMzEwYjJkNTE5Mjk3NT9zPTk2/300/square"
+                ],
+                "name": [
+                  "eli"
+                ],
+                "url": [
+                  "https://micro.blog/eli"
+                ]
+              },
+              "value": "eli"
+            }
+          ],
+          "url": [
+            "https://micro.blog/eli/424477"
+          ]
+        },
+        "value": "https://micro.blog/eli/424477"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@eli yup. It mostly seems to work."
+          ],
+          "content": [
+            {
+              "html": "<p>@eli yup. It mostly seems to work.</p>",
+              "value": "@eli yup. It mostly seems to work."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/424747"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/424747"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/977251319617646593"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e8ab1deeaec2a5e6b02de347fc5167a3"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977251319617646593?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977251319617646593%2F9085712"
+          ],
+          "published": [
+            "2018-03-23T18:34:24+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Burrito Lee"
+                ],
+                "url": [
+                  "https://twitter.com/slashclee"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square Burrito Lee"
+            }
+          ]
+        },
+        "value": "Burrito Lee"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977251319617646593?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977251319617646593%2F15640650"
+          ],
+          "published": [
+            "2018-03-23T19:10:08+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "keith\u2022j\u2022grant"
+                ],
+                "url": [
+                  "https://twitter.com/keithjgrant"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODYyNjg4MzQzMjU1NDQ5Ny91T3duWks0aS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODYyNjg4MzQzMjU1NDQ5Ny91T3duWks0aS5qcGc,/300/square keith\u2022j\u2022grant"
+            }
+          ]
+        },
+        "value": "keith\u2022j\u2022grant"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/977251319617646593?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F977251319617646593%2F7301112"
+          ],
+          "published": [
+            "2018-03-23T20:08:56+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chip Warden \ud83d\udd96"
+                ],
+                "url": [
+                  "https://twitter.com/lgw4"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzI5NTI4NzE1ODEvZWM0ZmE2MzQ5MjViODBkZTg4N2U3YzhmYjRmMWY5MDguanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzI5NTI4NzE1ODEvZWM0ZmE2MzQ5MjViODBkZTg4N2U3YzhmYjRmMWY5MDguanBlZw,,/300/square Chip Warden \ud83d\udd96"
+            }
+          ]
+        },
+        "value": "Chip Warden \ud83d\udd96"
+      }
+    ]
+  }
+}

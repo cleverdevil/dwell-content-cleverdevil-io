@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Untangling the IndieWeb"
+    ],
+    "like-of": [
+      "https://davidyat.es/2019/06/24/indieweb/"
+    ],
+    "url": [
+      "/2019/untangling-the-indieweb"
+    ],
+    "published": [
+      "2019-06-27T23:00:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.91\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.91\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.91\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/untangling-the-indieweb/annotations/af14fc241017b4ee978b47987b170c57"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/untangling-the-indieweb/annotations/af14fc241017b4ee978b47987b170c57"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "7c387dcd4084527d4fe746a43a3d42cc"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-27T22:20:58Z",
+      "year": 2019,
+      "month": 6,
+      "day": 27,
+      "hour": 22,
+      "minute": 20,
+      "x": -118.37052290739425,
+      "y": 33.81540244449957,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "LaCour"
+    }
+  }
+}

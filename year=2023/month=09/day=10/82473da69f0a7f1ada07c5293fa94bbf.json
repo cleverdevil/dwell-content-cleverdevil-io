@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/instant-reaction-canes-smack-texas-am-48-33-episode-66"
+    ],
+    "published": [
+      "2023-09-10T18:50:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "82473da69f0a7f1ada07c5293fa94bbf"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-10T19:28:50Z",
+      "year": 2023,
+      "month": 9,
+      "day": 10,
+      "hour": 19,
+      "minute": 28,
+      "x": -118.370358350283,
+      "y": 33.81541834314195,
+      "altitude": 56,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to INSTANT REACTION: Canes Smack Texas A&M 48-33 (EPISODE 66)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8a57ff0801cb7451315ca60aa7c86cb6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kSC8XqI"
+        ],
+        "content": [
+          {
+            "html": "<p>INSTANT REACTION: Canes Smack Texas A&amp;M 48-33 (EPISODE 66)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The CanesInSight Podcast</p>",
+            "value": "INSTANT REACTION: Canes Smack Texas A&M 48-33 (EPISODE 66)\nBy The CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

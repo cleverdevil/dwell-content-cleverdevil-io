@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Park Central Hotel San Francisco"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Central Hotel San Francisco"
+          ],
+          "latitude": [
+            "37.786756674489"
+          ],
+          "longitude": [
+            "-122.40289893653"
+          ]
+        },
+        "value": "Park Central Hotel San Francisco"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Central Hotel San Francisco"
+          ],
+          "latitude": [
+            "37.786756674489"
+          ],
+          "longitude": [
+            "-122.40289893653"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Packing up to head to Paris.</p>",
+        "value": "Packing up to head to Paris."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-park-central-hotel-san-francisco-2"
+    ],
+    "published": [
+      "2017-06-14T17:01:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Boom shakalaka. 3 days in a row at Hotels! You\u2019re just one day away from a new personal record."
+          ],
+          "content": [
+            {
+              "html": "<p>Boom shakalaka. 3 days in a row at Hotels! You\u2019re just one day away from a new personal record.</p>",
+              "value": "Boom shakalaka. 3 days in a row at Hotels! You\u2019re just one day away from a new personal record."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/cc580ee95a40293c5c93f4269c47a709"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59416bd3037be16522dd4d93/1e39abbb81c7503b1ba6e9f73919c110"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59416bd3037be16522dd4d93/1e39abbb81c7503b1ba6e9f73919c110"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59416bd3037be16522dd4d93"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b24e712cae34d4a38f6399d49e54e240"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/under-the-radar-173-summer-report-card"
+    ],
+    "published": [
+      "2019-09-18T18:38:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 70.8\u00b0F and 42% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 70.8\u00b0F and 42% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 70.8\u00b0F and 42% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/under-the-radar-173-summer-report-card/annotations/234445a22d3ebda312f08ae6070f3d37"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/under-the-radar-173-summer-report-card/annotations/234445a22d3ebda312f08ae6070f3d37"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3a562ff5fc00caa57127de748dd47a2c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-18T19:59:37Z",
+      "year": 2019,
+      "month": 9,
+      "day": 18,
+      "hour": 19,
+      "minute": 59,
+      "x": -74.03380102989843,
+      "y": 40.71593118891742,
+      "altitude": 5,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.75,
+      "wifi": "@Hyatt_Lobby"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Under the Radar 173: Summer Report Card"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0e99b1b6ee684691d78b4b122c272085/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FgnbFdvOg"
+        ],
+        "content": [
+          {
+            "html": "<p>Our summers turned out very differently than we had planned.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Under the Radar</p>",
+            "value": "Our summers turned out very differently than we had planned.\nBy Under the Radar"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

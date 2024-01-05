@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Off to Vegas for re:Invent.</p>",
+        "value": "Off to Vegas for re:Invent."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-los-angeles-international-airport-lax-95"
+    ],
+    "published": [
+      "2019-12-02T17:40:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Los Angeles International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5de54cab37d6b6000897ef95/113450713f79cf57706826ac4643e2af"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5de54cab37d6b6000897ef95/113450713f79cf57706826ac4643e2af"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.85\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.85\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.85\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-95/annotations/7dc8ece1be6458e4a005ca6d3a0f3068"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-95/annotations/7dc8ece1be6458e4a005ca6d3a0f3068"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5de54cab37d6b6000897ef95"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e22ef3e6fe5fa7a3e4ad19a7f15163e9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-02T17:36:25Z",
+      "year": 2019,
+      "month": 12,
+      "day": 2,
+      "hour": 17,
+      "minute": 36,
+      "x": -118.39961604073568,
+      "y": 33.947226718121065,
+      "altitude": 34,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": ""
+    }
+  }
+}

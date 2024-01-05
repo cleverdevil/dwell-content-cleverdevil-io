@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/70-90s-representative-songs"
+    ],
+    "published": [
+      "2020-12-09T07:24:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6cddf3e5f23229819d3685ef2b8c45c9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-09T07:36:41Z",
+      "year": 2020,
+      "month": 12,
+      "day": 9,
+      "hour": 7,
+      "minute": 36,
+      "x": -118.37056730577183,
+      "y": 33.815317817858926,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5799999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 70: \u201990s-Representative Songs \ud83d\udcbf"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/521b473209c60863bee385d4ba3ef4aa/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDa5LTuc"
+        ],
+        "content": [
+          {
+            "html": "<p>If you were scoring a \u201990s scene in a movie or TV show, what song would you choose to instantly transport people back to that time?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "If you were scoring a \u201990s scene in a movie or TV show, what song would you choose to instantly transport people back to that time?\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

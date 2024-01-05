@@ -1,0 +1,229 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "EdgeDB looks very cool"
+    ],
+    "bookmark-of": [
+      "https://edgedb.com/blog/edgedb-a-new-beginning"
+    ],
+    "url": [
+      "/2018/edgedb-looks-very-cool"
+    ],
+    "published": [
+      "2018-05-25T03:41:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It's a lot of #edgedb in my Twitter. However, I don't understand why is it cool. To me it looks like another relational db abstraction. What is so special about it?"
+          ],
+          "content": [
+            {
+              "html": "<p>It's a lot of #edgedb in my Twitter. However, I don't understand why is it cool. To me it looks like another relational db abstraction. What is so special about it?</p>",
+              "value": "It's a lot of #edgedb in my Twitter. However, I don't understand why is it cool. To me it looks like another relational db abstraction. What is so special about it?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgwMDM4MTQ0OC9BdmF0YXJfdHdpdHRlci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Vitali Vinahradski"
+                ],
+                "url": [
+                  "http://www.facebook.com/ConnorMcLaud"
+                ]
+              },
+              "value": "Vitali Vinahradski"
+            }
+          ],
+          "url": [
+            "https://twitter.com/connormclaud/status/1000059227958841344"
+          ]
+        },
+        "value": "https://twitter.com/connormclaud/status/1000059227958841344"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Its a very different approach to evolving the concept of a database, as opposed to most NoSQL dbs, which tend to be either KV stores or JSON document stores. RDBMS has so much power/richness/safety baked in, but a very \"old\" way to structure data. EdgeDB has a fresh approach."
+          ],
+          "content": [
+            {
+              "html": "<p>Its a very different approach to evolving the concept of a database, as opposed to most NoSQL dbs, which tend to be either KV stores or JSON document stores. RDBMS has so much power/richness/safety baked in, but a very \"old\" way to structure data. EdgeDB has a fresh approach.</p>",
+              "value": "Its a very different approach to evolving the concept of a database, as opposed to most NoSQL dbs, which tend to be either KV stores or JSON document stores. RDBMS has so much power/richness/safety baked in, but a very \"old\" way to structure data. EdgeDB has a fresh approach."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1000061333356691457"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1000061333356691457"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/999857858727510016"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "0a2bdb6aa4f94ef94f816236083d731b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/999857858727510016?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F999857858727510016%2F10368342"
+          ],
+          "published": [
+            "2018-05-25T04:24:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Yury Selivanov"
+                ],
+                "url": [
+                  "https://twitter.com/1st1"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzczMjMzMjM0NDQzOTQwNjU5My9XNzJsY0hEUS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzczMjMzMjM0NDQzOTQwNjU5My9XNzJsY0hEUS5qcGc,/300/square Yury Selivanov"
+            }
+          ]
+        },
+        "value": "Yury Selivanov"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/999857858727510016?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F999857858727510016%2F13564892"
+          ],
+          "published": [
+            "2018-05-25T04:56:28+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Josh Mize"
+                ],
+                "url": [
+                  "https://twitter.com/jgmize"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyMzc1MzE2NTY0OTczOTc3Ni9nNlpHbHRwWS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyMzc1MzE2NTY0OTczOTc3Ni9nNlpHbHRwWS5qcGc,/300/square Josh Mize"
+            }
+          ]
+        },
+        "value": "Josh Mize"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/999857858727510016?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F999857858727510016%2F390590917"
+          ],
+          "published": [
+            "2018-05-27T12:07:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "\u0418\u0433\u043e\u0440\u044c"
+                ],
+                "url": [
+                  "https://twitter.com/Velesar_"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYnMudHdpbWcuY29tL3N0aWNreS9kZWZhdWx0X3Byb2ZpbGVfaW1hZ2VzL2RlZmF1bHRfcHJvZmlsZS5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYnMudHdpbWcuY29tL3N0aWNreS9kZWZhdWx0X3Byb2ZpbGVfaW1hZ2VzL2RlZmF1bHRfcHJvZmlsZS5wbmc,/300/square \u0418\u0433\u043e\u0440\u044c"
+            }
+          ]
+        },
+        "value": "\u0418\u0433\u043e\u0440\u044c"
+      }
+    ]
+  }
+}

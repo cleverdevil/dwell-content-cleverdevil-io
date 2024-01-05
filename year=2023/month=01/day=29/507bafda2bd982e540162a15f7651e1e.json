@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Disney California Adventure Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": "Disney California Adventure Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-disney-california-adventure-park-3"
+    ],
+    "published": [
+      "2023-01-29T18:56:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Disney California Adventure Park since June '21."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Disney California Adventure Park since June '21.</p>",
+              "value": "Welcome back! You haven't checked in to Disney California Adventure Park since June '21."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63d6c16f1ef17731ba261aeb/be983c001bc516a113a8731d82cccea5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63d6c16f1ef17731ba261aeb/be983c001bc516a113a8731d82cccea5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63d6c16f1ef17731ba261aeb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "507bafda2bd982e540162a15f7651e1e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-29T18:54:35Z",
+      "year": 2023,
+      "month": 1,
+      "day": 29,
+      "hour": 18,
+      "minute": 54,
+      "x": -117.92041513675981,
+      "y": 33.808982944695245,
+      "altitude": 27,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

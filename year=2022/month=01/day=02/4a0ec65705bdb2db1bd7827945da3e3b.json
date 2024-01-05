@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-silver-spur-ranch-6"
+    ],
+    "published": [
+      "2022-01-02T23:50:30+0000"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61d23a46cb24986fe5b56d3a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4a0ec65705bdb2db1bd7827945da3e3b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-02T23:52:06Z",
+      "year": 2022,
+      "month": 1,
+      "day": 2,
+      "hour": 23,
+      "minute": 52,
+      "x": -116.3804002999621,
+      "y": 33.701724379728056,
+      "altitude": 126,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "DesertSun"
+    }
+  }
+}

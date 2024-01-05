@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/517-a-tesla-full-of-kindles"
+    ],
+    "published": [
+      "2023-01-08T20:52:27+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ed4abaa85370f05f8e80b87cb2e7498b"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-08T22:56:17Z",
+      "year": 2023,
+      "month": 1,
+      "day": 8,
+      "hour": 22,
+      "minute": 56,
+      "x": -118.37048197319358,
+      "y": 33.81533438820698,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6399999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 517: A Tesla Full of Kindles"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8b11c0a4faa0c586a9dcd414ae9740a4/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mferFh88"
+        ],
+        "content": [
+          {
+            "html": "<p>517: A Tesla Full of Kindles</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "517: A Tesla Full of Kindles\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

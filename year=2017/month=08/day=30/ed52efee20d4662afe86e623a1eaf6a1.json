@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://twitter.com/BeardOps/status/902938691005321216"
+    ],
+    "name": [
+      "@beardops does this Books thing work with Apple TV?"
+    ],
+    "content": [
+      {
+        "html": "<a href=\"https://twitter.com/beardops\" target=\"_blank\">@beardops</a> does this Books thing work with Apple TV?",
+        "value": "@beardops does this Books thing work with Apple TV?"
+      }
+    ],
+    "url": [
+      "/2017/beardops-does-this-books-thing-work-with-apple-tv"
+    ],
+    "published": [
+      "2017-08-30T17:04:05+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/902939994582642688"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ed52efee20d4662afe86e623a1eaf6a1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/902939994582642688?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F902939994582642688%2F1473520346"
+          ],
+          "published": [
+            "2017-08-30T17:23:04+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Unix McBeard"
+                ],
+                "url": [
+                  "https://twitter.com/BeardOps"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/293a93c33fc51d0773dd5bc55254b749"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/293a93c33fc51d0773dd5bc55254b749 Unix McBeard"
+            }
+          ]
+        },
+        "value": "Unix McBeard"
+      }
+    ]
+  }
+}

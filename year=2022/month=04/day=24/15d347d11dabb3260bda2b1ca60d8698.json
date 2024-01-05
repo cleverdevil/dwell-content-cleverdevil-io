@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/394-at-the-intersection-of-this-and-this"
+    ],
+    "published": [
+      "2022-04-24T02:50:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "15d347d11dabb3260bda2b1ca60d8698"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-24T04:04:19Z",
+      "year": 2022,
+      "month": 4,
+      "day": 24,
+      "hour": 4,
+      "minute": 4,
+      "x": -117.94916110879083,
+      "y": 33.85414079013821,
+      "altitude": 35,
+      "motion": [
+        "driving"
+      ],
+      "speed": 32,
+      "battery_state": "charging",
+      "battery_level": 0.6200000047683716,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 394: At the Intersection of This and This"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0b284bf79cabef6c31f4b2351f159992/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4BJVVk"
+        ],
+        "content": [
+          {
+            "html": "<p>This week on the show, Myke is having a bad time, Stephen wants to meet a robot and Federico has an exciting new trail to blaze.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week on the show, Myke is having a bad time, Stephen wants to meet a robot and Federico has an exciting new trail to blaze.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

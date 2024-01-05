@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/obb-ep-24---rose-the-gang"
+    ],
+    "published": [
+      "2019-03-13T21:52:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 55% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 55% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.07\u00b0F and 55% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/obb-ep-24---rose-the-gang/annotations/91c5597ed4491b9d172ea6f25c98c9f1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/obb-ep-24---rose-the-gang/annotations/91c5597ed4491b9d172ea6f25c98c9f1"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d3a2c1160bb74fe4e35f28e2daa01c12"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-13T23:55:36Z",
+      "year": 2019,
+      "month": 3,
+      "day": 13,
+      "hour": 23,
+      "minute": 55,
+      "x": -118.37032631078581,
+      "y": 33.815476552902545,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #24 - Rose & The Gang"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f2f705e78809a2878dd1acb13f3e09c5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf5e-hss"
+        ],
+        "content": [
+          {
+            "html": "<p>Former QB Malik Rosier joined us for our third Hangout Session! He was great and answered everything we asked him.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "Former QB Malik Rosier joined us for our third Hangout Session! He was great and answered everything we asked him.\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

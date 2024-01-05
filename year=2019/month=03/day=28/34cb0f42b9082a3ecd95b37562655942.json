@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Real Sports with Bryant Gumbel 25x03 \"Episode 3\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/1d500d628e6eb8d23c595a2cf606779f/thumb.jpg"
+          ],
+          "name": [
+            "Real Sports with Bryant Gumbel 25x03 \"Episode 3\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3354773"
+          ]
+        },
+        "value": "Real Sports with Bryant Gumbel 25x03 \"Episode 3\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Real Sports with Bryant Gumbel 25x03 \"Episode 3\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Real Sports with Bryant Gumbel 25x03 \"Episode 3\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/real-sports-with-bryant-gumbel-25x03-episode-3"
+    ],
+    "published": [
+      "2019-03-28T05:05:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.34\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.34\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.34\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/real-sports-with-bryant-gumbel-25x03-episode-3/annotations/b0430bff4560dd6ca60bcd9f93f3c4dc"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/real-sports-with-bryant-gumbel-25x03-episode-3/annotations/b0430bff4560dd6ca60bcd9f93f3c4dc"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "34cb0f42b9082a3ecd95b37562655942"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-28T05:00:23Z",
+      "year": 2019,
+      "month": 3,
+      "day": 28,
+      "hour": 5,
+      "minute": 0,
+      "x": -118.3702702687126,
+      "y": 33.81547033080137,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": "LaCour"
+    }
+  }
+}

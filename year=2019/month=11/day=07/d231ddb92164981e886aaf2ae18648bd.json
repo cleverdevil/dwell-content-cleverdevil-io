@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-los-angeles-international-airport-lax-89"
+    ],
+    "published": [
+      "2019-11-07T17:02:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 271 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 271 people are here!</p>",
+              "value": "This place is swarming! 271 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dc44e3a981b9b0008faa1e2/d38d10ec4ff3d7c0926c76affd0e3acd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dc44e3a981b9b0008faa1e2/d38d10ec4ff3d7c0926c76affd0e3acd"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Foggy with a temperature of 59.98\u00b0F and 89% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Foggy with a temperature of 59.98\u00b0F and 89% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Foggy with a temperature of 59.98\u00b0F and 89% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/fog.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-89/annotations/7d73fcc75ab6ab9cd750af61a73442e6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-los-angeles-international-airport-lax-89/annotations/7d73fcc75ab6ab9cd750af61a73442e6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dc44e3a981b9b0008faa1e2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d231ddb92164981e886aaf2ae18648bd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-07T17:00:20Z",
+      "year": 2019,
+      "month": 11,
+      "day": 7,
+      "hour": 17,
+      "minute": 0,
+      "x": -118.40439287317999,
+      "y": 33.94535981111228,
+      "altitude": -1,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

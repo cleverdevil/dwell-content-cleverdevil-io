@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fogo de Ch\u00e3o"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fogo de Ch\u00e3o"
+          ],
+          "latitude": [
+            "36.1148881"
+          ],
+          "longitude": [
+            "-115.1563001"
+          ]
+        },
+        "value": "Fogo de Ch\u00e3o"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fogo de Ch\u00e3o"
+          ],
+          "latitude": [
+            "36.1148881"
+          ],
+          "longitude": [
+            "-115.1563001"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-fogo-de-ch%C3%A3o"
+    ],
+    "published": [
+      "2021-12-01T21:41:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Brazilian Restaurant!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Brazilian Restaurant!</p>",
+              "value": "Your first Brazilian Restaurant!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61a7ec25d7c9d371fba890d5/8294f39aac354ca10fa1d4949fc25adf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61a7ec25d7c9d371fba890d5/8294f39aac354ca10fa1d4949fc25adf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61a7ec25d7c9d371fba890d5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9b7b3cd64d839022d4d71884ca9d81e0"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-01T21:40:50Z",
+      "year": 2021,
+      "month": 12,
+      "day": 1,
+      "hour": 21,
+      "minute": 40,
+      "x": -115.15629692501652,
+      "y": 36.11493128315747,
+      "altitude": 628,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-265-nothing-but-canned-answers"
+    ],
+    "published": [
+      "2019-10-02T14:51:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 90\u00b0F and 42% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 90\u00b0F and 42% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 90\u00b0F and 42% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-265-nothing-but-canned-answers/annotations/3b69f80de0514198e1d34e7bee060f97"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-265-nothing-but-canned-answers/annotations/3b69f80de0514198e1d34e7bee060f97"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0f6c3042dcfae487d05874ef3b46156b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-02T16:03:53Z",
+      "year": 2019,
+      "month": 10,
+      "day": 2,
+      "hour": 16,
+      "minute": 3,
+      "x": -85.55176869007772,
+      "y": 38.29592601711024,
+      "altitude": 210,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "Aloft Guest"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 265: Nothing But Canned Answers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/31ae6f8347bf291d59919c4a0a40c893/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8l3fJw"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason finished his iPhone 11 review nearly two weeks after the fact, Myke is back in the Apple Watch game with a new Series 5 model, and we hear from a bunch of Apple Store employees.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason finished his iPhone 11 review nearly two weeks after the fact, Myke is back in the Apple Watch game with a new Series 5 model, and we hear from a bunch of Apple Store employees.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

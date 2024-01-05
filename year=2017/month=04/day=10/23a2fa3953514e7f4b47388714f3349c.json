@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Astro Doughnuts and Fried Chicken"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Astro Doughnuts and Fried Chicken \u2003"
+          ],
+          "latitude": [
+            "34.048090305773"
+          ],
+          "longitude": [
+            "-118.25403571129"
+          ]
+        },
+        "value": "Astro Doughnuts and Fried Chicken \u2003"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Astro Doughnuts and Fried Chicken \u2003"
+          ],
+          "latitude": [
+            "34.048090305773"
+          ],
+          "longitude": [
+            "-118.25403571129"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Astro Doughnuts and Fried Chicken \u2003\" src=\"https://cleverdevil.io/file/0a10d0cdfd7431011f7f7334f7d08213\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Trying out the new hotness.</p>",
+        "value": "Astro Doughnuts and Fried Chicken \u2003\nTrying out the new hotness."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-astro-doughnuts-and-fried-chicken"
+    ],
+    "published": [
+      "2017-04-10T19:09:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bf4d64e0ed756c4da3fbeff3f3ca9b27"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ebd860c45ee35dc25c1182/af7faf388927878e86471cb4a2e36241"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ebd860c45ee35dc25c1182/af7faf388927878e86471cb4a2e36241"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58ebd860c45ee35dc25c1182"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "23a2fa3953514e7f4b47388714f3349c"
+    ]
+  }
+}

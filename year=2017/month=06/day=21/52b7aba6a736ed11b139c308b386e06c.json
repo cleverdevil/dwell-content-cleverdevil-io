@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Back at it.</p>",
+        "value": "Back at it."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-30"
+    ],
+    "published": [
+      "2017-06-21T16:20:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e83c9e56a8d502819daccabb81961ca5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594a9ca65315937ce812f8e1/a6cf3ece9fcff4e50d9c081882abf162"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594a9ca65315937ce812f8e1/a6cf3ece9fcff4e50d9c081882abf162"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594a9ca65315937ce812f8e1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "52b7aba6a736ed11b139c308b386e06c"
+    ]
+  }
+}

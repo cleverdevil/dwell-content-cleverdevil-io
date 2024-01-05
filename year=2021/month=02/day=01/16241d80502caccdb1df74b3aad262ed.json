@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/72-pop-tarts"
+    ],
+    "published": [
+      "2021-02-01T17:21:52+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "16241d80502caccdb1df74b3aad262ed"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-01T19:43:25Z",
+      "year": 2021,
+      "month": 2,
+      "day": 1,
+      "hour": 19,
+      "minute": 43,
+      "x": -118.37033769589632,
+      "y": 33.81539785220013,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 72: Pop Tarts"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2166e943f800415f8460c0bbd14179c8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYerbXE"
+        ],
+        "content": [
+          {
+            "html": "<p>Nobody should have 30 flavors of Pop Tarts. But having found ourselves in that situation, we did what any podcasters would do: taste-test all 30 flavors and rank our favorites.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Nobody should have 30 flavors of Pop Tarts. But having found ourselves in that situation, we did what any podcasters would do: taste-test all 30 flavors and rank our favorites.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

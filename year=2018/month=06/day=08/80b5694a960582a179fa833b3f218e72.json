@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Grove"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Grove"
+          ],
+          "latitude": [
+            "34.072940336516"
+          ],
+          "longitude": [
+            "-118.35665434599"
+          ]
+        },
+        "value": "The Grove"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Grove"
+          ],
+          "latitude": [
+            "34.072940336516"
+          ],
+          "longitude": [
+            "-118.35665434599"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-grove"
+    ],
+    "published": [
+      "2018-06-08T01:13:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You only need 3 weeks to beat your record for 6 weeks in a row at Shopping Malls! Get it!"
+          ],
+          "content": [
+            {
+              "html": "<p>You only need 3 weeks to beat your record for 6 weeks in a row at Shopping Malls! Get it!</p>",
+              "value": "You only need 3 weeks to beat your record for 6 weeks in a row at Shopping Malls! Get it!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b19d84d4acb190038ba26b6/08b939de1f3fd902189bf7846dcb2b94"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b19d84d4acb190038ba26b6/08b939de1f3fd902189bf7846dcb2b94"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b19d84d4acb190038ba26b6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "80b5694a960582a179fa833b3f218e72"
+    ]
+  }
+}

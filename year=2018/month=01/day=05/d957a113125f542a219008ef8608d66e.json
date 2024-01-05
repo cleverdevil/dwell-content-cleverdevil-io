@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Cabbage Patch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cabbage Patch"
+          ],
+          "latitude": [
+            "34.048480902092"
+          ],
+          "longitude": [
+            "-118.25480604434"
+          ]
+        },
+        "value": "Cabbage Patch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cabbage Patch"
+          ],
+          "latitude": [
+            "34.048480902092"
+          ],
+          "longitude": [
+            "-118.25480604434"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-cabbage-patch"
+    ],
+    "published": [
+      "2018-01-05T20:03:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Cabbage Patch!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Cabbage Patch!</p>",
+              "value": "Your first check-in at Cabbage Patch!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a4fda02ccad6b427a04fc2e/c2854e2c4269d946c9bd179e579e2f4b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a4fda02ccad6b427a04fc2e/c2854e2c4269d946c9bd179e579e2f4b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Restaurants!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Restaurants!</p>",
+              "value": "Wow! That's 5 check-ins at Restaurants!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a4fda02ccad6b427a04fc2e/49d2c9e0a4be48868e3c5d64398c911d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a4fda02ccad6b427a04fc2e/49d2c9e0a4be48868e3c5d64398c911d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a4fda02ccad6b427a04fc2e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d957a113125f542a219008ef8608d66e"
+    ]
+  }
+}

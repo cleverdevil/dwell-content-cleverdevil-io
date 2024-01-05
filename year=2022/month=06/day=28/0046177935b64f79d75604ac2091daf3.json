@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club (Sky Way)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club (Sky Way)"
+          ],
+          "latitude": [
+            "33.945482280431"
+          ],
+          "longitude": [
+            "-118.40555906296"
+          ]
+        },
+        "value": "Delta Sky Club (Sky Way)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club (Sky Way)"
+          ],
+          "latitude": [
+            "33.945482280431"
+          ],
+          "longitude": [
+            "-118.40555906296"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-delta-sky-club-sky-way"
+    ],
+    "published": [
+      "2022-06-28T15:43:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Airport Lounge check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Airport Lounge check-in in 3 months!</p>",
+              "value": "First Airport Lounge check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62bb21b4e6f23e7dcf79ae00/5e0d45bc5525e16ba99a90a2ae695a3b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62bb21b4e6f23e7dcf79ae00/5e0d45bc5525e16ba99a90a2ae695a3b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62bb21b4e6f23e7dcf79ae00"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0046177935b64f79d75604ac2091daf3"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-28T15:01:36Z",
+      "year": 2022,
+      "month": 6,
+      "day": 28,
+      "hour": 15,
+      "minute": 1,
+      "x": -118.40593704854733,
+      "y": 33.94546831108317,
+      "altitude": 50,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "DeltaSkyClub"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/obb-ep-114-roarrrrrrrr"
+    ],
+    "published": [
+      "2021-02-05T08:49:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "84fa8976f3d06718263dede507134771"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-05T09:13:54Z",
+      "year": 2021,
+      "month": 2,
+      "day": 5,
+      "hour": 9,
+      "minute": 13,
+      "x": -118.37052788898004,
+      "y": 33.81532462205134,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep: 114 Roarrrrrrrr"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/605b84108bfbff8ebf51c268697941c2/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf45ps2U"
+        ],
+        "content": [
+          {
+            "html": "<p>College Gameday and Cane Alum Chris \u2018The Bear\u2019 Fallica joined us! We also breakdown the coaching changes, schedule and a report from I.P. Daley. Go Canes!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "College Gameday and Cane Alum Chris \u2018The Bear\u2019 Fallica joined us! We also breakdown the coaching changes, schedule and a report from I.P. Daley. Go Canes!\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

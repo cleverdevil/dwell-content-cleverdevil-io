@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/373-this-guy-reads-a-lot-better-with-quinn-nelson"
+    ],
+    "published": [
+      "2023-05-02T04:50:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8d3cbb7c0a5eb9f3c57e33fd0b8781b0"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 373: \u2018This Guy Reads a Lot Better\u2019, With Quinn Nelson"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3fdfbf178b8a086aaae325136db7458e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBq6zDw"
+        ],
+        "content": [
+          {
+            "html": "<p>373: \u2018This Guy Reads a Lot Better\u2019, With Quinn Nelson</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "373: \u2018This Guy Reads a Lot Better\u2019, With Quinn Nelson\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

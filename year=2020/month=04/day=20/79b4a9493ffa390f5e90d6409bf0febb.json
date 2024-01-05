@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Last Week Tonight with John Oliver 7x09 \"Episode 188\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/6ea4085fde937f14201b937dbe8030cd/thumb.jpg"
+          ],
+          "name": [
+            "Last Week Tonight with John Oliver 7x09 \"Episode 188\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/4040248"
+          ]
+        },
+        "value": "Last Week Tonight with John Oliver 7x09 \"Episode 188\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Last Week Tonight with John Oliver 7x09 \"Episode 188\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Last Week Tonight with John Oliver 7x09 \"Episode 188\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/last-week-tonight-with-john-oliver-7x09-episode-188"
+    ],
+    "published": [
+      "2020-04-20T06:25:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.14\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.14\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.14\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/last-week-tonight-with-john-oliver-7x09-episode-188/annotations/64a8e947626e5b7aea39eff5d291d1bf"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/last-week-tonight-with-john-oliver-7x09-episode-188/annotations/64a8e947626e5b7aea39eff5d291d1bf"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "79b4a9493ffa390f5e90d6409bf0febb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-20T06:22:52Z",
+      "year": 2020,
+      "month": 4,
+      "day": 20,
+      "hour": 6,
+      "minute": 22,
+      "x": -118.37029649693181,
+      "y": 33.8154425988839,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3400000035762787,
+      "wifi": "LaCour"
+    }
+  }
+}

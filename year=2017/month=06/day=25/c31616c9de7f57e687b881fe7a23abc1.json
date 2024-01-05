@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mozilla Portland"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": "Mozilla Portland"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IWS Day Two! \u2014 with <a href=\"https://aaronparecki.com/\">aaronpk</a>, <a href=\"https://foursquare.com/user/428294304\">michelle</a>, <a href=\"https://foursquare.com/user/476\">Tantek</a>, <a href=\"https://foursquare.com/user/56095\">gRegor</a>, <a href=\"https://foursquare.com/user/58143\">Ben</a></p>",
+        "value": "IWS Day Two! \u2014 with aaronpk, michelle, Tantek, gRegor, Ben"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-mozilla-portland-2"
+    ],
+    "published": [
+      "2017-06-25T15:57:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! The office chair was invented in the 1800s by Charles Darwin. Now you can sit and debate evolution in comfort!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! The office chair was invented in the 1800s by Charles Darwin. Now you can sit and debate evolution in comfort!</p>",
+              "value": "Fun Fact! The office chair was invented in the 1800s by Charles Darwin. Now you can sit and debate evolution in comfort!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f5333ac24bd1d4f25b5aa9cec62afcd6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594fdd6b5a2c916a349a0c84/315e94dbf7a48b8ede7a400a47a498d2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594fdd6b5a2c916a349a0c84/315e94dbf7a48b8ede7a400a47a498d2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594fdd6b5a2c916a349a0c84"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c31616c9de7f57e687b881fe7a23abc1"
+    ]
+  }
+}

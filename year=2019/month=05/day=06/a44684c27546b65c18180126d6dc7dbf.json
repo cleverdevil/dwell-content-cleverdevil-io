@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Lacey LaCour &middot;"
+    ],
+    "like-of": [
+      "http://cleverangel.org/2019/05/05/so-proud-of.html"
+    ],
+    "url": [
+      "/2019/lacey-lacour-middot-1"
+    ],
+    "published": [
+      "2019-05-06T06:58:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 57.38\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 57.38\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 57.38\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/lacey-lacour-middot-1/annotations/fa8e8a4825c09c344059175b3cd0caa6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/lacey-lacour-middot-1/annotations/fa8e8a4825c09c344059175b3cd0caa6"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "a44684c27546b65c18180126d6dc7dbf"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-06T06:54:19Z",
+      "year": 2019,
+      "month": 5,
+      "day": 6,
+      "hour": 6,
+      "minute": 54,
+      "x": -118.370505046528,
+      "y": 33.815326684868374,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/455-your-yanking-force"
+    ],
+    "published": [
+      "2021-11-08T06:49:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5d03343102e60913454e31e01fa92321"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-08T08:01:22Z",
+      "year": 2021,
+      "month": 11,
+      "day": 8,
+      "hour": 8,
+      "minute": 1,
+      "x": -116.38035819780282,
+      "y": 33.7017215003004,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 455: Your Yanking Force"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1c3e405205598c31703ddc43243539ab/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfeBMmuw"
+        ],
+        "content": [
+          {
+            "html": "<p>Thunderbolt docks, a smart-home system that actually works, even more on the MacBook Pro, and selling our (not-so-)old computers.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "Thunderbolt docks, a smart-home system that actually works, even more on the MacBook Pro, and selling our (not-so-)old computers.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

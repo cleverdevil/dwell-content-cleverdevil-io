@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-coffee-bean-tea-leaf-2"
+    ],
+    "published": [
+      "2017-06-03T17:09:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Joey Beans sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Joey Beans sticker bonus!</p>",
+              "value": "Joey Beans sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5c630a8d808cb5a89deed2ea2e9a4512"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5932ed3f12c8f0665979b761/e73e382a83c3372a89d2d644989e3689"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5932ed3f12c8f0665979b761/e73e382a83c3372a89d2d644989e3689"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5932ed3f12c8f0665979b761"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5d721a4a08f5224f1fd203d147be9d9a"
+    ]
+  }
+}

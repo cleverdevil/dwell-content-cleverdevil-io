@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-276-symbiosis-osmosis-whatever"
+    ],
+    "published": [
+      "2020-01-10T03:07:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.98\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.98\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.98\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-276-symbiosis-osmosis-whatever/annotations/f588a0d746a7dd16004b94b88a82ef9c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-276-symbiosis-osmosis-whatever/annotations/f588a0d746a7dd16004b94b88a82ef9c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "31bc3380afa4de6230dbf2abd2fe6521"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-10T04:03:31Z",
+      "year": 2020,
+      "month": 1,
+      "day": 10,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37056154184924,
+      "y": 33.81529740645731,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 276: Symbiosis, Osmosis, Whatever"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e0cdaf70329ec705aa1fdacc7181a202/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4p-5eU"
+        ],
+        "content": [
+          {
+            "html": "<p>The boys kick off 2020 with a lot of follow-up including clarifying what being a Chairman means, a challenge for the Upgradies and a debate about the iPad Air, then conversations about LaunchCuts and Twitter\u2019s iPad app.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The boys kick off 2020 with a lot of follow-up including clarifying what being a Chairman means, a challenge for the Upgradies and a debate about the iPad Air, then conversations about LaunchCuts and Twitter\u2019s iPad app.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

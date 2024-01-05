@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/482-i-should-probably-get-reading-glasses"
+    ],
+    "published": [
+      "2022-05-15T06:54:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1f13d0f90d453b11ceb673bdc4ac1db7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-15T07:49:33Z",
+      "year": 2022,
+      "month": 5,
+      "day": 15,
+      "hour": 7,
+      "minute": 49,
+      "x": -116.38031847426969,
+      "y": 33.701686850066096,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4699999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 482: I Should Probably Get Reading Glasses"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b15c49f9e8c9b2544cfb867368ade79f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJGwl94"
+        ],
+        "content": [
+          {
+            "html": "<p>Playdate first impressions, home-Ethernet-wiring updates, and fond farewells to two products that \u2014 let\u2019s be honest \u2014 most of us had already forgotten.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Playdate first impressions, home-Ethernet-wiring updates, and fond farewells to two products that \u2014 let\u2019s be honest \u2014 most of us had already forgotten.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

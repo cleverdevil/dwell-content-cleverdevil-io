@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lowe's Home Improvement"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lowe's Home Improvement"
+          ],
+          "latitude": [
+            "33.802637"
+          ],
+          "longitude": [
+            "-118.333507"
+          ]
+        },
+        "value": "Lowe's Home Improvement"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lowe's Home Improvement"
+          ],
+          "latitude": [
+            "33.802637"
+          ],
+          "longitude": [
+            "-118.333507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-lowes-home-improvement"
+    ],
+    "published": [
+      "2017-04-24T00:57:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/703811761c11af719dbfe03a5d84a30a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fd4d666eda02332767c98f/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fd4d666eda02332767c98f/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Lowe's!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Lowe's!</p>",
+              "value": "Your first check-in at this Lowe's!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/23ab89012c44db3bd43d13be700ee72f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fd4d666eda02332767c98f/7891e3e0eb3810a399f8985428f40523"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fd4d666eda02332767c98f/7891e3e0eb3810a399f8985428f40523"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fd4d666eda02332767c98f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e3ae48f79042f8c4f146cd5573ebd2f6"
+    ]
+  }
+}

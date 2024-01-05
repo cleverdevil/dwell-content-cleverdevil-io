@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-263-moon-plus-sign-plus-sign"
+    ],
+    "published": [
+      "2019-10-03T18:37:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.47\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.47\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.47\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-263-moon-plus-sign-plus-sign/annotations/82cad45a33ff97778f9167ab0fe222db"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-263-moon-plus-sign-plus-sign/annotations/82cad45a33ff97778f9167ab0fe222db"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7925a51ef76817d5bce80157ff2ae1eb"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-03T20:04:21Z",
+      "year": 2019,
+      "month": 10,
+      "day": 3,
+      "hour": 20,
+      "minute": 4,
+      "x": -94.59363263405355,
+      "y": 39.05220777032988,
+      "altitude": 282,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 263: Moon Plus Sign Plus Sign"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cc850b6b0debaa853bc28cc0e810ffdc/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7UletY"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Stephen tells a story about his Apple Watch accomplice, Myke reviews tvOS 13 and Federico explains how Deep Fusion and Capture Outside the Frame work.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Stephen tells a story about his Apple Watch accomplice, Myke reviews tvOS 13 and Federico explains how Deep Fusion and Capture Outside the Frame work.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Happy Spouse, Happy House - Six Remotes and One Annoyed Wife"
+    ],
+    "content": [
+      {
+        "html": "<p><em>This post originally appeared in my <a href=\"https://www.linkedin.com/newsletters/techish-7011768448502349825/\">Techish newsletter on LinkedIn</a>.</em></p><p>This year, the LaCour family embarked upon a major home renovation, updating the main bedroom and creating an amazing home theater. While I was happy about the improvements to the bedroom, I'll be honest, the home theater was definitely the most exciting to me.</p><p>Fast forward to the end of our renovation, and we have an awesome place for the family to snuggle up and watch movies, or to catch a F1 race <em>(Forza Ferrari!)</em> with thundering sound on a big screen. Yet, the very first time my wife sat down to use the theater on her own, I got an annoyed text message: \"Ugh, Jonathan, WHY do we have SO MANY remote controls?!\"</p><h2>Happy Spouse, Happy House</h2><p>In my experience, there is no greater spark for innovation than an annoyed spouse. To her credit, my wife was absolutely right \u2013 we had way too many remote controls. Six, to be precise. Yes, I know, I have a problem.</p><p>My first instinct was to find a \"universal remote,\" but the market is filled with ugly, difficult to use, under-featured options that wouldn't really make life any easier. So, I asked my wife: what is the best remote control you've ever used? She didn't hesitate: \"our old TiVo remote control.\"</p><h2>The Legendary TiVo Peanut Remote</h2><p><img alt=\"TiVo Slide Remote\" class=\"right\" height=\"300\" src=\"https://cleverdevil.io/file/39c09ab3655342e283d40e2e2a32fb0a/thumb.jpg\" width=\"225\"/></p><p><a href=\"https://en.wikipedia.org/wiki/TiVo#History_and_development\">When TiVo was first introduced nearly 25 years ago</a>, it was a revolutionary concept. I remember the delightful experience of creating a \"season pass\" to my favorite show, <a href=\"https://www.imdb.com/title/tt0411008/\">LOST</a>, and knowing that every week, I'd be able to sit down and enjoy an episode, zipping through the commercials.</p><p>While TiVo has faded into history with the rise of streaming services and pervasive \"DVR\" capabilities, <a href=\"https://gizmodo.com/story-of-a-peanut-the-tivo-remotes-untold-past-presen-5017972\">its remote control, affectionately called \"the peanut,\" is still a thing of legend</a>. With its distinctive shape and smart button layout, it won awards for its ergonomic design.</p><p>Now, I was presented with a challenge. How could I replace six modern remotes and replicate my wife's experience with a non-programmable remote that has been out of production for ten years?</p><h2>Thinking Like an Engineer</h2><p>My first order of business was acquiring an old TiVo Peanut. Over the years, TiVo produced many different versions, but their \"last hurrah\" was the <a href=\"https://www.engadget.com/2013-11-14-tivo-slide-pro-remote.html\">TiVo Slide Pro, released back in 2013</a>. The Slide Pro slides open to reveal a full qwerty keyboard for text entry. More importantly, though, the TiVo Slide communicates to TiVo devices via RF (radio frequency), not IR (infrared).</p><p>RF is significantly more reliable than IR as it doesn't require a \"line of sight\" between the transmitter and the receiver. Late-generation TiVos featured built-in RF support, but older versions only supported IR. As a result, TiVo offered a dongle that plugged into the back of old TiVos via USB so they could use the Slide Pro.</p><h2>Let's Go Down to Dongletown</h2><p><img alt=\"TiVo RF Dongle\" class=\"right\" height=\"250\" src=\"https://cleverdevil.io/file/bab837278e452813769a3ca93a9af4d5/thumb.jpg\" width=\"188\"/></p><p>I was able to score an unopened TiVo Slide Pro remote with a USB dongle for around $40. Once in hand, I made a discovery \u2013 <a href=\"https://github.com/torvalds/linux/commit/44ea35c138d400b3aeeb2a5317edd4634e6823e3\">in 2012, an enterprising developer added support for the TiVo RF dongle to the Linux kernel</a>! So, I grabbed a spare Raspberry Pi 4, installed the latest version of Raspberry Pi OS, and plugged in the dongle.</p><p>After some tinkering, I was able to communicate with the dongle via the HID (Human Interface Device) API, capturing button presses, releases, and even the action of sliding the TiVo Slide Pro open and closed.</p><h2>Six Devices, One Remote</h2><p>Next up, I needed to figure out how to communicate with all six devices in the theater:</p><ul><li><a href=\"https://www.apple.com/tv-home/\">Apple TV</a></li>\n<li><a href=\"https://www.zidoo.tv/Product/index/model/Z9X/target/VEMg6VRC2%2B9KKmVViAFMcQ%3D%3D.html\">Zidoo Z9X Android Box</a></li>\n<li><a href=\"https://www.pioneerhomeusa.com/product/vsx-lx305-av-receiver/\">Pioneer Elite Receiver</a></li>\n<li><a href=\"https://awolvision.com/products/awol-vision-4k-tri-chroma-laser-projector-ltv-3500\">AWOL Vision Projector</a></li>\n<li>Ceiling Fan</li>\n<li><a href=\"https://www.casetawireless.com/us/en\">Lutron Caseta Lighting</a></li>\n</ul><p>For the Apple TV, there is <a href=\"https://pyatv.dev\">an outstanding Apple TV Python library</a> that offers complete control over the network. The Zidoo Z9X, Pioneer receiver, and Lutron lighting are all able to be controlled over the network using <a href=\"https://www.home-assistant.io/\">Home Assistant</a>. To control the projector and ceiling fan, I purchased a <a href=\"https://ebroadlink.com/products/universal-remote-rm4-pro\">Broadlink RM4 Pro</a> device, which can transmit arbitrary RF/IR signals, and trained it with their existing remote controls.</p><h2>Introducing PNut</h2><p>With all of the tools I needed in hand, I set to work writing some code to put it all together into a usable solution, <a href=\"https://github.com/cleverdevil/pnut\">which I call PNut</a>. I made it general purpose so that anyone can use it, but I also <a href=\"https://github.com/cleverdevil/pnut/blob/main/myremote.py.sample\">included my own PNut configuration for reference</a>.</p><p>I've been using PNut now for a few weeks, and it's pretty wonderful to be able to pick up a single remote and use it to dim the lights, turn on my ceiling fan, power up the projector and receiver, and control my Apple TV to watch the latest episode of <a href=\"https://www.imdb.com/title/tt8634332/\">The Righteous Gemstones</a>.</p><p>Oh, and I'm pleased to report that my wife isn't annoyed anymore. Well, at least not about the remote controls...</p>",
+        "value": "This post originally appeared in my Techish newsletter on LinkedIn.\nThis year, the LaCour family embarked upon a major home renovation, updating the main bedroom and creating an amazing home theater. While I was happy about the improvements to the bedroom, I'll be honest, the home theater was definitely the most exciting to me.\nFast forward to the end of our renovation, and we have an awesome place for the family to snuggle up and watch movies, or to catch a F1 race (Forza Ferrari!) with thundering sound on a big screen. Yet, the very first time my wife sat down to use the theater on her own, I got an annoyed text message: \"Ugh, Jonathan, WHY do we have SO MANY remote controls?!\"Happy Spouse, Happy House\nIn my experience, there is no greater spark for innovation than an annoyed spouse. To her credit, my wife was absolutely right \u2013 we had way too many remote controls. Six, to be precise. Yes, I know, I have a problem.\nMy first instinct was to find a \"universal remote,\" but the market is filled with ugly, difficult to use, under-featured options that wouldn't really make life any easier. So, I asked my wife: what is the best remote control you've ever used? She didn't hesitate: \"our old TiVo remote control.\"The Legendary TiVo Peanut Remote\nTiVo Slide Remote\nWhen TiVo was first introduced nearly 25 years ago, it was a revolutionary concept. I remember the delightful experience of creating a \"season pass\" to my favorite show, LOST, and knowing that every week, I'd be able to sit down and enjoy an episode, zipping through the commercials.\nWhile TiVo has faded into history with the rise of streaming services and pervasive \"DVR\" capabilities, its remote control, affectionately called \"the peanut,\" is still a thing of legend. With its distinctive shape and smart button layout, it won awards for its ergonomic design.\nNow, I was presented with a challenge. How could I replace six modern remotes and replicate my wife's experience with a non-programmable remote that has been out of production for ten years?Thinking Like an Engineer\nMy first order of business was acquiring an old TiVo Peanut. Over the years, TiVo produced many different versions, but their \"last hurrah\" was the TiVo Slide Pro, released back in 2013. The Slide Pro slides open to reveal a full qwerty keyboard for text entry. More importantly, though, the TiVo Slide communicates to TiVo devices via RF (radio frequency), not IR (infrared).\nRF is significantly more reliable than IR as it doesn't require a \"line of sight\" between the transmitter and the receiver. Late-generation TiVos featured built-in RF support, but older versions only supported IR. As a result, TiVo offered a dongle that plugged into the back of old TiVos via USB so they could use the Slide Pro.Let's Go Down to Dongletown\nTiVo RF Dongle\nI was able to score an unopened TiVo Slide Pro remote with a USB dongle for around $40. Once in hand, I made a discovery \u2013 in 2012, an enterprising developer added support for the TiVo RF dongle to the Linux kernel! So, I grabbed a spare Raspberry Pi 4, installed the latest version of Raspberry Pi OS, and plugged in the dongle.\nAfter some tinkering, I was able to communicate with the dongle via the HID (Human Interface Device) API, capturing button presses, releases, and even the action of sliding the TiVo Slide Pro open and closed.Six Devices, One Remote\nNext up, I needed to figure out how to communicate with all six devices in the theater:Apple TV Zidoo Z9X Android Box Pioneer Elite Receiver AWOL Vision Projector Ceiling Fan Lutron Caseta Lighting\nFor the Apple TV, there is an outstanding Apple TV Python library that offers complete control over the network. The Zidoo Z9X, Pioneer receiver, and Lutron lighting are all able to be controlled over the network using Home Assistant. To control the projector and ceiling fan, I purchased a Broadlink RM4 Pro device, which can transmit arbitrary RF/IR signals, and trained it with their existing remote controls.Introducing PNut\nWith all of the tools I needed in hand, I set to work writing some code to put it all together into a usable solution, which I call PNut. I made it general purpose so that anyone can use it, but I also included my own PNut configuration for reference.\nI've been using PNut now for a few weeks, and it's pretty wonderful to be able to pick up a single remote and use it to dim the lights, turn on my ceiling fan, power up the projector and receiver, and control my Apple TV to watch the latest episode of The Righteous Gemstones.\nOh, and I'm pleased to report that my wife isn't annoyed anymore. Well, at least not about the remote controls..."
+      }
+    ],
+    "url": [
+      "/2023/happy-spouse-happy-house---six-remotes-and-one-annoyed"
+    ],
+    "published": [
+      "2023-06-24T20:27:56+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110611607864689842"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "c6fb9bc170e2f587fbef907bb9694b06"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/110611607864689842#favorited-by-109368581465510496"
+          ],
+          "published": [
+            "2023-06-26T22:03:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Pirnat"
+                ],
+                "url": [
+                  "https://mas.to/@mpirnat"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNTgxLzQ2NS81MTAvNDk2L29yaWdpbmFsLzBlOTE0NWFhNDlhNjhhNjYuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNTgxLzQ2NS81MTAvNDk2L29yaWdpbmFsLzBlOTE0NWFhNDlhNjhhNjYuanBlZw,,/300/square Mike Pirnat"
+            }
+          ]
+        },
+        "value": "Mike Pirnat"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-24T18:17:13Z",
+      "year": 2023,
+      "month": 6,
+      "day": 24,
+      "hour": 18,
+      "minute": 17,
+      "x": -118.37055513333075,
+      "y": 33.81527779529426,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hal's bar & grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hal's bar & grill"
+          ],
+          "latitude": [
+            "33.976761006558"
+          ],
+          "longitude": [
+            "-118.41668196503"
+          ]
+        },
+        "value": "Hal's bar & grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hal's bar & grill"
+          ],
+          "latitude": [
+            "33.976761006558"
+          ],
+          "longitude": [
+            "-118.41668196503"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-hals-bar-grill-2"
+    ],
+    "published": [
+      "2018-05-02T20:03:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Playa Vista was over 2 months ago at Hal's bar & grill."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Playa Vista was over 2 months ago at Hal's bar &amp; grill.</p>",
+              "value": "Your last check-in in Playa Vista was over 2 months ago at Hal's bar & grill."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aea19a1a42362002cf6dabe/29822d2185d31fd51062779f13773441"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aea19a1a42362002cf6dabe/29822d2185d31fd51062779f13773441"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aea19a1a42362002cf6dabe"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3e796f75a3ca204050444a808ed4e8f1"
+    ]
+  }
+}

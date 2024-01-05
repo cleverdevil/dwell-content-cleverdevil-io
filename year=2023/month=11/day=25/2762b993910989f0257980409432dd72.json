@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Armondos"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": "Armondos"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Armondos"
+          ],
+          "latitude": [
+            "33.719900666834"
+          ],
+          "longitude": [
+            "-116.38660071836"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-armondos-9"
+    ],
+    "published": [
+      "2023-11-25T02:53:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/656161c004e0ef5a4a9d24a6/8c5bc2565071b260a9a382ea560ed6ab"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/656161c004e0ef5a4a9d24a6/8c5bc2565071b260a9a382ea560ed6ab"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/656161c004e0ef5a4a9d24a6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2762b993910989f0257980409432dd72"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-25T02:06:17Z",
+      "year": 2023,
+      "month": 11,
+      "day": 25,
+      "hour": 2,
+      "minute": 6,
+      "x": -116.386705,
+      "y": 33.720402,
+      "altitude": 75,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8,
+      "wifi": ""
+    }
+  }
+}

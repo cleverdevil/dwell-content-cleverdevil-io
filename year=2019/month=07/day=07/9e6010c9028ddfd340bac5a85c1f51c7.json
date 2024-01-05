@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "IndieWeb Summit 2019 \u2014 gRegorLove.com"
+    ],
+    "like-of": [
+      "https://gregorlove.com/2019/07/indieweb-summit-2019/"
+    ],
+    "url": [
+      "/2019/indieweb-summit-2019-gregorlovecom"
+    ],
+    "published": [
+      "2019-07-07T06:07:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.95\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.95\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 61.95\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/indieweb-summit-2019-gregorlovecom/annotations/05117945b84ba49a36b7a07110ccd1fe"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/indieweb-summit-2019-gregorlovecom/annotations/05117945b84ba49a36b7a07110ccd1fe"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "9e6010c9028ddfd340bac5a85c1f51c7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-07T06:06:02Z",
+      "year": 2019,
+      "month": 7,
+      "day": 7,
+      "hour": 6,
+      "minute": 6,
+      "x": -118.37032339226181,
+      "y": 33.81542532867004,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  }
+}

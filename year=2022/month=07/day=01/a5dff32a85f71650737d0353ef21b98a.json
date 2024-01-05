@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/489-very-inappropriate-thoughts-about-this-computer"
+    ],
+    "published": [
+      "2022-07-01T01:27:40+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a5dff32a85f71650737d0353ef21b98a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-01T04:04:04Z",
+      "year": 2022,
+      "month": 7,
+      "day": 1,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.3886853134999,
+      "y": 33.900278714324365,
+      "altitude": 40,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4699999988079071,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 489: Very Inappropriate Thoughts About This Computer"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/904b2353d7c58be5a79692837794dd2e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfeXIjGE"
+        ],
+        "content": [
+          {
+            "html": "<p>HomePod rumors, MacBook rumors, phone waffling, and impulse purchases.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "HomePod rumors, MacBook rumors, phone waffling, and impulse purchases.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Guisados"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Guisados"
+          ],
+          "latitude": [
+            "34.046486336594"
+          ],
+          "longitude": [
+            "-118.25064368439"
+          ]
+        },
+        "value": "Guisados"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Guisados"
+          ],
+          "latitude": [
+            "34.046486336594"
+          ],
+          "longitude": [
+            "-118.25064368439"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>TACOS</p>",
+        "value": "TACOS"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-guisados"
+    ],
+    "published": [
+      "2017-07-03T19:39:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Taco Place check-in in 6 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Taco Place check-in in 6 years!</p>",
+              "value": "First Taco Place check-in in 6 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a8f7fdc8da4a447ac304a956b2e9a217"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595a9d6a916bc179b7ab013e/ed0ed9b9f78b050861cf238515a81f71"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595a9d6a916bc179b7ab013e/ed0ed9b9f78b050861cf238515a81f71"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Guisados!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Guisados!</p>",
+              "value": "Your first check-in at Guisados!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/18a9801d431091b4cb8490f98bbbe9f4"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595a9d6a916bc179b7ab013e/b452266982f9573ce33e74e4a40ee79f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595a9d6a916bc179b7ab013e/b452266982f9573ce33e74e4a40ee79f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595a9d6a916bc179b7ab013e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "60dfd3a0daa488b8b86829b48a4764c0"
+    ]
+  }
+}

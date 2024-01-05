@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Aspen Mills Bakery & Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Aspen Mills Bakery & Cafe"
+          ],
+          "latitude": [
+            "33.711033"
+          ],
+          "longitude": [
+            "-116.294321"
+          ]
+        },
+        "value": "Aspen Mills Bakery & Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Aspen Mills Bakery & Cafe"
+          ],
+          "latitude": [
+            "33.711033"
+          ],
+          "longitude": [
+            "-116.294321"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-aspen-mills-bakery-cafe"
+    ],
+    "published": [
+      "2022-03-26T20:59:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Bakery check-in in 9 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Bakery check-in in 9 months!</p>",
+              "value": "First Bakery check-in in 9 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/623f7e9f55c0d02dc0e62e3a/bd1912a12e6386c36369a775ac1bc73a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/623f7e9f55c0d02dc0e62e3a/bd1912a12e6386c36369a775ac1bc73a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/623f7e9f55c0d02dc0e62e3a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "71c6b6a5e79a0659c111e4079c2894e2"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-26T20:57:43Z",
+      "year": 2022,
+      "month": 3,
+      "day": 26,
+      "hour": 20,
+      "minute": 57,
+      "x": -116.29430505576723,
+      "y": 33.71112427780403,
+      "altitude": 22,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6299999952316284,
+      "wifi": ""
+    }
+  }
+}

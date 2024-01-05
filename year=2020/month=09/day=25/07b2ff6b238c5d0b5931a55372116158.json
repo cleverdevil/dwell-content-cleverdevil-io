@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/313-trojan-horse-in-my-phone"
+    ],
+    "published": [
+      "2020-09-25T15:39:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "07b2ff6b238c5d0b5931a55372116158"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-25T15:32:18Z",
+      "year": 2020,
+      "month": 9,
+      "day": 25,
+      "hour": 15,
+      "minute": 32,
+      "x": -118.37035089869008,
+      "y": 33.81541643606162,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 313: Trojan Horse in My Phone"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1ebf670c275f3705fff2acdd53eed10d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6WN9qw"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico is using Base64 to make wallpapers, Myke\u2019s iPad mini is out of space and Stephen is upset about Apple\u2019s new GMT watch face. Also discussed: what iOS 14 is doing to our home screens and what others are doing with widgets.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico is using Base64 to make wallpapers, Myke\u2019s iPad mini is out of space and Stephen is upset about Apple\u2019s new GMT watch face. Also discussed: what iOS 14 is doing to our home screens and what others are doing with widgets.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

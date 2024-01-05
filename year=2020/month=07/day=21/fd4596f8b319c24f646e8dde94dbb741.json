@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-303-computer-pictures-photo-album-1"
+    ],
+    "published": [
+      "2020-07-21T22:30:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.36\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.36\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.36\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-303-computer-pictures-photo-album-1/annotations/8fe4a60ec23d32766a41eff767a97a09"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-303-computer-pictures-photo-album-1/annotations/8fe4a60ec23d32766a41eff767a97a09"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fd4596f8b319c24f646e8dde94dbb741"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-22T02:56:37Z",
+      "year": 2020,
+      "month": 7,
+      "day": 22,
+      "hour": 2,
+      "minute": 56,
+      "x": -118.37031401400341,
+      "y": 33.81543103480979,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 303: Computer Pictures Photo Album"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f38f7af3db7f8c11c73a2d40349a776b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4lNhtU"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico is back from the beach with thoughts about iOS 14\u2019s App Library, Stephen has way too many albums in Photos and Myke is going to order some LEGO. All of this is overshadowed by some important news about the show.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico is back from the beach with thoughts about iOS 14\u2019s App Library, Stephen has way too many albums in Photos and Myke is going to order some LEGO. All of this is overshadowed by some important news about the show.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

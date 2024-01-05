@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-273-sideways-the-game"
+    ],
+    "published": [
+      "2019-12-04T05:56:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 51.71\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 51.71\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 51.71\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-273-sideways-the-game/annotations/71fc6736103dce582107a7e494d3dc9b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-273-sideways-the-game/annotations/71fc6736103dce582107a7e494d3dc9b"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bfc0458665dc375874a42418a0bd22f7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-04T07:41:17Z",
+      "year": 2019,
+      "month": 12,
+      "day": 4,
+      "hour": 7,
+      "minute": 41,
+      "x": -115.1695543314341,
+      "y": 36.12157163125748,
+      "altitude": 638,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 273: Sideways the Game"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2878c98e9b8d4a822d277a4fc771dfdf/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9nkXjA"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we discuss Tim Cook\u2019s political high-wire act, Apple\u2019s attempts to reduce bugs in future iOS releases, and Jason\u2019s wishes for iOS 14. Finally, just in time for the holidays, Myke at the Movies returns with 1988\u2019s \u201cDie Hard.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we discuss Tim Cook\u2019s political high-wire act, Apple\u2019s attempts to reduce bugs in future iOS releases, and Jason\u2019s wishes for iOS 14. Finally, just in time for the holidays, Myke at the Movies returns with 1988\u2019s \u201cDie Hard.\u201d\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

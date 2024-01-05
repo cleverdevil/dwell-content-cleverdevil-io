@@ -1,0 +1,92 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://tantek.com/2016/048/b1/going-silo-private-prefer-indieweb"
+    ],
+    "name": [
+      "Awesome post by Tantek \u00c7elik about going all-in on the #IndieWeb."
+    ],
+    "content": [
+      {
+        "html": "Awesome post by Tantek \u00c7elik about going all-in on the <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a>.",
+        "value": "Awesome post by Tantek \u00c7elik about going all-in on the #IndieWeb."
+      }
+    ],
+    "category": [
+      "#IndieWeb"
+    ],
+    "url": [
+      "/2016/untitled-1"
+    ],
+    "published": [
+      "2016-02-18T18:53:58+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/700392844750626817"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "3904ddcf2b5f6d83d2d143c9f058189f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/700392844750626817?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F700392844750626817%2F235193328"
+          ],
+          "published": [
+            "2016-02-25T23:05:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "IndieWebCamp"
+                ],
+                "url": [
+                  "https://twitter.com/indiewebcamp"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/32851b5136439ac1838238398502b3cd"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/32851b5136439ac1838238398502b3cd IndieWebCamp"
+            }
+          ]
+        },
+        "value": "IndieWebCamp"
+      }
+    ]
+  }
+}

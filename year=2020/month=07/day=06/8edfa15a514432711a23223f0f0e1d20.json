@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/reconcilable-differences-133-shave-daddy"
+    ],
+    "published": [
+      "2020-07-06T19:29:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 107.68\u00b0F and 4% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 107.68\u00b0F and 4% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 107.68\u00b0F and 4% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/reconcilable-differences-133-shave-daddy/annotations/b6c99d4732d8c355e2da2f0a8c217107"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/reconcilable-differences-133-shave-daddy/annotations/b6c99d4732d8c355e2da2f0a8c217107"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8edfa15a514432711a23223f0f0e1d20"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-06T19:54:05Z",
+      "year": 2020,
+      "month": 7,
+      "day": 6,
+      "hour": 19,
+      "minute": 54,
+      "x": -116.31667015620776,
+      "y": 33.7377633991078,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": "GPS"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 133: Shave Daddy"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7125119ccbdcf0eee61c33a28d59d7c1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IOfWezY"
+        ],
+        "content": [
+          {
+            "html": "<p>Someone has tampered with Merlin\u2019s bell, and John is looking forward to his \u201cvacation.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Someone has tampered with Merlin\u2019s bell, and John is looking forward to his \u201cvacation.\u201d\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

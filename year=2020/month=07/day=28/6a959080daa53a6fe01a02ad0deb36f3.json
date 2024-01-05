@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-304-some-wind-is-coming"
+    ],
+    "published": [
+      "2020-07-28T01:20:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 95.3\u00b0F and 21% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 95.3\u00b0F and 21% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 95.3\u00b0F and 21% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-304-some-wind-is-coming/annotations/85be092048a1a835fa27ef20ff8e3eaf"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-304-some-wind-is-coming/annotations/85be092048a1a835fa27ef20ff8e3eaf"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6a959080daa53a6fe01a02ad0deb36f3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-28T04:03:55Z",
+      "year": 2020,
+      "month": 7,
+      "day": 28,
+      "hour": 4,
+      "minute": 3,
+      "x": -116.31673182478455,
+      "y": 33.73773432805851,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "GPS"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 304: Some Wind is Coming"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e78899d999883161d479d1ed4cc43547/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5mf_7g"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen is bad at designing polls, Federico has some concerns over the latest iOS 14 betas and apparently Myke likes F1.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen is bad at designing polls, Federico has some concerns over the latest iOS 14 betas and apparently Myke likes F1.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

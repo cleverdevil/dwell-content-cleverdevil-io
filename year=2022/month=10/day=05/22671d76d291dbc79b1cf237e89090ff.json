@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/atp-movie-club-edge-of-tomorrow"
+    ],
+    "published": [
+      "2022-10-05T07:10:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "22671d76d291dbc79b1cf237e89090ff"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-05T08:04:51Z",
+      "year": 2022,
+      "month": 10,
+      "day": 5,
+      "hour": 8,
+      "minute": 4,
+      "x": -122.40404775188081,
+      "y": 37.78525304373286,
+      "altitude": 93,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to ATP Movie Club: Edge of Tomorrow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/184d2563174d550a697568c1b5b32aef/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJ1-Tg8"
+        ],
+        "content": [
+          {
+            "html": "<p>In the third of a three-part members-only series, John has us watch and discuss the 2014 film, \u201cEdge of Tomorrow\u201d.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "In the third of a three-part members-only series, John has us watch and discuss the 2014 film, \u201cEdge of Tomorrow\u201d.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

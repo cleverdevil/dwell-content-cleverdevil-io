@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/wwdc-2019-preview-feat-gui-rambo"
+    ],
+    "published": [
+      "2019-05-28T13:57:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.25\u00b0F and 75% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.25\u00b0F and 75% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.25\u00b0F and 75% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/wwdc-2019-preview-feat-gui-rambo/annotations/e6b6bc2fb597f910bd65f2281c6031ca"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/wwdc-2019-preview-feat-gui-rambo/annotations/e6b6bc2fb597f910bd65f2281c6031ca"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "596f23e164456c61ddaec5a3c0f45563"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-28T15:20:16Z",
+      "year": 2019,
+      "month": 5,
+      "day": 28,
+      "hour": 15,
+      "minute": 20,
+      "x": -118.39908470045656,
+      "y": 33.94990672676389,
+      "altitude": 32,
+      "motion": [
+        "driving"
+      ],
+      "speed": 8,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to WWDC 2019 Preview (Feat. Gui Rambo)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/363cf829200b517be031fdfe308fbf6f/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+K8lhUTHjM"
+        ],
+        "content": [
+          {
+            "html": "<p>The music fades. The lights go down. A video plays. Developers. Apps. Apple. The community. We\u2019re all together again. And when the lights come back up, Tim Cook is walking onto the stage. \u201cThank you. Thank you. Good morning. And welcome to\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vector with Rene Ritchie</p>",
+            "value": "The music fades. The lights go down. A video plays. Developers. Apps. Apple. The community. We\u2019re all together again. And when the lights come back up, Tim Cook is walking onto the stage. \u201cThank you. Thank you. Good morning. And welcome to\u2026\nBy Vector with Rene Ritchie"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

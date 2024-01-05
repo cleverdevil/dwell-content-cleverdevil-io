@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Din Tai Fung"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Din Tai Fung"
+          ],
+          "latitude": [
+            "33.83331"
+          ],
+          "longitude": [
+            "-118.35044"
+          ]
+        },
+        "value": "Din Tai Fung"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Din Tai Fung"
+          ],
+          "latitude": [
+            "33.83331"
+          ],
+          "longitude": [
+            "-118.35044"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Din Tai Fung\" src=\"https://cleverdevil.io/file/708f304b2bfdd6e3b787936ecd5a22ab\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Dumplings!</p>",
+        "value": "Din Tai Fung\nDumplings!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-din-tai-fung-1"
+    ],
+    "published": [
+      "2017-08-15T01:16:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Din Tai Fung since April."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Din Tai Fung since April.</p>",
+              "value": "You haven't checked in to Din Tai Fung since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d1f0bb33925d60c9b14fb3baff69ac57"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59924b426f0aa21aa7345a7c/3c2edbbde77a928fc2bd070400e64fd1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59924b426f0aa21aa7345a7c/3c2edbbde77a928fc2bd070400e64fd1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "No filters needed for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>No filters needed for that photo.</p>",
+              "value": "No filters needed for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e54c9139bfd5f7378aba02e0e7012415"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59924b426f0aa21aa7345a7c/fb2a961c61117b1a3a17fa5ac170c281"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59924b426f0aa21aa7345a7c/fb2a961c61117b1a3a17fa5ac170c281"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59924b426f0aa21aa7345a7c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "610d7cee19b087aa47405f76febca105"
+    ]
+  }
+}

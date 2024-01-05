@@ -1,0 +1,218 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "iPad Pro Impressions"
+    ],
+    "content": [
+      {
+        "html": "<p><img alt=\"iPad Pro\" height=\"1144\" src=\"https://cleverdevil.io/file/de304062fbdf6525160112f35fd328a8\" width=\"1144\"/></p><p>This past weekend, I took the plunge and purchased myself an <a href=\"https://amzn.to/2QeZazn\">iPad Pro</a>, including an <a href=\"https://amzn.to/2VG0bGh\">Apple Pencil</a> and <a href=\"https://amzn.to/2E6Ii91\">Smart Keyboard Folio</a>. Amazon had the iPad Pro on sale for 16% off of list price, which is an uncommonly large discount that I couldn\u2019t pass up. I also had saved up quite a bit of Amazon rewards credit, so my out of pocket cost was quite low. I\u2019ve had my eye on an iPad Pro for quite some time, and now that I have one, its time to share my impressions.</p><h2>Which iPad Pro?</h2><p>I chose to purchase the smaller 11\" iPad Pro in Space Gray with 256GB of storage. Why? Well, the 12.9\" iPad Pro was very tempting, but my primary use case for this device is to be a highly portable alternative to my MacBook Pro. What do I plan to use it for? Ideally:</p><ul><li>Productivity\n<ul><li>Email</li>\n<li>Documents</li>\n<li>Task Management</li>\n<li>Note-taking, as an alternative to my trusty paper notebooks</li>\n</ul></li>\n<li>Development\n<ul><li>SSH\u2019ing into my various Linux environments</li>\n<li>Local development, preferably using Python</li>\n</ul></li>\n<li>Writing / Blogging\n<ul><li>Publishing to my website</li>\n</ul></li>\n<li>Media\n<ul><li>Streaming from my <a href=\"https://plex.tv\">Plex</a> server</li>\n<li>Hulu, Netflix, Amazon Prime Video, etc.</li>\n</ul></li>\n<li>Reading\n<ul><li>Books</li>\n<li>News</li>\n<li>Comics</li>\n<li>Web</li>\n<li>My <a href=\"https://github.com/cleverdevil/together\">Social Reader</a></li>\n</ul></li>\n</ul><p>Given my constraints and desire to have something more portable than my MacBook Pro, I opted for the smaller size iPad Pro and Apple\u2019s very slim keyboard case, with the Apple Pencil to help me replace my paper notebooks. I chose the 256 GB storage option because the base model only offers 64 GB, which is just not enough for my needs.</p><h2>The Good: Hardware</h2><p>So, what\u2019s the good news? Well, there\u2019s a lot to like. First off, the hardware itself is simply stunning. Its light, thin, fast, and beautiful. The screen is bright and crisp, and the bezel-less design is reminiscent of <a href=\"http://www.oobject.com/category/15-dieter-rams-classics/\">Dieter Rams' greatest hits</a>. The last hardware design that I loved this much was the <a href=\"https://en.m.wikipedia.org/wiki/IPhone_5S\">iPhone 5s</a>.</p><p>The accessories are similarly well designed. The Smart Keyboard Folio attaches to the iPad Pro with ease thanks to an array of powerful magnets, and the Smart Connector means that I never have to worry about charging or pairing the keyboard. It just works. The Apple Pencil is similarly impressive, with an ingenious magnetic attachment to the side of the iPad Pro, and wireless charging that is effortless.</p><h2>The Good: Software</h2><p>iOS has come a long way in the past few years, adding rudimentary file management in the Files app, early multi-tasking capabilities, and iPad-specific features that enhance the overall experience. That said, there\u2019s a long, long way to go from an OS-level to truly make the iPad Pro a <em>professional</em> tool. I\u2019ll touch on that more later.</p><p>Now, there are some truly amazing apps that I have been enjoying to help me with my target use cases. They\u2019re not all perfect, but I am encouraged by the vibrant and growing ecosystem of truly professional apps for iPad. These give me a great deal of hope for the future of the Mac as these apps begin to show up via Marzipan. Below is a list of apps I am using or experimenting with so far:</p><ul><li>Productivity\n<ul><li><strong>Email</strong> \u2013 Apple Mail. I am a heavy email user, and try out email clients often. For now, I am sticking with the built-in option, which is adequate.</li>\n<li><strong>Documents</strong> \u2013 Pages, Numbers, Keynote, and <a href=\"https://getdrafts.com\">Drafts</a> for personal projects. For work, we use GSuite, so I have installed Google\u2019s Drive, Slides, Sheets, and Docs apps.</li>\n<li><strong>Task-Management</strong> \u2013 I use <a href=\"https://culturedcode.com/things/\">Things</a> on my Mac and iPhone, and now I am using it on my iPad Pro.</li>\n<li><strong>Note-taking</strong> \u2013 This is an area where I am spending a lot of time experimenting. I have very much enjoyed note-taking in Drafts with my Smart Keyboard Folio attached, but am also trying out note-taking apps that are more Apple Pencil driven, including <a href=\"https://www.gingerlabs.com\">Notability</a> and <a href=\"https://www.myscript.com/nebo\">Nebo</a>.</li>\n</ul></li>\n<li>Development\n<ul><li><strong>SSH</strong> \u2013 <a href=\"https://www.panic.com/prompt/\">Panic\u2019s Prompt</a> and the emerging <a href=\"http://ish.app\">iSH</a>, which adds an emulated Linux environment to iOS.</li>\n<li><strong>Local Development</strong> \u2013 The aforementioned iSH has been a revelation, enabling me to do local development in a very similar way to how I would on macOS, with vim, Python 3.7, git, virtualenv, and other common terminal-based tools. I\u2019m also experimenting with <a href=\"https://omz-software.com/pythonista/\">Pythonista</a> and have my eye on a few other editors to play with (<a href=\"http://textasticapp.com\">Textastic</a>, <a href=\"https://buffereditor.com/\">Buffer</a>, etc.).</li>\n</ul></li>\n<li>Writing / Blogging\n<ul><li><strong>Blogging</strong> \u2013 Drafts with a custom Micropub action for publishing to my website.</li>\n<li><strong>Microblogging</strong> \u2013 Directly on my website, through <a href=\"https://indigenous.abode.pub\">Indigenous</a>, or via the <a href=\"https://micro.blog\">Micro.blog</a> app.</li>\n</ul></li>\n<li>Media\n<ul><li><strong>Streaming</strong> \u2013 <a href=\"https://plex.tv\">Plex</a>, Hulu, Netflix, Amazon Prime Video, etc.</li>\n<li><strong>Local Video</strong> \u2013 <a href=\"https://firecore.com/infuse\">Infuse</a>, <a href=\"http://www.videolan.org\">VLC</a>, and Plex. To get video into Infuse and VLC, I tend to use <a href=\"https://youtube-dl.org/\">youtube-dl</a> inside of iSH.</li>\n</ul></li>\n<li>Reading\n<ul><li><strong>Books</strong> \u2013 Apple\u2019s Books app works great for ePub content.</li>\n<li><strong>News</strong> \u2013 Apple\u2019s News app is decent, but mostly I use Safari with my favorite news sites, or more likely I use my feed reader.</li>\n<li><strong>Comics</strong> \u2013 <a href=\"http://chunkyreader.com\">Chunky Reader</a> is pretty solid, though I wish this entire category was more like Plex, with rich metadata indexing and organization on the server, with clients for reading.</li>\n<li><strong>Web</strong> \u2013 Safari.</li>\n<li><strong>Feeds</strong> \u2013 I have installed <a href=\"https://github.com/cleverdevil/together\">Together</a> as a <a href=\"https://en.wikipedia.org/wiki/Progressive_Web_Apps\">Progressive Web App</a> on my home screen and it works well.</li>\n</ul></li>\n</ul><p>While none of the above apps are <em>perfect</em>, I have been quite impressed with them as a whole.</p><h2>The Bad: Hardware</h2><p>While the iPad Pro and its accessories are truly impressive hardware, they\u2019re not free of issues. Because the bezels are so small on the iPad Pro, it can be a little uncomfortable to hold in portrait layout while reading. In the lap, the whole Smart Keyboard Folio and iPad Pro setup is a bit top-heavy, making it slightly unstable. Other than these minor nits, overall I think the hardware is top-notch.</p><h2>The Bad: Software</h2><p>While the app ecosystem is amazing, and iOS has made great strides, there are still some fundamental missing pieces that prevent me from viewing iOS as a true alternative to macOS:</p><ul><li><strong>Keyboard</strong> \u2013 While the Smart Keyboard Folio is generally great to type on, in spite of its small size and low key travel, it is greatly hampered by software limitations in iOS. There is no ability to re-map keys in iOS, so I am stuck with a system-wide Caps Lock key, and no ESC key. Some apps, such as iSH, allow you to map Caps Lock to ESC, but this should really be handled system-wide. In addition, the Smart Keyboard Folio has a \u201cglobe\u201d button in the bottom left corner which is infuriating. Pressing it pops up the Emoji keyboard on screen, and its right next to the control key, which I use heavily.</li>\n<li><strong>Fonts</strong> \u2013\u00a0iOS comes with a small set of fonts, and there is no standard, built-in way to install additional fonts. I have been able to use an app called <a href=\"https://anyfont.app/\">AnyFont</a> to install fonts, including my preferred programming font, <a href=\"https://dank.sh\">Dank Mono</a>, but because the system itself doesn\u2019t have support for font management, most apps don\u2019t surface font customization. Kudos to Drafts, though, for allowing users to pick from any font available to the system, including ones installed through AnyFont.</li>\n<li><strong>File Management</strong> \u2013 Apple added the Files app to iOS, and its a good start, but has so far to go to truly make it a pro-level file management tool. In addition, there isn\u2019t any ability to plug in external storage to my iPad Pro, in spite of the fact that it has a USB-C port.</li>\n<li><strong>Multi-Tasking</strong> \u2013 iOS has a very rudimentary multi-tasking system, which allows you to place multiple apps onto the screen at the same time, in floating panels, and in split views. It works, but is fiddly to use, with delicate gestures required to bring up the dock, drag apps over each other, and position them. In addition, there is no way to have multiple \u201cwindows\u201d of an app used in different multi-tasking sessions. I think Apple is definitely innovating here, looking for new ways to approach multi-tasking than traditional window management. In many ways, iOS multi-tasking reminds me of <a href=\"https://en.wikipedia.org/wiki/Tiling_window_manager\">tiling window managers</a>, just\u2026 not as good. I\u2019m hoping for good news on this front at WWDC.</li>\n<li><strong>Web Browsing</strong> \u2013 Safari is an awesome browser. But, on the iPad, too often websites give you the mobile version of their site, rather than serving up the \u201cfull size\u201d website. In addition, there isn\u2019t any sort of download manager, or support for extensions other than content blockers.</li>\n<li><strong>iSH</strong> \u2013 I have heaped praise on iSH above, and it really is pretty incredible. Its also an open source project, and is rapidly improving\u2026 but its not there yet. Things I\u2019d love to see added to iSH that would greatly improve my experience: custom font selection, better performance, compatibility with additional software, tabbed sessions, and a choice of a different base operating system than Alpine Linux.</li>\n</ul><h2>Conclusions</h2><p>Overall, I am thrilled with my iPad Pro, and really excited to see where Apple is headed with iOS for \u201cpro\u201d users. There is so much to like, and massive potential for improvement. While I don\u2019t see the iPad Pro displacing my laptop anytime soon, I think it will become an important part of my workflow.</p>",
+        "value": "iPad Pro\nThis past weekend, I took the plunge and purchased myself an iPad Pro, including an Apple Pencil and Smart Keyboard Folio. Amazon had the iPad Pro on sale for 16% off of list price, which is an uncommonly large discount that I couldn\u2019t pass up. I also had saved up quite a bit of Amazon rewards credit, so my out of pocket cost was quite low. I\u2019ve had my eye on an iPad Pro for quite some time, and now that I have one, its time to share my impressions.Which iPad Pro?\nI chose to purchase the smaller 11\" iPad Pro in Space Gray with 256GB of storage. Why? Well, the 12.9\" iPad Pro was very tempting, but my primary use case for this device is to be a highly portable alternative to my MacBook Pro. What do I plan to use it for? Ideally:Productivity Email Documents Task Management Note-taking, as an alternative to my trusty paper notebooks Development SSH\u2019ing into my various Linux environments Local development, preferably using Python Writing / Blogging Publishing to my website Media Streaming from my Plex server Hulu, Netflix, Amazon Prime Video, etc. Reading Books News Comics Web My Social Reader\nGiven my constraints and desire to have something more portable than my MacBook Pro, I opted for the smaller size iPad Pro and Apple\u2019s very slim keyboard case, with the Apple Pencil to help me replace my paper notebooks. I chose the 256 GB storage option because the base model only offers 64 GB, which is just not enough for my needs.The Good: Hardware\nSo, what\u2019s the good news? Well, there\u2019s a lot to like. First off, the hardware itself is simply stunning. Its light, thin, fast, and beautiful. The screen is bright and crisp, and the bezel-less design is reminiscent of Dieter Rams' greatest hits. The last hardware design that I loved this much was the iPhone 5s.\nThe accessories are similarly well designed. The Smart Keyboard Folio attaches to the iPad Pro with ease thanks to an array of powerful magnets, and the Smart Connector means that I never have to worry about charging or pairing the keyboard. It just works. The Apple Pencil is similarly impressive, with an ingenious magnetic attachment to the side of the iPad Pro, and wireless charging that is effortless.The Good: Software\niOS has come a long way in the past few years, adding rudimentary file management in the Files app, early multi-tasking capabilities, and iPad-specific features that enhance the overall experience. That said, there\u2019s a long, long way to go from an OS-level to truly make the iPad Pro a professional tool. I\u2019ll touch on that more later.\nNow, there are some truly amazing apps that I have been enjoying to help me with my target use cases. They\u2019re not all perfect, but I am encouraged by the vibrant and growing ecosystem of truly professional apps for iPad. These give me a great deal of hope for the future of the Mac as these apps begin to show up via Marzipan. Below is a list of apps I am using or experimenting with so far:Productivity Email \u2013 Apple Mail. I am a heavy email user, and try out email clients often. For now, I am sticking with the built-in option, which is adequate. Documents \u2013 Pages, Numbers, Keynote, and Drafts for personal projects. For work, we use GSuite, so I have installed Google\u2019s Drive, Slides, Sheets, and Docs apps. Task-Management \u2013 I use Things on my Mac and iPhone, and now I am using it on my iPad Pro. Note-taking \u2013 This is an area where I am spending a lot of time experimenting. I have very much enjoyed note-taking in Drafts with my Smart Keyboard Folio attached, but am also trying out note-taking apps that are more Apple Pencil driven, including Notability and Nebo. Development SSH \u2013 Panic\u2019s Prompt and the emerging iSH, which adds an emulated Linux environment to iOS. Local Development \u2013 The aforementioned iSH has been a revelation, enabling me to do local development in a very similar way to how I would on macOS, with vim, Python 3.7, git, virtualenv, and other common terminal-based tools. I\u2019m also experimenting with Pythonista and have my eye on a few other editors to play with (Textastic, Buffer, etc.). Writing / Blogging Blogging \u2013 Drafts with a custom Micropub action for publishing to my website. Microblogging \u2013 Directly on my website, through Indigenous, or via the Micro.blog app. Media Streaming \u2013 Plex, Hulu, Netflix, Amazon Prime Video, etc. Local Video \u2013 Infuse, VLC, and Plex. To get video into Infuse and VLC, I tend to use youtube-dl inside of iSH. Reading Books \u2013 Apple\u2019s Books app works great for ePub content. News \u2013 Apple\u2019s News app is decent, but mostly I use Safari with my favorite news sites, or more likely I use my feed reader. Comics \u2013 Chunky Reader is pretty solid, though I wish this entire category was more like Plex, with rich metadata indexing and organization on the server, with clients for reading. Web \u2013 Safari. Feeds \u2013 I have installed Together as a Progressive Web App on my home screen and it works well.\nWhile none of the above apps are perfect, I have been quite impressed with them as a whole.The Bad: Hardware\nWhile the iPad Pro and its accessories are truly impressive hardware, they\u2019re not free of issues. Because the bezels are so small on the iPad Pro, it can be a little uncomfortable to hold in portrait layout while reading. In the lap, the whole Smart Keyboard Folio and iPad Pro setup is a bit top-heavy, making it slightly unstable. Other than these minor nits, overall I think the hardware is top-notch.The Bad: Software\nWhile the app ecosystem is amazing, and iOS has made great strides, there are still some fundamental missing pieces that prevent me from viewing iOS as a true alternative to macOS:Keyboard \u2013 While the Smart Keyboard Folio is generally great to type on, in spite of its small size and low key travel, it is greatly hampered by software limitations in iOS. There is no ability to re-map keys in iOS, so I am stuck with a system-wide Caps Lock key, and no ESC key. Some apps, such as iSH, allow you to map Caps Lock to ESC, but this should really be handled system-wide. In addition, the Smart Keyboard Folio has a \u201cglobe\u201d button in the bottom left corner which is infuriating. Pressing it pops up the Emoji keyboard on screen, and its right next to the control key, which I use heavily. Fonts \u2013\u00a0iOS comes with a small set of fonts, and there is no standard, built-in way to install additional fonts. I have been able to use an app called AnyFont to install fonts, including my preferred programming font, Dank Mono, but because the system itself doesn\u2019t have support for font management, most apps don\u2019t surface font customization. Kudos to Drafts, though, for allowing users to pick from any font available to the system, including ones installed through AnyFont. File Management \u2013 Apple added the Files app to iOS, and its a good start, but has so far to go to truly make it a pro-level file management tool. In addition, there isn\u2019t any ability to plug in external storage to my iPad Pro, in spite of the fact that it has a USB-C port. Multi-Tasking \u2013 iOS has a very rudimentary multi-tasking system, which allows you to place multiple apps onto the screen at the same time, in floating panels, and in split views. It works, but is fiddly to use, with delicate gestures required to bring up the dock, drag apps over each other, and position them. In addition, there is no way to have multiple \u201cwindows\u201d of an app used in different multi-tasking sessions. I think Apple is definitely innovating here, looking for new ways to approach multi-tasking than traditional window management. In many ways, iOS multi-tasking reminds me of tiling window managers, just\u2026 not as good. I\u2019m hoping for good news on this front at WWDC. Web Browsing \u2013 Safari is an awesome browser. But, on the iPad, too often websites give you the mobile version of their site, rather than serving up the \u201cfull size\u201d website. In addition, there isn\u2019t any sort of download manager, or support for extensions other than content blockers. iSH \u2013 I have heaped praise on iSH above, and it really is pretty incredible. Its also an open source project, and is rapidly improving\u2026 but its not there yet. Things I\u2019d love to see added to iSH that would greatly improve my experience: custom font selection, better performance, compatibility with additional software, tabbed sessions, and a choice of a different base operating system than Alpine Linux. Conclusions\nOverall, I am thrilled with my iPad Pro, and really excited to see where Apple is headed with iOS for \u201cpro\u201d users. There is so much to like, and massive potential for improvement. While I don\u2019t see the iPad Pro displacing my laptop anytime soon, I think it will become an important part of my workflow."
+      }
+    ],
+    "url": [
+      "/2019/ipad-pro-impressions"
+    ],
+    "published": [
+      "2019-05-17T02:54:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 53.74\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 53.74\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 53.74\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/ipad-pro-impressions/annotations/3d4c5d7d95712d8ad0d438339b1fc528"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/ipad-pro-impressions/annotations/3d4c5d7d95712d8ad0d438339b1fc528"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "iPad Pro Impressions by Jonathan LaCour Jonathan LaCour Jonathan LaCourThis past weekend, I took the plunge and purchased myself an iPad Pro, including an Apple Pencil and Smart Keyboard Folio. Amazon had the iPad Pro on sale for 16% off of list price, which is an uncommonly large discount that I couldn\u2019t pass up. I also had saved up quite a bit of Amazon rewards cre\u2026 We have almost matching iPads! I went with silver so the cellular bands would show up less. It really is a great device, I use it for all the things you use it for and more \ud83d\ude42"
+          ],
+          "content": [
+            {
+              "html": "<p>iPad Pro Impressions by Jonathan LaCour Jonathan LaCour Jonathan LaCourThis past weekend, I took the plunge and purchased myself an iPad Pro, including an Apple Pencil and Smart Keyboard Folio. Amazon had the iPad Pro on sale for 16% off of list price, which is an uncommonly large discount that I couldn\u2019t pass up. I also had saved up quite a bit of Amazon rewards cre\u2026 We have almost matching iPads! I went with silver so the cellular bands would show up less. It really is a great device, I use it for all the things you use it for and more \ud83d\ude42</p>",
+              "value": "iPad Pro Impressions by Jonathan LaCour Jonathan LaCour Jonathan LaCourThis past weekend, I took the plunge and purchased myself an iPad Pro, including an Apple Pencil and Smart Keyboard Folio. Amazon had the iPad Pro on sale for 16% off of list price, which is an uncommonly large discount that I couldn\u2019t pass up. I also had saved up quite a bit of Amazon rewards cre\u2026 We have almost matching iPads! I went with silver so the cellular bands would show up less. It really is a great device, I use it for all the things you use it for and more \ud83d\ude42"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci82NDU0Y2VlMTQ2N2RlNWExMmVhOWYxYzkxZDQ4ZTEwMD9zPTQwJmQ9cmV0cm8mcj1n/300/square"
+                ],
+                "name": [
+                  "Rosemary Orchard"
+                ],
+                "url": [
+                  "https://rosemaryorchard.com/"
+                ]
+              },
+              "value": "Rosemary Orchard"
+            }
+          ],
+          "url": [
+            "https://rosemaryorchard.com/uncategorized/2714/"
+          ]
+        },
+        "value": "https://rosemaryorchard.com/uncategorized/2714/"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1129219310310875137",
+      "https://mastodon.social/@cleverdevil/102109141819950318"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "75276a4a59205fb813e1274bb603b2f6"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1129219310310875137?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1129219310310875137%2F154144410"
+          ],
+          "published": [
+            "2019-05-17T03:16:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andy"
+                ],
+                "url": [
+                  "https://twitter.com/AndyNicolaides"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwODYzNTc4NjExMzM5Mzg2ODgvWDk1N0JKTXUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwODYzNTc4NjExMzM5Mzg2ODgvWDk1N0JKTXUuanBn/300/square Andy"
+            }
+          ]
+        },
+        "value": "Andy"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://lostfocus.de/2019/05/23395/"
+          ],
+          "published": [
+            "2019-05-17T08:33:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Dominik Schwind"
+                ],
+                "url": [
+                  "https://lostfocus.de"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Dominik Schwind"
+            }
+          ]
+        },
+        "value": "Dominik Schwind"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-17T02:50:22Z",
+      "year": 2019,
+      "month": 5,
+      "day": 17,
+      "hour": 2,
+      "minute": 50,
+      "x": -122.38261639568171,
+      "y": 37.615266115848534,
+      "altitude": -3,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "charging",
+      "battery_level": 0.6899999976158142,
+      "wifi": ""
+    }
+  }
+}

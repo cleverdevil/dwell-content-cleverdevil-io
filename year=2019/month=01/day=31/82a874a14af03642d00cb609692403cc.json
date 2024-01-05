@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-229-a-more-intentional-folding"
+    ],
+    "published": [
+      "2019-01-31T04:06:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.21\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.21\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.21\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-229-a-more-intentional-folding/annotations/ba75e36b31b2851605fd1a68ca587d61"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-229-a-more-intentional-folding/annotations/ba75e36b31b2851605fd1a68ca587d61"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "82a874a14af03642d00cb609692403cc"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-31T08:03:47Z",
+      "year": 2019,
+      "month": 1,
+      "day": 31,
+      "hour": 8,
+      "minute": 3,
+      "x": -118.40466354562575,
+      "y": 33.94708602616539,
+      "altitude": 35,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 229: A More Intentional Folding"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/386416f5ffaf35bbf9c0c2835e316a91/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm81DB70"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we imagine how Apple might make an iPhone with a foldable OLED screen, discuss Apple\u2019s fancy new iPad Pro videos, and Jason tries to explain NBC\u2019s confusing new streaming service to Myke.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we imagine how Apple might make an iPhone with a foldable OLED screen, discuss Apple\u2019s fancy new iPad Pro videos, and Jason tries to explain NBC\u2019s confusing new streaming service to Myke.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

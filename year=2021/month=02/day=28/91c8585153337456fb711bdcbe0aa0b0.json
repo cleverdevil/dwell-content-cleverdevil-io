@@ -1,0 +1,136 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Today, I finished up the first phase on my personal health tracking system. I have all of my HealthKit data since roughly 2015 in my personal data lake. You can see visualizations here: https://cleverdevil.io/health and I also have integrated health data into my monthly summaries, such as https://cleverdevil.io/summary/2020/01"
+    ],
+    "content": [
+      {
+        "html": "Today, I finished up the first phase on my personal health tracking system. I have all of my HealthKit data since roughly 2015 in my personal data lake. You can see visualizations here: <a href=\"https://cleverdevil.io/health\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>health</a> and I also have integrated health data into my monthly summaries, such as <a href=\"https://cleverdevil.io/summary/2020/01\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>summary/<wbr/>2020/<wbr/>01</a>",
+        "value": "Today, I finished up the first phase on my personal health tracking system. I have all of my HealthKit data since roughly 2015 in my personal data lake. You can see visualizations here: https://cleverdevil.io/health and I also have integrated health data into my monthly summaries, such as https://cleverdevil.io/summary/2020/01"
+      }
+    ],
+    "url": [
+      "/2021/today-i-finished-up-the-first-phase"
+    ],
+    "published": [
+      "2021-02-28T03:45:41+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1365870980552404994",
+      "https://mastodon.social/@cleverdevil/105806824296400136"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "91c8585153337456fb711bdcbe0aa0b0"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1365870980552404994#favorited-by-6016212"
+          ],
+          "published": [
+            "2021-02-28T06:57:24+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Marty McGuire"
+                ],
+                "url": [
+                  "https://twitter.com/schmarty"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyOTA1Njk0OTU1MjgzNjYwOC9pYWFnZnllbi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYyOTA1Njk0OTU1MjgzNjYwOC9pYWFnZnllbi5qcGc,/300/square Marty McGuire"
+            }
+          ]
+        },
+        "value": "Marty McGuire"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1365870980552404994#favorited-by-5504192"
+          ],
+          "published": [
+            "2021-03-01T01:37:55+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mark Jones (\u30de\u30fc\u30af\u30fb\u30b8\u30aa\u30f3\u30b9)"
+                ],
+                "url": [
+                  "https://twitter.com/cricketgeek"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExODAzNzExODcvTWFya0pvbmVzX2xhbmhhbV9wb3J0cmFpdC5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExODAzNzExODcvTWFya0pvbmVzX2xhbmhhbV9wb3J0cmFpdC5wbmc,/300/square Mark Jones (\u30de\u30fc\u30af\u30fb\u30b8\u30aa\u30f3\u30b9)"
+            }
+          ]
+        },
+        "value": "Mark Jones (\u30de\u30fc\u30af\u30fb\u30b8\u30aa\u30f3\u30b9)"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-28T03:43:53Z",
+      "year": 2021,
+      "month": 2,
+      "day": 28,
+      "hour": 3,
+      "minute": 43,
+      "x": -118.37030528818329,
+      "y": 33.81545040125114,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  }
+}

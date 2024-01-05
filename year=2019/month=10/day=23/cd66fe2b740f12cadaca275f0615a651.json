@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Disney California Adventure Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": "Disney California Adventure Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disney California Adventure Park"
+          ],
+          "latitude": [
+            "33.806112"
+          ],
+          "longitude": [
+            "-117.920859"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-disney-california-adventure-park"
+    ],
+    "published": [
+      "2019-10-23T01:22:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Disney California Adventure Park!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Disney California Adventure Park!</p>",
+              "value": "Your first check-in at Disney California Adventure Park!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dafab5d3674790008eb2038/d46d407f197b6325b74c7d5179537fe2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dafab5d3674790008eb2038/d46d407f197b6325b74c7d5179537fe2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 81.96\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 81.96\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 81.96\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-disney-california-adventure-park/annotations/3960c3764fe86c24aadaf1b664169f7e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-disney-california-adventure-park/annotations/3960c3764fe86c24aadaf1b664169f7e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dafab5d3674790008eb2038"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cd66fe2b740f12cadaca275f0615a651"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-23T01:20:04Z",
+      "year": 2019,
+      "month": 10,
+      "day": 23,
+      "hour": 1,
+      "minute": 20,
+      "x": -117.92259422483748,
+      "y": 33.80977125666474,
+      "altitude": 40,
+      "motion": [],
+      "speed": 4,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

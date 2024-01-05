@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-302-the-wwdc-keynote-draft-2020"
+    ],
+    "published": [
+      "2020-06-20T17:12:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.48\u00b0F and 30% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.48\u00b0F and 30% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.48\u00b0F and 30% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-302-the-wwdc-keynote-draft-2020/annotations/f4e2badd1a3a840cbe910a94a0c0bbb6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-302-the-wwdc-keynote-draft-2020/annotations/f4e2badd1a3a840cbe910a94a0c0bbb6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7e1e974e66931e244a0a41ee09a3d2b7"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-20T19:29:50Z",
+      "year": 2020,
+      "month": 6,
+      "day": 20,
+      "hour": 19,
+      "minute": 29,
+      "x": -116.91144366016978,
+      "y": 34.24041555311603,
+      "altitude": 2074,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 302: The WWDC Keynote Draft 2020"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b4d9cd5be9ebf78e80614eba934386b9/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_dSZa4"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for the 2020 WWDC Keynote draft! Jason and Myke pick items both obvious and obscure, in the hopes of predicting what Apple will do on next week\u2019s keynote livestream. Also, we announce Upgrade+ \u2013 really!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s time for the 2020 WWDC Keynote draft! Jason and Myke pick items both obvious and obscure, in the hopes of predicting what Apple will do on next week\u2019s keynote livestream. Also, we announce Upgrade+ \u2013 really!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

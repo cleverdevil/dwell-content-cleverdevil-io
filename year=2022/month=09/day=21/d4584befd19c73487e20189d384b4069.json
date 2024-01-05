@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/atp-movie-club-my-cousin-vinny"
+    ],
+    "published": [
+      "2022-09-21T07:09:06+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d4584befd19c73487e20189d384b4069"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-21T07:53:54Z",
+      "year": 2022,
+      "month": 9,
+      "day": 21,
+      "hour": 7,
+      "minute": 53,
+      "x": -116.38037438049001,
+      "y": 33.70168094606425,
+      "altitude": 127,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to ATP Movie Club: My Cousin Vinny"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dae0cd4ef97e2c36bc08e9ce3704aff0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL_yRDg"
+        ],
+        "content": [
+          {
+            "html": "<p>In the first of a three-part members-only series, Marco has us watch and discuss the 1992 film \u201cMy Cousin Vinny\u201d.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "In the first of a three-part members-only series, Marco has us watch and discuss the 1992 film \u201cMy Cousin Vinny\u201d.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/wwdc-2023-federicos-experience-with-apple-vision-pro"
+    ],
+    "published": [
+      "2023-06-08T00:49:12+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e5ab2f47af36915d3cbb6c786303b2c9"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-08T03:14:48Z",
+      "year": 2023,
+      "month": 6,
+      "day": 8,
+      "hour": 3,
+      "minute": 14,
+      "x": -118.36900185609588,
+      "y": 33.81315596069291,
+      "altitude": -500,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.1899999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to WWDC 2023: Federico\u2019s Experience with Apple Vision Pro"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/58f7c6962949342648547882420880f6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+I5Cmmz-0A"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple Vision Pro</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  AppStories</p>",
+            "value": "Apple Vision Pro\nBy AppStories"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

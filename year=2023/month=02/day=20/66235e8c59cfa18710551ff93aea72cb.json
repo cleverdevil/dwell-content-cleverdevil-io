@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/acting-in-bat-faith"
+    ],
+    "published": [
+      "2023-02-20T08:03:11+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "66235e8c59cfa18710551ff93aea72cb"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-21T07:57:18Z",
+      "year": 2023,
+      "month": 2,
+      "day": 21,
+      "hour": 7,
+      "minute": 57,
+      "x": -116.38024345251537,
+      "y": 33.70177352700573,
+      "altitude": 131,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Acting in Bat Faith"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c211437ae2aee9316244f5b86615ac98/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1k3i8I"
+        ],
+        "content": [
+          {
+            "html": "<p>Elyse brings the case against her wife, Erin. Erin wants to install a bat box in their yard to help manage mosquitoes. But, Elyse is opposed. She is concerned about becoming the neighborhood\u2019s weird bat people. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Elyse brings the case against her wife, Erin. Erin wants to install a bat box in their yard to help manage mosquitoes. But, Elyse is opposed. She is concerned about becoming the neighborhood\u2019s weird bat people. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

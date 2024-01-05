@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Taylor's Prime Steak House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Taylor's Prime Steak House"
+          ],
+          "latitude": [
+            "34.057877825726"
+          ],
+          "longitude": [
+            "-118.30216370946"
+          ]
+        },
+        "value": "Taylor's Prime Steak House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Taylor's Prime Steak House"
+          ],
+          "latitude": [
+            "34.057877825726"
+          ],
+          "longitude": [
+            "-118.30216370946"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Quick dinner before another event.</p>",
+        "value": "Quick dinner before another event."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-taylors-prime-steak-house"
+    ],
+    "published": [
+      "2018-01-12T02:36:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Steakhouses!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Steakhouses!</p>",
+              "value": "Wow! That's 5 check-ins at Steakhouses!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a581f0c898bdc6ee5e85389/ad4537d536237696d94ba421c221b834"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a581f0c898bdc6ee5e85389/ad4537d536237696d94ba421c221b834"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a581f0c898bdc6ee5e85389"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4e313a4560f5772950a4748e6b57eff8"
+    ]
+  }
+}

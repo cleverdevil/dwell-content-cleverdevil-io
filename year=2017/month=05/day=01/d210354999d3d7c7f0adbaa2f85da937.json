@@ -1,0 +1,100 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/blantons-manhattan"
+    ],
+    "published": [
+      "2017-05-01T02:14:22+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "d210354999d3d7c7f0adbaa2f85da937"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food",
+          "#micro"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/blantons-manhattan"
+              ],
+              "name": [
+                "Blanton's Manhattan"
+              ]
+            },
+            "value": "Blanton's Manhattan"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/52bf66edac36a4d329cde5c3206f4e5a/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "<p><a class=\"p-category\" href=\"/tag/micro\" rel=\"tag\">#micro</a></p>",
+            "value": "#micro"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

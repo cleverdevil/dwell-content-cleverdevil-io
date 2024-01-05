@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-275-remove-all-of-the-holes"
+    ],
+    "published": [
+      "2019-12-14T02:59:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.85\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.85\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.85\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-275-remove-all-of-the-holes/annotations/b5f49d931239c4e7f692af84a7faead5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-275-remove-all-of-the-holes/annotations/b5f49d931239c4e7f692af84a7faead5"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d8c640aac238315d64e74aaa96649cc9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-14T03:56:52Z",
+      "year": 2019,
+      "month": 12,
+      "day": 14,
+      "hour": 3,
+      "minute": 56,
+      "x": -118.37034253275992,
+      "y": 33.81544593610206,
+      "altitude": 54,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 275: Remove All of the Holes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ee4f3a7d3985d8fada94ebdab2c7b2ce/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-uqyAM"
+        ],
+        "content": [
+          {
+            "html": "<p>How would an iPhone without any ports even work? Also, Apple gets Golden Globe nominations and Jason explains why you don\u2019t need a Mac Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "How would an iPhone without any ports even work? Also, Apple gets Golden Globe nominations and Jason explains why you don\u2019t need a Mac Pro.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

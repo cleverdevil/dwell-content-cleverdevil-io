@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/mac-power-users-466-john-gruber-returns"
+    ],
+    "published": [
+      "2019-01-28T05:47:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.82\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.82\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.82\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/mac-power-users-466-john-gruber-returns/annotations/14a54f6c6c86c645453721cbb893fe41"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/mac-power-users-466-john-gruber-returns/annotations/14a54f6c6c86c645453721cbb893fe41"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5696b7121286789a385a8bcd129b1d65"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-28T08:01:49Z",
+      "year": 2019,
+      "month": 1,
+      "day": 28,
+      "hour": 8,
+      "minute": 1,
+      "x": -156.69162394327927,
+      "y": 20.940074737037992,
+      "altitude": 21,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8399999737739563,
+      "wifi": "Westin_Kaanapali"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Mac Power Users 466: John Gruber Returns"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/475a49e1cc01751267cf6865139e4fb9/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FrCGauhpg"
+        ],
+        "content": [
+          {
+            "html": "<p>John Gruber of Daring Fireball and The Talk Show join David and Stephen for a discussion about writing and podcasting, as well as WWDC and what the future may hold for the iPad and Mac.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Mac Power Users</p>",
+            "value": "John Gruber of Daring Fireball and The Talk Show join David and Stephen for a discussion about writing and podcasting, as well as WWDC and what the future may hold for the iPad and Mac.\nBy Mac Power Users"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

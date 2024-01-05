@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Austin Bergstrom International Airport (AUS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Austin Bergstrom International Airport (AUS)"
+          ],
+          "latitude": [
+            "30.202284358221"
+          ],
+          "longitude": [
+            "-97.667249574254"
+          ]
+        },
+        "value": "Austin Bergstrom International Airport (AUS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Austin Bergstrom International Airport (AUS)"
+          ],
+          "latitude": [
+            "30.202284358221"
+          ],
+          "longitude": [
+            "-97.667249574254"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-austin-bergstrom-international-airport-aus-9"
+    ],
+    "published": [
+      "2023-01-19T18:58:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Austin Bergstrom International Airport 10 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Austin Bergstrom International Airport 10 times!</p>",
+              "value": "Wow! You've checked in to Austin Bergstrom International Airport 10 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63c992f391c0441f6dc1af72/209151104d9eeb41b37fcad37b2b7a68"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63c992f391c0441f6dc1af72/209151104d9eeb41b37fcad37b2b7a68"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63c992f391c0441f6dc1af72"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4c1a4a8d4ce55dff2b8a5c16e705f4e4"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-19T18:58:40Z",
+      "year": 2023,
+      "month": 1,
+      "day": 19,
+      "hour": 18,
+      "minute": 58,
+      "x": -97.65957253303728,
+      "y": 30.212924303803042,
+      "altitude": 150,
+      "motion": [
+        "driving"
+      ],
+      "speed": 10,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": ""
+    }
+  }
+}

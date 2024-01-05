@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Forged in Fire 6x03 \"Washington's Colichemarde\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/476b70777a71ca5bdfac96bbba873f64/thumb.jpg"
+          ],
+          "name": [
+            "Forged in Fire 6x03 \"Washington's Colichemarde\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3365282"
+          ]
+        },
+        "value": "Forged in Fire 6x03 \"Washington's Colichemarde\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Forged in Fire 6x03 \"Washington's Colichemarde\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Forged in Fire 6x03 \"Washington's Colichemarde\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/forged-in-fire-6x03-washingtons-colichemarde"
+    ],
+    "published": [
+      "2019-02-21T06:15:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 49.9\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 49.9\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 49.9\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/forged-in-fire-6x03-washingtons-colichemarde/annotations/2ddfe1af5a723b5bbff1d6f9371791ef"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/forged-in-fire-6x03-washingtons-colichemarde/annotations/2ddfe1af5a723b5bbff1d6f9371791ef"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "d2a61f6d0593d1451053c0745d6e78e0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-21T06:10:56Z",
+      "year": 2019,
+      "month": 2,
+      "day": 21,
+      "hour": 6,
+      "minute": 10,
+      "x": -118.37032173509743,
+      "y": 33.81540454551549,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  }
+}

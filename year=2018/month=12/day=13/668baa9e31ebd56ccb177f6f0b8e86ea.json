@@ -1,0 +1,92 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://ramblinggit.com/2018/12/blog-engines-and-indieweb-controlling-upstream/"
+    ],
+    "name": [
+      "It\u2019s increasingly clear that WordPress (steered by Automattic) isn\u2019t particularly interested in blogging anymore. I agree that a solid, open source, turnkey solution for IndieWeb compatible personal websites is important. I also think Eddie is right that having several would be even better.\n\nWe have a great start in Known, which is what I use on my website, but we badly need more contributors. If you\u2019re looking for a place to dive in and help solve this problem, I would highly encourage you to take a look at Known!"
+    ],
+    "content": [
+      {
+        "html": "It\u2019s increasingly clear that WordPress (steered by Automattic) isn\u2019t particularly interested in blogging anymore. I agree that a solid, open source, turnkey solution for IndieWeb compatible personal websites is important. I also think Eddie is right that having several would be even better.<br/>\n<br/>\nWe have a great start in Known, which is what I use on my website, but we badly need more contributors. If you\u2019re looking for a place to dive in and help solve this problem, I would highly encourage you to take a look at Known!",
+        "value": "It\u2019s increasingly clear that WordPress (steered by Automattic) isn\u2019t particularly interested in blogging anymore. I agree that a solid, open source, turnkey solution for IndieWeb compatible personal websites is important. I also think Eddie is right that having several would be even better.\n\nWe have a great start in Known, which is what I use on my website, but we badly need more contributors. If you\u2019re looking for a place to dive in and help solve this problem, I would highly encourage you to take a look at Known!"
+      }
+    ],
+    "url": [
+      "/2018/its-increasingly-clear-that-wordpress-steered-by"
+    ],
+    "published": [
+      "2018-12-13T19:47:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I think we are in general agreement. I\u2019m not quite ready for Known, I wouldn\u2019t have a clue how to install or update the script. But I think you are right, Known seems to be the best candidate to eventually become the turnkey script. I wish them well."
+          ],
+          "content": [
+            {
+              "html": "<p>I think we are in general agreement.  I\u2019m not quite ready for Known, I wouldn\u2019t have a clue how to install or update the script.  But I think you are right, Known seems to be the best candidate to eventually become the turnkey script.  I wish them well.</p>",
+              "value": "I think we are in general agreement. I\u2019m not quite ready for Known, I wouldn\u2019t have a clue how to install or update the script. But I think you are right, Known seems to be the best candidate to eventually become the turnkey script. I wish them well."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci8wY2U4YjJjNDA2ZTQyM2YxMTRlMzlmZDRkMTI4YzMxZD9zPTUwJmQ9aHR0cHM6Ly9yYW1ibGluZ2dpdC5jb20vd3AtY29udGVudC9wbHVnaW5zL3NlbWFudGljLWxpbmtiYWNrcy9pbWcvbW0uanBnJnI9Zw,,/300/square"
+                ],
+                "name": [
+                  "Brad"
+                ],
+                "url": [
+                  "https://ramblinggit.com/"
+                ]
+              },
+              "value": "Brad"
+            }
+          ],
+          "url": [
+            "https://ramblinggit.com/2018/12/blog-engines-and-indieweb-controlling-upstream/?replytocom=1665"
+          ]
+        },
+        "value": "https://ramblinggit.com/2018/12/blog-engines-and-indieweb-controlling-upstream/?replytocom=1665"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "668baa9e31ebd56ccb177f6f0b8e86ea"
+    ]
+  }
+}

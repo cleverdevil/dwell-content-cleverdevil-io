@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943324344433"
+          ],
+          "longitude": [
+            "-118.4056019783"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-los-angeles-international-airport-lax-101"
+    ],
+    "published": [
+      "2020-02-20T20:43:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "308 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>308 miles since last check-in</p>",
+              "value": "308 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e4eef8f9fe75f00082199af/ef7cabc10ab7756f3619e520007adef6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e4eef8f9fe75f00082199af/ef7cabc10ab7756f3619e520007adef6"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.25\u00b0F and 37% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.25\u00b0F and 37% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.25\u00b0F and 37% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-los-angeles-international-airport-lax-101/annotations/133febc9f27a93af3153fa76b56d8aa0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-los-angeles-international-airport-lax-101/annotations/133febc9f27a93af3153fa76b56d8aa0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e4eef8f9fe75f00082199af"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f6c4e430bbe635ba140998229e68b2c6"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-20T20:40:09Z",
+      "year": 2020,
+      "month": 2,
+      "day": 20,
+      "hour": 20,
+      "minute": 40,
+      "x": -118.40395257164742,
+      "y": 33.94885259277867,
+      "altitude": 36,
+      "motion": [],
+      "speed": 5,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": ""
+    }
+  }
+}

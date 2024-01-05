@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-264-trash-forever"
+    ],
+    "published": [
+      "2019-10-19T18:14:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.93\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.93\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.93\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-264-trash-forever/annotations/a2ef1e04d9aeb574756038396d4f0be0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-264-trash-forever/annotations/a2ef1e04d9aeb574756038396d4f0be0"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dd8ca460efad72fec26b540a5e63b68c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-19T19:48:17Z",
+      "year": 2019,
+      "month": 10,
+      "day": 19,
+      "hour": 19,
+      "minute": 48,
+      "x": -118.37046450414493,
+      "y": 33.815281022865335,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 264: Trash Forever"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/feea01f0f0c43809ecf9ab7c5cacd4e0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4HcI0Y"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico has iCloud issues and Myke has a new phone, but no new computer. Stephen has reviewed macOS Catalina.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico has iCloud issues and Myke has a new phone, but no new computer. Stephen has reviewed macOS Catalina.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

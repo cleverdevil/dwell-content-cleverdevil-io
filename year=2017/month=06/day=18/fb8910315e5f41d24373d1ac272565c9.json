@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Arc de Triomphe (Arc de Triomphe de l'\u00c9toile)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Arc de Triomphe (Arc de Triomphe de l'\u00c9toile)"
+          ],
+          "latitude": [
+            "48.873783275869"
+          ],
+          "longitude": [
+            "2.295058965683"
+          ]
+        },
+        "value": "Arc de Triomphe (Arc de Triomphe de l'\u00c9toile)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Arc de Triomphe (Arc de Triomphe de l'\u00c9toile)"
+          ],
+          "latitude": [
+            "48.873783275869"
+          ],
+          "longitude": [
+            "2.295058965683"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-arc-de-triomphe-arc-de-triomphe-de-l%C3%A9toile"
+    ],
+    "published": [
+      "2017-06-18T15:43:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Arc de Triomphe!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Arc de Triomphe!</p>",
+              "value": "Your first check-in at Arc de Triomphe!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d6c1d5d7b21e2b3d92a8b5a6002f8aa5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59469f8ed41bb74a2a319ee1/84bb9cc7c96b65741d9b722cedd66992"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59469f8ed41bb74a2a319ee1/84bb9cc7c96b65741d9b722cedd66992"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59469f8ed41bb74a2a319ee1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fb8910315e5f41d24373d1ac272565c9"
+    ]
+  }
+}

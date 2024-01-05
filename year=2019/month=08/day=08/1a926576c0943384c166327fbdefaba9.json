@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hypercritical: Top Gun"
+    ],
+    "like-of": [
+      "https://hypercritical.co/2019/08/08/top-gun"
+    ],
+    "url": [
+      "/2019/hypercritical-top-gun"
+    ],
+    "published": [
+      "2019-08-08T20:48:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.73\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.73\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.73\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/hypercritical-top-gun/annotations/8cb83c080a12f9a417b2709322c88c60"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/hypercritical-top-gun/annotations/8cb83c080a12f9a417b2709322c88c60"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "1a926576c0943384c166327fbdefaba9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-08T20:44:47Z",
+      "year": 2019,
+      "month": 8,
+      "day": 8,
+      "hour": 20,
+      "minute": 44,
+      "x": -118.39515297302286,
+      "y": 33.91979599839276,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8899999856948853,
+      "wifi": "WeWork"
+    }
+  }
+}

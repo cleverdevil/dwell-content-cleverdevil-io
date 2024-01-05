@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into John Wayne Airport (SNA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John Wayne Airport (SNA)"
+          ],
+          "latitude": [
+            "33.678862343833"
+          ],
+          "longitude": [
+            "-117.86208110637"
+          ]
+        },
+        "value": "John Wayne Airport (SNA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John Wayne Airport (SNA)"
+          ],
+          "latitude": [
+            "33.678862343833"
+          ],
+          "longitude": [
+            "-117.86208110637"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-john-wayne-airport-sna"
+    ],
+    "published": [
+      "2019-12-06T22:08:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Santa Ana was in September '17 at The Robbins Nest Wine Bar & Bistro."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Santa Ana was in September '17 at The Robbins Nest Wine Bar &amp; Bistro.</p>",
+              "value": "Your last check-in in Santa Ana was in September '17 at The Robbins Nest Wine Bar & Bistro."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dead178fc0b7d000719a71a/a412b8476a1bcdc7a603cfc2215068cd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dead178fc0b7d000719a71a/a412b8476a1bcdc7a603cfc2215068cd"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.04\u00b0F and 50% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.04\u00b0F and 50% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 60.04\u00b0F and 50% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-john-wayne-airport-sna/annotations/1be567077288951008ad69f960551954"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-john-wayne-airport-sna/annotations/1be567077288951008ad69f960551954"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dead178fc0b7d000719a71a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0bf3a9dd2ba6816c742ca37432dc7644"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-06T21:47:33Z",
+      "year": 2019,
+      "month": 12,
+      "day": 6,
+      "hour": 21,
+      "minute": 47,
+      "x": -116.78800736768743,
+      "y": 34.47972744545362,
+      "altitude": 6144,
+      "motion": [
+        "driving"
+      ],
+      "speed": 183,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": "DeltaWiFi"
+    }
+  }
+}

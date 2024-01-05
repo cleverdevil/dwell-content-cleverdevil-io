@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Mission"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Mission"
+          ],
+          "latitude": [
+            "33.491909604709"
+          ],
+          "longitude": [
+            "-111.9245385703"
+          ]
+        },
+        "value": "The Mission"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Mission"
+          ],
+          "latitude": [
+            "33.491909604709"
+          ],
+          "longitude": [
+            "-111.9245385703"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-the-mission"
+    ],
+    "published": [
+      "2021-12-15T03:15:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 60 check-ins at Mexican Restaurants!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 60 check-ins at Mexican Restaurants!</p>",
+              "value": "Wow! That's 60 check-ins at Mexican Restaurants!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61b95ddff26fec35077febc9/51c07bd84a489936acceadb54eaaf835"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61b95ddff26fec35077febc9/51c07bd84a489936acceadb54eaaf835"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at The Mission."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at The Mission.</p>",
+              "value": "First check-in at The Mission."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61b95ddff26fec35077febc9/d4bdacf5b60ac64c34d6adff9b5e0077"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61b95ddff26fec35077febc9/d4bdacf5b60ac64c34d6adff9b5e0077"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61b95ddff26fec35077febc9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e4b832b85be6ac3b77e0797df8b8a84d"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-15T03:14:49Z",
+      "year": 2021,
+      "month": 12,
+      "day": 15,
+      "hour": 3,
+      "minute": 14,
+      "x": -111.92419200214736,
+      "y": 33.49179052750914,
+      "altitude": 383,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ralphs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": "Ralphs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Quick stop before my trip.</p>",
+        "value": "Quick stop before my trip."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ralphs-7"
+    ],
+    "published": [
+      "2017-09-10T21:22:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 2 weeks since you last checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 2 weeks since you last checked in here!</p>",
+              "value": "Welcome back! It's been 2 weeks since you last checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b5acf708815866a656d11d/c238f6c23dbf1f2e5a22b4fe6474e2ef"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59b5acf708815866a656d11d/c238f6c23dbf1f2e5a22b4fe6474e2ef"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59b5acf708815866a656d11d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "10a65fa422a4b93dcc32ce4fd6f124a3"
+    ]
+  }
+}

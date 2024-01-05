@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mon Ami Gabi"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mon Ami Gabi"
+          ],
+          "latitude": [
+            "36.11275134312"
+          ],
+          "longitude": [
+            "-115.17273649107"
+          ]
+        },
+        "value": "Mon Ami Gabi"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mon Ami Gabi"
+          ],
+          "latitude": [
+            "36.11275134312"
+          ],
+          "longitude": [
+            "-115.17273649107"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with the team.</p>",
+        "value": "Dinner with the team."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-mon-ami-gabi-1"
+    ],
+    "published": [
+      "2018-01-30T04:13:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First French Restaurant check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First French Restaurant check-in in 2 months!</p>",
+              "value": "First French Restaurant check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6ff0c9fd16bb140712d6bd/c7b8fdabb7d3f8c8d0e452ac8a065bfe"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6ff0c9fd16bb140712d6bd/c7b8fdabb7d3f8c8d0e452ac8a065bfe"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Mon Ami Gabi since September '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Mon Ami Gabi since September '17.</p>",
+              "value": "Welcome back! You haven't checked in to Mon Ami Gabi since September '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6ff0c9fd16bb140712d6bd/d9bd9aff5d4861f37a4de3b0b20fc9cf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6ff0c9fd16bb140712d6bd/d9bd9aff5d4861f37a4de3b0b20fc9cf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6ff0c9fd16bb140712d6bd"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e4e855b86eb5cbcb326ef0ac0af2be29"
+    ]
+  }
+}

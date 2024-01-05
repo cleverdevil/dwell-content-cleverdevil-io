@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Apple announces new 13-inch MacBook Pro with Magic Keyboard - The Verge"
+    ],
+    "like-of": [
+      "https://www.theverge.com/2020/5/4/21245940/macbook-pro-13-inch-apple-new-magic-keyboard-price-release-date"
+    ],
+    "url": [
+      "/2020/apple-announces-new-13-inch-macbook-pro-with-magic-keyboard"
+    ],
+    "published": [
+      "2020-05-04T16:05:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.84\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.84\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.84\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/apple-announces-new-13-inch-macbook-pro-with-magic-keyboard/annotations/f62fa276799800bd6261478c1f87b973"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/apple-announces-new-13-inch-macbook-pro-with-magic-keyboard/annotations/f62fa276799800bd6261478c1f87b973"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "f7dcad4972325fc393f2cbc2a2eb5842"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-04T15:38:26Z",
+      "year": 2020,
+      "month": 5,
+      "day": 4,
+      "hour": 15,
+      "minute": 38,
+      "x": -118.37030674462717,
+      "y": 33.81542838203948,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

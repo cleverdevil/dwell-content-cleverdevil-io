@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into W's China Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W's China Bistro"
+          ],
+          "latitude": [
+            "33.822089334572"
+          ],
+          "longitude": [
+            "-118.38519609241"
+          ]
+        },
+        "value": "W's China Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W's China Bistro"
+          ],
+          "latitude": [
+            "33.822089334572"
+          ],
+          "longitude": [
+            "-118.38519609241"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Takeout for the fam.</p>",
+        "value": "Takeout for the fam."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-ws-china-bistro-6"
+    ],
+    "published": [
+      "2018-01-28T01:45:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6d2b423fcee85f451eea51/a6cf3ece9fcff4e50d9c081882abf162"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6d2b423fcee85f451eea51/a6cf3ece9fcff4e50d9c081882abf162"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6d2b423fcee85f451eea51"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9a72cdf096f84649fbad23f33a7a4bd4"
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Morels French Steakhouse & Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Morels French Steakhouse & Bistro"
+          ],
+          "latitude": [
+            "36.124777085496"
+          ],
+          "longitude": [
+            "-115.16938888786"
+          ]
+        },
+        "value": "Morels French Steakhouse & Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Morels French Steakhouse & Bistro"
+          ],
+          "latitude": [
+            "36.124777085496"
+          ],
+          "longitude": [
+            "-115.16938888786"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-morels-french-steakhouse-bistro"
+    ],
+    "published": [
+      "2018-01-31T04:15:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Morels French Steakhouse & Bistro!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Morels French Steakhouse &amp; Bistro!</p>",
+              "value": "Your first check-in at Morels French Steakhouse & Bistro!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7142c561e53b5f7316cb11/b5a0b75527f4a4143979c7c36795b272"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7142c561e53b5f7316cb11/b5a0b75527f4a4143979c7c36795b272"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a7142c561e53b5f7316cb11"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f886a2cacb1bab3a854236dc2594365e"
+    ]
+  }
+}

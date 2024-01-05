@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Happy to see a new iPod Touch released. Great device for kids. I just wish they\u2019d update it more often, and release a re-design which matches newer design language."
+    ],
+    "content": [
+      {
+        "html": "Happy to see a new iPod Touch released. Great device for kids. I just wish they\u2019d update it more often, and release a re-design which matches newer design language.",
+        "value": "Happy to see a new iPod Touch released. Great device for kids. I just wish they\u2019d update it more often, and release a re-design which matches newer design language."
+      }
+    ],
+    "url": [
+      "/2019/happy-to-see-a-new-ipod-touch"
+    ],
+    "published": [
+      "2019-05-28T15:39:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.07\u00b0F and 75% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.07\u00b0F and 75% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.07\u00b0F and 75% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/happy-to-see-a-new-ipod-touch/annotations/2cff5d535e3ad25e1e56c8fbd933bd39"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/happy-to-see-a-new-ipod-touch/annotations/2cff5d535e3ad25e1e56c8fbd933bd39"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1133397413824258048",
+      "https://mastodon.social/@cleverdevil/102174423547462516"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "86b82fb4e58dd1edbf2de2eb85fb94f5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-28T15:20:16Z",
+      "year": 2019,
+      "month": 5,
+      "day": 28,
+      "hour": 15,
+      "minute": 20,
+      "x": -118.39908470045656,
+      "y": 33.94990672676389,
+      "altitude": 32,
+      "motion": [
+        "driving"
+      ],
+      "speed": 8,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

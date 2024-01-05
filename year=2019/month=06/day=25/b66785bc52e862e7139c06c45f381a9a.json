@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/under-the-radar-167-the-wwdc-hangover"
+    ],
+    "published": [
+      "2019-06-25T15:20:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 62.72\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 62.72\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 62.72\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/under-the-radar-167-the-wwdc-hangover/annotations/b69c530c90c9934bac126f5b5a76eb6a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/under-the-radar-167-the-wwdc-hangover/annotations/b69c530c90c9934bac126f5b5a76eb6a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b66785bc52e862e7139c06c45f381a9a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-25T16:01:44Z",
+      "year": 2019,
+      "month": 6,
+      "day": 25,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.39593492804318,
+      "y": 33.893751158597084,
+      "altitude": 46,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Under the Radar 167: The WWDC Hangover"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/93a692a76d209ff5e4f532d4c8016e67/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FgnaoDHdI"
+        ],
+        "content": [
+          {
+            "html": "<p>As the dust settles on an overwhelming WWDC 2019, we figure out what we should tackle first.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Under the Radar</p>",
+            "value": "As the dust settles on an overwhelming WWDC 2019, we figure out what we should tackle first.\nBy Under the Radar"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

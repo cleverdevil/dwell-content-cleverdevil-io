@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-288-are-we-being-punked"
+    ],
+    "published": [
+      "2020-03-13T05:05:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 54.89\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 54.89\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 54.89\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-288-are-we-being-punked/annotations/ecce847c7abe36499576304ea0d40289"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-288-are-we-being-punked/annotations/ecce847c7abe36499576304ea0d40289"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4d7cfb33d30118dec413f89476ce2c7c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-13T07:54:13Z",
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "hour": 7,
+      "minute": 54,
+      "x": -118.37052947755939,
+      "y": 33.815301388351436,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 288: Are We Being Punked?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9ead31271cad6d6525676bc07158259a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9nkI2I"
+        ],
+        "content": [
+          {
+            "html": "<p>COVID-19 continues to upend tech industry plans, a report suggests new Apple devices with new display tech, and we get excited about the possibility of a proper mouse cursor in iPadOS 14.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "COVID-19 continues to upend tech industry plans, a report suggests new Apple devices with new display tech, and we get excited about the possibility of a proper mouse cursor in iPadOS 14.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

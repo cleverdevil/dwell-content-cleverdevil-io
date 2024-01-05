@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-silver-spur-ranch-7"
+    ],
+    "published": [
+      "2022-01-24T05:39:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "If an apple a day keeps the doctor away, an apple pie's got to be even better! #NationalPieDay"
+          ],
+          "content": [
+            {
+              "html": "<p>If an apple a day keeps the doctor away, an apple pie's got to be even better! #NationalPieDay</p>",
+              "value": "If an apple a day keeps the doctor away, an apple pie's got to be even better! #NationalPieDay"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3Rhci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61ee3b760bdda90a1feee614/277b8d1753693c23f63bfcf5cfcb86e7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61ee3b760bdda90a1feee614/277b8d1753693c23f63bfcf5cfcb86e7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61ee3b760bdda90a1feee614"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "556dda1ac0cefa442ba491288683c0af"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-24T05:35:12Z",
+      "year": 2022,
+      "month": 1,
+      "day": 24,
+      "hour": 5,
+      "minute": 35,
+      "x": -116.38037210548133,
+      "y": 33.701657556956356,
+      "altitude": 128,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "DesertSun"
+    }
+  }
+}

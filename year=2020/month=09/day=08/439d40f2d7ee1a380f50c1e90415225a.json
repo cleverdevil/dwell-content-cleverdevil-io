@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/5-three-failed-game-consoles"
+    ],
+    "published": [
+      "2020-09-08T17:53:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "439d40f2d7ee1a380f50c1e90415225a"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-08T20:02:09Z",
+      "year": 2020,
+      "month": 9,
+      "day": 8,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.37041132137593,
+      "y": 33.81541490299648,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 5: Three Failed Game Consoles"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6eecbd8bb2b6cefe97925c1ba23a8740/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2z2uF5Q"
+        ],
+        "content": [
+          {
+            "html": "<p>On this episode, Quinn and Stephen explore three failed game consoles: the Apple Pippin, Nintendo Virtual Boy and the Ouya.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "On this episode, Quinn and Stephen explore three failed game consoles: the Apple Pippin, Nintendo Virtual Boy and the Ouya.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

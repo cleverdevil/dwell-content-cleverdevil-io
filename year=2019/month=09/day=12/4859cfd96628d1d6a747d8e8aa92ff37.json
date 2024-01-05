@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-262-the-skyscrapers-of-camera-bump-city"
+    ],
+    "published": [
+      "2019-09-12T15:05:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.3\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.3\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.3\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-262-the-skyscrapers-of-camera-bump-city/annotations/833708ad76a6940daef4660045b79a63"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-262-the-skyscrapers-of-camera-bump-city/annotations/833708ad76a6940daef4660045b79a63"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4859cfd96628d1d6a747d8e8aa92ff37"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-12T16:00:26Z",
+      "year": 2019,
+      "month": 9,
+      "day": 12,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.39525822385406,
+      "y": 33.919648673517685,
+      "altitude": 31,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 262: The Skyscrapers of Camera Bump City"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7c98a892708f79b3eae5855a47b30dde/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_aGf7M"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason has returned from Cupertino, where he watched Apple unveil the new iPhone 11 models, a new Apple Watch that adds a feature we had given up hope of ever seeing, and details about when we\u2019ll see Apple Arcade and Apple TV+.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason has returned from Cupertino, where he watched Apple unveil the new iPhone 11 models, a new Apple Watch that adds a feature we had given up hope of ever seeing, and details about when we\u2019ll see Apple Arcade and Apple TV+.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

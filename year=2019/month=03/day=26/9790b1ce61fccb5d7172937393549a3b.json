@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/episode-120-shipping-tomorrow"
+    ],
+    "published": [
+      "2019-03-26T00:31:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.92\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.92\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.92\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/episode-120-shipping-tomorrow/annotations/57e230a89e47c881d46c859374d61d1a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/episode-120-shipping-tomorrow/annotations/57e230a89e47c881d46c859374d61d1a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9790b1ce61fccb5d7172937393549a3b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-26T03:58:40Z",
+      "year": 2019,
+      "month": 3,
+      "day": 26,
+      "hour": 3,
+      "minute": 58,
+      "x": -118.37036832824094,
+      "y": 33.815399715819396,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 120: Shipping tomorrow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7b1680ad4aa7469a7b1d55c6bef30408/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F18fT4M5U"
+        ],
+        "content": [
+          {
+            "html": "<p>Taking a break today to watch the Apple services-related event. Preparing new Micro.blog features to release tomorrow.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Timetable</p>",
+            "value": "Taking a break today to watch the Apple services-related event. Preparing new Micro.blog features to release tomorrow.\nBy Timetable"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

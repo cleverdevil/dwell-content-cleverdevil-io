@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/the-philadelphia-story"
+    ],
+    "published": [
+      "2020-10-01T19:42:11+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7dd9c339737e61a85e2a295a9e935a9b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-01T19:57:18Z",
+      "year": 2020,
+      "month": 10,
+      "day": 1,
+      "hour": 19,
+      "minute": 57,
+      "x": -118.37043179242234,
+      "y": 33.81544734040277,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The Philadelphia Story"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/37075375a2ac32e72fcee7eebcccd09e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+gf2aHn-ZM"
+        ],
+        "content": [
+          {
+            "html": "<p>- A timely BLOOD WEEK sermon - Two bigole snakes treadin\u2019 on each other, and their respective complaints - Confronting the glowing specter of \u2026 a second college football podcast?? - This Saturday night, witness the DADVANTAGE 1982 game of the week - Truly just an extravagant amount of Philadelphia Eagles analysis</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shutdown Fullcast</p>",
+            "value": "- A timely BLOOD WEEK sermon - Two bigole snakes treadin\u2019 on each other, and their respective complaints - Confronting the glowing specter of \u2026 a second college football podcast?? - This Saturday night, witness the DADVANTAGE 1982 game of the week - Truly just an extravagant amount of Philadelphia Eagles analysis\nBy Shutdown Fullcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

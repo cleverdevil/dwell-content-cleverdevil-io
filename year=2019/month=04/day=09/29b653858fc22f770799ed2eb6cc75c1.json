@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Jumbo is a powerful privacy assistant for iOS that cleans up your social profiles - The Verge"
+    ],
+    "like-of": [
+      "https://www.theverge.com/2019/4/9/18300775/jumbo-privacy-app-twitter-facebook"
+    ],
+    "url": [
+      "/2019/jumbo-is-a-powerful-privacy-assistant-for-ios-that-cleans"
+    ],
+    "published": [
+      "2019-04-09T21:09:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.69\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.69\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.69\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/jumbo-is-a-powerful-privacy-assistant-for-ios-that-cleans/annotations/8e7bf8f8adab41dd58bfd02b9f77b63b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/jumbo-is-a-powerful-privacy-assistant-for-ios-that-cleans/annotations/8e7bf8f8adab41dd58bfd02b9f77b63b"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "29b653858fc22f770799ed2eb6cc75c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-09T21:06:20Z",
+      "year": 2019,
+      "month": 4,
+      "day": 9,
+      "hour": 21,
+      "minute": 6,
+      "x": -118.39516363544094,
+      "y": 33.9197507046372,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": ""
+    }
+  }
+}

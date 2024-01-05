@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/332-fuzzy-muppet-felt"
+    ],
+    "published": [
+      "2019-06-30T15:46:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.78\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.78\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.78\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/332-fuzzy-muppet-felt/annotations/33b2b3f11bd2398e0476585a9b5381a6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/332-fuzzy-muppet-felt/annotations/33b2b3f11bd2398e0476585a9b5381a6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3e5105b6da78b7cad1be9bee1aa63397"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T16:04:09Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 16,
+      "minute": 4,
+      "x": -122.68245041964192,
+      "y": 45.52337855623625,
+      "altitude": 18,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "Mozilla Guest"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 332: Fuzzy Muppet Felt"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3737549d91b0cfd81b8664b529cd593b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXKJIX0"
+        ],
+        "content": [
+          {
+            "html": "<p>Discovering that wheels are useful, working through a mid-life headphone crisis, the 16-inch rumor, and a special message about installing the betas.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Discovering that wheels are useful, working through a mid-life headphone crisis, the 16-inch rumor, and a special message about installing the betas.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

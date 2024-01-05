@@ -1,0 +1,54 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "SiriKit on iOS 12: Tantaliginzly Close"
+    ],
+    "bookmark-of": [
+      "https://bendodson.com/weblog/2018/06/05/custom-intents-with-sirikit-ios-12/"
+    ],
+    "content": [
+      {
+        "html": "<p>Great post by <a href=\"https://bendodson.com\">Ben Dodson</a>\u00a0about the SiriKit additions that Apple is bringing to\u00a0iOS 12. In many ways, Siri has to make a quantum leap ahead to catch its competitors, and the new features in iOS 12 are a huge improvement:</p><blockquote><p>When I dug into the code, I found this new Intents.intentdefinition file with which you can create custom intents complete with paramater binding... This sure looks like the much anticipated ability to write your own Siri code!</p></blockquote><p>There is no question that Siri\u00a0has made a huge leap forward with Siri in iOS 12, but unfortunately its not <em>quite</em>\u00a0there yet:</p><blockquote><p>It turns out that isn\u2019t the case. The new custom intents are for \u201cSiri the all-seeing widget assistant\u201d not for \u201cSiri the thing you control with your voice\u201d. These custom intents are designed to be created for very specific use cases and then exposed as shortcuts so that you can access them quickly from your lock screen, add them to a workflow, or activate them with a custom voice command that the user creates. Despite the schema being present and the documentation alluding to voice control, you cannot create your own custom commands such as \u201cOrder tomato soup with cheese\u201d.</p></blockquote><p>So close, yet so far! I am very much looking forward to the significant Siri improvements that\u00a0<em>are</em> present in iOS, but more importantly, its clear that Apple has laid the groundwork in a very novel way for a fully programmable Siri.</p>",
+        "value": "Great post by Ben Dodson\u00a0about the SiriKit additions that Apple is bringing to\u00a0iOS 12. In many ways, Siri has to make a quantum leap ahead to catch its competitors, and the new features in iOS 12 are a huge improvement:\nWhen I dug into the code, I found this new Intents.intentdefinition file with which you can create custom intents complete with paramater binding... This sure looks like the much anticipated ability to write your own Siri code!\nThere is no question that Siri\u00a0has made a huge leap forward with Siri in iOS 12, but unfortunately its not quite\u00a0there yet:\nIt turns out that isn\u2019t the case. The new custom intents are for \u201cSiri the all-seeing widget assistant\u201d not for \u201cSiri the thing you control with your voice\u201d. These custom intents are designed to be created for very specific use cases and then exposed as shortcuts so that you can access them quickly from your lock screen, add them to a workflow, or activate them with a custom voice command that the user creates. Despite the schema being present and the documentation alluding to voice control, you cannot create your own custom commands such as \u201cOrder tomato soup with cheese\u201d.\nSo close, yet so far! I am very much looking forward to the significant Siri improvements that\u00a0are present in iOS, but more importantly, its clear that Apple has laid the groundwork in a very novel way for a fully programmable Siri."
+      }
+    ],
+    "url": [
+      "/2018/sirikit-on-ios-12-tantaliginzly-close"
+    ],
+    "published": [
+      "2018-06-08T22:53:11+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1005221230352494594"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "617008c9007ec0e4a3a5e705e36cfc23"
+    ]
+  }
+}

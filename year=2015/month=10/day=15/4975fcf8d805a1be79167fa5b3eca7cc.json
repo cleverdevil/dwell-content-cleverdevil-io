@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into RedHat Storage Day"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "RedHat Storage Day"
+          ],
+          "latitude": [
+            "37.320514832296"
+          ],
+          "longitude": [
+            "-122.03173283986"
+          ]
+        },
+        "value": "RedHat Storage Day"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "RedHat Storage Day"
+          ],
+          "latitude": [
+            "37.320514832296"
+          ],
+          "longitude": [
+            "-122.03173283986"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Getting ready to speak at RedHat Storage Day in Cupertino. Excited to share DreamHost's story about our object storage journey with Ceph for DreamObjects.</p>",
+        "value": "Getting ready to speak at RedHat Storage Day in Cupertino. Excited to share DreamHost's story about our object storage journey with Ceph for DreamObjects."
+      }
+    ],
+    "url": [
+      "/2015/checked-into-redhat-storage-day"
+    ],
+    "published": [
+      "2015-10-15T17:18:39+0000"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4975fcf8d805a1be79167fa5b3eca7cc"
+    ]
+  }
+}

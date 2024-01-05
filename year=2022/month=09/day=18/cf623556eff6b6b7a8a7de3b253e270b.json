@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/new-england-style-justice-chowder"
+    ],
+    "published": [
+      "2022-09-18T02:27:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cf623556eff6b6b7a8a7de3b253e270b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-18T04:02:32Z",
+      "year": 2022,
+      "month": 9,
+      "day": 18,
+      "hour": 4,
+      "minute": 2,
+      "x": -116.45997144633436,
+      "y": 33.850150217652754,
+      "altitude": 124,
+      "motion": [
+        "driving"
+      ],
+      "speed": 34,
+      "battery_state": "charging",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to New England Style Justice Chowder"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1d1097e7f03ab091e629b8812845968c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1gjfSg"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! Bailiff Jesse Thorn has the week off. Monte Belmonte and Joel Mann join Judge Hodgman to dispense New England Style Justice. Hosting gatherings with your spouse, silverware sorting, maple syrup, car navigation, and sleeping with the windows open during New England winters.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! Bailiff Jesse Thorn has the week off. Monte Belmonte and Joel Mann join Judge Hodgman to dispense New England Style Justice. Hosting gatherings with your spouse, silverware sorting, maple syrup, car navigation, and sleeping with the windows open during New England winters.\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Just Downstairs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Just Downstairs"
+          ],
+          "latitude": [
+            "34.049343"
+          ],
+          "longitude": [
+            "-118.256827"
+          ]
+        },
+        "value": "Just Downstairs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Just Downstairs"
+          ],
+          "latitude": [
+            "34.049343"
+          ],
+          "longitude": [
+            "-118.256827"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-just-downstairs-1"
+    ],
+    "published": [
+      "2017-05-15T19:06:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Happy third birthday to us! Like a toddler, we can't be left home alone. Thanks for taking us with you wherever you go!"
+          ],
+          "content": [
+            {
+              "html": "<p>Happy third birthday to us! Like a toddler, we can't be left home alone. Thanks for taking us with you wherever you go!</p>",
+              "value": "Happy third birthday to us! Like a toddler, we can't be left home alone. Thanks for taking us with you wherever you go!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/25142efc1ca6aebeea8d939a0ec2416f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5919fc15c0f163587d014279/56d8dbeab06c069dab1cc8d852b9e4d2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5919fc15c0f163587d014279/56d8dbeab06c069dab1cc8d852b9e4d2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5919fc15c0f163587d014279"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d9770cdd0ce170e5d1c6b3c27b55e4d4"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5919fc15c0f163587d014279/6ca2ab5bb5bd7e2ab0c0bc2093da2a4e"
+          ],
+          "published": [
+            "2017-05-15T19:05:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "esther julee"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1111760"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/be9377600201664191050c5202301491"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/be9377600201664191050c5202301491 esther julee"
+            }
+          ]
+        },
+        "value": "esther julee"
+      }
+    ]
+  }
+}

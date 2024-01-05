@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Blair MacIntyre -"
+    ],
+    "like-of": [
+      "https://bmaci.me/2019/03/09/my-first-pancetta.html"
+    ],
+    "url": [
+      "/2019/blair-macintyre"
+    ],
+    "published": [
+      "2019-03-09T23:01:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.06\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.06\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.06\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/blair-macintyre/annotations/ab3e3f591554f881d6def83abd65f7ae"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/blair-macintyre/annotations/ab3e3f591554f881d6def83abd65f7ae"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101723175201574713"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "689318a55c2004d70abc0e8a20a31229"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-09T22:56:02Z",
+      "year": 2019,
+      "month": 3,
+      "day": 9,
+      "hour": 22,
+      "minute": 56,
+      "x": -118.37036020925247,
+      "y": 33.81542782453919,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6600000262260437,
+      "wifi": "LaCour"
+    }
+  }
+}

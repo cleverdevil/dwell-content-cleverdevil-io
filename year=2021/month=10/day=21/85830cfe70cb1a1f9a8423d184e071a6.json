@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/368-eaten-by-the-italian-post-office"
+    ],
+    "published": [
+      "2021-10-21T01:53:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "85830cfe70cb1a1f9a8423d184e071a6"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-21T03:51:55Z",
+      "year": 2021,
+      "month": 10,
+      "day": 21,
+      "hour": 3,
+      "minute": 51,
+      "x": -118.37033212838108,
+      "y": 33.815448570379,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 368: Eaten by the Italian Post Office"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ce5666272f47763955be5a347dd5e0fa/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5nWhwg"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke, Federico and Stephen sit down to score their \u201cUnleashed\u201d picks \u2026 and unbox something amazing. Then, a special bonus segment featuring some very surprising coin flips.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke, Federico and Stephen sit down to score their \u201cUnleashed\u201d picks \u2026 and unbox something amazing. Then, a special bonus segment featuring some very surprising coin flips.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

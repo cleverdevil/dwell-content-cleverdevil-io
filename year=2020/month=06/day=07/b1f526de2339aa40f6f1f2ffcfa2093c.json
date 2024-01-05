@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bogdonovich park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bogdonovich park"
+          ],
+          "latitude": [
+            "33.730225269223"
+          ],
+          "longitude": [
+            "-118.3192404318"
+          ]
+        },
+        "value": "Bogdonovich park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bogdonovich park"
+          ],
+          "latitude": [
+            "33.730225269223"
+          ],
+          "longitude": [
+            "-118.3192404318"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-bogdonovich-park"
+    ],
+    "published": [
+      "2020-06-07T21:52:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Do your best to stay home and practice social distancing"
+          ],
+          "content": [
+            {
+              "html": "<p>Do your best to stay home and practice social distancing</p>",
+              "value": "Do your best to stay home and practice social distancing"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5edd61b9bbfb206ae4e5c689/3e8c9104eeea1162af556cce1b8f9ba0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5edd61b9bbfb206ae4e5c689/3e8c9104eeea1162af556cce1b8f9ba0"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.92\u00b0F and 69% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.92\u00b0F and 69% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.92\u00b0F and 69% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-bogdonovich-park/annotations/4b1cb6ba643ccf61a7438ef24fd7724c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-bogdonovich-park/annotations/4b1cb6ba643ccf61a7438ef24fd7724c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5edd61b9bbfb206ae4e5c689"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b1f526de2339aa40f6f1f2ffcfa2093c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-07T21:44:12Z",
+      "year": 2020,
+      "month": 6,
+      "day": 7,
+      "hour": 21,
+      "minute": 44,
+      "x": -118.31926919834468,
+      "y": 33.73035389407525,
+      "altitude": 192,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  }
+}

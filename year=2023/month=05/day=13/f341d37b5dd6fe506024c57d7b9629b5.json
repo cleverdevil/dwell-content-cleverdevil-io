@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Beatles LOVE (Cirque du Soleil)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Beatles LOVE (Cirque du Soleil)"
+          ],
+          "latitude": [
+            "36.120581500063"
+          ],
+          "longitude": [
+            "-115.17475247383"
+          ]
+        },
+        "value": "The Beatles LOVE (Cirque du Soleil)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Beatles LOVE (Cirque du Soleil)"
+          ],
+          "latitude": [
+            "36.120581500063"
+          ],
+          "longitude": [
+            "-115.17475247383"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-beatles-love-cirque-du-soleil"
+    ],
+    "published": [
+      "2023-05-13T01:59:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Beatles LOVE (Cirque du Soleil)!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Beatles LOVE (Cirque du Soleil)!</p>",
+              "value": "Your first check-in at The Beatles LOVE (Cirque du Soleil)!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/645eeefadc3e0b2353e6346b/0d5396cd5b6db3de1c53c57376858cf6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/645eeefadc3e0b2353e6346b/0d5396cd5b6db3de1c53c57376858cf6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/645eeefadc3e0b2353e6346b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f341d37b5dd6fe506024c57d7b9629b5"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lakehouse Hotel & Resort"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lakehouse Hotel & Resort"
+          ],
+          "latitude": [
+            "33.124739156468"
+          ],
+          "longitude": [
+            "-117.20763088028"
+          ]
+        },
+        "value": "Lakehouse Hotel & Resort"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lakehouse Hotel & Resort"
+          ],
+          "latitude": [
+            "33.124739156468"
+          ],
+          "longitude": [
+            "-117.20763088028"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-lakehouse-hotel-resort-1"
+    ],
+    "published": [
+      "2018-09-23T18:13:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Lakehouse Hotel & Resort since June."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Lakehouse Hotel &amp; Resort since June.</p>",
+              "value": "Welcome back! You haven't checked in to Lakehouse Hotel & Resort since June."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba7d7d9acb37f002c1c619a/a25f819df3c093ad2b73cbbedf279ce0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba7d7d9acb37f002c1c619a/a25f819df3c093ad2b73cbbedf279ce0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba7d7d9acb37f002c1c619a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7ef4c0720d9da9c77a0b942cd57f5eb4"
+    ]
+  }
+}

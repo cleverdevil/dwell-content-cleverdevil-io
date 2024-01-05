@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night before travel.</p>",
+        "value": "Date night before travel."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-bouzy-gastropub-2"
+    ],
+    "published": [
+      "2017-06-12T01:41:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're still the Mayor. Time to make some rules!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're still the Mayor. Time to make some rules!</p>",
+              "value": "You're still the Mayor. Time to make some rules!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2393f503ac8ab48fa8fcd4db19cb4314"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593df1495c68385d5f43b00e/144ba522fe8454c1e97aef5735329f55"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593df1495c68385d5f43b00e/144ba522fe8454c1e97aef5735329f55"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/593df1495c68385d5f43b00e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8ace495e61f247c5a69393bacc1c641a"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593df1495c68385d5f43b00e/41b38ba1b0ea4d76c120ab700b05b107"
+          ],
+          "published": [
+            "2017-06-12T01:41:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Kenneth Tyburski"
+                ],
+                "url": [
+                  "https://foursquare.com/user/3410075"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/f053de8de8e2158852c4f50d64b584f4"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/f053de8de8e2158852c4f50d64b584f4 Kenneth Tyburski"
+            }
+          ]
+        },
+        "value": "Kenneth Tyburski"
+      }
+    ]
+  }
+}

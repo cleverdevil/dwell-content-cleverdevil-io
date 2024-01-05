@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/393-were-the-bit-company"
+    ],
+    "published": [
+      "2020-08-29T23:43:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f8ea1bca880b21b55f1610525037bf8a"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-30T00:03:12Z",
+      "year": 2020,
+      "month": 8,
+      "day": 30,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.3702931155202,
+      "y": 33.81540891117783,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 393: We\u2019re the Bit Company"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/09246b702c82f953a0f9693c40ce00dd/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL8cOxo"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s continued battle with Epic, antitrust concerns, and trouble in John\u2019s computing paradise.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s continued battle with Epic, antitrust concerns, and trouble in John\u2019s computing paradise.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-232-the-unique-blend-of-tattoos-and-automation"
+    ],
+    "published": [
+      "2019-02-28T17:14:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 61.9\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-232-the-unique-blend-of-tattoos-and-automation/annotations/908476e82bc922a25cd28dffa1c02b6f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-232-the-unique-blend-of-tattoos-and-automation/annotations/908476e82bc922a25cd28dffa1c02b6f"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "05fc113b673868c7e85ee0ce9000a0bb"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-28T19:59:58Z",
+      "year": 2019,
+      "month": 2,
+      "day": 28,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37041627798864,
+      "y": 33.815315417179164,
+      "altitude": 49,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 232: The Unique Blend of Tattoos and Automation"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9aff51a37eb8ea51a84cb2a5eb5cb9c3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5qT054"
+        ],
+        "content": [
+          {
+            "html": "<p>After skipping follow-up, Myke and Federico try to explain the new USB branding, discuss fingerprint sensors and the merits of Evernote in 2019, and wish for apps that don\u2019t exist (but should).</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "After skipping follow-up, Myke and Federico try to explain the new USB branding, discuss fingerprint sensors and the merits of Evernote in 2019, and wish for apps that don\u2019t exist (but should).\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

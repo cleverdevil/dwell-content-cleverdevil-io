@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Retiro Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": "El Retiro Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Retiro Park"
+          ],
+          "latitude": [
+            "33.8152937667"
+          ],
+          "longitude": [
+            "-118.37856463833"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Birthday party for Colette!</p>",
+        "value": "Birthday party for Colette!"
+      }
+    ],
+    "url": [
+      "/2023/checked-into-el-retiro-park-7"
+    ],
+    "published": [
+      "2023-01-21T21:49:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "1238 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>1238 miles since last check-in</p>",
+              "value": "1238 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63cc5dcfc69301610a1a731c/edebbff1cc549b6b0a6ee2986e2aff84"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63cc5dcfc69301610a1a731c/edebbff1cc549b6b0a6ee2986e2aff84"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63cc5dcfc69301610a1a731c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5ba2915e68624c9c7db8093b3a40c939"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-21T21:46:50Z",
+      "year": 2023,
+      "month": 1,
+      "day": 21,
+      "hour": 21,
+      "minute": 46,
+      "x": -118.37794150998229,
+      "y": 33.81525618280399,
+      "altitude": 28,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": ""
+    }
+  }
+}

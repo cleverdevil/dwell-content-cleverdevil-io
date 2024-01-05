@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-seaside-torrance-132"
+    ],
+    "published": [
+      "2023-11-26T07:10:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Neighborhood check-in since you were here in August."
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Neighborhood check-in since you were here in August.</p>",
+              "value": "Your first Neighborhood check-in since you were here in August."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6562ef5fc337746d0b5997bc/017eda5896385b1e915d5368c120381c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6562ef5fc337746d0b5997bc/017eda5896385b1e915d5368c120381c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6562ef5fc337746d0b5997bc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1b1d919b88750414a3bc8647f76994df"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-26T06:22:08Z",
+      "year": 2023,
+      "month": 11,
+      "day": 26,
+      "hour": 6,
+      "minute": 22,
+      "x": -118.317286,
+      "y": 33.819654,
+      "altitude": 21,
+      "motion": [
+        "driving"
+      ],
+      "speed": 23,
+      "battery_state": "charging",
+      "battery_level": 0.85,
+      "wifi": ""
+    }
+  }
+}

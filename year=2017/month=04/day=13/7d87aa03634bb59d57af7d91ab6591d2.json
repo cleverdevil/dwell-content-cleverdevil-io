@@ -1,0 +1,237 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Sharing what I watch..."
+    ],
+    "content": [
+      {
+        "html": "<p><a href=\"http://plex.tv\"><img alt=\"\" height=\"151\" src=\"https://cleverdevil.io/file/352fbde6114d1620746cc0d32e9fadad\" style=\"float:right;\" width=\"151\"/></a></p><p>As I get deeper into the <a href=\"https://indieweb.org\">IndieWeb</a>, I've been loving exploring more ways to share and publish my activities. Having a timeline that includes <a href=\"https://cleverdevil.io/content/locations\">where I have been</a>, <a href=\"https://cleverdevil.io/content/food/\">what I've been eating and drinking</a>, my <a href=\"http://cleverdevil.io/content/recipes/\">recipes</a>\u00a0and <a href=\"https://cleverdevil.io/content/reviews/\">reviews</a>, along with <a href=\"https://cleverdevil.io/content/photos/\">photos</a>, and <a href=\"https://cleverdevil.io/timeline/\">social interactions</a>\u00a0helps me remember where I was and what I was doing on any given day.</p><p>Last night, I had trouble sleeping, so I decided to attack a new problem. I'm a big movie enthusiast, and enjoy collecting and watching great films. I decided that tracking what I'm watching would be a fun and useful way to enrich my activity stream.</p><p>I'd like to introduce <a href=\"https://github.com/cleverdevil/Known-Watching\">Watching</a>, a\u00a0plugin for the <a href=\"https://withknown.com\">Known CMS</a>\u00a0that I use for running this site. Using the plugin, I can publish a record of which movie or TV show I just watched. Earlier this evening, I <a href=\"https://cleverdevil.io/2017/mad-max-fury-road\">watched a few minutes of Mad Max: Fury Road</a>, which I <a href=\"https://cleverdevil.io/2015/imperator-furiosas-lovely-day\">absolutely adored</a>, and it's been logged on my site.</p><p>Better yet? I've written experimental support for <a href=\"https://support.plex.tv/hc/en-us/articles/115002267687-Webhooks\">Plex webhooks</a>, which create these records automatically on my site whenever I click or tap \"play.\" How fun is that?</p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a></p>",
+        "value": "As I get deeper into the IndieWeb, I've been loving exploring more ways to share and publish my activities. Having a timeline that includes where I have been, what I've been eating and drinking, my recipes\u00a0and reviews, along with photos, and social interactions\u00a0helps me remember where I was and what I was doing on any given day.\nLast night, I had trouble sleeping, so I decided to attack a new problem. I'm a big movie enthusiast, and enjoy collecting and watching great films. I decided that tracking what I'm watching would be a fun and useful way to enrich my activity stream.\nI'd like to introduce Watching, a\u00a0plugin for the Known CMS\u00a0that I use for running this site. Using the plugin, I can publish a record of which movie or TV show I just watched. Earlier this evening, I watched a few minutes of Mad Max: Fury Road, which I absolutely adored, and it's been logged on my site.\nBetter yet? I've written experimental support for Plex webhooks, which create these records automatically on my site whenever I click or tap \"play.\" How fun is that?\n#indienews"
+      }
+    ],
+    "category": [
+      "https://news.indieweb.org/en",
+      "#indienews"
+    ],
+    "url": [
+      "/2017/sharing-what-i-watch"
+    ],
+    "published": [
+      "2017-04-13T02:11:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thank you!"
+          ],
+          "content": [
+            {
+              "html": "<p>Thank you!</p>",
+              "value": "Thank you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c1be6aadccd15c2e7908458a4f4b3698/thumb.jpg"
+                ],
+                "name": [
+                  "Mark Waters"
+                ],
+                "url": [
+                  "https://markwaters.eu/"
+                ]
+              },
+              "value": "Mark Waters"
+            }
+          ],
+          "url": [
+            "https://twitter.com/markwaters/status/852517376973303808"
+          ]
+        },
+        "value": "https://twitter.com/markwaters/status/852517376973303808"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Andreas, The best way I'm aware of to do read posts with #WithKnown currently is to post a status update to the effect. I've been considering doing a plugin similar to Jonathan LaCour's Watching https://github.com/cleverdevil/Known-Watching but for books. In fact, other than some cut and paste work and changing the microformats, it should be a simple thing. I'd almost feel guilty for \"stealing\" it. \nI've started hacking away at a Read plugin similar to the bookmark or like functionalities that simply bookmarks articles which I've read online, but it's got some quirky upstream issues that need to be solved before I can finish it. Ultimately it's really for online content more so than books (or even magazines) though. I may circle back around to it sometime toward the end of the summer as I'm trying to finish up some last pieces on my Reading workflows for WordPress."
+          ],
+          "content": [
+            {
+              "html": "<p>Andreas, The best way I'm aware of to do read posts with #WithKnown currently is to post a status update to the effect. I've been considering doing a plugin similar to Jonathan LaCour's Watching <a href=\"https://github.com/cleverdevil/Known-Watching\" rel=\"nofollow\" target=\"_blank\">https://<wbr/>github.com/<wbr/>cleverdevil/<wbr/>Known-Watching</a> but for books. In fact, other than some cut and paste work and changing the microformats, it should be a simple thing. I'd almost feel guilty for \"stealing\" it. </p>\n\n<p>I've started hacking away at a Read plugin similar to the bookmark or like functionalities that simply bookmarks articles which I've read online, but it's got some quirky upstream issues that need to be solved before I can finish it. Ultimately it's really for online content more so than books (or even magazines) though. I may circle back around to it sometime toward the end of the summer as I'm trying to finish up some last pieces on my Reading workflows for WordPress.</p>",
+              "value": "Andreas, The best way I'm aware of to do read posts with #WithKnown currently is to post a status update to the effect. I've been considering doing a plugin similar to Jonathan LaCour's Watching https://github.com/cleverdevil/Known-Watching but for books. In fact, other than some cut and paste work and changing the microformats, it should be a simple thing. I'd almost feel guilty for \"stealing\" it. \nI've started hacking away at a Read plugin similar to the bookmark or like functionalities that simply bookmarks articles which I've read online, but it's got some quirky upstream issues that need to be solved before I can finish it. Ultimately it's really for online content more so than books (or even magazines) though. I may circle back around to it sometime toward the end of the summer as I'm trying to finish up some last pieces on my Reading workflows for WordPress."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7576d1043c478d7d673cd8cc170be147"
+                ],
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://stream.boffosocko.com/profile/chrisaldrich"
+                ]
+              },
+              "value": "Chris Aldrich"
+            }
+          ],
+          "url": [
+            "http://stream.boffosocko.com/2017/andreas-the-best-way-im-aware-of-to-do-read"
+          ]
+        },
+        "value": "http://stream.boffosocko.com/2017/andreas-the-best-way-im-aware-of-to-do-read"
+      }
+    ],
+    "syndication": [
+      "https://facebook.com/10101416927213429/posts/10102247716914209",
+      "https://twitter.com/cleverdevil/status/852366492024934400"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "7d87aa03634bb59d57af7d91ab6591d2"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/852366492024934400?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F852366492024934400%2F16150229"
+          ],
+          "published": [
+            "2017-04-13T04:10:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "jjgalvez"
+                ],
+                "url": [
+                  "https://twitter.com/jjgalvez"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/fc2eb348169e3762ca36c72ab7b1f06a/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/fc2eb348169e3762ca36c72ab7b1f06a/thumb.jpg jjgalvez"
+            }
+          ]
+        },
+        "value": "jjgalvez"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/852366492024934400?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F852366492024934400%2F7468552"
+          ],
+          "published": [
+            "2017-04-13T07:24:54+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Robert Simplicio"
+                ],
+                "url": [
+                  "https://twitter.com/rsimplicio"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/50ccc043b6fd3f84476cd280f82fbbf5/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/50ccc043b6fd3f84476cd280f82fbbf5/thumb.jpg Robert Simplicio"
+            }
+          ]
+        },
+        "value": "Robert Simplicio"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "http://stream.boffosocko.com/2017/liked-jonathan-lacours-sharing-what-i-watch-45ea597c35"
+          ],
+          "published": [
+            "2017-04-13T19:15:22+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://stream.boffosocko.com/profile/chrisaldrich"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/7c737f131f1c87c7006d77a8792e257b"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/7c737f131f1c87c7006d77a8792e257b Chris Aldrich"
+            }
+          ]
+        },
+        "value": "Chris Aldrich"
+      }
+    ]
+  }
+}

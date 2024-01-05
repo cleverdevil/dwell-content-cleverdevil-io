@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/327-the-rickies-early-2021"
+    ],
+    "published": [
+      "2021-01-11T17:30:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2617d8d0e136a7da0db2539fc1cda11c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-11T19:53:18Z",
+      "year": 2021,
+      "month": 1,
+      "day": 11,
+      "hour": 19,
+      "minute": 53,
+      "x": -118.37042925266022,
+      "y": 33.81541177412841,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 327: The Rickies (Early 2021)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/de76c402dd5ab652a0c4523b85c2063e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4vzIxY"
+        ],
+        "content": [
+          {
+            "html": "<p>2020 is over. Products have been released, notches have been measured and an Annual Chairman has been named. As if that wasn\u2019t enough, the 2021 Rickies have been etched into a Google Doc for all time.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "2020 is over. Products have been released, notches have been measured and an Annual Chairman has been named. As if that wasn\u2019t enough, the 2021 Rickies have been etched into a Google Doc for all time.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

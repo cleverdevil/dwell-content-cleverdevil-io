@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-243-fiddling-around-with-folders"
+    ],
+    "published": [
+      "2019-05-01T12:20:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 52.97\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 52.97\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 52.97\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-243-fiddling-around-with-folders/annotations/c54f52e85b9a30c5928365adc20f2472"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-243-fiddling-around-with-folders/annotations/c54f52e85b9a30c5928365adc20f2472"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8abe4680994e0a76331c0f79d0466ac4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-01T16:02:39Z",
+      "year": 2019,
+      "month": 5,
+      "day": 1,
+      "hour": 16,
+      "minute": 2,
+      "x": -71.04959277196579,
+      "y": 42.35148813173208,
+      "altitude": 9,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "G2-GuestWifi"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 243: Fiddling Around With Folders"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b4533ff21b7ef54c82439048789b09d8/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9T_Nt8"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason struggles between the Mac\u2019s insistence on file management and iOS\u2019s lack of it, Podcasts take a step toward going viral with some help from Overcast, and we prepare for the Upgrade Summer of Fun with a new arrival from Dongletown.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason struggles between the Mac\u2019s insistence on file management and iOS\u2019s lack of it, Podcasts take a step toward going viral with some help from Overcast, and we prepare for the Upgrade Summer of Fun with a new arrival from Dongletown.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

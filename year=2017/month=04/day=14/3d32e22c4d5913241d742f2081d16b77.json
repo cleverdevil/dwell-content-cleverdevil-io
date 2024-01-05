@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Rebel Republic Bar & Grill"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rebel Republic Bar & Grill"
+          ],
+          "latitude": [
+            "33.817999315563"
+          ],
+          "longitude": [
+            "-118.38788360419"
+          ]
+        },
+        "value": "Rebel Republic Bar & Grill"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rebel Republic Bar & Grill"
+          ],
+          "latitude": [
+            "33.817999315563"
+          ],
+          "longitude": [
+            "-118.38788360419"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Rebel Republic Bar &amp; Grill\" src=\"https://cleverdevil.io/file/4b95245206356714291688dbcfc43b3c\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Lunch with dad.</p>",
+        "value": "Rebel Republic Bar & Grill\nLunch with dad."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-rebel-republic-bar-grill-1"
+    ],
+    "published": [
+      "2017-04-14T20:17:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're gonna need a frame for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>You're gonna need a frame for that photo.</p>",
+              "value": "You're gonna need a frame for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/604e87739480b618f474d58eb748fa54"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58f12e43d25ded26d107fae9/23f8cee0d7772beccef14dfed8aa3b24"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58f12e43d25ded26d107fae9/23f8cee0d7772beccef14dfed8aa3b24"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58f12e43d25ded26d107fae9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3d32e22c4d5913241d742f2081d16b77"
+    ]
+  }
+}

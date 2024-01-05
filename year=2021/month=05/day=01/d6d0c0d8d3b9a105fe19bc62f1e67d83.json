@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/428-a-series-of-rectangles"
+    ],
+    "published": [
+      "2021-05-01T19:14:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d6d0c0d8d3b9a105fe19bc62f1e67d83"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-01T19:55:40Z",
+      "year": 2021,
+      "month": 5,
+      "day": 1,
+      "hour": 19,
+      "minute": 55,
+      "x": -118.37031046982939,
+      "y": 33.815438988104866,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 428: A Series of Rectangles"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/808b5320b78c97b78a6d93f87c113c7e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULsvdLY"
+        ],
+        "content": [
+          {
+            "html": "<p>A lot of follow-up in a race against an antihistamine.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "A lot of follow-up in a race against an antihistamine.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

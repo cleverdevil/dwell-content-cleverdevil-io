@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-ironwood-park-10"
+    ],
+    "published": [
+      "2023-11-24T22:01:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Ironwood Park since May."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Ironwood Park since May.</p>",
+              "value": "You haven't checked in to Ironwood Park since May."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/65611d223f86ff0076dd0d9f/3013991d6663cda6f3909639153dc854"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/65611d223f86ff0076dd0d9f/3013991d6663cda6f3909639153dc854"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/65611d223f86ff0076dd0d9f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "33b4adabf8a14c5aaa10108a73e70289"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-23T11:03:51Z",
+      "year": 2023,
+      "month": 11,
+      "day": 23,
+      "hour": 11,
+      "minute": 3,
+      "x": -116.380323,
+      "y": 33.701713,
+      "altitude": 127,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.85,
+      "wifi": "DesertSun"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Panic - What's Next for Coda?"
+    ],
+    "like-of": [
+      "https://panic.com/next/"
+    ],
+    "url": [
+      "/2019/panic---whats-next-for-coda"
+    ],
+    "published": [
+      "2019-03-13T20:28:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.76\u00b0F and 43% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.76\u00b0F and 43% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.76\u00b0F and 43% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/panic---whats-next-for-coda/annotations/1d86daf33306c40a513deb3725c1eecf"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/panic---whats-next-for-coda/annotations/1d86daf33306c40a513deb3725c1eecf"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "4c5fd3a55261c101357008d3e7752772"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-13T20:14:18Z",
+      "year": 2019,
+      "month": 3,
+      "day": 13,
+      "hour": 20,
+      "minute": 14,
+      "x": -118.37031480532812,
+      "y": 33.8154148253723,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": "LaCour"
+    }
+  }
+}

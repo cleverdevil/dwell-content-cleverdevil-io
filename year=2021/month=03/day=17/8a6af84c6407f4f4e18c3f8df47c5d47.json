@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/343-dont-call-it-a-homepod"
+    ],
+    "published": [
+      "2021-03-17T06:40:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8a6af84c6407f4f4e18c3f8df47c5d47"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-17T06:50:57Z",
+      "year": 2021,
+      "month": 3,
+      "day": 17,
+      "hour": 6,
+      "minute": 50,
+      "x": -118.37055094113038,
+      "y": 33.815333842163255,
+      "altitude": 57,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 343: Don\u2019t Call It a HomePod"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/28512210775db1da167ad99370870fa0/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_xgRGk"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke\u2019s on a quest for new TV speakers as we ponder the misfire of Apple\u2019s high-end speaker and the potential fate of Apple\u2019s high-end headphones. Jason runs with his Apple Watch, and more apps go native on Apple Silicon. Thanks for following Upgrade!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Myke\u2019s on a quest for new TV speakers as we ponder the misfire of Apple\u2019s high-end speaker and the potential fate of Apple\u2019s high-end headphones. Jason runs with his Apple Watch, and more apps go native on Apple Silicon. Thanks for following Upgrade!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

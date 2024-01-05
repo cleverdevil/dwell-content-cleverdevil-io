@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Good Stuff Restaurant"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.819188029186"
+          ],
+          "longitude": [
+            "-118.38553591961"
+          ]
+        },
+        "value": "Good Stuff Restaurant"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.819188029186"
+          ],
+          "longitude": [
+            "-118.38553591961"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-good-stuff-restaurant-5"
+    ],
+    "published": [
+      "2018-11-25T17:44:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Breakfast Spot check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Breakfast Spot check-in in 3 months!</p>",
+              "value": "First Breakfast Spot check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bfadf949d7468002c6e5ccc/168a81a247fd47b458eb33023d16c1c3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bfadf949d7468002c6e5ccc/168a81a247fd47b458eb33023d16c1c3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bfadf949d7468002c6e5ccc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1565a3b3fbac8dc4156dc29667179d0c"
+    ]
+  }
+}

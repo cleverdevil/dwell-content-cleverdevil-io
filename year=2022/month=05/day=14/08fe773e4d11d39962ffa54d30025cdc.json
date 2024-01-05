@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-ironwood-park-8"
+    ],
+    "published": [
+      "2022-05-14T01:20:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a new Mayor in town!"
+          ],
+          "content": [
+            {
+              "html": "<p>There's a new Mayor in town!</p>",
+              "value": "There's a new Mayor in town!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/627f03c64893595b84835eae/2b372e596fdbb3f2192fd88299cbe7db"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/627f03c64893595b84835eae/2b372e596fdbb3f2192fd88299cbe7db"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/627f03c64893595b84835eae"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "08fe773e4d11d39962ffa54d30025cdc"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-14T01:16:25Z",
+      "year": 2022,
+      "month": 5,
+      "day": 14,
+      "hour": 1,
+      "minute": 16,
+      "x": -116.38591934731487,
+      "y": 33.70024159640572,
+      "altitude": 146,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

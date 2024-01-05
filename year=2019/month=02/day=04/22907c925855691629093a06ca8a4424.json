@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Monthly report: January 2019 | Jeremy Cherfas"
+    ],
+    "like-of": [
+      "https://www.jeremycherfas.net/blog/monthly-report-2019-01"
+    ],
+    "url": [
+      "/2019/monthly-report-january-2019-jeremy-cherfas"
+    ],
+    "published": [
+      "2019-02-04T18:19:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 57.86\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 57.86\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 57.86\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/monthly-report-january-2019-jeremy-cherfas/annotations/bd53bd3e149f8cfd52b02eebe9199a3d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/monthly-report-january-2019-jeremy-cherfas/annotations/bd53bd3e149f8cfd52b02eebe9199a3d"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "22907c925855691629093a06ca8a4424"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-04T16:36:47Z",
+      "year": 2019,
+      "month": 2,
+      "day": 4,
+      "hour": 16,
+      "minute": 36,
+      "x": -118.3852028986214,
+      "y": 33.83643827573215,
+      "altitude": 24,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

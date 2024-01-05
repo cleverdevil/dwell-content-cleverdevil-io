@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-barber-shop-29"
+    ],
+    "published": [
+      "2019-11-23T17:21:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Riviera Barber Shop 30 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Riviera Barber Shop 30 times!</p>",
+              "value": "Wow! You've checked in to Riviera Barber Shop 30 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dd96a9ccbfccb00085fb11f/e973bfecf28281b191d29db010eae7e5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dd96a9ccbfccb00085fb11f/e973bfecf28281b191d29db010eae7e5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.2\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.2\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.2\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-29/annotations/f5507b98d24120371f91da664c0e1839"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-29/annotations/f5507b98d24120371f91da664c0e1839"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dd96a9ccbfccb00085fb11f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d0c1e8a9f4c285f71a834c3c60504e4c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-23T17:20:46Z",
+      "year": 2019,
+      "month": 11,
+      "day": 23,
+      "hour": 17,
+      "minute": 20,
+      "x": -118.38566269317761,
+      "y": 33.81785940138317,
+      "altitude": 23,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  }
+}

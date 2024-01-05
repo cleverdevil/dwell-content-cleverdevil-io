@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-255-peacock-plus"
+    ],
+    "published": [
+      "2019-07-23T19:47:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 78.24\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 78.24\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Possible Drizzle with a temperature of 78.24\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-255-peacock-plus/annotations/9c4eca7ea388980e07312fe00dceada6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-255-peacock-plus/annotations/9c4eca7ea388980e07312fe00dceada6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "da6d9a662b35a825e7a4baa0c77ee30f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-23T20:02:01Z",
+      "year": 2019,
+      "month": 7,
+      "day": 23,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.39514923073105,
+      "y": 33.91963608967109,
+      "altitude": 29,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 255: Peacock Plus"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/56d70d4c773fc23427d673542b7f1f30/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-fAOlE"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple may make premium podcasts, Netflix loses subscribers just as it\u2019s about to face tough competition, and Myke and Jason draft the most appealing video streaming services of 2020!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple may make premium podcasts, Netflix loses subscribers just as it\u2019s about to face tough competition, and Myke and Jason draft the most appealing video streaming services of 2020!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/416-i-will-take-away-those-kudos"
+    ],
+    "published": [
+      "2021-02-06T20:23:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a36b0701a0ff1a9fe701274fb1b92bb6"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-06T23:58:15Z",
+      "year": 2021,
+      "month": 2,
+      "day": 6,
+      "hour": 23,
+      "minute": 58,
+      "x": -118.3703974222086,
+      "y": 33.81539076247195,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 416: I Will Take Away Those Kudos"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8490afd3d0546f61a15b2aa26446fee7/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKBiw4E"
+        ],
+        "content": [
+          {
+            "html": "<p>Tech nostalgia, Apple developer drama, a special bug report, pro cameras, Tesla, Siri, filesystems, backups, and e-bikes: a typical ATP episode.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Tech nostalgia, Apple developer drama, a special bug report, pro cameras, Tesla, Siri, filesystems, backups, and e-bikes: a typical ATP episode.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

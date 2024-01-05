@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/407-inexplicable-billboards"
+    ],
+    "published": [
+      "2022-05-17T19:10:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7b350ad25b6c207ca8a7459bbcf375dd"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-18T00:02:38Z",
+      "year": 2022,
+      "month": 5,
+      "day": 18,
+      "hour": 0,
+      "minute": 2,
+      "x": -116.38028147940605,
+      "y": 33.70164083732166,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 407: Inexplicable Billboards"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cc6114ff0f3aee96931384ac07cc3a9b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8bLxEg"
+        ],
+        "content": [
+          {
+            "html": "<p>Is Apple ready to embrace USB-C across its entire product line? Jason loves his Playdate, but is frustrated by Apple Music playing songs he dislikes. And the music may go on, but the iPod won\u2019t be coming along for the ride.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Is Apple ready to embrace USB-C across its entire product line? Jason loves his Playdate, but is frustrated by Apple Music playing songs he dislikes. And the music may go on, but the iPod won\u2019t be coming along for the ride.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

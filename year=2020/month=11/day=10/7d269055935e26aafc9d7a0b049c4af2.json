@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/300-holiday-party-2020-with-merlin-mann"
+    ],
+    "published": [
+      "2020-11-10T02:00:15+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7d269055935e26aafc9d7a0b049c4af2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-10T03:58:15Z",
+      "year": 2020,
+      "month": 11,
+      "day": 10,
+      "hour": 3,
+      "minute": 58,
+      "x": -118.37031148788698,
+      "y": 33.815466190914876,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 300: \u2018Holiday Party 2020\u2019, With Merlin Mann"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e30fd0e11be9ac2175234b4fa80daab8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCfG9_o"
+        ],
+        "content": [
+          {
+            "html": "<p>300: \u2018Holiday Party 2020\u2019, With Merlin Mann</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "300: \u2018Holiday Party 2020\u2019, With Merlin Mann\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-267-something-stuck-in-your-ear"
+    ],
+    "published": [
+      "2019-11-03T23:46:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.19\u00b0F and 57% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.19\u00b0F and 57% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.19\u00b0F and 57% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-267-something-stuck-in-your-ear/annotations/3fd05426a1ad0a706c094d4302142d1a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-267-something-stuck-in-your-ear/annotations/3fd05426a1ad0a706c094d4302142d1a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1b77a5f9b7186baa1a774363fdb412ab"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-04T00:03:11Z",
+      "year": 2019,
+      "month": 11,
+      "day": 4,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.3947730609602,
+      "y": 33.86386712823874,
+      "altitude": 22,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 267: Something Stuck in Your Ear"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2ab4a18de1ac5660bd9fa20658d85a85/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7CmTGs"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico and Myke break down the new features of iOS 13.2 and watchOS 6.1, before giving their first impressions on the AirPods Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico and Myke break down the new features of iOS 13.2 and watchOS 6.1, before giving their first impressions on the AirPods Pro.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

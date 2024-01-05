@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into John F. Kennedy International Airport (JFK)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John F. Kennedy International Airport (JFK)"
+          ],
+          "latitude": [
+            "40.64512191837"
+          ],
+          "longitude": [
+            "-73.784608840942"
+          ]
+        },
+        "value": "John F. Kennedy International Airport (JFK)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "John F. Kennedy International Airport (JFK)"
+          ],
+          "latitude": [
+            "40.64512191837"
+          ],
+          "longitude": [
+            "-73.784608840942"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-john-f-kennedy-international-airport-jfk-3"
+    ],
+    "published": [
+      "2022-06-30T14:08:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Can't get stuck in traffic if you work from home. \ud83d\udcbb \ud83e\uddd1\u200d\ud83d\udcbb"
+          ],
+          "content": [
+            {
+              "html": "<p>Can't get stuck in traffic if you work from home. \ud83d\udcbb \ud83e\uddd1\u200d\ud83d\udcbb</p>",
+              "value": "Can't get stuck in traffic if you work from home. \ud83d\udcbb \ud83e\uddd1\u200d\ud83d\udcbb"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3Rhci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62bdae6274baf929501a1764/0b6cfeb0a1fdae41631a5cc9e73bc3ab"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62bdae6274baf929501a1764/0b6cfeb0a1fdae41631a5cc9e73bc3ab"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62bdae6274baf929501a1764"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "99405ab2d0c6fe6868c03ae8044e1396"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-30T14:05:20Z",
+      "year": 2022,
+      "month": 6,
+      "day": 30,
+      "hour": 14,
+      "minute": 5,
+      "x": -73.78185428542112,
+      "y": 40.64379120462322,
+      "altitude": 15,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Social Register"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Social Register"
+          ],
+          "latitude": [
+            "42.34353657774"
+          ],
+          "longitude": [
+            "-71.044953897164"
+          ]
+        },
+        "value": "The Social Register"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Social Register"
+          ],
+          "latitude": [
+            "42.34353657774"
+          ],
+          "longitude": [
+            "-71.044953897164"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-the-social-register-1"
+    ],
+    "published": [
+      "2019-10-08T00:54:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to The Social Register since December '18."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to The Social Register since December '18.</p>",
+              "value": "Welcome back! You haven't checked in to The Social Register since December '18."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d9bde28eb9b790008af9815/29859314018a43bf9407a7251a383ca5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d9bde28eb9b790008af9815/29859314018a43bf9407a7251a383ca5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 69.32\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 69.32\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 69.32\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-the-social-register-1/annotations/4b45d2c895b0beedba04d6391a1da43f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-the-social-register-1/annotations/4b45d2c895b0beedba04d6391a1da43f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d9bde28eb9b790008af9815"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f1799b15b02fe4f8fa4b8c12daf73d04"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-08T00:52:44Z",
+      "year": 2019,
+      "month": 10,
+      "day": 8,
+      "hour": 0,
+      "minute": 52,
+      "x": -71.04507061944435,
+      "y": 42.34341107109039,
+      "altitude": 10,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "Aloft_Guest"
+    }
+  }
+}

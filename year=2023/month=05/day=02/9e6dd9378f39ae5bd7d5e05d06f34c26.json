@@ -1,0 +1,67 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Huge progress this evening on my universal remote project. I now am able to use a TiVo Slide Pro remote over RF, interpret every single button press, and dispatch the actions automatically to different devices on my network based upon context and state. I can\u2019t try it out fully yet, because I\u2019m at my desert property, but theoretically it should work!\n\nI even have the ability to handle \u201clong press\u201d events for things like volume."
+    ],
+    "content": [
+      {
+        "html": "Huge progress this evening on my universal remote project. I now am able to use a TiVo Slide Pro remote over RF, interpret every single button press, and dispatch the actions automatically to different devices on my network based upon context and state. I can\u2019t try it out fully yet, because I\u2019m at my desert property, but theoretically it should work!<br/>\n<br/>\nI even have the ability to handle \u201clong press\u201d events for things like volume.",
+        "value": "Huge progress this evening on my universal remote project. I now am able to use a TiVo Slide Pro remote over RF, interpret every single button press, and dispatch the actions automatically to different devices on my network based upon context and state. I can\u2019t try it out fully yet, because I\u2019m at my desert property, but theoretically it should work!\n\nI even have the ability to handle \u201clong press\u201d events for things like volume."
+      }
+    ],
+    "url": [
+      "/2023/huge-progress-this-evening-on-my-universal"
+    ],
+    "published": [
+      "2023-05-02T06:47:59+0000"
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110297750292667233"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "9e6dd9378f39ae5bd7d5e05d06f34c26"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-02T03:34:09Z",
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "hour": 3,
+      "minute": 34,
+      "x": -116.38021025937194,
+      "y": 33.701708020729185,
+      "altitude": 264,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DesertSun"
+    }
+  }
+}

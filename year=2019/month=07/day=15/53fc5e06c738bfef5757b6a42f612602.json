@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Big Brother 21x08 \"Episode 8\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/1c024d213f8bc68c66c3dbf6e5856fef/thumb.jpg"
+          ],
+          "name": [
+            "Big Brother 21x08 \"Episode 8\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3540245"
+          ]
+        },
+        "value": "Big Brother 21x08 \"Episode 8\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Big Brother 21x08 \"Episode 8\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Big Brother 21x08 \"Episode 8\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/big-brother-21x08-episode-8"
+    ],
+    "published": [
+      "2019-07-15T00:45:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/big-brother-21x08-episode-8/annotations/ef6c9ca5d13b07dffc8e0f1988b78433"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/big-brother-21x08-episode-8/annotations/ef6c9ca5d13b07dffc8e0f1988b78433"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "53fc5e06c738bfef5757b6a42f612602"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-15T00:43:53Z",
+      "year": 2019,
+      "month": 7,
+      "day": 15,
+      "hour": 0,
+      "minute": 43,
+      "x": -118.37031520071473,
+      "y": 33.815441508077804,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  }
+}

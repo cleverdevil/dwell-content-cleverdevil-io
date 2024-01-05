@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/217-broken-on-both-ends"
+    ],
+    "published": [
+      "2023-09-25T23:04:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "67cb036e9b209265d8ce2a5cf4c8e75b"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-22T23:03:23Z",
+      "year": 2023,
+      "month": 9,
+      "day": 22,
+      "hour": 23,
+      "minute": 3,
+      "x": -118.37056498401581,
+      "y": 33.815218872520354,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4000000059604645,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 217: Broken on Both Ends"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/780a9207d396151683c34a7bf5ef511a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IN8aNYs"
+        ],
+        "content": [
+          {
+            "html": "<p>How should we be supporting social media platforms we like (or hope to like)?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "How should we be supporting social media platforms we like (or hope to like)?\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

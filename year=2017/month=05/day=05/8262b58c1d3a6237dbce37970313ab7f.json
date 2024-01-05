@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Target"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Target"
+          ],
+          "latitude": [
+            "33.826540531288"
+          ],
+          "longitude": [
+            "-118.34609985352"
+          ]
+        },
+        "value": "Target"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Target"
+          ],
+          "latitude": [
+            "33.826540531288"
+          ],
+          "longitude": [
+            "-118.34609985352"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>LEGO shopping</p>",
+        "value": "LEGO shopping"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-target"
+    ],
+    "published": [
+      "2017-05-05T17:04:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Target!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Target!</p>",
+              "value": "Your first check-in at this Target!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3039ca5a58c8ced84c91616c9b83cb32"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590cb0a701235817029bf2fa/d32a47af3d7079d6ca7ddb34814295cd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590cb0a701235817029bf2fa/d32a47af3d7079d6ca7ddb34814295cd"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/590cb0a701235817029bf2fa"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8262b58c1d3a6237dbce37970313ab7f"
+    ]
+  }
+}

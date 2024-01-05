@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/324-automatic-kicking-machine"
+    ],
+    "published": [
+      "2019-05-05T16:15:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.6\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.6\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.6\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/324-automatic-kicking-machine/annotations/34397d28fb3d7fd5eef267c4b441a1db"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/324-automatic-kicking-machine/annotations/34397d28fb3d7fd5eef267c4b441a1db"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ab1dac15f2848bd4594516e99ce1da63"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-05T20:01:27Z",
+      "year": 2019,
+      "month": 5,
+      "day": 5,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.40951104230204,
+      "y": 33.88583729925392,
+      "altitude": 33,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 324: Automatic Kicking Machine"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0336da93a72a8b729ffc60169e8071a8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdT9CIaw"
+        ],
+        "content": [
+          {
+            "html": "<p>Overcast\u2019s clip sharing, Apple vs. parental-control apps, and Marco vs. jury duty.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Overcast\u2019s clip sharing, Apple vs. parental-control apps, and Marco vs. jury duty.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

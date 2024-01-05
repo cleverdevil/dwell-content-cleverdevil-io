@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/438-the-jeremies-february-2023"
+    ],
+    "published": [
+      "2023-03-05T20:33:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b4c80c82d4eead4f71b6c9e13502e544"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-05T22:42:03Z",
+      "year": 2023,
+      "month": 3,
+      "day": 5,
+      "hour": 22,
+      "minute": 42,
+      "x": -116.38037329418852,
+      "y": 33.70165745850835,
+      "altitude": 131,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.3700000047683716,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 438: The Jeremies (February 2023)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3d43bbb90d34a53379b74667cb10325a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4KbGGQ"
+        ],
+        "content": [
+          {
+            "html": "<p>New emoji are coming with iOS 16.4, so it\u2019s time for Federico to guess their names.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "New emoji are coming with iOS 16.4, so it\u2019s time for Federico to guess their names.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

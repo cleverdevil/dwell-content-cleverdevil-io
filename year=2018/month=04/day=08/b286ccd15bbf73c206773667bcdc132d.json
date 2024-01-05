@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/6-is-he-in-jersey"
+    ],
+    "published": [
+      "2018-04-08T18:13:05+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b286ccd15bbf73c206773667bcdc132d"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 6: Is He In Jersey?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/09f75826dea3dcea4a40eb3d27da2dfa/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+F_wudr0ac"
+        ],
+        "content": [
+          {
+            "html": "<p>\u201cFarmer Refuted\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Pod4Ham - a podcast about the musical Hamilton</p>",
+            "value": "\u201cFarmer Refuted\u201d\nBy Pod4Ham - a podcast about the musical Hamilton"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

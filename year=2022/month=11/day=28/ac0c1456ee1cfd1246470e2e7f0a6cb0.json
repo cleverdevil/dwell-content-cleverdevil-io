@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Los Angeles International Airport (LAX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943680365224"
+          ],
+          "longitude": [
+            "-118.40607404709"
+          ]
+        },
+        "value": "Los Angeles International Airport (LAX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Los Angeles International Airport (LAX)"
+          ],
+          "latitude": [
+            "33.943680365224"
+          ],
+          "longitude": [
+            "-118.40607404709"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-los-angeles-international-airport-lax-122"
+    ],
+    "published": [
+      "2022-11-28T00:15:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 65 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 65 people are here!</p>",
+              "value": "This place is swarming! 65 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6383fda54e38461c52cb64a2/16dd7d6813ed42b6c97b18814a1a3d1b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6383fda54e38461c52cb64a2/16dd7d6813ed42b6c97b18814a1a3d1b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6383fda54e38461c52cb64a2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ac0c1456ee1cfd1246470e2e7f0a6cb0"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-11T02:00:50Z",
+      "year": 2022,
+      "month": 11,
+      "day": 11,
+      "hour": 2,
+      "minute": 0,
+      "x": -116.38042972582298,
+      "y": 33.7016010011756,
+      "altitude": 129,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "DesertSun"
+    }
+  }
+}

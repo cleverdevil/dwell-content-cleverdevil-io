@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ralphs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813543519957"
+          ],
+          "longitude": [
+            "-118.3677082641"
+          ]
+        },
+        "value": "Ralphs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813543519957"
+          ],
+          "longitude": [
+            "-118.3677082641"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Ralphs\" src=\"https://cleverdevil.io/file/2e9a40cc8dafdfe67e128f94233a7dc2\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "Ralphs"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ralphs-8"
+    ],
+    "published": [
+      "2017-09-16T20:14:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+          ],
+          "content": [
+            {
+              "html": "<p>Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.</p>",
+              "value": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59bd8612947c053082e9e4a4/02c9c54da903dc2ada0368f7b502f3ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59bd8612947c053082e9e4a4/02c9c54da903dc2ada0368f7b502f3ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59bd8612947c053082e9e4a4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b8bc43cf4f24c999f4662374a3b94033"
+    ]
+  }
+}

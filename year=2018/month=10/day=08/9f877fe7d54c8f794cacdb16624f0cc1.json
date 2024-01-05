@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Five Guys"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Five Guys"
+          ],
+          "latitude": [
+            "33.815242241325"
+          ],
+          "longitude": [
+            "-118.35046337123"
+          ]
+        },
+        "value": "Five Guys"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Five Guys"
+          ],
+          "latitude": [
+            "33.815242241325"
+          ],
+          "longitude": [
+            "-118.35046337123"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>After the boy gets his stitches, he gets a hot dog with bacon! \ud83c\udf2d \ud83e\udd53</p>",
+        "value": "After the boy gets his stitches, he gets a hot dog with bacon! \ud83c\udf2d \ud83e\udd53"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-five-guys"
+    ],
+    "published": [
+      "2018-10-08T01:55:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Burger Joint check-in in 10 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Burger Joint check-in in 10 months!</p>",
+              "value": "First Burger Joint check-in in 10 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bbab8f535f983002c64866b/29c8341eedf0d34354cf8a97f8ad818c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bbab8f535f983002c64866b/29c8341eedf0d34354cf8a97f8ad818c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bbab8f535f983002c64866b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9f877fe7d54c8f794cacdb16624f0cc1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/10/08/3/like/"
+          ],
+          "published": [
+            "2018-10-08T09:49:27+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

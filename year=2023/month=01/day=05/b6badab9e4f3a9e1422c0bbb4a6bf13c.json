@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/516-one-of-my-fits-of-rage"
+    ],
+    "published": [
+      "2023-01-05T23:05:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b6badab9e4f3a9e1422c0bbb4a6bf13c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-06T00:04:11Z",
+      "year": 2023,
+      "month": 1,
+      "day": 6,
+      "hour": 0,
+      "minute": 4,
+      "x": -116.38803290626245,
+      "y": 33.80312236442707,
+      "altitude": 74,
+      "motion": [
+        "driving"
+      ],
+      "speed": 18,
+      "battery_state": "charging",
+      "battery_level": 0.7200000286102295,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 516: One of My Fits of Rage"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/041fb59b6311b15cf53fbf0d2aeb9e99/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIN-kk4"
+        ],
+        "content": [
+          {
+            "html": "<p>John\u2019s birthday cake, Samsung\u2019s new monitor, and why Overcast isn\u2019t moving to CloudKit after all.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John\u2019s birthday cake, Samsung\u2019s new monitor, and why Overcast isn\u2019t moving to CloudKit after all.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

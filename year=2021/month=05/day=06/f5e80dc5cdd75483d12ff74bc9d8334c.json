@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/344-a-chainsaw-from-eight-miles-away"
+    ],
+    "published": [
+      "2021-05-06T15:40:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f5e80dc5cdd75483d12ff74bc9d8334c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-06T02:43:45Z",
+      "year": 2021,
+      "month": 5,
+      "day": 6,
+      "hour": 2,
+      "minute": 43,
+      "x": -118.37034489164733,
+      "y": 33.81540790638206,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 344: A Chainsaw from Eight Miles Away"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/817a02c11cf7c6c10cfe80dbce0123c5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7Wb3OI"
+        ],
+        "content": [
+          {
+            "html": "<p>There are some amazing websites on the Internet, but nothing can ease the pain brought by iPad mini rumors. Stephen knows about sound, Myke has a new keychain and Federico has a story to tell about Obsidian.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "There are some amazing websites on the Internet, but nothing can ease the pain brought by iPad mini rumors. Stephen knows about sound, Myke has a new keychain and Federico has a story to tell about Obsidian.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

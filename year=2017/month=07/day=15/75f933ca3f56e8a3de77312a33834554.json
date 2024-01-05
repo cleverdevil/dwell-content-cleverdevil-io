@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Westin Maui Resort & Spa, Ka'anapali"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Maui Resort & Spa, Ka'anapali"
+          ],
+          "latitude": [
+            "20.92021652572"
+          ],
+          "longitude": [
+            "-156.69504761696"
+          ]
+        },
+        "value": "The Westin Maui Resort & Spa, Ka'anapali"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Maui Resort & Spa, Ka'anapali"
+          ],
+          "latitude": [
+            "20.92021652572"
+          ],
+          "longitude": [
+            "-156.69504761696"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Our home for the last few days of our trip.</p>",
+        "value": "Our home for the last few days of our trip."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-westin-maui-resort-spa-kaanapali"
+    ],
+    "published": [
+      "2017-07-15T01:43:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Westin Maui Resort & Spa, Ka'anapali!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Westin Maui Resort &amp; Spa, Ka'anapali!</p>",
+              "value": "Your first check-in at The Westin Maui Resort & Spa, Ka'anapali!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d3cd914412d5d40864c103c323569cd6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59697343d552c75d2d828c2e/a407aa4764d1d9919845e501a79e6388"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59697343d552c75d2d828c2e/a407aa4764d1d9919845e501a79e6388"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59697343d552c75d2d828c2e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "75f933ca3f56e8a3de77312a33834554"
+    ]
+  }
+}

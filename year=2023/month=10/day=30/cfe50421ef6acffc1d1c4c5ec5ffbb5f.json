@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/an-impossible-journey-into-self-hosting"
+    ],
+    "published": [
+      "2023-10-30T21:28:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cfe50421ef6acffc1d1c4c5ec5ffbb5f"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-30T20:26:41Z",
+      "year": 2023,
+      "month": 10,
+      "day": 30,
+      "hour": 20,
+      "minute": 26,
+      "x": -118.37034257799966,
+      "y": 33.81541848576278,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to An impossible journey into self-hosting"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/95677143d90969ff6250b344a524aed3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+QN1pjewnM"
+        ],
+        "content": [
+          {
+            "html": "<p>Today on the flagship podcast of network-attached storage: This is the fourth in our four-part series all about connectivity. This week we\u2019re talking about software: how software connects us, how we connect to software, and how software connects to other software. Email us at vergecast@theverge.com or call us at 866-VERGE11, we love hearing from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Vergecast</p>",
+            "value": "Today on the flagship podcast of network-attached storage: This is the fourth in our four-part series all about connectivity. This week we\u2019re talking about software: how software connects us, how we connect to software, and how software connects to other software. Email us at vergecast@theverge.com or call us at 866-VERGE11, we love hearing from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices\nBy The Vergecast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

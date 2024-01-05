@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/201-widgetsmith"
+    ],
+    "published": [
+      "2020-10-05T17:16:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "955e4a70c605c933abc5e8b8e1941e27"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-05T19:12:38Z",
+      "year": 2020,
+      "month": 10,
+      "day": 5,
+      "hour": 19,
+      "minute": 12,
+      "x": -118.37030641375388,
+      "y": 33.815434817430635,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 201: Widgetsmith"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a3f775cfda41d25712548db73ecbbf5c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FgnYq_GO4"
+        ],
+        "content": [
+          {
+            "html": "<p>Dave\u2019s app is number one in the App Store! We explore the mind-bending scale and perspective of such a defining moment in an indie developer\u2019s career.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Under the Radar</p>",
+            "value": "Dave\u2019s app is number one in the App Store! We explore the mind-bending scale and perspective of such a defining moment in an indie developer\u2019s career.\nBy Under the Radar"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

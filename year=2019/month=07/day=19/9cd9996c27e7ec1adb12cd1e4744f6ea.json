@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-252-full-oracle-mode"
+    ],
+    "published": [
+      "2019-07-19T16:16:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.87\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.87\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.87\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-252-full-oracle-mode/annotations/62d85856d7197e4893147c8ad8c8390c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-252-full-oracle-mode/annotations/62d85856d7197e4893147c8ad8c8390c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9cd9996c27e7ec1adb12cd1e4744f6ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-19T20:04:15Z",
+      "year": 2019,
+      "month": 7,
+      "day": 19,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.37043856702256,
+      "y": 33.8154653575725,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 252: Full Oracle Mode"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/973cf71cb53fa32fbbf73e09bb268e5e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx50N2fg"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico has concerns about dummy units of the next iPhone. Stephen is troubled by the icon used for Software Update in macOS. Both of them receive a visit from a mystic being named Myke. Oh, and it\u2019s World Emoji Day!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico has concerns about dummy units of the next iPhone. Stephen is troubled by the icon used for Software Update in macOS. Both of them receive a visit from a mystic being named Myke. Oh, and it\u2019s World Emoji Day!\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

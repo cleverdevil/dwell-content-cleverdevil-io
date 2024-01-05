@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/430-apple-did-not-eat-that-food"
+    ],
+    "published": [
+      "2021-05-15T03:55:20+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "67588f66560da2f1958ec49e06a2d2aa"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-15T04:04:15Z",
+      "year": 2021,
+      "month": 5,
+      "day": 15,
+      "hour": 4,
+      "minute": 4,
+      "x": -84.37307151625215,
+      "y": 33.885956676055144,
+      "altitude": 285,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.20000000298023224,
+      "wifi": "LaMaison"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 430: Apple Did Not Eat That Food"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7ecd017f4ae452ffda291fab00e67164/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJAtA4s"
+        ],
+        "content": [
+          {
+            "html": "<p>AirTag mounting options, Apple\u2019s bad hire, an epic (\u2026\ud83d\ude0e) rant about Apple\u2019s in-app-purchase rules and developer relations, and discovering the slowest way to make a three-page website.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AirTag mounting options, Apple\u2019s bad hire, an epic (\u2026\ud83d\ude0e) rant about Apple\u2019s in-app-purchase rules and developer relations, and discovering the slowest way to make a three-page website.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

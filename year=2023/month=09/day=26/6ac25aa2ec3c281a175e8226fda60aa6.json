@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seattle-Tacoma International Airport (SEA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": "Seattle-Tacoma International Airport (SEA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-seattle-tacoma-international-airport-sea-14"
+    ],
+    "published": [
+      "2023-09-26T19:29:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6513311e6a62d2630eaaca99/e643e5fd7325e9b6928117fc3228f7ef"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6513311e6a62d2630eaaca99/e643e5fd7325e9b6928117fc3228f7ef"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6513311e6a62d2630eaaca99"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6ac25aa2ec3c281a175e8226fda60aa6"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-26T19:24:52Z",
+      "year": 2023,
+      "month": 9,
+      "day": 26,
+      "hour": 19,
+      "minute": 24,
+      "x": -122.30478061538591,
+      "y": 47.44091196851372,
+      "altitude": 114,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "DeltaWiFi.com"
+    }
+  }
+}

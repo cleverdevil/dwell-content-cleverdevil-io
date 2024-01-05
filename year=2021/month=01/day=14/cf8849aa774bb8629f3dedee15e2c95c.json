@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/334-tina-if-youre-tuna"
+    ],
+    "published": [
+      "2021-01-14T07:11:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "cf8849aa774bb8629f3dedee15e2c95c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-14T07:35:22Z",
+      "year": 2021,
+      "month": 1,
+      "day": 14,
+      "hour": 7,
+      "minute": 35,
+      "x": -118.3705394129733,
+      "y": 33.81532433305014,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 334: Tina, If You\u2019re Tuna\u2026"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/01f735292ab0eda723cf62a7a2037320/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm83BqHc"
+        ],
+        "content": [
+          {
+            "html": "<p>The avalanche of 2021 Apple product rumors has arrived, the Mac App Store turns 10, tech platforms show some of their users the door, and Jason provides Intel Mac buying advice to a friend, or is it a fish?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The avalanche of 2021 Apple product rumors has arrived, the Mac App Store turns 10, tech platforms show some of their users the door, and Jason provides Intel Mac buying advice to a friend, or is it a fish?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

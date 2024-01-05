@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/320-here-comes-the-big-but"
+    ],
+    "published": [
+      "2019-04-05T19:47:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 62.93\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 62.93\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 62.93\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/320-here-comes-the-big-but/annotations/256f3c1d084833d0ccf35832e0586443"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/320-here-comes-the-big-but/annotations/256f3c1d084833d0ccf35832e0586443"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a8dad2f8a9a05d834ba912d5c61bd60f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-05T20:00:10Z",
+      "year": 2019,
+      "month": 4,
+      "day": 5,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37029210254497,
+      "y": 33.8154374601468,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 320: Here Comes the Big But"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/638af729dd1d06d84daddd87c0f14fad/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdQWac3o"
+        ],
+        "content": [
+          {
+            "html": "<p>Accidental AirPods ASMR, the fate of AirPower, Google Stadia, and time-budgeting for Casey\u2019s app.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Accidental AirPods ASMR, the fate of AirPower, Google Stadia, and time-budgeting for Casey\u2019s app.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

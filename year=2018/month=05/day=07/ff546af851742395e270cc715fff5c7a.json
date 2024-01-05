@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Strand House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Strand House"
+          ],
+          "latitude": [
+            "33.884626935957"
+          ],
+          "longitude": [
+            "-118.41128936819"
+          ]
+        },
+        "value": "The Strand House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Strand House"
+          ],
+          "latitude": [
+            "33.884626935957"
+          ],
+          "longitude": [
+            "-118.41128936819"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Family dinner!</p>",
+        "value": "Family dinner!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-strand-house"
+    ],
+    "published": [
+      "2018-05-07T01:27:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Strand House!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Strand House!</p>",
+              "value": "Your first check-in at The Strand House!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aefab64c21cb10039166431/23ab5fb941d6bd8e83f61a703ece0eee"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aefab64c21cb10039166431/23ab5fb941d6bd8e83f61a703ece0eee"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aefab64c21cb10039166431"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ff546af851742395e270cc715fff5c7a"
+    ]
+  }
+}

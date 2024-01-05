@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      ""
+    ],
+    "like-of": [
+      "https://quickthoughts.jgregorymcverry.com/2019/02/16/-i-actually-changed-my-mind-on"
+    ],
+    "url": [
+      "/2019/-i-actually-changed-my-mind-on"
+    ],
+    "published": [
+      "2019-02-16T15:30:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 48.88\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 48.88\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 48.88\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/-i-actually-changed-my-mind-on/annotations/29cb2f27b2c2e259adc72be9f392f029"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/-i-actually-changed-my-mind-on/annotations/29cb2f27b2c2e259adc72be9f392f029"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "93cca77a38da7340e1f9fb930f24da8e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-15T15:10:17Z",
+      "year": 2019,
+      "month": 2,
+      "day": 15,
+      "hour": 15,
+      "minute": 10,
+      "x": -118.37055649159502,
+      "y": 33.815331231745084,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.28999999165534973,
+      "wifi": "LaCour"
+    }
+  }
+}

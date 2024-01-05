@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/78-pasta-shapes"
+    ],
+    "published": [
+      "2021-08-25T07:31:52+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a9537077a57746c037503850a43bca43"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-23T03:06:47Z",
+      "year": 2021,
+      "month": 8,
+      "day": 23,
+      "hour": 3,
+      "minute": 6,
+      "x": -118.37030877454161,
+      "y": 33.81541797836043,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 78: Pasta Shapes \ud83c\udf5d"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b2f30515ca41cb3055526ebaca47983d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDbJoSn0"
+        ],
+        "content": [
+          {
+            "html": "<p>After months of delicious research, we\u2019ve ranked our favorite extrusions of dried semolina. We tried every shape we could find \u2014 yes, even that one.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "After months of delicious research, we\u2019ve ranked our favorite extrusions of dried semolina. We tried every shape we could find \u2014 yes, even that one.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://github.com/idno/Known/issues/1991"
+    ],
+    "name": [
+      "While I think a Gallery object would be nice, eventually, I am not convinced that its necessarily the best way to go here. Its my understanding that pretty much all Entities support attachments, so doing it in the near-term in a more cross-cutting way would enable any type of post created via Micropub that contains multiple attachments to elegantly display the images."
+    ],
+    "content": [
+      {
+        "html": "While I think a Gallery object would be nice, eventually, I am not convinced that its necessarily the best way to go here. Its my understanding that pretty much all Entities support attachments, so doing it in the near-term in a more cross-cutting way would enable any type of post created via Micropub that contains multiple attachments to elegantly display the images.",
+        "value": "While I think a Gallery object would be nice, eventually, I am not convinced that its necessarily the best way to go here. Its my understanding that pretty much all Entities support attachments, so doing it in the near-term in a more cross-cutting way would enable any type of post created via Micropub that contains multiple attachments to elegantly display the images."
+      }
+    ],
+    "url": [
+      "/2018/while-i-think-a-gallery-object-would"
+    ],
+    "published": [
+      "2018-02-09T20:33:23+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "01a6be82f0da7aa5ab2ff51a7a20544b"
+    ]
+  }
+}

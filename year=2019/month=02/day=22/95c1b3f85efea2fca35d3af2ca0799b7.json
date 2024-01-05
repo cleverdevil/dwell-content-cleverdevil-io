@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-231-dozens-of-invisible-footnotes"
+    ],
+    "published": [
+      "2019-02-22T01:05:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 48.23\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 48.23\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 48.23\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-231-dozens-of-invisible-footnotes/annotations/b4d1df19245594bc6aca0cdbc6701528"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-231-dozens-of-invisible-footnotes/annotations/b4d1df19245594bc6aca0cdbc6701528"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "95c1b3f85efea2fca35d3af2ca0799b7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-22T04:04:52Z",
+      "year": 2019,
+      "month": 2,
+      "day": 22,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.38897667134908,
+      "y": 33.819431168381435,
+      "altitude": 21,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 231: Dozens of Invisible Footnotes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7ffcf7335a5638a85e85612f37224951/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5VrXpE"
+        ],
+        "content": [
+          {
+            "html": "<p>The boys dive into a sea of rumors after Federico explores San Jose\u2019s municipal websites, Myke gives everyone a gift and Stephen returns from a journey.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The boys dive into a sea of rumors after Federico explores San Jose\u2019s municipal websites, Myke gives everyone a gift and Stephen returns from a journey.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

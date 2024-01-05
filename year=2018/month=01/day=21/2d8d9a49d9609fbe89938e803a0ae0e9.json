@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Crab Catcher"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Crab Catcher"
+          ],
+          "latitude": [
+            "32.849291125634"
+          ],
+          "longitude": [
+            "-117.27061689818"
+          ]
+        },
+        "value": "Crab Catcher"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Crab Catcher"
+          ],
+          "latitude": [
+            "32.849291125634"
+          ],
+          "longitude": [
+            "-117.27061689818"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch</p>",
+        "value": "Lunch"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-crab-catcher"
+    ],
+    "published": [
+      "2018-01-21T21:32:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Crab Catcher!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Crab Catcher!</p>",
+              "value": "Your first check-in at Crab Catcher!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6506ddfe37404823cff957/4c243de2e9fc335ef7d2acda26a1f5a3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6506ddfe37404823cff957/4c243de2e9fc335ef7d2acda26a1f5a3"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in La Jolla."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in La Jolla.</p>",
+              "value": "First check-in in La Jolla."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6506ddfe37404823cff957/4879750f93a6f77d56e2b5eaff151fd5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6506ddfe37404823cff957/4879750f93a6f77d56e2b5eaff151fd5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6506ddfe37404823cff957"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2d8d9a49d9609fbe89938e803a0ae0e9"
+    ]
+  }
+}

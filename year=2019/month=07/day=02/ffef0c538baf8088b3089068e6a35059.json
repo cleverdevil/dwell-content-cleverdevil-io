@@ -1,0 +1,487 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "IndieWeb Summit 2019"
+    ],
+    "content": [
+      {
+        "html": "<p>I had the great pleasure of spending this weekend in Portland, OR for the <a href=\"https://2019.indieweb.org/summit\">2019 IndieWeb Summit</a>. IWS is my favorite event of the year, as it gives me the opportunity to spend time with so many smart, like-minded, principled people who are interested in using technology to make a positive impact on the world. This year\u2019s IWS was a runaway success, selling out for the first time ever, and featuring some truly great sessions, keynotes, and projects.</p><h2>Day Zero: The Pre-Party</h2><p>On Friday evening, a large subset of the attendees gathered at <a href=\"http://www.pinestreetpdx.com/\">Pine Street Market</a> to share in food, drink, and community. It was fun to reconnect with IndieWeb friends like <a href=\"https://david.shanske.com\">David Shanske</a>, <a href=\"https://aaronpk.com\">Aaron Parecki</a>, <a href=\"https://tantek.com\">Tantek \u00c7elik</a>, <a href=\"https://martymcgui.re/\">Marty McGuire</a>, <a href=\"https://v2.jacky.wtf/\">Jacky Alcin\u00e9</a>, and <a href=\"https://unicyclic.com/mal\">Malcom Blaney</a>. Much fun was had by all, and the post-party festivities carried on well into the night.</p><h2>Day One: Keynotes and Sessions</h2><h3>Keynotes</h3><p><img alt=\"5d17a64c2daf2f84f031723d_IMG_0226.JPG\" class=\"right\" src=\"https://uploads-ssl.webflow.com/5c4a326e9405012e3340a3f8/5d17a64c2daf2f84f031723d_IMG_0226.JPG\" width=\"350\"/></p><p>The next morning, we kicked off the summit with coffee and breakfast, followed by some great keynotes.</p><p>First up, <a href=\"https://tantek.com\">Tantek</a> gave a brief <a href=\"https://indieweb.org/2019/state-of-the-indieweb\">state of the IndieWeb</a> presentation, and shared details about the IndieWeb\u2019s Code of Conduct, our use of color-coded lanyards to give people a choice about whether or not they should be included in photos, and our use of pins to enable people to display their preferred pronouns.</p><p>Next was fellow <a href=\"https://micro.blog\">Micro.blog</a> community member <a href=\"https://kitt.hodsden.org\">Kitt Hodsden</a> who gave an inspiring talk <a href=\"https://indieweb.org/2019/on-contractions-and-expansions\">on contractions and expansions</a>, which really set the tone for the rest of the summit. Kitt should be very proud of both the content of her talk, and her wonderful, passionate delivery. Well done, Kitt!</p><p>Continuing the thoughtful keynote presentations was <a href=\"https://mjordan.codes\">Jordan Brady</a>, a native of Portland that I met several years ago at a Homebrew Website Club meeting at the DreamHost PDX offices. Jordan shared her story of <a href=\"https://indieweb.org/2019/changing-my-domain\">changing her domain during her job search</a>. Her experience shined a light on the challenges of being a woman in tech.</p><p><a href=\"https://martymcgui.re\">Marty McGuire</a> followed, with an <a href=\"https://indieweb.org/2019/own-your-mobile-experience\">interactive keynote about his IndieWeb experience from his iPhone</a>. It was very cool to see how far we\u2019ve come in the past few years, with native mobile apps like <a href=\"https://indigenous.abode.pub\">Indigenous</a> by <a href=\"https://eddiehinkle.com\">Eddie Hinkle</a>, and deep integrations thanks to iOS Shortcuts. Kudos to Marty for presenting the entire keynote directly from his iPhone.</p><p>Finally, <a href=\"https://v2.jacky.wtf/\">Jacky Alcin\u00e9</a> closed the keynotes with an exploration of how to <a href=\"https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/\">make the IndieWeb available for all</a>. Jacky is a really thoughtful guy, and I enjoyed hearing his perspective.</p><h3>Lightning Intros</h3><p>After keynotes, all IWS participants were encouraged to give <a href=\"https://indieweb.org/2019/Intros\">brief, 2-minute introductions, along with demos of their personal websites</a>. During my introduction, I talked about the importance of preserving and owning your memories, and showed how my website helped me cope with the loss of my sixteen year old dog Winston earlier this year.</p><h3>Sessions</h3><p><img alt=\"5d17e52b6ad3cb4f3e219a19_IMG_1304-p-1080.jpeg\" class=\"right\" src=\"https://uploads-ssl.webflow.com/5c4a326e9405012e3340a3f8/5d17e52b6ad3cb4f3e219a19_IMG_1304-p-1080.jpeg\" width=\"350\"/></p><p>After a group photo and lunch at local Portland food carts, we returned to the venue to plan out the rest of the day. IWS uses the <a href=\"https://en.wikipedia.org/wiki/BarCamp\">BarCamp</a> format for session planning, where attendees lead interactive session proposals, and build the schedule together. We came up with <a href=\"https://indieweb.org/2019/Schedule\">quite an impressive collection of sessions</a>!</p><p>There were a lot of great conversations, but I\u2019ll touch on three of my personal favorites:</p><ol><li><a href=\"https://etherpad.indieweb.org/follow\">\u201cFollow That Bird\u201d</a> \u2013\u00a0This session was proposed by <a href=\"https://david.shanske.com\">David Shanske</a>, and addressed the problem of <a href=\"https://indieweb.org/discovery\">discovery</a>. On platforms like Facebook and Twitter, it is easy to just click the \u201cfollow\u201d or \u201cfriend\u201d button, and following / friend lists help users discover other people. On the IndieWeb, we\u2019re still figuring out the mechanics of how to improve this user experience, especially in social readers like <a href=\"https://alltogethernow.io\">Together</a> and <a href=\"https://monocle.p3k.io\">Monocle</a>. Lots of great discussion all around, and this session ended up inspiring my project for day two, which I\u2019ll talk about shortly.</li>\n<li><a href=\"https://etherpad.indieweb.org/shareprivately\">Private Posts</a> \u2013 I ran this session, and we talked about another problem that is neatly solved by traditional social platforms: sharing content privately. Again, some great discussion about how to solve this problem in the IndieWeb. Thankfully, there\u2019s plenty of <a href=\"https://indieweb.org/private_posts\">prior art</a> out there to build upon. I\u2019m looking forward to working on solving this for <a href=\"https://github.com/idno/Known\">Known</a>, which is the CMS I use for this website.</li>\n<li><a href=\"https://etherpad.indieweb.org/indiewebfutures\">Possible Futures and IndieWeb</a> \u2013 An extremely engaging and interactive session facilitated by <a href=\"https://twitter.com/atmlutter\">Ariana Lutterman</a>. Ariana guided the group through the process of exploring the many possible futures for the IndieWeb based upon emerging signals of change through the lens of growth, collapse, discipline, and transformation. We brainstormed on future implications across a number of axes \u2013 STEEPV (social, technological, environmental, economic, political, and values). Finally, we used our exploration to write headlines from the future. A really thoughtful and fun exercise. Many thanks to Ariana for guiding us.</li>\n</ol><p>At the end of a very long and engaging day, we split out into groups for evening activities. I joined a great group of nine for dinner at <a href=\"https://gojackrabbitgo.com\">Jackrabbit</a>, which featured an impressive and delicious 4-pound steak that we shared. Yum!</p><h2>Day Two: Creative Hack Day!</h2><p><img alt=\"IndieWebCamp Logo\" class=\"right\" src=\"https://cleverdevil.io/file/01b3b8d38fd148ae60766d7484232d32/thumb.png\" width=\"350\"/></p><p>On Sunday, we started things off with some tasty vegan breakfast options, and then I headed off to the <a href=\"https://etherpad.indieweb.org/Known_Collective\">first ever meeting of the Known Open Collective</a>. It was great to finally connect, at least over video chat, with <a href=\"https://www.marcus-povey.co.uk\">Marcus Povey</a>, <a href=\"https://www.jeremycherfas.net\">Jeremy Cherfas</a>, and <a href=\"http://1500wordmtu.com\">Paul Lindner</a>. We definitely missed having <a href=\"https://werd.io\">Ben Werdm\u00fcller</a> at the summit, but all send our best to him as he deals with this complicated thing we call \u201clife.\u201d</p><p>For the rest of day two, I focused on two things \u2013 helping other people and personal projects.</p><p>Inspired by the \u201cFollow that Bird\u201d session from day one, I decided that it would be extremely valuable to focus on the problem of discovery. I chose to update my site to make it easier to subscribe to my website, and to discover who and what <em>I</em> am following. The first, smaller part of the project, was to update <a href=\"https://cleverdevil.io/pages/subscribe\">my Subscribe page</a> with more detailed instructions on how to subscribe to one or more of the feeds that are available on my website.</p><p>The second part of my project was to build a way for people to see what I am following. There is <a href=\"https://indieweb.org/follow\">a wealth of information on \u201cfollowing\u201d on the IndieWeb wiki</a>, but none of the approaches discussed for documenting subscriptions really sat right with me. I am a fan of the <a href=\"https://en.wikipedia.org/wiki/Don%27t_repeat_yourself\">DRY principle</a>, and I don\u2019t like the idea of manually creating \u201cfollow posts\u201d when I have a perfectly serviceable source of truth for my subscriptions in my <a href=\"https://indieweb.org/Microsub\">Microsub</a> server. Thus, I embarked upon a project to automatically generate a page on my website that displays an up-to-date list of my subscriptions from <a href=\"https://aperture.p3k.io\">Aperture</a>.</p><p>Thanks to some enhancements by <a href=\"https://aaronpk.com\">Aaron Parecki</a> to Aperture, I was able to create <a href=\"https://cleverdevil.io/following\">a beautiful Following page</a> that gives visitors to my website a way to see exactly what I am following in my social reader. They can use this to discover new content that they may enjoy. Even better, if you <a href=\"https://php.microformats.io/?url=https%3A%2F%2Fcleverdevil.io%2Ffollowing\">parse my Following page with a microformats2 parser</a>, you\u2019ll find that it is an <a href=\"https://indieweb.org/h-feed\">h-feed</a> containing <a href=\"https://indieweb.org/h-entry\">h-entry</a> \u201cfollow posts\u201d with a <code>u-follow-of</code> property for each feed that I subscribe to. The only missing piece is that Aperture doesn\u2019t yet provide me with the date and time that my subscription was created. <a href=\"https://aaronpk.com\">Aaron</a> has indicated that this is something he\u2019d like to add, and once he does, I\u2019ll update my page to include that data.</p><p>At the end of the summit, participants demoed their projects and progress before we closed out the summit. My personal favorite demo was from <a href=\"https://unicyclic.com/mal\">Malcom Blaney</a> and <a href=\"https://gregorlove.com\">Gregor Love</a>, who demonstrated one of the first implementations of subscribing to private posts using <a href=\"https://indieweb.org/AutoAuth\">AutoAuth</a>. It was awesome to see private sharing in action, and it gives me confidence that 2020 could be the year that we solve this problem for good.</p><h2>IndieKaraoke</h2><p>Once the summit wrapped, a small group of us enjoyed what is becoming a wonderful annual tradition: IndieWeb Karaoke night! This year, we celebrated at <a href=\"https://voiceboxkaraoke.com/locations/northwest-portland/\">Voicebox Northwest</a> thanks to our wonderful host <a href=\"https://anomalily.net\">Lillian Karabaic</a>. There was singing. There was laughing. There was a non-stop stream of incredible IndieWeb lyrical jokes:</p><ul><li>\u201cBow down before the Zuckerberg. You\u2019re going to get what you deserve.\u201d \u2013 To the tune of Head Like a Hole by Nine Inch Nails.</li>\n<li>\u201cIf you want to destroy the silos (whoa oh-oh), POSSE first, and then walk away!\u201d \u2013 To the tune of Undone by Weezer.</li>\n</ul><p>We\u2019re a bunch of very lovable nerds. I\u2019d especially like to call out <a href=\"http://beesbuzz.biz\">Fluffy</a> for her amazing energy at karaoke. She made sure that fun was had by all.</p><h2>Conclusions</h2><p>Thank you so much to all of the organizers of IndieWeb Summit for doing such a great job building an inclusive, fun, and enjoyable event each year. This year\u2019s summit was the best yet, and I have no doubt that <em>next year</em> will be <em>even better</em>.</p><p>I love you <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a>!\u00a0</p><p><a class=\"u-category\" href=\"https://news.indieweb.org/en\"></a><a class=\"p-category\" href=\"/tag/indienews\" rel=\"tag\">#indienews</a></p>",
+        "value": "I had the great pleasure of spending this weekend in Portland, OR for the 2019 IndieWeb Summit. IWS is my favorite event of the year, as it gives me the opportunity to spend time with so many smart, like-minded, principled people who are interested in using technology to make a positive impact on the world. This year\u2019s IWS was a runaway success, selling out for the first time ever, and featuring some truly great sessions, keynotes, and projects.Day Zero: The Pre-Party\nOn Friday evening, a large subset of the attendees gathered at Pine Street Market to share in food, drink, and community. It was fun to reconnect with IndieWeb friends like David Shanske, Aaron Parecki, Tantek \u00c7elik, Marty McGuire, Jacky Alcin\u00e9, and Malcom Blaney. Much fun was had by all, and the post-party festivities carried on well into the night.Day One: Keynotes and SessionsKeynotes\n5d17a64c2daf2f84f031723d_IMG_0226.JPG\nThe next morning, we kicked off the summit with coffee and breakfast, followed by some great keynotes.\nFirst up, Tantek gave a brief state of the IndieWeb presentation, and shared details about the IndieWeb\u2019s Code of Conduct, our use of color-coded lanyards to give people a choice about whether or not they should be included in photos, and our use of pins to enable people to display their preferred pronouns.\nNext was fellow Micro.blog community member Kitt Hodsden who gave an inspiring talk on contractions and expansions, which really set the tone for the rest of the summit. Kitt should be very proud of both the content of her talk, and her wonderful, passionate delivery. Well done, Kitt!\nContinuing the thoughtful keynote presentations was Jordan Brady, a native of Portland that I met several years ago at a Homebrew Website Club meeting at the DreamHost PDX offices. Jordan shared her story of changing her domain during her job search. Her experience shined a light on the challenges of being a woman in tech.\nMarty McGuire followed, with an interactive keynote about his IndieWeb experience from his iPhone. It was very cool to see how far we\u2019ve come in the past few years, with native mobile apps like Indigenous by Eddie Hinkle, and deep integrations thanks to iOS Shortcuts. Kudos to Marty for presenting the entire keynote directly from his iPhone.\nFinally, Jacky Alcin\u00e9 closed the keynotes with an exploration of how to make the IndieWeb available for all. Jacky is a really thoughtful guy, and I enjoyed hearing his perspective.Lightning Intros\nAfter keynotes, all IWS participants were encouraged to give brief, 2-minute introductions, along with demos of their personal websites. During my introduction, I talked about the importance of preserving and owning your memories, and showed how my website helped me cope with the loss of my sixteen year old dog Winston earlier this year.Sessions\n5d17e52b6ad3cb4f3e219a19_IMG_1304-p-1080.jpeg\nAfter a group photo and lunch at local Portland food carts, we returned to the venue to plan out the rest of the day. IWS uses the BarCamp format for session planning, where attendees lead interactive session proposals, and build the schedule together. We came up with quite an impressive collection of sessions!\nThere were a lot of great conversations, but I\u2019ll touch on three of my personal favorites:\u201cFollow That Bird\u201d \u2013\u00a0This session was proposed by David Shanske, and addressed the problem of discovery. On platforms like Facebook and Twitter, it is easy to just click the \u201cfollow\u201d or \u201cfriend\u201d button, and following / friend lists help users discover other people. On the IndieWeb, we\u2019re still figuring out the mechanics of how to improve this user experience, especially in social readers like Together and Monocle. Lots of great discussion all around, and this session ended up inspiring my project for day two, which I\u2019ll talk about shortly. Private Posts \u2013 I ran this session, and we talked about another problem that is neatly solved by traditional social platforms: sharing content privately. Again, some great discussion about how to solve this problem in the IndieWeb. Thankfully, there\u2019s plenty of prior art out there to build upon. I\u2019m looking forward to working on solving this for Known, which is the CMS I use for this website. Possible Futures and IndieWeb \u2013 An extremely engaging and interactive session facilitated by Ariana Lutterman. Ariana guided the group through the process of exploring the many possible futures for the IndieWeb based upon emerging signals of change through the lens of growth, collapse, discipline, and transformation. We brainstormed on future implications across a number of axes \u2013 STEEPV (social, technological, environmental, economic, political, and values). Finally, we used our exploration to write headlines from the future. A really thoughtful and fun exercise. Many thanks to Ariana for guiding us.\nAt the end of a very long and engaging day, we split out into groups for evening activities. I joined a great group of nine for dinner at Jackrabbit, which featured an impressive and delicious 4-pound steak that we shared. Yum!Day Two: Creative Hack Day!\nIndieWebCamp Logo\nOn Sunday, we started things off with some tasty vegan breakfast options, and then I headed off to the first ever meeting of the Known Open Collective. It was great to finally connect, at least over video chat, with Marcus Povey, Jeremy Cherfas, and Paul Lindner. We definitely missed having Ben Werdm\u00fcller at the summit, but all send our best to him as he deals with this complicated thing we call \u201clife.\u201d\nFor the rest of day two, I focused on two things \u2013 helping other people and personal projects.\nInspired by the \u201cFollow that Bird\u201d session from day one, I decided that it would be extremely valuable to focus on the problem of discovery. I chose to update my site to make it easier to subscribe to my website, and to discover who and what I am following. The first, smaller part of the project, was to update my Subscribe page with more detailed instructions on how to subscribe to one or more of the feeds that are available on my website.\nThe second part of my project was to build a way for people to see what I am following. There is a wealth of information on \u201cfollowing\u201d on the IndieWeb wiki, but none of the approaches discussed for documenting subscriptions really sat right with me. I am a fan of the DRY principle, and I don\u2019t like the idea of manually creating \u201cfollow posts\u201d when I have a perfectly serviceable source of truth for my subscriptions in my Microsub server. Thus, I embarked upon a project to automatically generate a page on my website that displays an up-to-date list of my subscriptions from Aperture.\nThanks to some enhancements by Aaron Parecki to Aperture, I was able to create a beautiful Following page that gives visitors to my website a way to see exactly what I am following in my social reader. They can use this to discover new content that they may enjoy. Even better, if you parse my Following page with a microformats2 parser, you\u2019ll find that it is an h-feed containing h-entry \u201cfollow posts\u201d with a u-follow-of property for each feed that I subscribe to. The only missing piece is that Aperture doesn\u2019t yet provide me with the date and time that my subscription was created. Aaron has indicated that this is something he\u2019d like to add, and once he does, I\u2019ll update my page to include that data.\nAt the end of the summit, participants demoed their projects and progress before we closed out the summit. My personal favorite demo was from Malcom Blaney and Gregor Love, who demonstrated one of the first implementations of subscribing to private posts using AutoAuth. It was awesome to see private sharing in action, and it gives me confidence that 2020 could be the year that we solve this problem for good.IndieKaraoke\nOnce the summit wrapped, a small group of us enjoyed what is becoming a wonderful annual tradition: IndieWeb Karaoke night! This year, we celebrated at Voicebox Northwest thanks to our wonderful host Lillian Karabaic. There was singing. There was laughing. There was a non-stop stream of incredible IndieWeb lyrical jokes:\u201cBow down before the Zuckerberg. You\u2019re going to get what you deserve.\u201d \u2013 To the tune of Head Like a Hole by Nine Inch Nails. \u201cIf you want to destroy the silos (whoa oh-oh), POSSE first, and then walk away!\u201d \u2013 To the tune of Undone by Weezer.\nWe\u2019re a bunch of very lovable nerds. I\u2019d especially like to call out Fluffy for her amazing energy at karaoke. She made sure that fun was had by all.Conclusions\nThank you so much to all of the organizers of IndieWeb Summit for doing such a great job building an inclusive, fun, and enjoyable event each year. This year\u2019s summit was the best yet, and I have no doubt that next year will be even better.\nI love you #IndieWeb!\u00a0\n#indienews"
+      }
+    ],
+    "category": [
+      "#IndieWeb",
+      "https://news.indieweb.org/en",
+      "#indienews"
+    ],
+    "url": [
+      "/2019/indieweb-summit-2019"
+    ],
+    "published": [
+      "2019-07-02T17:26:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.43\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.43\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 68.43\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/indieweb-summit-2019/annotations/0a126c12c8873aa28e3cce368f1a2119"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/indieweb-summit-2019/annotations/0a126c12c8873aa28e3cce368f1a2119"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thanks for the great write-up!\nHow did you pull the information for your Following page out of Aperture? I tried looking through the documentaion last night, but couldn\u2019t find anything obvious to point me in the right direction.\nBeing able to do something similar could help me on a couple of ideas I have floating around my head."
+          ],
+          "content": [
+            {
+              "html": "<p>Thanks for the great write-up!<br/>How did you pull the information for your Following page out of Aperture? I tried looking through the documentaion last night, but couldn\u2019t find anything obvious to point me in the right direction.<br/>Being able to do something similar could help me on a couple of ideas I have floating around my head.</p>",
+              "value": "Thanks for the great write-up!\nHow did you pull the information for your Following page out of Aperture? I tried looking through the documentaion last night, but couldn\u2019t find anything obvious to point me in the right direction.\nBeing able to do something similar could help me on a couple of ideas I have floating around my head."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9tcmthcG93c2tpLmNvbS93cC1jb250ZW50L3VwbG9hZHMvYXZhdGFyLXByaXZhY3kvY2FjaGUvdXNlci80LzgvNDgxOGY1MmNmY2VkMTJjZTRhYzMzYjcyMzJmYzQ3ZTI4MmNlMjk4NDRkNGY2MjVlZDgxMmJkNmFmY2ExMWM1Ni00MC5qcGc,/300/square"
+                ],
+                "name": [
+                  "Chris"
+                ],
+                "url": [
+                  "https://mrkapowski.com/"
+                ]
+              },
+              "value": "Chris"
+            }
+          ],
+          "url": [
+            "https://mrkapowski.com/2019/07/8826.html"
+          ]
+        },
+        "value": "https://mrkapowski.com/2019/07/8826.html"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1146139406203596800",
+      "https://mastodon.social/@cleverdevil/102373518689790212"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "ffef0c538baf8088b3089068e6a35059"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1146139406203596800?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1146139406203596800%2F15699553"
+          ],
+          "published": [
+            "2019-07-02T20:01:20+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff"
+                ],
+                "url": [
+                  "https://twitter.com/Darchmare"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjU2OTMwMDEwNDc5NTc1MDQvOHZQWXVHMVguanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjU2OTMwMDEwNDc5NTc1MDQvOHZQWXVHMVguanBn/300/square Jeff"
+            }
+          ]
+        },
+        "value": "Jeff"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2019-07-02_indieweb-summit-2019"
+          ],
+          "published": [
+            "2019-07-02T22:12:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NDdiNWYzZjMyM2RhMGVmNzg1YjZmMDJkOWMyNjVkNj9zPTk2JmQ9Ymxhbmsmcj1n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci85NDdiNWYzZjMyM2RhMGVmNzg1YjZmMDJkOWMyNjVkNj9zPTk2JmQ9Ymxhbmsmcj1n/300/square Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://zach.oglesby.co/2019/07/03/indieweb-summit-2019"
+          ],
+          "published": [
+            "2019-07-03T00:59:06+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Zach Oglesby"
+                ],
+                "url": [
+                  "https://zach.oglesby.co/profile/zach"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly96YWNoLm9nbGVzYnkuY28vZmlsZS9hMzA2YmIwZTY5YTUzNGY5MmVlMzc0Yzc4MzNlMGVkMQ,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly96YWNoLm9nbGVzYnkuY28vZmlsZS9hMzA2YmIwZTY5YTUzNGY5MmVlMzc0Yzc4MzNlMGVkMQ,,/300/square Zach Oglesby"
+            }
+          ]
+        },
+        "value": "Zach Oglesby"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1146139406203596800?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1146139406203596800%2F302173"
+          ],
+          "published": [
+            "2019-07-03T01:38:44+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Kitt Hodsden"
+                ],
+                "url": [
+                  "https://twitter.com/kitt"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk5NTQxNDEzODkxMzQxNTE2OC9qazFvZGJkOC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk5NTQxNDEzODkxMzQxNTE2OC9qazFvZGJkOC5qcGc,/300/square Kitt Hodsden"
+            }
+          ]
+        },
+        "value": "Kitt Hodsden"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://mrkapowski.com/2019/07/8825.html"
+          ],
+          "published": [
+            "2019-07-03T08:26:23+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris"
+                ],
+                "url": [
+                  "https://mrkapowski.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9tcmthcG93c2tpLmNvbS93cC1jb250ZW50L3VwbG9hZHMvYXZhdGFyLXByaXZhY3kvY2FjaGUvdXNlci80LzgvNDgxOGY1MmNmY2VkMTJjZTRhYzMzYjcyMzJmYzQ3ZTI4MmNlMjk4NDRkNGY2MjVlZDgxMmJkNmFmY2ExMWM1Ni00MC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9tcmthcG93c2tpLmNvbS93cC1jb250ZW50L3VwbG9hZHMvYXZhdGFyLXByaXZhY3kvY2FjaGUvdXNlci80LzgvNDgxOGY1MmNmY2VkMTJjZTRhYzMzYjcyMzJmYzQ3ZTI4MmNlMjk4NDRkNGY2MjVlZDgxMmJkNmFmY2ExMWM1Ni00MC5qcGc,/300/square Chris"
+            }
+          ]
+        },
+        "value": "Chris"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://v2.jacky.wtf/post/194b16d4-33ad-40a4-8963-fc410f555bc4"
+          ],
+          "published": [
+            "2019-07-03T15:34:13+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jacky Alcin\u00e9"
+                ],
+                "url": [
+                  "https://v2.jacky.wtf"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly92Mi5qYWNreS53dGYvbWVkaWEvcHJvZmlsZS1pbWFnZQ,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly92Mi5qYWNreS53dGYvbWVkaWEvcHJvZmlsZS1pbWFnZQ,,/300/square Jacky Alcin\u00e9"
+            }
+          ]
+        },
+        "value": "Jacky Alcin\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://unicyclic.com/mal/2019-07-04-_httpscleverdevilio2019indieweb-summit-20"
+          ],
+          "published": [
+            "2019-07-04T03:43:59+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Malcolm Blaney"
+                ],
+                "url": [
+                  "https://unicyclic.com/mal"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly91bmljeWNsaWMuY29tL21hbC9wdWJsaWMvcHJvZmlsZV9zbWFsbF90aHVtYi5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly91bmljeWNsaWMuY29tL21hbC9wdWJsaWMvcHJvZmlsZV9zbWFsbF90aHVtYi5wbmc,/300/square Malcolm Blaney"
+            }
+          ]
+        },
+        "value": "Malcolm Blaney"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2019/07/04/indieweb-summit-2019"
+          ],
+          "published": [
+            "2019-07-04T10:38:16+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://martymcgui.re/2019/07/02/154814/"
+          ],
+          "published": [
+            "2019-07-02T19:48:14+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Marty McGuire"
+                ],
+                "url": [
+                  "https://martymcgui.re/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9tYXJ0eW1jZ3VpLnJlL2ltYWdlcy9sb2dvLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9tYXJ0eW1jZ3VpLnJlL2ltYWdlcy9sb2dvLmpwZw,,/300/square Marty McGuire"
+            }
+          ]
+        },
+        "value": "Marty McGuire"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://notiz.blog/2019/07/07/state-of-the-indieweb-2019/"
+          ],
+          "published": [
+            "2019-07-07T19:25:45+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Matthias Pfefferle"
+                ],
+                "url": [
+                  "https://notiz.blog/author/matthias-pfefferle/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci83NTUxMmJiNTg0YmJjZWFlNTdkZmM1MDM2OTJiMTZiMj9zPTQwJmQ9bW0mcj1n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zZWN1cmUuZ3JhdmF0YXIuY29tL2F2YXRhci83NTUxMmJiNTg0YmJjZWFlNTdkZmM1MDM2OTJiMTZiMj9zPTQwJmQ9bW0mcj1n/300/square Matthias Pfefferle"
+            }
+          ]
+        },
+        "value": "Matthias Pfefferle"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-02T17:26:59Z",
+      "year": 2019,
+      "month": 7,
+      "day": 2,
+      "hour": 17,
+      "minute": 26,
+      "x": -118.39515163515553,
+      "y": 33.91957944305198,
+      "altitude": 28,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "WeWork"
+    }
+  }
+}

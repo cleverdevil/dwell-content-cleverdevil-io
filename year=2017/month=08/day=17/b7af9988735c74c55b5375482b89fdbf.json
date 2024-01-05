@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Taxco Mexican Restaurant"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Taxco Mexican Restaurant"
+          ],
+          "latitude": [
+            "33.877893618907"
+          ],
+          "longitude": [
+            "-84.380074739456"
+          ]
+        },
+        "value": "Taxco Mexican Restaurant"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Taxco Mexican Restaurant"
+          ],
+          "latitude": [
+            "33.877893618907"
+          ],
+          "longitude": [
+            "-84.380074739456"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Taxco Mexican Restaurant\" src=\"https://cleverdevil.io/file/5a08840159a7219ed5fef91af7000a6a\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Family favorite!</p>",
+        "value": "Taxco Mexican Restaurant\nFamily favorite!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-taxco-mexican-restaurant"
+    ],
+    "published": [
+      "2017-08-17T23:58:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Taxco Mexican Restaurant since August '10."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Taxco Mexican Restaurant since August '10.</p>",
+              "value": "Welcome back! You haven't checked in to Taxco Mexican Restaurant since August '10."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f80209c64a9bd06aa7417d6436a36f67"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59962daf3d47912d83116bcc/3fe170fb89e3b2d4f514386b1404c752"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59962daf3d47912d83116bcc/3fe170fb89e3b2d4f514386b1404c752"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59962daf3d47912d83116bcc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b7af9988735c74c55b5375482b89fdbf"
+    ]
+  }
+}

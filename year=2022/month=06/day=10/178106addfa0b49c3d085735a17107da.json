@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/486-field-day-at-apple-park"
+    ],
+    "published": [
+      "2022-06-10T00:07:27+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "178106addfa0b49c3d085735a17107da"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-10T04:00:28Z",
+      "year": 2022,
+      "month": 6,
+      "day": 10,
+      "hour": 4,
+      "minute": 0,
+      "x": -116.38046309037112,
+      "y": 33.70170020105832,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 486: Field Day at Apple Park"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1b6b810dd43b6e9c2e9639955a2ae79f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJXYE4k"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2022: new building, new format, new OSes, new APIs, new hardware, and new pastries!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "WWDC 2022: new building, new format, new OSes, new APIs, new hardware, and new pastries!\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

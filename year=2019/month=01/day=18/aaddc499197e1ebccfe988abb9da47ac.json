@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Jean MacDonald - My Micro.blog Moment"
+    ],
+    "like-of": [
+      "https://micro.welltempered.net/2019/01/18/my-microblog-moment.html"
+    ],
+    "url": [
+      "/2019/jean-macdonald---my-microblog-moment"
+    ],
+    "published": [
+      "2019-01-18T23:57:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/jean-macdonald---my-microblog-moment/annotations/707c3eb4feee37b5af889d5327e4cf3f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/jean-macdonald---my-microblog-moment/annotations/707c3eb4feee37b5af889d5327e4cf3f"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "aaddc499197e1ebccfe988abb9da47ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-18T07:30:24Z",
+      "year": 2019,
+      "month": 1,
+      "day": 18,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37051178197673,
+      "y": 33.815358239166414,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

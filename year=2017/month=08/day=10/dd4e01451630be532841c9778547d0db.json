@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Tomorrow is the first of many DreamHost Website Club meetings! Inspired by Homebrew Website Club, but for our employees to spend company time working on building their own websites. Should be exciting! #Indieweb"
+    ],
+    "content": [
+      {
+        "html": "Tomorrow is the first of many DreamHost Website Club meetings! Inspired by Homebrew Website Club, but for our employees to spend company time working on building their own websites. Should be exciting! <a class=\"p-category\" href=\"/tag/Indieweb\" rel=\"tag\">#Indieweb</a>",
+        "value": "Tomorrow is the first of many DreamHost Website Club meetings! Inspired by Homebrew Website Club, but for our employees to spend company time working on building their own websites. Should be exciting! #Indieweb"
+      }
+    ],
+    "category": [
+      "#Indieweb"
+    ],
+    "url": [
+      "/2017/tomorrow-is-the-first-of-many-dreamhost-website-club-meetings"
+    ],
+    "published": [
+      "2017-08-10T02:52:42+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "dd4e01451630be532841c9778547d0db"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://snarfed.org/2017-08-09_tomorrow-is-the-first-of-many-dreamhost-website-club-meetings"
+          ],
+          "published": [
+            "2017-08-10T03:00:12+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ryan Barrett"
+                ],
+                "url": [
+                  "https://snarfed.org/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/9527a6914a83b6e309eeaac701f93c1f"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/9527a6914a83b6e309eeaac701f93c1f Ryan Barrett"
+            }
+          ]
+        },
+        "value": "Ryan Barrett"
+      }
+    ]
+  }
+}

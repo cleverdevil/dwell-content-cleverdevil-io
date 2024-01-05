@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "inessential: The NeXT Era Ends, the Swift Era Begins"
+    ],
+    "like-of": [
+      "https://inessential.com/2019/06/07/the_next_era_ends_the_swift_era_begins"
+    ],
+    "url": [
+      "/2019/inessential-the-next-era-ends-the-swift-era-begins"
+    ],
+    "published": [
+      "2019-06-08T00:45:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.39\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.39\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.39\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/inessential-the-next-era-ends-the-swift-era-begins/annotations/ddc0d1502b4d706a7abd5f9633b120f9"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/inessential-the-next-era-ends-the-swift-era-begins/annotations/ddc0d1502b4d706a7abd5f9633b120f9"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "4adfd354a9d6347bb7bd76c8461c3f15"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-08T00:43:15Z",
+      "year": 2019,
+      "month": 6,
+      "day": 8,
+      "hour": 0,
+      "minute": 43,
+      "x": -118.37027128042463,
+      "y": 33.81544335152539,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": "LaCour"
+    }
+  }
+}

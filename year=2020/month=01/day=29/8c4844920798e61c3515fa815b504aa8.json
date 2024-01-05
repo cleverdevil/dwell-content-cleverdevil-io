@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Neil Young is wrong about the MacBook Pro"
+    ],
+    "like-of": [
+      "https://www.loopinsight.com/2020/01/28/neil-young-is-wrong-about-the-macbook-pro/"
+    ],
+    "url": [
+      "/2020/neil-young-is-wrong-about-the-macbook-pro"
+    ],
+    "published": [
+      "2020-01-29T18:44:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 69.11\u00b0F and 30% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 69.11\u00b0F and 30% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 69.11\u00b0F and 30% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/neil-young-is-wrong-about-the-macbook-pro/annotations/78041e676065247ef761c0d0313fab5c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/neil-young-is-wrong-about-the-macbook-pro/annotations/78041e676065247ef761c0d0313fab5c"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "8c4844920798e61c3515fa815b504aa8"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-29T18:42:52Z",
+      "year": 2020,
+      "month": 1,
+      "day": 29,
+      "hour": 18,
+      "minute": 42,
+      "x": -118.39510865917858,
+      "y": 33.91963601194555,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "WeWork"
+    }
+  }
+}

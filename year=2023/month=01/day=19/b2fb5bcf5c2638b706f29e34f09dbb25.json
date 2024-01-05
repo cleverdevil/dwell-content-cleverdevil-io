@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/199-reverse-gift-of-the-magi"
+    ],
+    "published": [
+      "2023-01-19T16:27:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b2fb5bcf5c2638b706f29e34f09dbb25"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-19T20:04:50Z",
+      "year": 2023,
+      "month": 1,
+      "day": 19,
+      "hour": 20,
+      "minute": 4,
+      "x": -97.66349641097145,
+      "y": 30.20230299011555,
+      "altitude": 157,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 199: Reverse Gift of the Magi"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6c3c5dc7f7974165e8ddb66ed3f7a4d3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMNRPnM"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for Holiday Results, which somehow includes strong opinions on labeling leftovers, preparing strawberries, and sweating \u201cle mot juste.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "It\u2019s time for Holiday Results, which somehow includes strong opinions on labeling leftovers, preparing strawberries, and sweating \u201cle mot juste.\u201d\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

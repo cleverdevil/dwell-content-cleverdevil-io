@@ -1,0 +1,154 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2019/06/12/9/"
+    ],
+    "name": [
+      "@aaronpk years ago, I wrote a little script that automatically converted a Keynote deck into individual PDF files (one per slide, vector, scalable) and then created a PPTX file out of the result. Not editable, obviously, but a nice shortcut. Sadly, I can\u2019t find the script anymore!"
+    ],
+    "content": [
+      {
+        "html": "@aaronpk years ago, I wrote a little script that automatically converted a Keynote deck into individual PDF files (one per slide, vector, scalable) and then created a PPTX file out of the result. Not editable, obviously, but a nice shortcut. Sadly, I can\u2019t find the script anymore!",
+        "value": "@aaronpk years ago, I wrote a little script that automatically converted a Keynote deck into individual PDF files (one per slide, vector, scalable) and then created a PPTX file out of the result. Not editable, obviously, but a nice shortcut. Sadly, I can\u2019t find the script anymore!"
+      }
+    ],
+    "url": [
+      "/2019/aaronpk-years-ago-i-wrote-a-little"
+    ],
+    "published": [
+      "2019-06-13T00:45:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.76\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.76\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.76\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/aaronpk-years-ago-i-wrote-a-little/annotations/7c0203029e299e78e97a2136573cf555"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/aaronpk-years-ago-i-wrote-a-little/annotations/7c0203029e299e78e97a2136573cf555"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "that's.... ridiculous and fantastic"
+          ],
+          "content": [
+            {
+              "html": "<p>that's.... ridiculous and fantastic</p>",
+              "value": "that's.... ridiculous and fantastic"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2019/06/12/17/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2019/06/12/17/"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1138970705981259777",
+      "https://mastodon.social/@cleverdevil/102261506238318275"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e57a709dff3cbd7276bc3ded0ed04b7d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-12T23:04:44Z",
+      "year": 2019,
+      "month": 6,
+      "day": 12,
+      "hour": 23,
+      "minute": 4,
+      "x": -118.39358010868024,
+      "y": 33.93347182844365,
+      "altitude": 33,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

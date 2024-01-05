@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seattle-Tacoma International Airport (SEA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": "Seattle-Tacoma International Airport (SEA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seattle-Tacoma International Airport (SEA)"
+          ],
+          "latitude": [
+            "47.443588534192"
+          ],
+          "longitude": [
+            "-122.30250835419"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Hello</p>",
+        "value": "Hello"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seattle-tacoma-international-airport-sea-2"
+    ],
+    "published": [
+      "2017-10-25T19:31:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Seattle-Tacoma International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59f0e683da70806d7133a14b/e643e5fd7325e9b6928117fc3228f7ef"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59f0e683da70806d7133a14b/e643e5fd7325e9b6928117fc3228f7ef"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 958 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 958 miles since your last check-in!</p>",
+              "value": "You've traveled 958 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59f0e683da70806d7133a14b/99f4914cb0a34e26a38ee73b00a9864b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59f0e683da70806d7133a14b/99f4914cb0a34e26a38ee73b00a9864b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59f0e683da70806d7133a14b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6344826ad3a7d1597e3427db0ae19374"
+    ]
+  }
+}

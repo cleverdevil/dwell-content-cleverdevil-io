@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/numerical-order-in-the-court"
+    ],
+    "published": [
+      "2022-07-04T17:07:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a26e5ab615169fa6651d91d2111fd27b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-04T19:13:44Z",
+      "year": 2022,
+      "month": 7,
+      "day": 4,
+      "hour": 19,
+      "minute": 13,
+      "x": -118.37044962426076,
+      "y": 33.8153935323042,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Numerical Order in the Court"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/13ef6d3cb02f87eded2019ed6b47bd63/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0_hAT8"
+        ],
+        "content": [
+          {
+            "html": "<p>Sabine thinks she can count to one million. Her husband, Cameron, says there\u2019s no way she can do it! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Sabine thinks she can count to one million. Her husband, Cameron, says there\u2019s no way she can do it! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-ironwood-park-2"
+    ],
+    "published": [
+      "2021-11-08T00:55:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That crown looks nice on you."
+          ],
+          "content": [
+            {
+              "html": "<p>That crown looks nice on you.</p>",
+              "value": "That crown looks nice on you."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6188758a4472a65005bcf0e7/8c5bc2565071b260a9a382ea560ed6ab"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6188758a4472a65005bcf0e7/8c5bc2565071b260a9a382ea560ed6ab"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6188758a4472a65005bcf0e7"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f9030123a146d2b8dad0cd7f2fe3e1fd"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-08T00:54:57Z",
+      "year": 2021,
+      "month": 11,
+      "day": 8,
+      "hour": 0,
+      "minute": 54,
+      "x": -116.38553797493621,
+      "y": 33.70042011220724,
+      "altitude": 144,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5299999713897705,
+      "wifi": ""
+    }
+  }
+}

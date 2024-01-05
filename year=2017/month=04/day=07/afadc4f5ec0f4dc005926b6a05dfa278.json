@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "http://boffosocko.com/2017/04/05/mastodon-social-isnt-as-federated-or-as-decentralized-as-the-indie-web"
+    ],
+    "name": [
+      "Great post about Mastodon and the IndieWeb."
+    ],
+    "content": [
+      {
+        "html": "Great post about Mastodon and the IndieWeb.",
+        "value": "Great post about Mastodon and the IndieWeb."
+      }
+    ],
+    "url": [
+      "/2017/great-post-about-mastodon-and-the-indieweb"
+    ],
+    "published": [
+      "2017-04-07T04:52:01+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/850209526158475264"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "afadc4f5ec0f4dc005926b6a05dfa278"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/850209526158475264?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F850209526158475264%2F13645402"
+          ],
+          "published": [
+            "2017-04-07T05:38:47+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "ChrisAldrich"
+                ],
+                "url": [
+                  "https://twitter.com/ChrisAldrich"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/27bc10aea3667be09559bf4e8805e3ca"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/27bc10aea3667be09559bf4e8805e3ca ChrisAldrich"
+            }
+          ]
+        },
+        "value": "ChrisAldrich"
+      }
+    ]
+  }
+}

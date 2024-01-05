@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jo's Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jo's Coffee"
+          ],
+          "latitude": [
+            "30.264910671198"
+          ],
+          "longitude": [
+            "-97.746100549238"
+          ]
+        },
+        "value": "Jo's Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jo's Coffee"
+          ],
+          "latitude": [
+            "30.264910671198"
+          ],
+          "longitude": [
+            "-97.746100549238"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Late breakfast</p>",
+        "value": "Late breakfast"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-jos-coffee"
+    ],
+    "published": [
+      "2022-10-19T16:10:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Jo's Coffee!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Jo's Coffee!</p>",
+              "value": "Your first check-in at Jo's Coffee!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6350215b0dcebe0399dd096c/b53c9eaaf2308b3821fe49f78c69f0e1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6350215b0dcebe0399dd096c/b53c9eaaf2308b3821fe49f78c69f0e1"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Downtown Austin was in November '21 at Verbena."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Downtown Austin was in November '21 at Verbena.</p>",
+              "value": "Your last check-in in Downtown Austin was in November '21 at Verbena."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6350215b0dcebe0399dd096c/644cfd3ab0aea301d5c9046664432d0d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6350215b0dcebe0399dd096c/644cfd3ab0aea301d5c9046664432d0d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6350215b0dcebe0399dd096c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fca16812cf78efc0a51b3e0b683685ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-19T16:08:12Z",
+      "year": 2022,
+      "month": 10,
+      "day": 19,
+      "hour": 16,
+      "minute": 8,
+      "x": -97.74608032487058,
+      "y": 30.264956632589204,
+      "altitude": 149,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": ""
+    }
+  }
+}

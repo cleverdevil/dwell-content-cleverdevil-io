@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/crust-ody-hearing"
+    ],
+    "published": [
+      "2022-11-02T22:25:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "524c17216565d0da71b26489c94d07f7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-03T00:03:26Z",
+      "year": 2022,
+      "month": 11,
+      "day": 3,
+      "hour": 0,
+      "minute": 3,
+      "x": -122.39161016772047,
+      "y": 37.78963525947469,
+      "altitude": 5,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Crust-ody Hearing"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5c57dd4f25b9c246e347d4f7ca4d6884/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1Xqcek"
+        ],
+        "content": [
+          {
+            "html": "<p>Lilarose brings the case against her brother, Kumar. They disagree on the best method of making a pie crust. Lilarose believes it\u2019s important to keep the ingredients in the freezer. But Kumar says that the fridge is just fine. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Lilarose brings the case against her brother, Kumar. They disagree on the best method of making a pie crust. Lilarose believes it\u2019s important to keep the ingredients in the freezer. But Kumar says that the fridge is just fine. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/17-the-palm-foleo"
+    ],
+    "published": [
+      "2021-04-27T07:43:19+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c911c421f144acc06ad9f52c33dc46ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-27T07:58:23Z",
+      "year": 2021,
+      "month": 4,
+      "day": 27,
+      "hour": 7,
+      "minute": 58,
+      "x": -118.37053803848815,
+      "y": 33.815305107025864,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4000000059604645,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 17: The Palm Foleo"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0d9403465427302ff49394cdcb6f8847/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2wNjHdo"
+        ],
+        "content": [
+          {
+            "html": "<p>A phone. An email terminal. A web-browsing portable companion. A phone. An email terminal. A web-browsing portable companion. Are you getting it? These are not three devices. It\u2019s two devices, and we\u2019re calling them your Palm phone and Foleo.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "A phone. An email terminal. A web-browsing portable companion. A phone. An email terminal. A web-browsing portable companion. Are you getting it? These are not three devices. It\u2019s two devices, and we\u2019re calling them your Palm phone and Foleo.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

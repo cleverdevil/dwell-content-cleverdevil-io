@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/obb-ep-71-lucas-our-hero"
+    ],
+    "published": [
+      "2021-03-25T06:56:33+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "efaf1210952acde23a92b64b66c41181"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-25T07:30:17Z",
+      "year": 2021,
+      "month": 3,
+      "day": 25,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37055234164858,
+      "y": 33.815311662167666,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep: 71 Luca\u2019s Our Hero"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9071aa87209640f37b311309516ecc63/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf5i6Vx8"
+        ],
+        "content": [
+          {
+            "html": "<p>We talked more spring ball\u2026focused on the RB situation. Then we welcomed Ryan Raskin, <a class=\"p-category\" href=\"/tag/LucaToTheU\" rel=\"tag\">#LucaToTheU</a>\u2019s dad. Here is the GoFundMe link: <a href=\"https://bit.ly/31dVunJ\" target=\"_blank\">https://<wbr/>bit.ly/<wbr/>31dVunJ</a></p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "We talked more spring ball\u2026focused on the RB situation. Then we welcomed Ryan Raskin, #LucaToTheU\u2019s dad. Here is the GoFundMe link: https://bit.ly/31dVunJ\nBy Orange Bowl Boys"
+          }
+        ],
+        "category": [
+          "#LucaToTheU"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

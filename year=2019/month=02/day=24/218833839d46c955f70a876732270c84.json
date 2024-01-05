@@ -1,0 +1,109 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "If I can\u2019t get the iMac to recover, thinking I\u2019ll just run Plex Media Server on the Synology. It\u2019s not a powerful NAS and won\u2019t support transcoding. Hopefully it\u2019ll be good enough for home usage. I have a powerful cloud server mirror that I can use if I need transcoding."
+    ],
+    "content": [
+      {
+        "html": "If I can\u2019t get the iMac to recover, thinking I\u2019ll just run Plex Media Server on the Synology. It\u2019s not a powerful NAS and won\u2019t support transcoding. Hopefully it\u2019ll be good enough for home usage. I have a powerful cloud server mirror that I can use if I need transcoding.",
+        "value": "If I can\u2019t get the iMac to recover, thinking I\u2019ll just run Plex Media Server on the Synology. It\u2019s not a powerful NAS and won\u2019t support transcoding. Hopefully it\u2019ll be good enough for home usage. I have a powerful cloud server mirror that I can use if I need transcoding."
+      }
+    ],
+    "url": [
+      "/2019/if-i-cant-get-the-imac-to"
+    ],
+    "published": [
+      "2019-02-24T23:14:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.42\u00b0F and 47% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.42\u00b0F and 47% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.42\u00b0F and 47% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/if-i-cant-get-the-imac-to/annotations/43dc9224b6ae982efa198713ae83624a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/if-i-cant-get-the-imac-to/annotations/43dc9224b6ae982efa198713ae83624a"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1099809720536391685",
+      "https://mastodon.social/@cleverdevil/101649615838600935"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "218833839d46c955f70a876732270c84"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-24T23:14:00Z",
+      "year": 2019,
+      "month": 2,
+      "day": 24,
+      "hour": 23,
+      "minute": 14,
+      "x": -118.37035576012808,
+      "y": 33.81531696270725,
+      "altitude": 52,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/311-the-rickies-september-2020"
+    ],
+    "published": [
+      "2020-09-16T14:53:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dca90da35dcc287a9a2316ca35d0db15"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-16T16:00:07Z",
+      "year": 2020,
+      "month": 9,
+      "day": 16,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.37040877286869,
+      "y": 33.81539442306945,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 311: The Rickies (September 2020)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/147062ad864728ceddcaf06f7609d351/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5XgcdI"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has announced an event for next week, so the guys made their Picks, Rickies and Flexies. Also: Federico has reached acceptance, Stephen\u2019s plumbing is fixed and Myke has trouble with a quote.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple has announced an event for next week, so the guys made their Picks, Rickies and Flexies. Also: Federico has reached acceptance, Stephen\u2019s plumbing is fixed and Myke has trouble with a quote.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

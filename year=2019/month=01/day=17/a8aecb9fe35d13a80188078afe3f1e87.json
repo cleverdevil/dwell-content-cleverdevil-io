@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Daring Fireball: Pentagram\u2019s \u2018Range of Possibilities\u2019 for Slack"
+    ],
+    "like-of": [
+      "https://daringfireball.net/2019/01/pentagram_slack_range_of_possibilities"
+    ],
+    "url": [
+      "/2019/daring-fireball-pentagrams-range-of-possibilities-for-slack"
+    ],
+    "published": [
+      "2019-01-17T05:30:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 58.4\u00b0F and 97% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 58.4\u00b0F and 97% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 58.4\u00b0F and 97% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/daring-fireball-pentagrams-range-of-possibilities-for-slack/annotations/e4be629c3a061e52d087dd7db7ae3c8c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/daring-fireball-pentagrams-range-of-possibilities-for-slack/annotations/e4be629c3a061e52d087dd7db7ae3c8c"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101430267143321559"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "a8aecb9fe35d13a80188078afe3f1e87"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-17T05:29:39Z",
+      "year": 2019,
+      "month": 1,
+      "day": 17,
+      "hour": 5,
+      "minute": 29,
+      "x": -118.37033137265838,
+      "y": 33.815425798369446,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.46000000834465027,
+      "wifi": "LaCour"
+    }
+  }
+}

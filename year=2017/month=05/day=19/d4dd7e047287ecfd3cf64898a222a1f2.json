@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Took a crack at implementing @jsonfeed on my site \u2013 https://cleverdevil.io/content/all/?_t=json \u2013 Also opened an issue! \u2013 https://github.com/brentsimmons/JSONFeed/issues/51"
+    ],
+    "content": [
+      {
+        "html": "Took a crack at implementing @jsonfeed on my site \u2013 <a href=\"https://cleverdevil.io/content/all/?_t=json\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>content/<wbr/>all/<wbr/>?_t=<wbr/>json</a> \u2013 Also opened an issue! \u2013 <a href=\"https://github.com/brentsimmons/JSONFeed/issues/51\" target=\"_blank\">https://<wbr/>github.com/<wbr/>brentsimmons/<wbr/>JSONFeed/<wbr/>issues/<wbr/>51</a>",
+        "value": "Took a crack at implementing @jsonfeed on my site \u2013 https://cleverdevil.io/content/all/?_t=json \u2013 Also opened an issue! \u2013 https://github.com/brentsimmons/JSONFeed/issues/51"
+      }
+    ],
+    "url": [
+      "/2017/took-a-crack-at-implementing-jsonfeed-on-my-site-contentall_tjson"
+    ],
+    "published": [
+      "2017-05-19T21:24:04+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/865679475283034112"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d4dd7e047287ecfd3cf64898a222a1f2"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/865679475283034112?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F865679475283034112%2F864959060994555907"
+          ],
+          "published": [
+            "2017-05-19T21:31:13+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "JSON Feed"
+                ],
+                "url": [
+                  "https://twitter.com/jsonfeed"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/afac2b557886c336d5e1e138131f9d82"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/afac2b557886c336d5e1e138131f9d82 JSON Feed"
+            }
+          ]
+        },
+        "value": "JSON Feed"
+      }
+    ]
+  }
+}

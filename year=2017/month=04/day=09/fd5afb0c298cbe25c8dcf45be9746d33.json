@@ -1,0 +1,99 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/hand-made-margarita"
+    ],
+    "published": [
+      "2017-04-09T01:43:02+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "fd5afb0c298cbe25c8dcf45be9746d33"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/hand-made-margarita"
+              ],
+              "name": [
+                "Hand made margarita"
+              ]
+            },
+            "value": "Hand made margarita"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2cddae82bad7e3196030851119edae29/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "",
+            "value": ""
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

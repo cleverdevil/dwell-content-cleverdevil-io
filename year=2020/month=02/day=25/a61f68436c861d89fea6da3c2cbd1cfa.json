@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched The Chef Show 1x15 \"Wolfgang Puck\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/c51b65f5dee60e72dc54dd82d4f792de/thumb.jpg"
+          ],
+          "name": [
+            "The Chef Show 1x15 \"Wolfgang Puck\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/4009391"
+          ]
+        },
+        "value": "The Chef Show 1x15 \"Wolfgang Puck\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Jon and Roy visit chef Wolfgang Puck at his Las Vegas steakhouse CUT to test Jon's Onlet-making skills and prepare some incredible cuts of meat.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Jon and Roy visit chef Wolfgang Puck at his Las Vegas steakhouse CUT to test Jon's Onlet-making skills and prepare some incredible cuts of meat.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/the-chef-show-1x15-wolfgang-puck"
+    ],
+    "published": [
+      "2020-02-25T06:50:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.96\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.96\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.96\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/the-chef-show-1x15-wolfgang-puck/annotations/c7e28f2ae82a634bd0e76bbbebaa1969"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/the-chef-show-1x15-wolfgang-puck/annotations/c7e28f2ae82a634bd0e76bbbebaa1969"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "a61f68436c861d89fea6da3c2cbd1cfa"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-25T06:45:49Z",
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "hour": 6,
+      "minute": 45,
+      "x": -118.37027371270172,
+      "y": 33.81543231970782,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  }
+}

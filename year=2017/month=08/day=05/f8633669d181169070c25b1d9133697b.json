@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into City of Rancho Palos Verdes"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Rancho Palos Verdes"
+          ],
+          "latitude": [
+            "33.74832232784"
+          ],
+          "longitude": [
+            "-118.3708190918"
+          ]
+        },
+        "value": "City of Rancho Palos Verdes"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Rancho Palos Verdes"
+          ],
+          "latitude": [
+            "33.74832232784"
+          ],
+          "longitude": [
+            "-118.3708190918"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Pool party\u2764\ufe0f</p>",
+        "value": "Pool party\u2764\ufe0f"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-city-of-rancho-palos-verdes-1"
+    ],
+    "published": [
+      "2017-08-05T23:02:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 4 weeks since you last checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 4 weeks since you last checked in here!</p>",
+              "value": "Welcome back! It's been 4 weeks since you last checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f346bbd54f9c1262837705325f52353b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59864e7dc0f1632753e641f2/19692923fd986a2b5527892fb021062a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59864e7dc0f1632753e641f2/19692923fd986a2b5527892fb021062a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59864e7dc0f1632753e641f2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f8633669d181169070c25b1d9133697b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59864e7dc0f1632753e641f2/54ba8e4042ba97d70cc4a728b5f3e911"
+          ],
+          "published": [
+            "2017-08-05T23:02:21+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d717312a2c526988b5112ec9ec42d2fe"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d717312a2c526988b5112ec9ec42d2fe Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

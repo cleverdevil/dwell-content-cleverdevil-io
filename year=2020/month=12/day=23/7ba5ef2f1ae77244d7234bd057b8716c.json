@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/410-the-comfort-is-killing-me"
+    ],
+    "published": [
+      "2020-12-23T22:46:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7ba5ef2f1ae77244d7234bd057b8716c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-23T23:52:08Z",
+      "year": 2020,
+      "month": 12,
+      "day": 23,
+      "hour": 23,
+      "minute": 52,
+      "x": -118.3705442398464,
+      "y": 33.81529742889608,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 410: The Comfort Is Killing Me"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ec97d7f734256e4d27f96722591f45e2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUInt5Z8"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey\u2019s Fitness+ review, Thunderbolt hubs, Big Sur upgrades, HDR photos, and a generous stack of M1-powered waffles.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey\u2019s Fitness+ review, Thunderbolt hubs, Big Sur upgrades, HDR photos, and a generous stack of M1-powered waffles.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

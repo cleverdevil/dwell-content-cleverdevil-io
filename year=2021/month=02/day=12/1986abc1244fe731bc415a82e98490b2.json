@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/338-loved-by-podcasters-the-world-over"
+    ],
+    "published": [
+      "2021-02-12T08:11:10+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1986abc1244fe731bc415a82e98490b2"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-12T11:55:28Z",
+      "year": 2021,
+      "month": 2,
+      "day": 12,
+      "hour": 11,
+      "minute": 55,
+      "x": -118.37055765308558,
+      "y": 33.815301287976034,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 338: Loved by Podcasters the World Over"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c3d8750952d0358becfb01b11d7c7362/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9jXaV4"
+        ],
+        "content": [
+          {
+            "html": "<p>Change is coming for us whether we like it or not. This week we ponder the possibility of an augmented-reality future, and mourn the loss of a piece of software we\u2019ve used for every single episode of Upgrade (until now).</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Change is coming for us whether we like it or not. This week we ponder the possibility of an augmented-reality future, and mourn the loss of a piece of software we\u2019ve used for every single episode of Upgrade (until now).\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

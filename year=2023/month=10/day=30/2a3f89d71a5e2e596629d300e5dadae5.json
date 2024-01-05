@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/fearing-the-shocket"
+    ],
+    "published": [
+      "2023-10-30T17:01:55+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2a3f89d71a5e2e596629d300e5dadae5"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-30T19:04:24Z",
+      "year": 2023,
+      "month": 10,
+      "day": 30,
+      "hour": 19,
+      "minute": 4,
+      "x": -118.37048461797107,
+      "y": 33.81527021685893,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Fearing the Shocket"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/909c804e1bd8b298ccbf3b604c395231/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2sVdsk"
+        ],
+        "content": [
+          {
+            "html": "<p>Happy Spooky Season! This week, Paul F. Tompkins joins Judge Hodgman and Bailiff Jesse to talk Halloween disputes. How do you pronounce Reese\u2019s Pieces? And why are the Judge, Bailiff, and Paul trapped in the studio with Spirit Halloween animatronics? And what does Aidan from the Spirit Halloween Fan Wiki have to do with this? There\u2019s just one way to find out!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Happy Spooky Season! This week, Paul F. Tompkins joins Judge Hodgman and Bailiff Jesse to talk Halloween disputes. How do you pronounce Reese\u2019s Pieces? And why are the Judge, Bailiff, and Paul trapped in the studio with Spirit Halloween animatronics? And what does Aidan from the Spirit Halloween Fan Wiki have to do with this? There\u2019s just one way to find out!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

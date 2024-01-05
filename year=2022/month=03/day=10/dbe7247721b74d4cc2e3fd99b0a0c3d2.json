@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/397-my-favorite-amount-of-transistors"
+    ],
+    "published": [
+      "2022-03-10T16:45:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dbe7247721b74d4cc2e3fd99b0a0c3d2"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-10T18:01:32Z",
+      "year": 2022,
+      "month": 3,
+      "day": 10,
+      "hour": 18,
+      "minute": 1,
+      "x": -118.37039919381677,
+      "y": 33.815410588602944,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 397: My Favorite Amount of Transistors"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0121ca9601cc210ff5ed02ec7e6be78a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-V46RI"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s not every day that Apple introduces an entirely new Mac line. But on March 8, that\u2019s exactly what happened. Jason, Myke, and special guest Stephen Hackett discuss the new Mac Studio and Studio Display, along with the updated iPad air and iPhone SE.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s not every day that Apple introduces an entirely new Mac line. But on March 8, that\u2019s exactly what happened. Jason, Myke, and special guest Stephen Hackett discuss the new Mac Studio and Studio Display, along with the updated iPad air and iPhone SE.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/90-bodies-of-water"
+    ],
+    "published": [
+      "2022-08-01T02:11:07+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6d308b82a54363381257baa63e8d43e1"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-01T04:04:42Z",
+      "year": 2022,
+      "month": 8,
+      "day": 1,
+      "hour": 4,
+      "minute": 4,
+      "x": -116.3803731357051,
+      "y": 33.70160631958246,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4000000059604645,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 90: Bodies of Water"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/647f281366313664f56f590a21bc2452/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDZ66its"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s summer, and you know what that means\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "It\u2019s summer, and you know what that means\u2026\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

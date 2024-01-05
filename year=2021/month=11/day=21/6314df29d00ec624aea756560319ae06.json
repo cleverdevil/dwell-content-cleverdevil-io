@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/458-this-is-not-your-first-plane-crash"
+    ],
+    "published": [
+      "2021-11-21T07:35:09+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6314df29d00ec624aea756560319ae06"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-21T08:04:20Z",
+      "year": 2021,
+      "month": 11,
+      "day": 21,
+      "hour": 8,
+      "minute": 4,
+      "x": -118.37052055210278,
+      "y": 33.81533422214672,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7799999713897705,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 458: This Is Not Your First Plane Crash"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/57ba326e94ad6a5beeb1fe3649f0924d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIOkPss"
+        ],
+        "content": [
+          {
+            "html": "<p>Pants hacks, mystery beeps, password-manager battles, and Casey\u2019s totally fine setup.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Pants hacks, mystery beeps, password-manager battles, and Casey\u2019s totally fine setup.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

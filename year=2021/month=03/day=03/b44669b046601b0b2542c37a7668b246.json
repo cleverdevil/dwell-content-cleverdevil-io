@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/341-pale-shade-of-fun"
+    ],
+    "published": [
+      "2021-03-03T00:10:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b44669b046601b0b2542c37a7668b246"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-03T04:00:49Z",
+      "year": 2021,
+      "month": 3,
+      "day": 3,
+      "hour": 4,
+      "minute": 0,
+      "x": -116.4756135809166,
+      "y": 33.7983829040085,
+      "altitude": 100,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "MySpectrumWiFiC8-5G"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 341: Pale Shade of Fun"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/49f44c9929d4dcbf5ef4d7b18e366187/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-46SA8"
+        ],
+        "content": [
+          {
+            "html": "<p>This week: colorful iMacs, adding ports and slots to MacBook Pros, Paramount+ enters the streaming wars, and Twitter attempts to finally do something.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week: colorful iMacs, adding ports and slots to MacBook Pros, Paramount+ enters the streaming wars, and Twitter attempts to finally do something.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

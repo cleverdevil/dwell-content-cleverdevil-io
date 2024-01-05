@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Phipps Plaza"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Phipps Plaza"
+          ],
+          "latitude": [
+            "33.8524901"
+          ],
+          "longitude": [
+            "-84.3628447"
+          ]
+        },
+        "value": "Phipps Plaza"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Phipps Plaza"
+          ],
+          "latitude": [
+            "33.8524901"
+          ],
+          "longitude": [
+            "-84.3628447"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-phipps-plaza"
+    ],
+    "published": [
+      "2019-12-19T00:20:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Phipps Plaza!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Phipps Plaza!</p>",
+              "value": "Your first check-in at Phipps Plaza!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dfac23080583400070bd430/358e7a48b08999dfb15c0ae2fb3e04d9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dfac23080583400070bd430/358e7a48b08999dfb15c0ae2fb3e04d9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 33.52\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 33.52\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 33.52\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-phipps-plaza/annotations/7ca065b03aaa47498dccab42b7266b7d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-phipps-plaza/annotations/7ca065b03aaa47498dccab42b7266b7d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dfac23080583400070bd430"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "71a61a996b3dd685f372692054cc7a06"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-19T04:47:44Z",
+      "year": 2019,
+      "month": 12,
+      "day": 19,
+      "hour": 4,
+      "minute": 47,
+      "x": -84.37308064775414,
+      "y": 33.88580277257833,
+      "altitude": 288,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/373-we-will-give-you-color-but-it-will-not"
+    ],
+    "published": [
+      "2021-09-29T23:56:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8a3f1a76e2c416e5f70a46cebdf2cd7d"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-30T00:00:36Z",
+      "year": 2021,
+      "month": 9,
+      "day": 30,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.28784390753059,
+      "y": 33.831553533461474,
+      "altitude": 18,
+      "motion": [
+        "driving"
+      ],
+      "speed": 9,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 373: We Will Give You Color\u2026 But It Will Not Be Fun"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/18c491ba8c9f9c75003683002d748ed9/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_Y6rwQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke and Jason review the iPhone 13 and iPad mini, settle on their preferred iPhones, and wonder if Apple should appoint a Color Czar.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Myke and Jason review the iPhone 13 and iPad mini, settle on their preferred iPhones, and wonder if Apple should appoint a Color Czar.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

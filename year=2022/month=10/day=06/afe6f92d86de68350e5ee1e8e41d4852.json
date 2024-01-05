@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/192-the-end-table-is-not-your-enemy"
+    ],
+    "published": [
+      "2022-10-06T02:15:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "afe6f92d86de68350e5ee1e8e41d4852"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-06T04:03:31Z",
+      "year": 2022,
+      "month": 10,
+      "day": 6,
+      "hour": 4,
+      "minute": 3,
+      "x": -116.380305280271,
+      "y": 33.701738437459404,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4699999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 192: The End Table is Not Your Enemy"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/40734a874090949e74eb9a86982c5533/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IP1JmEw"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Merlin asks whether John is inoculated against stress.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "This week, Merlin asks whether John is inoculated against stress.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

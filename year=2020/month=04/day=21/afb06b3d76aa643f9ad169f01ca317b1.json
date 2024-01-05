@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Fleabag 1x01 \"Episode 1\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/0c9c13f0242a7fb2cb6e5f40d873f97a/thumb.jpg"
+          ],
+          "name": [
+            "Fleabag 1x01 \"Episode 1\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/2291308"
+          ]
+        },
+        "value": "Fleabag 1x01 \"Episode 1\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Angry, pervy, outrageous and hilarious, Fleabag arrives with a bang, as she spins through the city grasping at anyone and anything that might keep her head above water.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Angry, pervy, outrageous and hilarious, Fleabag arrives with a bang, as she spins through the city grasping at anyone and anything that might keep her head above water.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/fleabag-1x01-episode-1"
+    ],
+    "published": [
+      "2020-04-21T05:10:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/fleabag-1x01-episode-1/annotations/74b11bbf98ebd63fe1380c10c55dcffd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/fleabag-1x01-episode-1/annotations/74b11bbf98ebd63fe1380c10c55dcffd"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "afb06b3d76aa643f9ad169f01ca317b1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-21T05:05:35Z",
+      "year": 2020,
+      "month": 4,
+      "day": 21,
+      "hour": 5,
+      "minute": 5,
+      "x": -118.37025006160492,
+      "y": 33.81546959984529,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "LaCour"
+    }
+  }
+}

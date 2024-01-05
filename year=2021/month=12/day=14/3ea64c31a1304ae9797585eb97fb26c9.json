@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/460-desktop-laptop"
+    ],
+    "published": [
+      "2021-12-14T07:14:57+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3ea64c31a1304ae9797585eb97fb26c9"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-14T05:38:11Z",
+      "year": 2021,
+      "month": 12,
+      "day": 14,
+      "hour": 5,
+      "minute": 38,
+      "x": -111.92426192794709,
+      "y": 33.50865117927314,
+      "altitude": 393,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6600000262260437,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 460: Desktop Laptop"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e9620193bb7c28895d2e250d560f1148/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUILPDWQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey\u2019s continued path toward the XDR, Marco\u2019s continued path toward the Wrangler, and John\u2019s continued path away from a functioning garage.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey\u2019s continued path toward the XDR, Marco\u2019s continued path toward the Wrangler, and John\u2019s continued path away from a functioning garage.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

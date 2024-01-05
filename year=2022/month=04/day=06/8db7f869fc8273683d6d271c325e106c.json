@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/477-in-the-metal"
+    ],
+    "published": [
+      "2022-04-06T07:13:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8db7f869fc8273683d6d271c325e106c"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-06T07:12:45Z",
+      "year": 2022,
+      "month": 4,
+      "day": 6,
+      "hour": 7,
+      "minute": 12,
+      "x": -118.37048401361554,
+      "y": 33.81531273167969,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 477: In the Metal"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0de227d4bb7e7849197df72973537491/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfexpjHs"
+        ],
+        "content": [
+          {
+            "html": "<p>iPhone 14 rumors, Studio Display impressions and predictions, acoustic perception, and Casey\u2019s unique theory about California.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "iPhone 14 rumors, Studio Display impressions and predictions, acoustic perception, and Casey\u2019s unique theory about California.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

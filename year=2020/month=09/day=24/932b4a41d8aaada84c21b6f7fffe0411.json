@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/317-upsettings"
+    ],
+    "published": [
+      "2020-09-24T01:38:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "932b4a41d8aaada84c21b6f7fffe0411"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-24T04:00:29Z",
+      "year": 2020,
+      "month": 9,
+      "day": 24,
+      "hour": 4,
+      "minute": 0,
+      "x": -118.37030546783451,
+      "y": 33.81541563227877,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 317: Upsettings"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4d6629c76f6667c458a63cacb2048116/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_pvh0k"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s show features an iOS 14 home-screen aesthetics revolution, some watchOS 7 follow-up, the need for a Touch ID sensor on the iPhone 12, and the horrible ways we use our keyboards.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week\u2019s show features an iOS 14 home-screen aesthetics revolution, some watchOS 7 follow-up, the need for a Touch ID sensor on the iPhone 12, and the horrible ways we use our keyboards.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

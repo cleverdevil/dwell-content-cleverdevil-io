@@ -1,0 +1,112 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "WWDC, A Wish List (2019 Edition) \u2013 MacStories"
+    ],
+    "bookmark-of": [
+      "https://www.macstories.net/stories/wwdc-a-wish-list-2019-edition"
+    ],
+    "content": [
+      {
+        "html": "<p>Great wish list for WWDC by Steve Troughton-Smith for MacStories. The items that resonate most with me? First and foremost, a terminal environment for iOS:</p><blockquote><p>Much like the file system, for a certain class of user the need for a command-line environment of some kind hasn't gone away as I'm sure Apple had hoped. Now, with Apple's own Shortcuts app, more users than ever are automating tasks on iOS \u2013 it makes perfect sense to provide something more for the power users that need it, especially if Xcode for iOS becomes a reality.</p></blockquote><p>As I mentioned in <a href=\"https://cleverdevil.io/2019/ipad-pro-impressions\">my iPad Pro Impressions article</a> a few weeks ago, I\u2019ve been using <a href=\"https://ish.app/\">iSH</a>, and while its a good start, something native from Apple would be significantly better.</p><p>Also mentioned that I pine for: much-improved support for USB devices, including external storage, and a \u201ctextual\u201d interface to Shortcuts for scripting. He also makes an argument for virtual machine support in iOS, but I think that\u2019s pretty unlikely (though would be welcome).</p>",
+        "value": "Great wish list for WWDC by Steve Troughton-Smith for MacStories. The items that resonate most with me? First and foremost, a terminal environment for iOS:\nMuch like the file system, for a certain class of user the need for a command-line environment of some kind hasn't gone away as I'm sure Apple had hoped. Now, with Apple's own Shortcuts app, more users than ever are automating tasks on iOS \u2013 it makes perfect sense to provide something more for the power users that need it, especially if Xcode for iOS becomes a reality.\nAs I mentioned in my iPad Pro Impressions article a few weeks ago, I\u2019ve been using iSH, and while its a good start, something native from Apple would be significantly better.\nAlso mentioned that I pine for: much-improved support for USB devices, including external storage, and a \u201ctextual\u201d interface to Shortcuts for scripting. He also makes an argument for virtual machine support in iOS, but I think that\u2019s pretty unlikely (though would be welcome)."
+      }
+    ],
+    "url": [
+      "/2019/wwdc-a-wish-list-2019-edition-macstories"
+    ],
+    "published": [
+      "2019-05-28T00:32:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.22\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.22\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.22\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/wwdc-a-wish-list-2019-edition-macstories/annotations/b861d24aeafde0913c417c29854e2abe"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/wwdc-a-wish-list-2019-edition-macstories/annotations/b861d24aeafde0913c417c29854e2abe"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1133169468518162432",
+      "https://mastodon.social/@cleverdevil/102170861987980454"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "f059476d40b453e90209cf204f2e0e03"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-28T00:27:13Z",
+      "year": 2019,
+      "month": 5,
+      "day": 28,
+      "hour": 0,
+      "minute": 27,
+      "x": -118.37048334274256,
+      "y": 33.81532029075332,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.33000001311302185,
+      "wifi": "LaCour"
+    }
+  }
+}

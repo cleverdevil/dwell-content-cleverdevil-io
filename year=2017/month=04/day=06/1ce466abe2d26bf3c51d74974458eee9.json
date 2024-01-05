@@ -1,0 +1,96 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/roasted-spatchcocked-chicken-with-potatoes-and-onions-1"
+    ],
+    "published": [
+      "2017-04-06T03:19:27+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "1ce466abe2d26bf3c51d74974458eee9"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-ate"
+            ],
+            "properties": {
+              "url": [
+                "/2017/roasted-spatchcocked-chicken-with-potatoes-and-onions-1"
+              ],
+              "name": [
+                "Roasted Spatchcocked Chicken with Potatoes and Onions"
+              ]
+            },
+            "value": "Roasted Spatchcocked Chicken with Potatoes and Onions"
+          }
+        ],
+        "content": [
+          {
+            "html": "<p>Delicious, as always! I posted <a href=\"https://cleverdevil.io/2017/roasted-spatchcocked-chicken-with-potatoes-and-onions\">the recipe I used tonight</a>.</p>",
+            "value": "Delicious, as always! I posted the recipe I used tonight."
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Happy to have moved my website's MySQL database to RDS. Three cheers for less maintenance \ud83d\ude00"
+    ],
+    "content": [
+      {
+        "html": "Happy to have moved my website's MySQL database to RDS. Three cheers for less maintenance \ud83d\ude00",
+        "value": "Happy to have moved my website's MySQL database to RDS. Three cheers for less maintenance \ud83d\ude00"
+      }
+    ],
+    "url": [
+      "/2018/happy-to-have-moved-my-websites-mysql-database-to-rds"
+    ],
+    "published": [
+      "2018-01-11T00:02:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I can't make heads or tails of AWS pricing but doesn't that add at least $10/month to your hosting costs just for the DB? Was it on a separate host before you moved it?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I can't make heads or tails of AWS pricing but doesn't that add at least $10/month to your hosting costs just for the DB?  Was it on a separate host before you moved it?</p>",
+              "value": "@cleverdevil I can't make heads or tails of AWS pricing but doesn't that add at least $10/month to your hosting costs just for the DB? Was it on a separate host before you moved it?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8yYTVkNmFiOThlNTNlYjdhZWNhMjI0ZjI5NmI3YWJmOD9zPTk2/300/square"
+                ],
+                "name": [
+                  "jack"
+                ],
+                "url": [
+                  "https://micro.blog/jack"
+                ]
+              },
+              "value": "jack"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jack/265423"
+          ]
+        },
+        "value": "https://micro.blog/jack/265423"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jack it does add cost, but let\u2019s me run a smaller VM for my web server. That said, for most use cases like this, Lightsail is a better fit. More like a traditional VPS. Pricing complexity is and always has been AWS\u2019 biggest issue."
+          ],
+          "content": [
+            {
+              "html": "<p>@jack it does add cost, but let\u2019s me run a smaller VM for my web server. That said, for most use cases like this, Lightsail is a better fit. More like a traditional VPS. Pricing complexity is and always has been AWS\u2019 biggest issue.</p>",
+              "value": "@jack it does add cost, but let\u2019s me run a smaller VM for my web server. That said, for most use cases like this, Lightsail is a better fit. More like a traditional VPS. Pricing complexity is and always has been AWS\u2019 biggest issue."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/265424"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/265424"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Thanks. I've fired up a couple of Lightsail-based instances and I like it. Very straightforward. Still married to DigitalOcean and Linode for now though."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Thanks. I've fired up a couple of Lightsail-based instances and I like it. Very straightforward. Still married to DigitalOcean and Linode for now though.</p>",
+              "value": "@cleverdevil Thanks. I've fired up a couple of Lightsail-based instances and I like it. Very straightforward. Still married to DigitalOcean and Linode for now though."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8yYTVkNmFiOThlNTNlYjdhZWNhMjI0ZjI5NmI3YWJmOD9zPTk2/300/square"
+                ],
+                "name": [
+                  "jack"
+                ],
+                "url": [
+                  "https://micro.blog/jack"
+                ]
+              },
+              "value": "jack"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jack/265425"
+          ]
+        },
+        "value": "https://micro.blog/jack/265425"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jack yeah those guys are attacking things from a different angle. I think a simpler VPS provider is a great solution for many things. The power and flexibility of AWS is often too much for personal stuff. But, for everything else? So good."
+          ],
+          "content": [
+            {
+              "html": "<p>@jack yeah those guys are attacking things from a different angle. I think a simpler VPS provider is a great solution for many things. The power and flexibility of AWS is often too much for personal stuff. But, for everything else? So good.</p>",
+              "value": "@jack yeah those guys are attacking things from a different angle. I think a simpler VPS provider is a great solution for many things. The power and flexibility of AWS is often too much for personal stuff. But, for everything else? So good."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/265446"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/265446"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil pricing complexity is a problem with any cloud provider. My head still spins after trying to price out some data storage solutions on Google Cloud Platform a week ago."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil pricing complexity is a problem with any cloud provider. My head still spins after trying to price out some data storage solutions on Google Cloud Platform a week ago.</p>",
+              "value": "@cleverdevil pricing complexity is a problem with any cloud provider. My head still spins after trying to price out some data storage solutions on Google Cloud Platform a week ago."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci84ZTNjYzA2MWRlYzA3MGIyZjRkMWM3OGMxM2FkZTZlYz9zPTk2/300/square"
+                ],
+                "name": [
+                  "oyam"
+                ],
+                "url": [
+                  "https://micro.blog/oyam"
+                ]
+              },
+              "value": "oyam"
+            }
+          ],
+          "url": [
+            "https://micro.blog/oyam/265531"
+          ]
+        },
+        "value": "https://micro.blog/oyam/265531"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@oyam indeed. It is sort of comes with the territory for any service where you pay in a very granular fashion for everything you use (requests, bandwidth, storage, compute, etc.)."
+          ],
+          "content": [
+            {
+              "html": "<p>@oyam indeed. It is sort of comes with the territory for any service where you pay in a very granular fashion for everything you use (requests, bandwidth, storage, compute, etc.).</p>",
+              "value": "@oyam indeed. It is sort of comes with the territory for any service where you pay in a very granular fashion for everything you use (requests, bandwidth, storage, compute, etc.)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/265548"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/265548"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Sure, but there are ways you can present the information so it\u2019s easier to digest. It seems most cloud providers go out of their way to present pricing as complicated as they can. I can\u2019t decide if that\u2019s intentional or if they\u2019re really that clueless."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Sure, but there are ways you can present the information so it\u2019s easier to digest. It seems most cloud providers go out of their way to present pricing as complicated as they can. I can\u2019t decide if that\u2019s intentional or if they\u2019re really that clueless.</p>",
+              "value": "@cleverdevil Sure, but there are ways you can present the information so it\u2019s easier to digest. It seems most cloud providers go out of their way to present pricing as complicated as they can. I can\u2019t decide if that\u2019s intentional or if they\u2019re really that clueless."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci84ZTNjYzA2MWRlYzA3MGIyZjRkMWM3OGMxM2FkZTZlYz9zPTk2/300/square"
+                ],
+                "name": [
+                  "oyam"
+                ],
+                "url": [
+                  "https://micro.blog/oyam"
+                ]
+              },
+              "value": "oyam"
+            }
+          ],
+          "url": [
+            "https://micro.blog/oyam/265682"
+          ]
+        },
+        "value": "https://micro.blog/oyam/265682"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@oyam a big part of it is their target audience and their business model. At DreamHost, I have been in charge of building out our IaaS offerings, and its clear that AWS is simply tying their pricing to every cost factor to ensure margin. I made packages to simplify, and didn't charge for things like requests, which was appealing to my customer base."
+          ],
+          "content": [
+            {
+              "html": "<p>@oyam a big part of it is their target audience and their business model. At DreamHost, I have been in charge of building out our IaaS offerings, and its clear that AWS is simply tying their pricing to every cost factor to ensure margin. I made packages to simplify, and didn't charge for things like requests, which was appealing to my customer base.</p>",
+              "value": "@oyam a big part of it is their target audience and their business model. At DreamHost, I have been in charge of building out our IaaS offerings, and its clear that AWS is simply tying their pricing to every cost factor to ensure margin. I made packages to simplify, and didn't charge for things like requests, which was appealing to my customer base."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/266458"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/266458"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@oyam that said, the price complexity of modern cloud platforms has created an entire industry of cost optimization platforms. Its sort of bonkers when you think about it :)"
+          ],
+          "content": [
+            {
+              "html": "<p>@oyam that said, the price complexity of modern cloud platforms has created an entire industry of cost optimization platforms. Its sort of bonkers when you think about it :)</p>",
+              "value": "@oyam that said, the price complexity of modern cloud platforms has created an entire industry of cost optimization platforms. Its sort of bonkers when you think about it :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/266460"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/266460"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "1037dab52fc9399806effc87bf099e89"
+    ]
+  }
+}

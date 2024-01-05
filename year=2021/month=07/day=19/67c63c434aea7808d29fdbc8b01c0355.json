@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/the-king-ragone-show-ep-1"
+    ],
+    "published": [
+      "2021-07-19T16:36:26+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "67c63c434aea7808d29fdbc8b01c0355"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-19T19:39:19Z",
+      "year": 2021,
+      "month": 7,
+      "day": 19,
+      "hour": 19,
+      "minute": 39,
+      "x": -118.37040847457243,
+      "y": 33.81539932098402,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The King & Ragone Show Ep. 1"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e35b8466126e88f7a9cff06c7fc6a6dd/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+xh6mhV5uA"
+        ],
+        "content": [
+          {
+            "html": "<p>Deriq King and Ryan Ragone go into depth and describe their journeys that led up to them playing football in Miami.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The King &amp; Ragone Show</p>",
+            "value": "Deriq King and Ryan Ragone go into depth and describe their journeys that led up to them playing football in Miami.\nBy The King & Ragone Show"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/79-flavorice"
+    ],
+    "published": [
+      "2021-09-04T17:04:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "623f24175f7745cff58e54ca26fef508"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-04T19:58:30Z",
+      "year": 2021,
+      "month": 9,
+      "day": 4,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.37033725280972,
+      "y": 33.81543655827333,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 79: Fla\u2022Vor\u2022Ice"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ec6e205f230bc7e84ea1853310dccb85/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDb8_2nA"
+        ],
+        "content": [
+          {
+            "html": "<p>The best flavors to grab on a hot summer day as you push past the children to get to the front of the line.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "The best flavors to grab on a hot summer day as you push past the children to get to the front of the line.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

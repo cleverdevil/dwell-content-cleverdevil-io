@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/bounty-buddies-bonus-upcoming-star-wars-media"
+    ],
+    "published": [
+      "2021-01-03T21:47:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a6b0669f3b53578be65f7c7bb18bdc46"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-04T00:05:13Z",
+      "year": 2021,
+      "month": 1,
+      "day": 4,
+      "hour": 0,
+      "minute": 5,
+      "x": -118.37035129265458,
+      "y": 33.81545422011419,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Bounty Buddies \u2013 Bonus! Upcoming Star Wars Media"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c2dd70723147cad170e0defb001c7b0d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Vw5WJtCBw"
+        ],
+        "content": [
+          {
+            "html": "<p>We chat about the upcoming Star Wars stuff recently announced! Used info from this US Today article since it was a lot clearer than the official Star Wars one\u2026 Join your hosts Tim Lanning, Jane Ritt and Pat Edwards every week as they dice up and serve you their hot and fresh The Mandalorian reactions \u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Bounty Buddies - The Mandalorian Podcast</p>",
+            "value": "We chat about the upcoming Star Wars stuff recently announced! Used info from this US Today article since it was a lot clearer than the official Star Wars one\u2026 Join your hosts Tim Lanning, Jane Ritt and Pat Edwards every week as they dice up and serve you their hot and fresh The Mandalorian reactions \u2026\nBy Bounty Buddies - The Mandalorian Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-289-let-me-remember-my-opinion"
+    ],
+    "published": [
+      "2020-04-13T15:49:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.24\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.24\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.24\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-289-let-me-remember-my-opinion/annotations/9b3baaa9ccc04c57ad16fa66516cc733"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-289-let-me-remember-my-opinion/annotations/9b3baaa9ccc04c57ad16fa66516cc733"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c3e6e7960be1f835887db4ff2d3d39fb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-13T15:32:37Z",
+      "year": 2020,
+      "month": 4,
+      "day": 13,
+      "hour": 15,
+      "minute": 32,
+      "x": -118.37016942627992,
+      "y": 33.81533815173551,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 289: Let Me Remember My Opinion"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7wUJbI"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Myke talks about a sale on Cinema Displays, then the guys move on discuss Federico\u2019s recent iPad article on modularity, the possibilities of widgets in iOS 14 and Stephen\u2019s Mac Madness winner and picks.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Myke talks about a sale on Cinema Displays, then the guys move on discuss Federico\u2019s recent iPad article on modularity, the possibilities of widgets in iOS 14 and Stephen\u2019s Mac Madness winner and picks.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

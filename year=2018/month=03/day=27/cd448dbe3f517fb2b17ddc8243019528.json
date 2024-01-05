@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into TRES"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TRES"
+          ],
+          "latitude": [
+            "37.780227387825"
+          ],
+          "longitude": [
+            "-122.39125932107"
+          ]
+        },
+        "value": "TRES"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TRES"
+          ],
+          "latitude": [
+            "37.780227387825"
+          ],
+          "longitude": [
+            "-122.39125932107"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dinner with Nolan.</p>",
+        "value": "Dinner with Nolan."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-tres"
+    ],
+    "published": [
+      "2018-03-27T01:52:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in South Beach was in June '17 at Crossroads Caf\u00e9."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in South Beach was in June '17 at Crossroads Caf\u00e9.</p>",
+              "value": "Your last check-in in South Beach was in June '17 at Crossroads Caf\u00e9."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ab9a3e9bd4009002b2b4853/15b79978921661f04299886c007216ff"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ab9a3e9bd4009002b2b4853/15b79978921661f04299886c007216ff"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Mexican Restaurant check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Mexican Restaurant check-in in 3 months!</p>",
+              "value": "First Mexican Restaurant check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ab9a3e9bd4009002b2b4853/43dfb09cad2f7f07a262643a52e96180"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ab9a3e9bd4009002b2b4853/43dfb09cad2f7f07a262643a52e96180"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ab9a3e9bd4009002b2b4853"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cd448dbe3f517fb2b17ddc8243019528"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Hollywood Bowl"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.1127392"
+          ],
+          "longitude": [
+            "-118.3388562"
+          ]
+        },
+        "value": "The Hollywood Bowl"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.1127392"
+          ],
+          "longitude": [
+            "-118.3388562"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-the-hollywood-bowl-17"
+    ],
+    "published": [
+      "2023-09-03T01:35:16+0000"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64f3e2d4f27f0a0d78c7e60b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "040c31d1b7be1323c4ac339312ac11e3"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-03T01:21:14Z",
+      "year": 2023,
+      "month": 9,
+      "day": 3,
+      "hour": 1,
+      "minute": 21,
+      "x": -118.33795847925911,
+      "y": 34.10763478140077,
+      "altitude": 138,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "CarPlayBox_2916"
+    }
+  }
+}

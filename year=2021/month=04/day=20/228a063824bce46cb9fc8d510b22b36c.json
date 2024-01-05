@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/charitibundibowl-bonus-episode-feat-the-sklar-brothers"
+    ],
+    "published": [
+      "2021-04-20T22:05:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "228a063824bce46cb9fc8d510b22b36c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-20T23:33:28Z",
+      "year": 2021,
+      "month": 4,
+      "day": 20,
+      "hour": 23,
+      "minute": 33,
+      "x": -118.37028775038786,
+      "y": 33.815636489818786,
+      "altitude": 55,
+      "motion": [
+        "driving"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to #CHARITIBUNDIBOWL BONUS EPISODE feat. The Sklar Brothers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/03c840d22d88c46acade51f66805f2b2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+gf2btHeD0"
+        ],
+        "content": [
+          {
+            "html": "<p>Michigan won the charity bowl, again, and Spencer and Holly bring Randy and Jason Sklar on to discuss important Wolverine matters. Because this is the Fullcast, this turns out to mean \u201cthe episode is mostly about Grey\u2019s Anatomy.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Shutdown Fullcast</p>",
+            "value": "Michigan won the charity bowl, again, and Spencer and Holly bring Randy and Jason Sklar on to discuss important Wolverine matters. Because this is the Fullcast, this turns out to mean \u201cthe episode is mostly about Grey\u2019s Anatomy.\u201d\nBy Shutdown Fullcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

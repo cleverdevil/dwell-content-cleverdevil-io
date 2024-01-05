@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/308-peak-hubris-with-christina-warren"
+    ],
+    "published": [
+      "2021-02-23T22:45:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bfd74e7af008e5f266061f2df33b280f"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-23T22:18:04Z",
+      "year": 2021,
+      "month": 2,
+      "day": 23,
+      "hour": 22,
+      "minute": 18,
+      "x": -118.37040600290148,
+      "y": 33.81540174773929,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 308: \u2018Peak Hubris\u2019, With Christina Warren"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4f8393e9234cc1a25df631a453ca1276/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NAkkxtM"
+        ],
+        "content": [
+          {
+            "html": "<p>308: \u2018Peak Hubris\u2019, With Christina Warren</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "308: \u2018Peak Hubris\u2019, With Christina Warren\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

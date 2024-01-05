@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/311-mutually-assured-destruction"
+    ],
+    "published": [
+      "2019-02-02T20:39:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.01\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.01\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.01\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/311-mutually-assured-destruction/annotations/4dbf6f37accba738c2efef845d01be39"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/311-mutually-assured-destruction/annotations/4dbf6f37accba738c2efef845d01be39"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e382d3709abf6cfb26a8f867ff837378"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-02T21:10:42Z",
+      "year": 2019,
+      "month": 2,
+      "day": 2,
+      "hour": 21,
+      "minute": 10,
+      "x": -118.36171969787786,
+      "y": 33.833156864437775,
+      "altitude": 24,
+      "motion": [
+        "driving"
+      ],
+      "speed": 17,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 311: Mutually Assured Destruction"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7dbd4538a8471d915da675da17dba90f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdRQvSsU"
+        ],
+        "content": [
+          {
+            "html": "<p>Facebook\u2019s Onavo scam, Apple\u2019s FaceTime bug, early iPhone rumors, and Overcast\u2019s Instant Search.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Facebook\u2019s Onavo scam, Apple\u2019s FaceTime bug, early iPhone rumors, and Overcast\u2019s Instant Search.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

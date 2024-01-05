@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/339-the-inbox-is-the-spice"
+    ],
+    "published": [
+      "2021-04-04T22:44:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f520796568c8571a05185317232a6357"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-05T00:04:51Z",
+      "year": 2021,
+      "month": 4,
+      "day": 5,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.37034806184377,
+      "y": 33.815402889963885,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 339: The Inbox Is The Spice"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/34350cfb7f4cc23e866abe859a677f15/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx56zi-E"
+        ],
+        "content": [
+          {
+            "html": "<p>After an explanation on how feedback is best sent, Federico and Myke discuss their thoughts on TickTick, the (potential) future of the music industry, the announcement of WWDC 2021, and whether Connected listeners prefer Dark Mode or Light Mode.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "After an explanation on how feedback is best sent, Federico and Myke discuss their thoughts on TickTick, the (potential) future of the music industry, the announcement of WWDC 2021, and whether Connected listeners prefer Dark Mode or Light Mode.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

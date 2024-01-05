@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Redondo Beach Brewing Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816875463089"
+          ],
+          "longitude": [
+            "-118.38719636258"
+          ]
+        },
+        "value": "Redondo Beach Brewing Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816875463089"
+          ],
+          "longitude": [
+            "-118.38719636258"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-redondo-beach-brewing-company-6"
+    ],
+    "published": [
+      "2018-10-19T19:07:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Brewery check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Brewery check-in in 2 months!</p>",
+              "value": "First Brewery check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bca2b87a2a6ce002c8db296/50942f494de569240a115df6fccea61c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bca2b87a2a6ce002c8db296/50942f494de569240a115df6fccea61c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bca2b87a2a6ce002c8db296"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d35a2854f3f8a2ab6179b5016bc0a27d"
+    ]
+  }
+}

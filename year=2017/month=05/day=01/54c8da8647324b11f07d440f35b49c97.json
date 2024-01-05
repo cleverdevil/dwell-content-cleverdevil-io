@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Just Downstairs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Just Downstairs"
+          ],
+          "latitude": [
+            "34.049343"
+          ],
+          "longitude": [
+            "-118.256827"
+          ]
+        },
+        "value": "Just Downstairs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Just Downstairs"
+          ],
+          "latitude": [
+            "34.049343"
+          ],
+          "longitude": [
+            "-118.256827"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-just-downstairs"
+    ],
+    "published": [
+      "2017-05-01T18:38:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/eeb11c94cc692f7c453b2596fb05586f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5907808c3731ee5cbef0fe39/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5907808c3731ee5cbef0fe39/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Tasty sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Tasty sticker bonus!</p>",
+              "value": "Tasty sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1c62df9d2df19d984e6707375c736251"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5907808c3731ee5cbef0fe39/2258be12437aeafc759f83b60c5cab18"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5907808c3731ee5cbef0fe39/2258be12437aeafc759f83b60c5cab18"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5907808c3731ee5cbef0fe39"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "54c8da8647324b11f07d440f35b49c97"
+    ]
+  }
+}

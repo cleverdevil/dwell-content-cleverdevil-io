@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Original Pancake House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Original Pancake House"
+          ],
+          "latitude": [
+            "33.817875682287"
+          ],
+          "longitude": [
+            "-118.38160045734"
+          ]
+        },
+        "value": "The Original Pancake House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Original Pancake House"
+          ],
+          "latitude": [
+            "33.817875682287"
+          ],
+          "longitude": [
+            "-118.38160045734"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Original Pancake House\" src=\"https://cleverdevil.io/file/19f181a6637ff7dfdf0fd05d9946db65\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Breakfast with my buddy!</p>",
+        "value": "The Original Pancake House\nBreakfast with my buddy!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-the-original-pancake-house-1"
+    ],
+    "published": [
+      "2018-02-09T17:46:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to The Original Pancake House since May '17."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to The Original Pancake House since May '17.</p>",
+              "value": "You haven't checked in to The Original Pancake House since May '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a7dde74270ee75d62978441/a2252d3439aea5d5c29a89c33f54b362"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a7dde74270ee75d62978441/a2252d3439aea5d5c29a89c33f54b362"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a7dde74270ee75d62978441"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "aad9ad75e4a461714d0c75cbbf659bfb"
+    ]
+  }
+}

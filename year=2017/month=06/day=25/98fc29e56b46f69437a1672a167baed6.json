@@ -1,0 +1,131 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Used @Ipstenu's &quot;Bury Your Queers&quot; Alexa Skill as an example of amazing #IndieWeb tech in this #IWS2017 session!"
+    ],
+    "content": [
+      {
+        "html": "Used @Ipstenu's &amp;quot;Bury Your Queers&amp;quot; Alexa Skill as an example of amazing <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a> tech in this <a class=\"p-category\" href=\"/tag/IWS2017\" rel=\"tag\">#IWS2017</a> session!",
+        "value": "Used @Ipstenu's &quot;Bury Your Queers&quot; Alexa Skill as an example of amazing #IndieWeb tech in this #IWS2017 session!"
+      }
+    ],
+    "category": [
+      "#IndieWeb",
+      "#IWS2017"
+    ],
+    "url": [
+      "/2017/used-ipstenus-quotbury-your-queersquot-alexa-skill-as-an-example"
+    ],
+    "published": [
+      "2017-06-25T00:52:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Yay!"
+          ],
+          "content": [
+            {
+              "html": "<p>Yay!</p>",
+              "value": "Yay!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3c1d90c9007190f793a2a7747cde456e/thumb.jpg"
+                ],
+                "name": [
+                  "ipstenu (((Mika E)))"
+                ],
+                "url": [
+                  "http://halfelf.org"
+                ]
+              },
+              "value": "ipstenu (((Mika E)))"
+            }
+          ],
+          "url": [
+            "https://twitter.com/Ipstenu/status/879095307618836481"
+          ]
+        },
+        "value": "https://twitter.com/Ipstenu/status/879095307618836481"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/878777818364211200"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "98fc29e56b46f69437a1672a167baed6"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/878777818364211200?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F878777818364211200%2F18741447"
+          ],
+          "published": [
+            "2017-06-25T02:49:10+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://twitter.com/GetSource"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d9dc9d1d8386053c397ce88dc4fe434a"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d9dc9d1d8386053c397ce88dc4fe434a Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

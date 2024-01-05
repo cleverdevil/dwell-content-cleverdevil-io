@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ghost Alley Espresso"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ghost Alley Espresso"
+          ],
+          "latitude": [
+            "47.608883569492"
+          ],
+          "longitude": [
+            "-122.34015211151"
+          ]
+        },
+        "value": "Ghost Alley Espresso"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ghost Alley Espresso"
+          ],
+          "latitude": [
+            "47.608883569492"
+          ],
+          "longitude": [
+            "-122.34015211151"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-ghost-alley-espresso"
+    ],
+    "published": [
+      "2019-09-29T18:47:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Ghost Alley Espresso!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Ghost Alley Espresso!</p>",
+              "value": "Your first check-in at Ghost Alley Espresso!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d90fc2bf6ec6a000811fdfd/395cfdb5f0b73dfc1aa1a02f67cf8150"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d90fc2bf6ec6a000811fdfd/395cfdb5f0b73dfc1aa1a02f67cf8150"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 53.06\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 53.06\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 53.06\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-ghost-alley-espresso/annotations/eed505d8823c3efb4f3a0fb7e222c724"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-ghost-alley-espresso/annotations/eed505d8823c3efb4f3a0fb7e222c724"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d90fc2bf6ec6a000811fdfd"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ceb0a5ccf95ba88070fe6dc1e4d0ef94"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-29T18:45:29Z",
+      "year": 2019,
+      "month": 9,
+      "day": 29,
+      "hour": 18,
+      "minute": 45,
+      "x": -122.34030776309885,
+      "y": 47.60884808779269,
+      "altitude": 39,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Bouzy Gastropub\" src=\"https://cleverdevil.io/file/cfe2980b717b2d7923350d84eae39e57\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Brunch!</p>",
+        "value": "Bouzy Gastropub\nBrunch!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-bouzy-gastropub-3"
+    ],
+    "published": [
+      "2017-07-23T17:49:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/dec8fca64a8925ec2b3f60e743982722"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5974e1a7d48ec13634426ef8/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5974e1a7d48ec13634426ef8/aca2ca94a4c8a62cae875b2803e8ec0c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're gonna need a frame for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>You're gonna need a frame for that photo.</p>",
+              "value": "You're gonna need a frame for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/58c3f8d1736d7553bfe629fda059dc4e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5974e1a7d48ec13634426ef8/23f8cee0d7772beccef14dfed8aa3b24"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5974e1a7d48ec13634426ef8/23f8cee0d7772beccef14dfed8aa3b24"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5974e1a7d48ec13634426ef8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3722c351d4ba7e1b8476ccc5dc8f7a33"
+    ]
+  }
+}

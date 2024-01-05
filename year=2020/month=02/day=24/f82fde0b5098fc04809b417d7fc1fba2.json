@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 10x12 \"A Fish Called Tina\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/16ae4c8fc12f9523c83c7975cbda6436/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 10x12 \"A Fish Called Tina\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3959862"
+          ]
+        },
+        "value": "Bob's Burgers 10x12 \"A Fish Called Tina\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Tina tries too hard to be a perfect mentor; Bob and Linda visit the gym next door.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Tina tries too hard to be a perfect mentor; Bob and Linda visit the gym next door.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/bobs-burgers-10x12-a-fish-called-tina"
+    ],
+    "published": [
+      "2020-02-24T07:25:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.21\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.21\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.21\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/bobs-burgers-10x12-a-fish-called-tina/annotations/ef4f7323de25fa10a7cb812edf55f050"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/bobs-burgers-10x12-a-fish-called-tina/annotations/ef4f7323de25fa10a7cb812edf55f050"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "f82fde0b5098fc04809b417d7fc1fba2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-24T07:24:07Z",
+      "year": 2020,
+      "month": 2,
+      "day": 24,
+      "hour": 7,
+      "minute": 24,
+      "x": -118.3702954220561,
+      "y": 33.81544951687996,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  }
+}

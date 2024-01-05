@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hula Grill Kaanapali"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hula Grill Kaanapali"
+          ],
+          "latitude": [
+            "20.921710879982"
+          ],
+          "longitude": [
+            "-156.69555974707"
+          ]
+        },
+        "value": "Hula Grill Kaanapali"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hula Grill Kaanapali"
+          ],
+          "latitude": [
+            "20.921710879982"
+          ],
+          "longitude": [
+            "-156.69555974707"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Cocktails and dinner.</p>",
+        "value": "Cocktails and dinner."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-hula-grill-kaanapali"
+    ],
+    "published": [
+      "2017-07-15T03:50:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Hula Grill Kaanapali!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Hula Grill Kaanapali!</p>",
+              "value": "Your first check-in at Hula Grill Kaanapali!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/18eb1fcc06f204c61bd5b7ce474650e0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596990f1840fc277ae09518a/44064b4ddd66bee0400b6c93ac654aef"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596990f1840fc277ae09518a/44064b4ddd66bee0400b6c93ac654aef"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596990f1840fc277ae09518a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9c1a251251e537834ec02e9247658a1b"
+    ]
+  }
+}

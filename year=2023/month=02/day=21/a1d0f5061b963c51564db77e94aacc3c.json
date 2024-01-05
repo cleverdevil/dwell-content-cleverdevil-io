@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/atp-eats-frozen-dinners"
+    ],
+    "published": [
+      "2023-02-21T18:20:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a1d0f5061b963c51564db77e94aacc3c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-21T20:03:56Z",
+      "year": 2023,
+      "month": 2,
+      "day": 21,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.38036322987428,
+      "y": 33.70168087460493,
+      "altitude": 130,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to ATP Eats: Frozen Dinners"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/06ad3c86dbc0d43366ddfb8d4e1f58b8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI91ap0"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey made us do it. Our stomachs may never recover.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey made us do it. Our stomachs may never recover.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Nelson's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736717070088"
+          ],
+          "longitude": [
+            "-118.39913506881"
+          ]
+        },
+        "value": "Nelson's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Nelson's"
+          ],
+          "latitude": [
+            "33.736717070088"
+          ],
+          "longitude": [
+            "-118.39913506881"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-nelsons-10"
+    ],
+    "published": [
+      "2022-03-11T22:20:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 3 check-ins inside Terranea Resort today! Keep going for more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>That's 3 check-ins inside Terranea Resort today! Keep going for more coins.</p>",
+              "value": "That's 3 check-ins inside Terranea Resort today! Keep going for more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622bcb366c65d91fee3e4b67/ef130be0a6b6b1f345ec96a7ce85c9a3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622bcb366c65d91fee3e4b67/ef130be0a6b6b1f345ec96a7ce85c9a3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/622bcb366c65d91fee3e4b67"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9f628855345b43dd3e28bca252334433"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-11T22:20:16Z",
+      "year": 2022,
+      "month": 3,
+      "day": 11,
+      "hour": 22,
+      "minute": 20,
+      "x": -118.39921910719691,
+      "y": 33.736719606194725,
+      "altitude": 9,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.44999998807907104,
+      "wifi": "Terranea"
+    }
+  }
+}

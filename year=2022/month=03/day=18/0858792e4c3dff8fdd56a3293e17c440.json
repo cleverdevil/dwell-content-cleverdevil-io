@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Paseo Village"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Paseo Village"
+          ],
+          "latitude": [
+            "33.71947"
+          ],
+          "longitude": [
+            "-116.384434"
+          ]
+        },
+        "value": "El Paseo Village"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Paseo Village"
+          ],
+          "latitude": [
+            "33.71947"
+          ],
+          "longitude": [
+            "-116.384434"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-el-paseo-village"
+    ],
+    "published": [
+      "2022-03-18T23:08:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside El Paseo Village! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside El Paseo Village! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside El Paseo Village! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/623510e788e93952db64a1ea/d4b4f261fcbfb485b46c021d76fcd94f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/623510e788e93952db64a1ea/d4b4f261fcbfb485b46c021d76fcd94f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/623510e788e93952db64a1ea"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0858792e4c3dff8fdd56a3293e17c440"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-18T23:05:54Z",
+      "year": 2022,
+      "month": 3,
+      "day": 18,
+      "hour": 23,
+      "minute": 5,
+      "x": -116.38657946437692,
+      "y": 33.71977727489947,
+      "altitude": 78,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

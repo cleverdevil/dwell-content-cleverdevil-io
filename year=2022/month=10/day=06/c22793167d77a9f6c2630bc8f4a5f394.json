@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/503-draw-your-own-slice-of-pizza"
+    ],
+    "published": [
+      "2022-10-06T10:11:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c22793167d77a9f6c2630bc8f4a5f394"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-06T12:00:51Z",
+      "year": 2022,
+      "month": 10,
+      "day": 6,
+      "hour": 12,
+      "minute": 0,
+      "x": -116.38031774422522,
+      "y": 33.7016004867675,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 503: Draw Your Own Slice of Pizza"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1eb6e01cc59aceaf32ebd6f8160fff19/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfeaSKAU"
+        ],
+        "content": [
+          {
+            "html": "<p>503: Draw Your Own Slice of Pizza</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "503: Draw Your Own Slice of Pizza\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

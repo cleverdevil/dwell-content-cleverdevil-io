@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Letterkenny 7x03 \"Nut\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/96411e187004710447c63473d00431a5/thumb.jpg"
+          ],
+          "name": [
+            "Letterkenny 7x03 \"Nut\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3566048"
+          ]
+        },
+        "value": "Letterkenny 7x03 \"Nut\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Dan's private viewing habits are exposed</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Dan's private viewing habits are exposed\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/letterkenny-7x03-nut"
+    ],
+    "published": [
+      "2020-01-27T05:40:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 56.14\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 56.14\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 56.14\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/letterkenny-7x03-nut/annotations/805085ab2aca04f375163aa8cab37acb"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/letterkenny-7x03-nut/annotations/805085ab2aca04f375163aa8cab37acb"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "3eb1214fa4866d7a6e53895d0dd3fdae"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-27T05:28:07Z",
+      "year": 2020,
+      "month": 1,
+      "day": 27,
+      "hour": 5,
+      "minute": 28,
+      "x": -118.37051773691238,
+      "y": 33.81531728855844,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8700000047683716,
+      "wifi": "LaCour"
+    }
+  }
+}

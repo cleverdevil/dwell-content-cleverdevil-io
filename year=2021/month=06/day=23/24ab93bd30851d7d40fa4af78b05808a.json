@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/358-apple-watch-extreme-or-whatever"
+    ],
+    "published": [
+      "2021-06-23T00:18:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "24ab93bd30851d7d40fa4af78b05808a"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-16T19:09:35Z",
+      "year": 2021,
+      "month": 6,
+      "day": 16,
+      "hour": 19,
+      "minute": 9,
+      "x": -118.34425734915304,
+      "y": 33.841427209628975,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 358: Apple Watch Extreme or Whatever"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4b34b3353f7ff743feca4fc7e3a16aa5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_bC8Zc"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we talk the future of the Apple Watch\u2014new materials, new shapes, and all the sensors Apple wants to put on your body\u2014and the risks Apple might face by not learning the right lessons about its corporate culture.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we talk the future of the Apple Watch\u2014new materials, new shapes, and all the sensors Apple wants to put on your body\u2014and the risks Apple might face by not learning the right lessons about its corporate culture.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

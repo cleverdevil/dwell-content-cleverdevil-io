@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/318-four-weeks-out-or-tomorrow"
+    ],
+    "published": [
+      "2020-09-30T14:49:11+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d3850c0ae7850ff6c5de83eb87eb988e"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-30T15:57:09Z",
+      "year": 2020,
+      "month": 9,
+      "day": 30,
+      "hour": 15,
+      "minute": 57,
+      "x": -118.37058504801041,
+      "y": 33.81533468161192,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 318: Four Weeks Out or Tomorrow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8c290436fa640dfc299d1b92b09d9e89/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm95T4a8"
+        ],
+        "content": [
+          {
+            "html": "<p>This week widget mania sweeps the nation, Jason goes to an Apple Store to buy a Solo Loop, and Tim Cook ponders Apple\u2019s work-from-home culture.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week widget mania sweeps the nation, Jason goes to an Apple Store to buy a Solo Loop, and Tim Cook ponders Apple\u2019s work-from-home culture.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

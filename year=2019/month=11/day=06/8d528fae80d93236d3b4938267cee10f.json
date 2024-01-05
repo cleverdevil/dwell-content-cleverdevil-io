@@ -1,0 +1,113 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://2020.indieweb.org/summit"
+    ],
+    "name": [
+      "Yes: I\u2019ll do everything in my power to make IWS 2020! My favorite event of the year."
+    ],
+    "content": [
+      {
+        "html": "<data class=\"p-rsvp\" value=\"yes\"><strong>Yes:</strong> I\u2019ll do everything in my power to make IWS 2020! My favorite event of the year.</data>",
+        "value": "Yes: I\u2019ll do everything in my power to make IWS 2020! My favorite event of the year."
+      }
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "url": [
+      "/2019/yes-ill-do-everything-in-my-power-to-make-iws"
+    ],
+    "published": [
+      "2019-11-06T18:10:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.98\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.98\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.98\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/yes-ill-do-everything-in-my-power-to-make-iws/annotations/aae62de531d4bfe1ed8429f53bda26c6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/yes-ill-do-everything-in-my-power-to-make-iws/annotations/aae62de531d4bfe1ed8429f53bda26c6"
+      }
+    ],
+    "post-kind": [
+      "RSVP"
+    ],
+    "post-id": [
+      "8d528fae80d93236d3b4938267cee10f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-06T18:05:32Z",
+      "year": 2019,
+      "month": 11,
+      "day": 6,
+      "hour": 18,
+      "minute": 5,
+      "x": -118.39511809679755,
+      "y": 33.919694563451344,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": "WeWork"
+    }
+  }
+}

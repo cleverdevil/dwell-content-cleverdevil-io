@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Palm Desert Civic Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Desert Civic Park"
+          ],
+          "latitude": [
+            "33.729288388793"
+          ],
+          "longitude": [
+            "-116.38072628348"
+          ]
+        },
+        "value": "Palm Desert Civic Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palm Desert Civic Park"
+          ],
+          "latitude": [
+            "33.729288388793"
+          ],
+          "longitude": [
+            "-116.38072628348"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-palm-desert-civic-park"
+    ],
+    "published": [
+      "2023-02-26T19:42:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Palm Desert Civic Park!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Palm Desert Civic Park!</p>",
+              "value": "Your first check-in at Palm Desert Civic Park!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63fbb62c10c3b1692f29317d/a849a059d489c57bc9ed232ab6fe64b8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63fbb62c10c3b1692f29317d/a849a059d489c57bc9ed232ab6fe64b8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63fbb62c10c3b1692f29317d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c113a85dc945458f081c879784d4b5eb"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-26T19:40:20Z",
+      "year": 2023,
+      "month": 2,
+      "day": 26,
+      "hour": 19,
+      "minute": 40,
+      "x": -116.38007356148728,
+      "y": 33.7317444825324,
+      "altitude": 59,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049135487815"
+          ],
+          "longitude": [
+            "-118.25696984145"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049135487815"
+          ],
+          "longitude": [
+            "-118.25696984145"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>My last week at this lovely place.</p>",
+        "value": "My last week at this lovely place."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-dreamhost-west-80"
+    ],
+    "published": [
+      "2018-01-08T17:16:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still the Mayor! \"Four more years, four more years!\""
+          ],
+          "content": [
+            {
+              "html": "<p>Still the Mayor! \"Four more years, four more years!\"</p>",
+              "value": "Still the Mayor! \"Four more years, four more years!\""
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a53a76b4c9be6279eafde87/82bd4dd2d32e9208aa3dda5abe12de16"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a53a76b4c9be6279eafde87/82bd4dd2d32e9208aa3dda5abe12de16"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a53a76b4c9be6279eafde87"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e58c796d76dc4409aed102ee4b5affbc"
+    ]
+  }
+}

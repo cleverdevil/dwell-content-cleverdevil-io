@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/347-the-hubris-of-the-homepod"
+    ],
+    "published": [
+      "2021-04-13T22:30:16+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "abbda9dbe4f593ecfd21185f10bc5985"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-13T23:17:09Z",
+      "year": 2021,
+      "month": 4,
+      "day": 13,
+      "hour": 23,
+      "minute": 17,
+      "x": -118.37031822923487,
+      "y": 33.815443196288456,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 347: The Hubris of the HomePod"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4474261eff52a56fecfb1c7a16dab8bc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9AJRT8"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s making moves both outdoors (Find My) and in (rumored new smart home products). Apple\u2019s original podcasts continue with another project tied to TV+. And we discuss why some of Apple\u2019s product launches this year may have been delayed.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple\u2019s making moves both outdoors (Find My) and in (rumored new smart home products). Apple\u2019s original podcasts continue with another project tied to TV+. And we discuss why some of Apple\u2019s product launches this year may have been delayed.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lazy Dog Restaurant & Bar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lazy Dog Restaurant & Bar"
+          ],
+          "latitude": [
+            "33.833372520852"
+          ],
+          "longitude": [
+            "-118.34718710483"
+          ]
+        },
+        "value": "Lazy Dog Restaurant & Bar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lazy Dog Restaurant & Bar"
+          ],
+          "latitude": [
+            "33.833372520852"
+          ],
+          "longitude": [
+            "-118.34718710483"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Lazy Dog Restaurant &amp; Bar\" src=\"https://cleverdevil.io/file/eb7cfc8de3d1512d4a8156481c8a95e8\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>",
+        "value": "Lazy Dog Restaurant & Bar"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-lazy-dog-restaurant-bar-1"
+    ],
+    "published": [
+      "2017-10-01T20:33:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "No filters needed for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>No filters needed for that photo.</p>",
+              "value": "No filters needed for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59d151086a8d866222dca62b/62d84acbc7bb4d6c8024488a85581bc2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59d151086a8d866222dca62b/62d84acbc7bb4d6c8024488a85581bc2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59d151086a8d866222dca62b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cf34ce072d62d9317d6733db36224a66"
+    ]
+  }
+}

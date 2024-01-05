@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81916909"
+          ],
+          "longitude": [
+            "-118.38559654"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81916909"
+          ],
+          "longitude": [
+            "-118.38559654"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-the-coffee-bean-tea-leaf-9"
+    ],
+    "published": [
+      "2019-11-03T17:14:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to The Coffee Bean & Tea Leaf 10 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to The Coffee Bean &amp; Tea Leaf 10 times!</p>",
+              "value": "Wow! You've checked in to The Coffee Bean & Tea Leaf 10 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dbf0b0efd56ae00088d40ad/44fb33d5fc215763d78265d00f3d14c5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dbf0b0efd56ae00088d40ad/44fb33d5fc215763d78265d00f3d14c5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.42\u00b0F and 45% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.42\u00b0F and 45% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.42\u00b0F and 45% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-the-coffee-bean-tea-leaf-9/annotations/418f000e8e6b284e624312a415ae1157"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-the-coffee-bean-tea-leaf-9/annotations/418f000e8e6b284e624312a415ae1157"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dbf0b0efd56ae00088d40ad"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9bd0617b75167112c0ea02ec0b7c24f1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-03T17:10:05Z",
+      "year": 2019,
+      "month": 11,
+      "day": 3,
+      "hour": 17,
+      "minute": 10,
+      "x": -118.37187002926481,
+      "y": 33.81569672236299,
+      "altitude": 48,
+      "motion": [
+        "cycling"
+      ],
+      "speed": 9,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  }
+}

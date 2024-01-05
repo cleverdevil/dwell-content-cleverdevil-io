@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Putting a Mac Mini in a Powerbook 165c"
+    ],
+    "like-of": [
+      "https://m.imgur.com/a/BQjt9le"
+    ],
+    "url": [
+      "/2020/p---album-on-imgur"
+    ],
+    "published": [
+      "2020-01-12T21:00:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.47\u00b0F and 52% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.47\u00b0F and 52% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.47\u00b0F and 52% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/p---album-on-imgur/annotations/aaf21da0766df5df3eab99567a6848e6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/p---album-on-imgur/annotations/aaf21da0766df5df3eab99567a6848e6"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "e83aaa66117edd14e215e53953477ae2"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-12T20:58:15Z",
+      "year": 2020,
+      "month": 1,
+      "day": 12,
+      "hour": 20,
+      "minute": 58,
+      "x": -118.4046372584233,
+      "y": 33.94615368259718,
+      "altitude": 36,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/flashback-1-the-newton"
+    ],
+    "published": [
+      "2020-02-12T21:15:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.13\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/flashback-1-the-newton/annotations/6808327c7bb0b79880080d31ccd54380"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/flashback-1-the-newton/annotations/6808327c7bb0b79880080d31ccd54380"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2c8988c3e2c6e03085e811e940e615e3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-13T00:03:48Z",
+      "year": 2020,
+      "month": 2,
+      "day": 13,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.4811589902939,
+      "y": 34.02751848734779,
+      "altitude": 45,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.550000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Flashback 1: The Newton"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/22e69a6e1beb2ac87500615ba3432308/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2zXxLf4"
+        ],
+        "content": [
+          {
+            "html": "<p>Today, Apple is well known for its mobile devices like the iPhone and iPad, but in the 1990s, the Macintosh-only company invented the Personal Digital Assistant. However, after five short years, the whole Newton line was cancelled.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "Today, Apple is well known for its mobile devices like the iPhone and iPad, but in the 1990s, the Macintosh-only company invented the Personal Digital Assistant. However, after five short years, the whole Newton line was cancelled.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

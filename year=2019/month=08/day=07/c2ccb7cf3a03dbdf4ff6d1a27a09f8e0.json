@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Rockefeller Redondo Beach"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Rockefeller Redondo Beach"
+          ],
+          "latitude": [
+            "33.818415300159"
+          ],
+          "longitude": [
+            "-118.38841384654"
+          ]
+        },
+        "value": "The Rockefeller Redondo Beach"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Rockefeller Redondo Beach"
+          ],
+          "latitude": [
+            "33.818415300159"
+          ],
+          "longitude": [
+            "-118.38841384654"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-the-rockefeller-redondo-beach-1"
+    ],
+    "published": [
+      "2019-08-07T01:51:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Gastropub check-in in 9 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Gastropub check-in in 9 months!</p>",
+              "value": "First Gastropub check-in in 9 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d4a2ebc6fdad60008016c77/1f3b146d67305f649f8d97d5d402b3ac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d4a2ebc6fdad60008016c77/1f3b146d67305f649f8d97d5d402b3ac"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.63\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.63\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.63\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-the-rockefeller-redondo-beach-1/annotations/9448380f9bbc15ef3dab4d0c89926452"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-the-rockefeller-redondo-beach-1/annotations/9448380f9bbc15ef3dab4d0c89926452"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d4a2ebc6fdad60008016c77"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c2ccb7cf3a03dbdf4ff6d1a27a09f8e0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-07T01:50:29Z",
+      "year": 2019,
+      "month": 8,
+      "day": 7,
+      "hour": 1,
+      "minute": 50,
+      "x": -118.38903905314784,
+      "y": 33.817883227231796,
+      "altitude": 16,
+      "motion": [
+        "driving"
+      ],
+      "speed": 10,
+      "battery_state": "charging",
+      "battery_level": 0.8399999737739563,
+      "wifi": ""
+    }
+  }
+}

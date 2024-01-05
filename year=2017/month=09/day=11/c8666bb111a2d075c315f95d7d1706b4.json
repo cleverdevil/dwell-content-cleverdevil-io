@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into W Las Vegas"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Las Vegas"
+          ],
+          "latitude": [
+            "36.142584098465"
+          ],
+          "longitude": [
+            "-115.15609448575"
+          ]
+        },
+        "value": "W Las Vegas"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Las Vegas"
+          ],
+          "latitude": [
+            "36.142584098465"
+          ],
+          "longitude": [
+            "-115.15609448575"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"W Las Vegas\" src=\"https://cleverdevil.io/file/af78d2de799e5a9c811ad6aad7f10097\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Post Conference.</p>",
+        "value": "W Las Vegas\nPost Conference."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-w-las-vegas-1"
+    ],
+    "published": [
+      "2017-09-11T23:49:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo!</p>",
+              "value": "Great photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGhvdG8ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b720eb780eee3646a39497/138228e30468badba0a8c087471331d2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59b720eb780eee3646a39497/138228e30468badba0a8c087471331d2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside SLS Las Vegas for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside SLS Las Vegas for more coins!</p>",
+              "value": "Keep checking in to places inside SLS Las Vegas for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59b720eb780eee3646a39497/c04b70630046619e3425d137510bcb24"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59b720eb780eee3646a39497/c04b70630046619e3425d137510bcb24"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59b720eb780eee3646a39497"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c8666bb111a2d075c315f95d7d1706b4"
+    ]
+  }
+}

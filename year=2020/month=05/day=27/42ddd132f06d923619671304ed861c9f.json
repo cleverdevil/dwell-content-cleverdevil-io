@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-295-another-italian-interjected"
+    ],
+    "published": [
+      "2020-05-27T15:25:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.52\u00b0F and 97% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.52\u00b0F and 97% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 58.52\u00b0F and 97% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-295-another-italian-interjected/annotations/622d87c68d7473d406e673bea7b668d1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-295-another-italian-interjected/annotations/622d87c68d7473d406e673bea7b668d1"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "42ddd132f06d923619671304ed861c9f"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-27T16:02:29Z",
+      "year": 2020,
+      "month": 5,
+      "day": 27,
+      "hour": 16,
+      "minute": 2,
+      "x": -118.37041490820047,
+      "y": 33.81541863744103,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 295: Another Italian Interjected"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cc9cebb538b8358fccc4d87826b159fb/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx58ptuE"
+        ],
+        "content": [
+          {
+            "html": "<p>Follow-up. Microsoft has reinvented OpenDoc. A conversation about watchOS 7. Follow-up. Microsoft has reinvented OpenDoc. A conversation about watchOS 7. Are you getting it? These are not three separate episodes \u2026 this is one episode.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Follow-up. Microsoft has reinvented OpenDoc. A conversation about watchOS 7. Follow-up. Microsoft has reinvented OpenDoc. A conversation about watchOS 7. Are you getting it? These are not three separate episodes \u2026 this is one episode.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

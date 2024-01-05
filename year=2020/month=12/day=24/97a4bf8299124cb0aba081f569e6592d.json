@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/71-christmas-episodes-of-the-office"
+    ],
+    "published": [
+      "2020-12-24T21:38:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "97a4bf8299124cb0aba081f569e6592d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-24T23:55:24Z",
+      "year": 2020,
+      "month": 12,
+      "day": 24,
+      "hour": 23,
+      "minute": 55,
+      "x": -118.37041731555156,
+      "y": 33.81538270769355,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 71: Christmas Episodes of The Office"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/02256f3ef0d1aa68a3550e32d001d2b2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDaWEWI4"
+        ],
+        "content": [
+          {
+            "html": "<p>In a special crossover episode with Somehow I Manage, we\u2019re joined by Merri and Stephen Hackett to rank our favorite Christmas episodes of The Office.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "In a special crossover episode with Somehow I Manage, we\u2019re joined by Merri and Stephen Hackett to rank our favorite Christmas episodes of The Office.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

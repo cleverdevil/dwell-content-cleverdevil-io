@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/324-classified"
+    ],
+    "published": [
+      "2020-12-17T04:04:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7cce3697f3fb4eef2d4844bf775e25e9"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-17T03:58:23Z",
+      "year": 2020,
+      "month": 12,
+      "day": 17,
+      "hour": 3,
+      "minute": 58,
+      "x": -118.37032746913607,
+      "y": 33.81547253079432,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 324: \ud83d\udeab CLASSIFIED \ud83d\udeab"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8065a9bd659c49a0a979bf5f50cd3857/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7qULcw"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, Stephen cleans out the follow-up folder, while Myke is reading Tumblr. Magnets, feelings and breathing are all discussed. Then, Federico dives into the AirPods Max announcement.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, Stephen cleans out the follow-up folder, while Myke is reading Tumblr. Magnets, feelings and breathing are all discussed. Then, Federico dives into the AirPods Max announcement.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera United Methodist Church"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812084335325"
+          ],
+          "longitude": [
+            "-118.38738149434"
+          ]
+        },
+        "value": "Riviera United Methodist Church"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812084335325"
+          ],
+          "longitude": [
+            "-118.38738149434"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-united-methodist-church-45"
+    ],
+    "published": [
+      "2019-10-31T23:30:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dbb6eb2ca57c9000748ef91/aca2ca94a4c8a62cae875b2803e8ec0c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dbb6eb2ca57c9000748ef91/aca2ca94a4c8a62cae875b2803e8ec0c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.46\u00b0F and 23% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.46\u00b0F and 23% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.46\u00b0F and 23% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-riviera-united-methodist-church-45/annotations/db2c499018ed0ea18a207691126d5eff"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-riviera-united-methodist-church-45/annotations/db2c499018ed0ea18a207691126d5eff"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dbb6eb2ca57c9000748ef91"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "eb71160ab529af9c7380a243dbe1a296"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-31T23:30:42Z",
+      "year": 2019,
+      "month": 10,
+      "day": 31,
+      "hour": 23,
+      "minute": 30,
+      "x": -118.38771863468197,
+      "y": 33.812173035632384,
+      "altitude": 33,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

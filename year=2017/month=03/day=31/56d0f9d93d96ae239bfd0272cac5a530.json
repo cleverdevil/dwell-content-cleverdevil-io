@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Seaside Torrance\" src=\"https://cleverdevil.io/file/a7452bc1ac469ce932a34d1bad211edb\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Working from home on this beautiful Friday.</p>",
+        "value": "Seaside Torrance\nWorking from home on this beautiful Friday."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-2"
+    ],
+    "published": [
+      "2017-03-31T18:16:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Channeling your inner Ansel Adams with that photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Channeling your inner Ansel Adams with that photo!</p>",
+              "value": "Channeling your inner Ansel Adams with that photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/8bc054dc63e024b7c9f18513dad0d2bd"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58de9a30a6118c7630b3797c/70dd506890589d783d03ab1d8affbccf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58de9a30a6118c7630b3797c/70dd506890589d783d03ab1d8affbccf"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "NOICE"
+          ],
+          "content": [
+            {
+              "html": "<p>NOICE</p>",
+              "value": "NOICE"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/gfx/users/default-05.png"
+                ],
+                "name": [
+                  "kris"
+                ],
+                "url": [
+                  "http://www.krisbernard.com"
+                ]
+              },
+              "value": "kris"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2017/checked-into-seaside-torrance-2/annotations/17fd773e5061880e17ecbd958c0294a2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2017/checked-into-seaside-torrance-2/annotations/17fd773e5061880e17ecbd958c0294a2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58de9a30a6118c7630b3797c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "56d0f9d93d96ae239bfd0272cac5a530"
+    ]
+  }
+}

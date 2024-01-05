@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Redondo Beach Brewing Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816875463089"
+          ],
+          "longitude": [
+            "-118.38719636258"
+          ]
+        },
+        "value": "Redondo Beach Brewing Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816875463089"
+          ],
+          "longitude": [
+            "-118.38719636258"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-redondo-beach-brewing-company-9"
+    ],
+    "published": [
+      "2023-09-11T00:46:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "344 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>344 miles since last check-in</p>",
+              "value": "344 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/64fe634ff26b1379ea8bc0e1/7f7901285b417b094bd19c0d7a9dcd88"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/64fe634ff26b1379ea8bc0e1/7f7901285b417b094bd19c0d7a9dcd88"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/64fe634ff26b1379ea8bc0e1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0125f54e4b41242eb3c57c286a6bc2eb"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-11T00:37:13Z",
+      "year": 2023,
+      "month": 9,
+      "day": 11,
+      "hour": 0,
+      "minute": 37,
+      "x": -118.387309886337,
+      "y": 33.816653917427736,
+      "altitude": 17,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Aliki's Greek Taverna"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Aliki's Greek Taverna"
+          ],
+          "latitude": [
+            "33.952480636657"
+          ],
+          "longitude": [
+            "-118.38519401599"
+          ]
+        },
+        "value": "Aliki's Greek Taverna"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Aliki's Greek Taverna"
+          ],
+          "latitude": [
+            "33.952480636657"
+          ],
+          "longitude": [
+            "-118.38519401599"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-alikis-greek-taverna"
+    ],
+    "published": [
+      "2018-03-13T18:56:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Opa sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Opa sticker bonus!</p>",
+              "value": "Opa sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3N0aWNrZXIvODAvR3JlZWtSZXN0YXVyYW50c18xYTQwOGYucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa81eed4b78c50599dcc28b/df3f82b62570cdd13d002fb9fcfd697d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aa81eed4b78c50599dcc28b/df3f82b62570cdd13d002fb9fcfd697d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aa81eed4b78c50599dcc28b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "68f5307426d083f59f02ff774418c975"
+    ]
+  }
+}

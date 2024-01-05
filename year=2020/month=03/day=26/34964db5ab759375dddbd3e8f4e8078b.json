@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/flashback-3-the-gm-ev1"
+    ],
+    "published": [
+      "2020-03-26T16:09:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.43\u00b0F and 45% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.43\u00b0F and 45% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.43\u00b0F and 45% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/flashback-3-the-gm-ev1/annotations/a2bcad635eec84eb5eb0c05fc3517058"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/flashback-3-the-gm-ev1/annotations/a2bcad635eec84eb5eb0c05fc3517058"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "34964db5ab759375dddbd3e8f4e8078b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-26T19:54:56Z",
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "hour": 19,
+      "minute": 54,
+      "x": -118.37039189441799,
+      "y": 33.81540090403699,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Flashback 3: The GM EV1"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/78f3b11b8bb9d0f077f8c16ef33f5d7e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2zQEOmY"
+        ],
+        "content": [
+          {
+            "html": "<p>Electric cars may seem like 21st century tech, but they are far from modern invention. Along the winding path to the present was the GM EV1, the first purpose-designed electric vehicle. It went on sale in 1996, but were all crushed within 10 years.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "Electric cars may seem like 21st century tech, but they are far from modern invention. Along the winding path to the present was the GM EV1, the first purpose-designed electric vehicle. It went on sale in 1996, but were all crushed within 10 years.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

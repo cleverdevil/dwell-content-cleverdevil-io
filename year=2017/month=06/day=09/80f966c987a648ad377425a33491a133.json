@@ -1,0 +1,134 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Feed reader revolution: it\u2019s time to embrace open & disrupt social media"
+    ],
+    "repost-of": [
+      "http://altplatform.org/2017/06/09/feed-reader-revolution/"
+    ],
+    "content": [
+      {
+        "html": "<p>Great post by <a href=\"http://boffosocko.com\">Chris Aldrich</a>\u00a0that echos <a href=\"https://cleverdevil.io/2017/user-experience-and-the-indieweb\">my own feelings</a>\u00a0about the potential for an integrated content creation, consumption, and interaction experience for the open web. I've already got a good start on it, since I have a website that supports <a href=\"https://indieweb.org/Webmention\">Webmention</a>\u00a0and <a href=\"https://indieweb.org/Micropub\">Micropub</a>, and I've <a href=\"https://cleverdevil.io/2017/adding-indieweb-interactions-to-nextcloud-news\">created a plugin for Nextcloud News</a>, my feed reader of choice, that enables interactions.</p><p>My goal is to completely exit Facebook by the end of 2017 and Twitter shortly thereafter.</p><p><a class=\"p-category\" href=\"/tag/indieweb\" rel=\"tag\">#indieweb</a> <a class=\"p-category\" href=\"/tag/micro\" rel=\"tag\">#micro</a></p>",
+        "value": "Great post by Chris Aldrich\u00a0that echos my own feelings\u00a0about the potential for an integrated content creation, consumption, and interaction experience for the open web. I've already got a good start on it, since I have a website that supports Webmention\u00a0and Micropub, and I've created a plugin for Nextcloud News, my feed reader of choice, that enables interactions.\nMy goal is to completely exit Facebook by the end of 2017 and Twitter shortly thereafter.\n#indieweb #micro"
+      }
+    ],
+    "category": [
+      "#indieweb",
+      "#micro"
+    ],
+    "url": [
+      "/2017/feed-reader-revolution-its-time-to-embrace-open-disrupt-social"
+    ],
+    "published": [
+      "2017-06-09T21:30:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Thanks for the kind words Jonathan. I nearly used your example in the piece, but it was already clocking in around the 4,600 word/20 minute mark, so I had to let it go. I've been thinking about this issue since last November and your post a while back was part of the kick-in-the-pants that made me write up all the moving pieces together so that feed readers not aware of the possibilities could see the bigger picture.\nIf you remember, do manually POSSE your comment to the main article so those who come across it have the extra example!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Thanks for the kind words Jonathan. I nearly used your example in the piece, but it was already clocking in around the 4,600 word/20 minute mark, so I had to let it go. I've been thinking about this issue since last November and your post a while back was part of the kick-in-the-pants that made me write up all the moving pieces together so that feed readers not aware of the possibilities could see the bigger picture.</p>\n\n<p>If you remember, do manually POSSE your comment to the main article so those who come across it have the extra example!</p>",
+              "value": "@cleverdevil Thanks for the kind words Jonathan. I nearly used your example in the piece, but it was already clocking in around the 4,600 word/20 minute mark, so I had to let it go. I've been thinking about this issue since last November and your post a while back was part of the kick-in-the-pants that made me write up all the moving pieces together so that feed readers not aware of the possibilities could see the bigger picture.\nIf you remember, do manually POSSE your comment to the main article so those who come across it have the extra example!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/60b766e4195d25665bbcda91a0d457cb"
+                ],
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://stream.boffosocko.com/profile/chrisaldrich"
+                ]
+              },
+              "value": "Chris Aldrich"
+            }
+          ],
+          "url": [
+            "http://stream.boffosocko.com/2017/cleverdevil-thanks-for-the-kind-words-jonathan-i-nearly-used"
+          ]
+        },
+        "value": "http://stream.boffosocko.com/2017/cleverdevil-thanks-for-the-kind-words-jonathan-i-nearly-used"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/873292457013915649"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "80f966c987a648ad377425a33491a133"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/873292457013915649?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F873292457013915649%2F13645402"
+          ],
+          "published": [
+            "2017-06-10T03:28:09+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "ChrisAldrich"
+                ],
+                "url": [
+                  "https://twitter.com/ChrisAldrich"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/adde6aa9be6ed869cd2565d209b3c8b0"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/adde6aa9be6ed869cd2565d209b3c8b0 ChrisAldrich"
+            }
+          ]
+        },
+        "value": "ChrisAldrich"
+      }
+    ]
+  }
+}

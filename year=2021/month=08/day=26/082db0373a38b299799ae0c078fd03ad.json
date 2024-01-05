@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/360-the-luxembourg-incident"
+    ],
+    "published": [
+      "2021-08-26T19:19:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "082db0373a38b299799ae0c078fd03ad"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-26T19:45:53Z",
+      "year": 2021,
+      "month": 8,
+      "day": 26,
+      "hour": 19,
+      "minute": 45,
+      "x": -116.38033616830981,
+      "y": 33.70150294512318,
+      "altitude": 129,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7599999904632568,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 360: The Luxembourg Incident"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0bfee08fd554220c8a4092eb5c8fefa0/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4vDg44"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke and Federico pick Connected\u2019s weirdest listener, look back at Tim Cook\u2019s ten years as CEO of Apple, and talk about Federico\u2019s new CMS.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke and Federico pick Connected\u2019s weirdest listener, look back at Tim Cook\u2019s ten years as CEO of Apple, and talk about Federico\u2019s new CMS.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/exposure-with-tom-riley-and-james-norton"
+    ],
+    "published": [
+      "2021-05-04T17:11:44+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1d17760063d24c1f1936a32abffabf94"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-04T17:48:33Z",
+      "year": 2021,
+      "month": 5,
+      "day": 4,
+      "hour": 17,
+      "minute": 48,
+      "x": -118.37039915564672,
+      "y": 33.815411866369836,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to \u201cExposure\u201d with Tom Riley and James Norton"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ee25297be9a6b11305b8e7a1c1b187fb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+speZCZNjA"
+        ],
+        "content": [
+          {
+            "html": "<p>Hosts Barbara Dunkelman and Jessica Vasami discuss episode two of The Nevers: \u201cExposure.\u201d They highlight the most memorable scenes from the episode and get fun insight from special guests Tom Riley and James Norton, who play Augie Bidlow and Hugo Swann. See omnystudio.com/listener for privacy information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Touch Base: The Official Nevers Podcast</p>",
+            "value": "Hosts Barbara Dunkelman and Jessica Vasami discuss episode two of The Nevers: \u201cExposure.\u201d They highlight the most memorable scenes from the episode and get fun insight from special guests Tom Riley and James Norton, who play Augie Bidlow and Hugo Swann. See omnystudio.com/listener for privacy information.\nBy The Touch Base: The Official Nevers Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

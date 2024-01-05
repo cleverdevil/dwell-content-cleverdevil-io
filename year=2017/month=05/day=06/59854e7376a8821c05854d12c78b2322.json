@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into W's China Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W's China Bistro"
+          ],
+          "latitude": [
+            "33.822119"
+          ],
+          "longitude": [
+            "-118.385195"
+          ]
+        },
+        "value": "W's China Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W's China Bistro"
+          ],
+          "latitude": [
+            "33.822119"
+          ],
+          "longitude": [
+            "-118.385195"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ws-china-bistro"
+    ],
+    "published": [
+      "2017-05-06T02:00:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "General Tso sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>General Tso sticker bonus!</p>",
+              "value": "General Tso sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/63e49c2104a6022e4507b4b330d9aa59"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590d2e41db1d8147a702e7a9/8bd504efc88eaa8828933b3021e4f8d8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590d2e41db1d8147a702e7a9/8bd504efc88eaa8828933b3021e4f8d8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/590d2e41db1d8147a702e7a9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "59854e7376a8821c05854d12c78b2322"
+    ]
+  }
+}

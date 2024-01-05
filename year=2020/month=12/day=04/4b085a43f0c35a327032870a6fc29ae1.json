@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/302-camera-beer-belly-with-nilay-patel"
+    ],
+    "published": [
+      "2020-12-04T16:13:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4b085a43f0c35a327032870a6fc29ae1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-12-04T19:58:45Z",
+      "year": 2020,
+      "month": 12,
+      "day": 4,
+      "hour": 19,
+      "minute": 58,
+      "x": -118.37354423670222,
+      "y": 33.77256336155673,
+      "altitude": 299,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 302: \u2018Camera Beer Belly\u2019, With Nilay Patel"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9c2098fe3a85b848ed4a1a1780d263cc/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NB5hZ34"
+        ],
+        "content": [
+          {
+            "html": "<p>302: \u2018Camera Beer Belly\u2019, With Nilay Patel</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "302: \u2018Camera Beer Belly\u2019, With Nilay Patel\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

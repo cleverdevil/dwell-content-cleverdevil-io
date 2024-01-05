@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "OBS Studio 28.0 Beta 1 added support for Apple Silicon, and so far its working great for me. So much more efficient. Worth a look if you rely on OBS!"
+    ],
+    "content": [
+      {
+        "html": "OBS Studio 28.0 Beta 1 added support for Apple Silicon, and so far its working great for me. So much more efficient. Worth a look if you rely on OBS!",
+        "value": "OBS Studio 28.0 Beta 1 added support for Apple Silicon, and so far its working great for me. So much more efficient. Worth a look if you rely on OBS!"
+      }
+    ],
+    "url": [
+      "/2022/obs-studio-280-beta-1-added-support"
+    ],
+    "published": [
+      "2022-08-08T18:02:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It worked on silicon already no? I got it working but haven\u2019t really stress tested"
+          ],
+          "content": [
+            {
+              "html": "<p>It worked on silicon already no? I got it working but haven\u2019t really stress tested</p>",
+              "value": "It worked on silicon already no? I got it working but haven\u2019t really stress tested"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MDM1MTI0ODY4MTI2ODQyODgvT3JFNVRMZzMuanBn/300/square"
+                ],
+                "name": [
+                  "matt felten"
+                ],
+                "url": [
+                  "https://twitter.com/mattfelten"
+                ]
+              },
+              "value": "matt felten"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/1556718534255734786"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/1556718534255734786"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1556702588573306881"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d1c50e4061ff029750da974eba6df3b2"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1556702588573306881#favorited-by-15847700"
+          ],
+          "published": [
+            "2022-08-08T19:17:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "matt felten"
+                ],
+                "url": [
+                  "https://twitter.com/mattfelten"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MDM1MTI0ODY4MTI2ODQyODgvT3JFNVRMZzMuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MDM1MTI0ODY4MTI2ODQyODgvT3JFNVRMZzMuanBn/300/square matt felten"
+            }
+          ]
+        },
+        "value": "matt felten"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-08T17:55:24Z",
+      "year": 2022,
+      "month": 8,
+      "day": 8,
+      "hour": 17,
+      "minute": 55,
+      "x": -118.37033629428443,
+      "y": 33.81537121723761,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9700000286102295,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Hollywood Bowl"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.113132536322"
+          ],
+          "longitude": [
+            "-118.33862185478"
+          ]
+        },
+        "value": "The Hollywood Bowl"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Hollywood Bowl"
+          ],
+          "latitude": [
+            "34.113132536322"
+          ],
+          "longitude": [
+            "-118.33862185478"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Hollywood Bowl\" src=\"https://cleverdevil.io/file/ec2757a28f19ff16e7c9c32af3a76a30\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Mamma Mia!</p>",
+        "value": "The Hollywood Bowl\nMamma Mia!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-hollywood-bowl-1"
+    ],
+    "published": [
+      "2017-07-31T02:06:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside The Hollywood Bowl! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/445c596329494c48d620b73d21bf8b51"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597e907c6eda021b8dbe1205/1bab4bf891429a83296d5ebbc0062d8d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597e907c6eda021b8dbe1205/1bab4bf891429a83296d5ebbc0062d8d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597e907c6eda021b8dbe1205"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0d91045e227000fc7e0b9d3bd4ab8fa5"
+    ]
+  }
+}

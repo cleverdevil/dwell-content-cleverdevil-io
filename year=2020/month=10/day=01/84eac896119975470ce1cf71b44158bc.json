@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/68-smencils"
+    ],
+    "published": [
+      "2020-10-01T15:32:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "84eac896119975470ce1cf71b44158bc"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-01T15:59:27Z",
+      "year": 2020,
+      "month": 10,
+      "day": 1,
+      "hour": 15,
+      "minute": 59,
+      "x": -118.37031359172943,
+      "y": 33.81540255983657,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 68: Smencils \u270f\ufe0f\ud83d\udc43"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1ba6989b25b1a0128077c461ba8a9244/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDZQt7f4"
+        ],
+        "content": [
+          {
+            "html": "<p>We somehow made a podcast out of sniffing 55 scented pencils.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "We somehow made a podcast out of sniffing 55 scented pencils.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

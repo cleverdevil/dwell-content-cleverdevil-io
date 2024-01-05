@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-238-weird-plex-but-okay"
+    ],
+    "published": [
+      "2019-04-11T15:51:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.56\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.56\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.56\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-238-weird-plex-but-okay/annotations/34d02c97770fb51a2481db9fa93ccd36"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-238-weird-plex-but-okay/annotations/34d02c97770fb51a2481db9fa93ccd36"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f5df726ee110229fe27e1a67fa00134a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-11T16:01:43Z",
+      "year": 2019,
+      "month": 4,
+      "day": 11,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.08610100762726,
+      "y": 33.77466063974701,
+      "altitude": 7,
+      "motion": [
+        "driving"
+      ],
+      "speed": 33,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 238: Weird Plex, But Okay"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c71b6ec05bc19b676b6152ea8e0422a3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7xRlIY"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico has discovered something terrible about his childhood, Stephen had an accident and Myke wants a new TV. After all of that is taken care of, the trio talk about a new iPad case that uses the Magic Keyboard and using macOS as an iPad app.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico has discovered something terrible about his childhood, Stephen had an accident and Myke wants a new TV. After all of that is taken care of, the trio talk about a new iPad case that uses the Magic Keyboard and using macOS as an iPad app.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

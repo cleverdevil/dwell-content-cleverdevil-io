@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/423-ultra-wednesday"
+    ],
+    "published": [
+      "2022-09-10T17:28:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "26d589c765fcee16556934ef2028741a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-10T20:05:00Z",
+      "year": 2022,
+      "month": 9,
+      "day": 10,
+      "hour": 20,
+      "minute": 5,
+      "x": -116.4141280868284,
+      "y": 33.74342413705112,
+      "altitude": 76,
+      "motion": [
+        "driving"
+      ],
+      "speed": 22,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 423: Ultra Wednesday"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f521ce65569501596965d9659069fc14/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-Q2Wdk"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has unveiled four new iPhones, new Apple Watches (including the new Apple Watch Ultra), and a new generation of AirPods Pro. Jason reports straight from the event\u2014and still on the Apple Park campus!\u2014as we break down all the details.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Apple has unveiled four new iPhones, new Apple Watches (including the new Apple Watch Ultra), and a new generation of AirPods Pro. Jason reports straight from the event\u2014and still on the Apple Park campus!\u2014as we break down all the details.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

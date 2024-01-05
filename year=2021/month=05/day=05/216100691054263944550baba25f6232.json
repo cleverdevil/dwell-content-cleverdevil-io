@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/undertaking-with-elizabeth-berrington-and-rochelle-neil"
+    ],
+    "published": [
+      "2021-05-05T04:57:41+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "216100691054263944550baba25f6232"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-05T01:41:03Z",
+      "year": 2021,
+      "month": 5,
+      "day": 5,
+      "hour": 1,
+      "minute": 41,
+      "x": -118.35320670916818,
+      "y": 33.81482462288771,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to \u201cUndertaking\u201d with Elizabeth Berrington and Rochelle Neil"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/de196de1f35b3bd2f52e27b391243240/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+speZNUjOw"
+        ],
+        "content": [
+          {
+            "html": "<p>Hosts Barbara Dunkelman and Jessica Vasami dive into episode four of The Nevers: \u201cUndertaking.\u201d They tackle the biggest twists, discuss lingering questions, and talk to special guests Elizabeth Berrington and Rochelle Neil, who play Lucy Best and Bonfire Annie. See omnystudio.com/listener for privacy information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Touch Base: The Official Nevers Podcast</p>",
+            "value": "Hosts Barbara Dunkelman and Jessica Vasami dive into episode four of The Nevers: \u201cUndertaking.\u201d They tackle the biggest twists, discuss lingering questions, and talk to special guests Elizabeth Berrington and Rochelle Neil, who play Lucy Best and Bonfire Annie. See omnystudio.com/listener for privacy information.\nBy The Touch Base: The Official Nevers Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

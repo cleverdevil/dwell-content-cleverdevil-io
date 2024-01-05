@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Boston Logan International Airport (BOS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.366401173572"
+          ],
+          "longitude": [
+            "-71.01787613509"
+          ]
+        },
+        "value": "Boston Logan International Airport (BOS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.366401173572"
+          ],
+          "longitude": [
+            "-71.01787613509"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-boston-logan-international-airport-bos"
+    ],
+    "published": [
+      "2017-05-08T21:26:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "2607 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>2607 miles since last check-in</p>",
+              "value": "2607 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7204db99976ee070672fd7f9850dafd1"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5910e2809cadd95deb060acc/0c5c74cb4479768c2ef4538fb05dd1d5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5910e2809cadd95deb060acc/0c5c74cb4479768c2ef4538fb05dd1d5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5910e2809cadd95deb060acc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "37db837550331104385619b135fa9bb1"
+    ]
+  }
+}

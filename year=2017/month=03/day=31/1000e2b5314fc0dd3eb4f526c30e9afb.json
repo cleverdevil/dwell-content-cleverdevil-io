@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Family time.</p>",
+        "value": "Family time."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance"
+    ],
+    "published": [
+      "2017-03-31T02:10:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a new Mayor in town!"
+          ],
+          "content": [
+            {
+              "html": "<p>There's a new Mayor in town!</p>",
+              "value": "There's a new Mayor in town!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/379b0cddd1810b9515b3161dc77cebd5"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ddba779526bc14e5f6a3e5/59431d234cd87da24e041c1ff69c52b6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ddba779526bc14e5f6a3e5/59431d234cd87da24e041c1ff69c52b6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58ddba779526bc14e5f6a3e5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1000e2b5314fc0dd3eb4f526c30e9afb"
+    ]
+  }
+}

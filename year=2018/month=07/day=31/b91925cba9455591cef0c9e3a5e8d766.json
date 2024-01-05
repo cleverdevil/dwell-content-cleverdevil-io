@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Balboa Bay Resort"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Balboa Bay Resort"
+          ],
+          "latitude": [
+            "33.615596"
+          ],
+          "longitude": [
+            "-117.914567"
+          ]
+        },
+        "value": "Balboa Bay Resort"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Balboa Bay Resort"
+          ],
+          "latitude": [
+            "33.615596"
+          ],
+          "longitude": [
+            "-117.914567"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Work offsite.</p>",
+        "value": "Work offsite."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-balboa-bay-resort"
+    ],
+    "published": [
+      "2018-07-31T22:00:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Balboa Bay Resort!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Balboa Bay Resort!</p>",
+              "value": "Your first check-in at Balboa Bay Resort!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b60dbe3610f04002c56aec4/6a78effdffbbc2d9fe4ec5a6b6bdb2b5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b60dbe3610f04002c56aec4/6a78effdffbbc2d9fe4ec5a6b6bdb2b5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b60dbe3610f04002c56aec4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b91925cba9455591cef0c9e3a5e8d766"
+    ]
+  }
+}

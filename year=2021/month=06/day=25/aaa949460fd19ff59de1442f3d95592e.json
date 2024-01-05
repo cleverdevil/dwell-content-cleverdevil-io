@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/436-eddy-cue-shows-up-at-your-door"
+    ],
+    "published": [
+      "2021-06-25T07:27:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "aaa949460fd19ff59de1442f3d95592e"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-16T19:09:35Z",
+      "year": 2021,
+      "month": 6,
+      "day": 16,
+      "hour": 19,
+      "minute": 9,
+      "x": -118.34425734915304,
+      "y": 33.841427209628975,
+      "altitude": 28,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.9399999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 436: Eddy Cue Shows Up at Your Door"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/16bc8ab437a60a3cb4eeafb16202a079/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIwyPD4"
+        ],
+        "content": [
+          {
+            "html": "<p>More WWDC tidbits, John\u2019s lucrative App Store career, Sega VR, and the risks of sideloading on iOS.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "More WWDC tidbits, John\u2019s lucrative App Store career, Sega VR, and the risks of sideloading on iOS.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

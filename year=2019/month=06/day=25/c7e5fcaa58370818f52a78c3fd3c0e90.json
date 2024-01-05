@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-251-and-then-you-eat-the-ice-cream"
+    ],
+    "published": [
+      "2019-06-25T07:06:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 61.17\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 61.17\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 61.17\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-251-and-then-you-eat-the-ice-cream/annotations/2f3743454f4dbc25c641b989f7aeddd6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-251-and-then-you-eat-the-ice-cream/annotations/2f3743454f4dbc25c641b989f7aeddd6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c7e5fcaa58370818f52a78c3fd3c0e90"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-25T06:57:57Z",
+      "year": 2019,
+      "month": 6,
+      "day": 25,
+      "hour": 6,
+      "minute": 57,
+      "x": -118.3705776177303,
+      "y": 33.81526699057152,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 251: And Then You Eat the Ice Cream"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e36a30048905befab057f5500c240227/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9yXCGQ"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s Public Beta time! This week we get Jason\u2019s review of the macOS Catalina beta. Also Upstream returns (half a billion for JJ Abrams?) and Myke at the Movies calls on \u201cKiki\u2019s Delivery Service.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s Public Beta time! This week we get Jason\u2019s review of the macOS Catalina beta. Also Upstream returns (half a billion for JJ Abrams?) and Myke at the Movies calls on \u201cKiki\u2019s Delivery Service.\u201d\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

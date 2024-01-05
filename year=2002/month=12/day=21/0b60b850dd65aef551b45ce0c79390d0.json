@@ -1,0 +1,48 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Pictures!"
+    ],
+    "content": [
+      {
+        "html": "<p>Well, would you look at this... it appears that I have image support.  I am going to check this out right now, by placing a simple popup image: <a href=\"http://www.skinnee.net/images/mesuit.html\">View image</a>.</p><p>So, now it appears that I need to install ImageMagick or NetPBM with perl support to get thumbnails working automagically... this could be interesting.</p>",
+        "value": "Well, would you look at this... it appears that I have image support. I am going to check this out right now, by placing a simple popup image: View image.\nSo, now it appears that I need to install ImageMagick or NetPBM with perl support to get thumbnails working automagically... this could be interesting."
+      }
+    ],
+    "url": [
+      "/2002/pictures"
+    ],
+    "published": [
+      "2002-12-21T02:03:00+0000"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "0b60b850dd65aef551b45ce0c79390d0"
+    ]
+  }
+}

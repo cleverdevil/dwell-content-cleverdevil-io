@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hilton"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hilton"
+          ],
+          "latitude": [
+            "30.2654213"
+          ],
+          "longitude": [
+            "-97.7386541"
+          ]
+        },
+        "value": "Hilton"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hilton"
+          ],
+          "latitude": [
+            "30.2654213"
+          ],
+          "longitude": [
+            "-97.7386541"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-hilton"
+    ],
+    "published": [
+      "2021-11-17T07:03:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Hilton!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Hilton!</p>",
+              "value": "Your first check-in at Hilton!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6194a92ffc40d853b18f472f/4b131c822b12550c246aaf1c514aa18d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6194a92ffc40d853b18f472f/4b131c822b12550c246aaf1c514aa18d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6194a92ffc40d853b18f472f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d8fd3a419776a0804bbb377813ede9ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-17T07:00:09Z",
+      "year": 2021,
+      "month": 11,
+      "day": 17,
+      "hour": 7,
+      "minute": 0,
+      "x": -97.73820675546716,
+      "y": 30.265440324690996,
+      "altitude": 188,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

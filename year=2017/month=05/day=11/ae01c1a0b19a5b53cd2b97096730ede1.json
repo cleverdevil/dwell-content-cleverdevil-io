@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Yvonne's Supper Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yvonne's Supper Club"
+          ],
+          "latitude": [
+            "42.355582740221"
+          ],
+          "longitude": [
+            "-71.061396896839"
+          ]
+        },
+        "value": "Yvonne's Supper Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yvonne's Supper Club"
+          ],
+          "latitude": [
+            "42.355582740221"
+          ],
+          "longitude": [
+            "-71.061396896839"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-yvonnes-supper-club"
+    ],
+    "published": [
+      "2017-05-11T03:33:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Downtown Boston."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Downtown Boston.</p>",
+              "value": "First check-in in Downtown Boston."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/02e82789a3870b6f41f802fafff299c0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5913db7b35f983509700b812/386f801c83781e4229d86009b0e96551"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5913db7b35f983509700b812/386f801c83781e4229d86009b0e96551"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5913db7b35f983509700b812"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ae01c1a0b19a5b53cd2b97096730ede1"
+    ]
+  }
+}

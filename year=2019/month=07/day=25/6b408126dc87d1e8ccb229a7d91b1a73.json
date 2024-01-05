@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Forged in Fire 6x22 \"The Lochaber Axe\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/31a7d61f281746f391da7a7f8659f62c/thumb.jpg"
+          ],
+          "name": [
+            "Forged in Fire 6x22 \"The Lochaber Axe\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3627535"
+          ]
+        },
+        "value": "Forged in Fire 6x22 \"The Lochaber Axe\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Forged in Fire 6x22 \"The Lochaber Axe\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Forged in Fire 6x22 \"The Lochaber Axe\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/forged-in-fire-6x22-the-lochaber-axe"
+    ],
+    "published": [
+      "2019-07-25T06:05:08+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.37\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.37\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.37\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/forged-in-fire-6x22-the-lochaber-axe/annotations/53d9779fa25e2e361cc8380a104bcb39"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/forged-in-fire-6x22-the-lochaber-axe/annotations/53d9779fa25e2e361cc8380a104bcb39"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "6b408126dc87d1e8ccb229a7d91b1a73"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-25T06:00:05Z",
+      "year": 2019,
+      "month": 7,
+      "day": 25,
+      "hour": 6,
+      "minute": 0,
+      "x": -118.37030509624198,
+      "y": 33.815482303591914,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.41999998688697815,
+      "wifi": "LaCour"
+    }
+  }
+}

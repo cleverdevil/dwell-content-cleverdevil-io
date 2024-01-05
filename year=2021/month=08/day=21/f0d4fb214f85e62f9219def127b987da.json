@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/443-a-storm-of-asterisks"
+    ],
+    "published": [
+      "2021-08-21T17:16:10+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f0d4fb214f85e62f9219def127b987da"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-08-21T19:36:53Z",
+      "year": 2021,
+      "month": 8,
+      "day": 21,
+      "hour": 19,
+      "minute": 36,
+      "x": -118.37030033804126,
+      "y": 33.81545234496902,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6700000166893005,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 443: A Storm of Asterisks"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ecb05c684eef945dde1769ea9fed08d3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUK7jCB0"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s controversial new child-safety features.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s controversial new child-safety features.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

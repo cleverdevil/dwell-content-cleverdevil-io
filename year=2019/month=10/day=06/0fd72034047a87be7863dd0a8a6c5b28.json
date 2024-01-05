@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Bob's Burgers 10x01 \"The Ring (But Not Scary)\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/27c2bb24c9c8b4a1333a450c8824438d/thumb.jpg"
+          ],
+          "name": [
+            "Bob's Burgers 10x01 \"The Ring (But Not Scary)\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3591988"
+          ]
+        },
+        "value": "Bob's Burgers 10x01 \"The Ring (But Not Scary)\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bob\u2019s plan to surprise Linda for their anniversary gets tricky when the kids become involved.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Bob\u2019s plan to surprise Linda for their anniversary gets tricky when the kids become involved.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/bobs-burgers-10x01-the-ring-but-not-scary"
+    ],
+    "published": [
+      "2019-10-06T05:35:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.15\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.15\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.15\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/bobs-burgers-10x01-the-ring-but-not-scary/annotations/48f79cfb28f0df7f54e08f270d9dd4ed"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/bobs-burgers-10x01-the-ring-but-not-scary/annotations/48f79cfb28f0df7f54e08f270d9dd4ed"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "0fd72034047a87be7863dd0a8a6c5b28"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-06T05:32:43Z",
+      "year": 2019,
+      "month": 10,
+      "day": 6,
+      "hour": 5,
+      "minute": 32,
+      "x": -118.37031453820892,
+      "y": 33.81543552536277,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": "LaCour"
+    }
+  }
+}

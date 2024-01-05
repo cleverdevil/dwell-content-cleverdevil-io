@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into TAO Asian Bistro"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TAO Asian Bistro"
+          ],
+          "latitude": [
+            "36.122415530874"
+          ],
+          "longitude": [
+            "-115.17105102539"
+          ]
+        },
+        "value": "TAO Asian Bistro"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TAO Asian Bistro"
+          ],
+          "latitude": [
+            "36.122415530874"
+          ],
+          "longitude": [
+            "-115.17105102539"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-tao-asian-bistro"
+    ],
+    "published": [
+      "2018-11-27T05:42:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at TAO Asian Bistro!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at TAO Asian Bistro!</p>",
+              "value": "Your first check-in at TAO Asian Bistro!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bfcd932febf31002c438949/b448c912fb3e5b7a3cf26c3ea2dbea9d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bfcd932febf31002c438949/b448c912fb3e5b7a3cf26c3ea2dbea9d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bfcd932febf31002c438949"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8a947c59cab5bc19bcdca7436d9fab84"
+    ]
+  }
+}

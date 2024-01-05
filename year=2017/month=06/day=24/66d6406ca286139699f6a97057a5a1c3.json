@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mozilla Portland"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": "Mozilla Portland"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mozilla Portland"
+          ],
+          "latitude": [
+            "45.523257603944"
+          ],
+          "longitude": [
+            "-122.68237289449"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IndieWeb Summit 2017!</p>",
+        "value": "IndieWeb Summit 2017!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-mozilla-portland"
+    ],
+    "published": [
+      "2017-06-24T16:03:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Mozilla Portland."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Mozilla Portland.</p>",
+              "value": "First check-in at Mozilla Portland."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a81d40dfe0b3a17e598f32c8bd23bbe0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594e8d588a6f1763030a52f4/6b1da32f9a25e2b979648ff53f558ff2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594e8d588a6f1763030a52f4/6b1da32f9a25e2b979648ff53f558ff2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594e8d588a6f1763030a52f4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "66d6406ca286139699f6a97057a5a1c3"
+    ]
+  }
+}

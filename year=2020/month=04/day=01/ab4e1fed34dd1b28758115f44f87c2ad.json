@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://www.manton.org/2020/03/31/day-one-and.html"
+    ],
+    "name": [
+      "@manton I actually moved off of Day One a few years ago and migrated all of the content to my site via micropub, with private entries. I now journal in Drafts, and publish to my site via micropub. I'd love to see a micropub client purpose built for journaling, or support added to Day One! Would be awesome if it were built on standards so I could use it for my journaling again :)"
+    ],
+    "content": [
+      {
+        "html": "@manton I actually moved off of Day One a few years ago and migrated all of the content to my site via micropub, with private entries. I now journal in Drafts, and publish to my site via micropub. I'd love to see a micropub client purpose built for journaling, or support added to Day One! Would be awesome if it were built on standards so I could use it for my journaling again :)",
+        "value": "@manton I actually moved off of Day One a few years ago and migrated all of the content to my site via micropub, with private entries. I now journal in Drafts, and publish to my site via micropub. I'd love to see a micropub client purpose built for journaling, or support added to Day One! Would be awesome if it were built on standards so I could use it for my journaling again :)"
+      }
+    ],
+    "url": [
+      "/2020/manton-i-actually-moved-off-of-day"
+    ],
+    "published": [
+      "2020-04-01T00:23:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.45\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.45\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.45\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/manton-i-actually-moved-off-of-day/annotations/96d4e46af78f2cea23314972c93c34de"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/manton-i-actually-moved-off-of-day/annotations/96d4e46af78f2cea23314972c93c34de"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "ab4e1fed34dd1b28758115f44f87c2ad"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-31T23:40:21Z",
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "hour": 23,
+      "minute": 40,
+      "x": -118.3703800594903,
+      "y": 33.81542865576884,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

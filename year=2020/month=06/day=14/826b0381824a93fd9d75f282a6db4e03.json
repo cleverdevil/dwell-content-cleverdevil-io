@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/382-static-ad-removal"
+    ],
+    "published": [
+      "2020-06-14T20:05:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.71\u00b0F and 66% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.71\u00b0F and 66% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.71\u00b0F and 66% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/382-static-ad-removal/annotations/2c0a0b2748e987896a9f035f3bf5aba6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/382-static-ad-removal/annotations/2c0a0b2748e987896a9f035f3bf5aba6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "826b0381824a93fd9d75f282a6db4e03"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-06-14T23:58:25Z",
+      "year": 2020,
+      "month": 6,
+      "day": 14,
+      "hour": 23,
+      "minute": 58,
+      "x": -118.36858957366802,
+      "y": 33.81395524567419,
+      "altitude": 29,
+      "motion": [
+        "driving"
+      ],
+      "speed": 3,
+      "battery_state": "charging",
+      "battery_level": 0.6299999952316284,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 382: Static Ad Removal"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8fbc4f490f259e2495698f3669c89761/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKApIKk"
+        ],
+        "content": [
+          {
+            "html": "<p>Reactions to last week\u2019s show, the latest ARM rumblings, and the technical road to our new membership program.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Reactions to last week\u2019s show, the latest ARM rumblings, and the technical road to our new membership program.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

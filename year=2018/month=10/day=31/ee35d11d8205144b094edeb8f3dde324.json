@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "For those of you that have been asking, #Indiepaper for iOS is on the way, thanks to @EddieHinkle. Soon, you\u2019ll be able to save content for later using #Micropub natively on iOS. We are just waiting on Apple! #IndieWeb"
+    ],
+    "content": [
+      {
+        "html": "For those of you that have been asking, <a class=\"p-category\" href=\"/tag/Indiepaper\" rel=\"tag\">#Indiepaper</a> for iOS is on the way, thanks to @EddieHinkle. Soon, you\u2019ll be able to save content for later using <a class=\"p-category\" href=\"/tag/Micropub\" rel=\"tag\">#Micropub</a> natively on iOS. We are just waiting on Apple! <a class=\"p-category\" href=\"/tag/IndieWeb\" rel=\"tag\">#IndieWeb</a>",
+        "value": "For those of you that have been asking, #Indiepaper for iOS is on the way, thanks to @EddieHinkle. Soon, you\u2019ll be able to save content for later using #Micropub natively on iOS. We are just waiting on Apple! #IndieWeb"
+      }
+    ],
+    "category": [
+      "#Indiepaper",
+      "#Micropub",
+      "#IndieWeb"
+    ],
+    "url": [
+      "/2018/for-those-of-you-that-have-been"
+    ],
+    "published": [
+      "2018-10-31T03:21:17+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil \ud83d\ude31\ud83d\ude0d"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil \ud83d\ude31\ud83d\ude0d</p>",
+              "value": "@cleverdevil \ud83d\ude31\ud83d\ude0d"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NyYWlnbWNjbGVsbGFuL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "craigmcclellan"
+                ],
+                "url": [
+                  "https://micro.blog/craigmcclellan"
+                ]
+              },
+              "value": "craigmcclellan"
+            }
+          ],
+          "url": [
+            "https://micro.blog/craigmcclellan/997677"
+          ]
+        },
+        "value": "https://micro.blog/craigmcclellan/997677"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1057472556767371264"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ee35d11d8205144b094edeb8f3dde324"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1057472556767371264?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1057472556767371264%2F1343505890"
+          ],
+          "published": [
+            "2018-11-05T21:33:42+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Amanda J. Rush"
+                ],
+                "url": [
+                  "https://twitter.com/cswordpress"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgwOTE5Nzc1NjI3NTM2NzkzNi9WOWxpYURVWi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgwOTE5Nzc1NjI3NTM2NzkzNi9WOWxpYURVWi5qcGc,/300/square Amanda J. Rush"
+            }
+          ]
+        },
+        "value": "Amanda J. Rush"
+      }
+    ]
+  }
+}

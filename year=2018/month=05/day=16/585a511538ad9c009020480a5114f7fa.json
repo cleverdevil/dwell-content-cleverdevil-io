@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/episode-5-more-than-public"
+    ],
+    "published": [
+      "2018-05-16T17:53:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "585a511538ad9c009020480a5114f7fa"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 5: More than Public"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3f02f7e3a2831278ab4b5e6527a5cf41/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+MvWTM6VgM"
+        ],
+        "content": [
+          {
+            "html": "<p>In this episode, I consider the possibilities for personal websites in the wake of the recent \u201cDay One\u201d outage and privacy snafu. Can personal websites be more than just places for public sharing? Can open standards like Micropub help push app developers to create awesome experiences?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  clevercast</p>",
+            "value": "In this episode, I consider the possibilities for personal websites in the wake of the recent \u201cDay One\u201d outage and privacy snafu. Can personal websites be more than just places for public sharing? Can open standards like Micropub help push app developers to create awesome experiences?\nBy clevercast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

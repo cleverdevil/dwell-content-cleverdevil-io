@@ -1,0 +1,421 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Cord-Cutting Experiments: Part 1"
+    ],
+    "content": [
+      {
+        "html": "<p>Giving hundreds of dollars a month to AT&amp;T / DirecTV has been on my list of expenses to shave for years, now. The kids mostly watch shows from Netflix or my family <a href=\"http://plex.tv\">Plex</a>\u00a0server, and occasionally will want to watch Disney Channel. Lacey doesn't\u00a0watch much TV anymore, but when she does,\u00a0its largely shows on the national broadcast networks. That's pretty true for me, as well, but I have two main vices that I can't shake: sports and HBO.</p><p><img alt=\"HDHomeRun Logo\" class=\"left\" height=\"163\" src=\"https://cleverdevil.io/file/9240517134094e1664d3a2a216ecabae\" width=\"453\"/></p><p>I've decided to\u00a0experiment with cutting the cord, starting with the option that has the lowest ongoing cost: over the air programming. Thankfully, my aforementioned Plex server supports <a href=\"https://www.plex.tv/features/live-tv-dvr/\">Live TV and DVR functionality</a>\u00a0through the use of a network-connected tuner and an antenna. I purchased an inexpensive <a href=\"https://www.silicondust.com/product/hdhomerun-connect/\">HDHomeRun Connect</a>\u00a0tuner off of eBay for about $75, and bought a $10 antenna from Amazon, the <a href=\"https://www.amazon.com/dp/B00MNQGWK6/\">Channel Master Flatenna</a>, which was the <a href=\"http://thewirecutter.com/reviews/best-indoor-hdtv-antenna/\">recommended \"cheap\" antenna from the Wirecutter</a>. Here are my quick takeaways so far:</p><p>The HDHomeRun is great. It was easy to set up, is compact, and responsive. The client application for macOS is barebones, but works really well. I recommend it without hesitation, especially at the price. Just make sure to get a good antenna.</p><p>That brings me to the cheap antenna I bought. How'd it go? Well, you get what you pay for. It picked up some channels, but completely failed to pull in ABC and Fox. After spending far too much time moving the antenna around the house trying to get it to work, I broke down and did what I should have done from the beginning, and bought the more expensive, amplified antenna recommendation from the Wirecutter, <a href=\"https://www.amazon.com/dp/B01HQ4BRIG/\">the ClearStream Eclipse from Antennas Direct</a>. Now, I pull in every available channel with a strong, reliable signal.</p><p><img alt=\"Plex Logo\" class=\"right\" height=\"173\" src=\"https://cleverdevil.io/file/35adb9412e76dc23f78aadac7ad6b1d4/thumb.png\" width=\"443\"/></p><p>Plex Live TV and DVR shows a lot of promise, but also needs a lot of work. Live TV and DVR are only supported in a few of their client apps right now. Sadly, support doesn't yet exist in Fire TV or Plex Media Player, both of which we use in our house. The Apple TV support is pretty good, as is the iOS client. The user experience is a mixed bag, as well, with Plex choosing to eschew the traditional \"grid\" approach to presenting live TV content, instead breaking things down to a more Netflix-like experience. I see what they're trying to do, and it sort of works, but frankly they need a grid guide in addition to the more Netflix-like experience. Overall, its fine, not amazing, but I'm optimistic that it will continue to evolve.</p><p>With the addition of an Apple TV or two, I think this solution will work well enough to cut the cord, at least for local broadcast content. Apple is rumored to be releasing an updated Apple TV with 4K support, which would work great for us in our great room, where we currently use a Fire TV for our 4K TV. Its entirely possible that Apple will also still offer a 1080p version for cheaper, which we could then place into our home theater, which uses a 1080p native projector.</p><p>I'm going to continue tinkering with this setup for the next week or two, and then I will be exploring a solutuion for the rest of our content \u2013 sports and HBO. I've chosen <a href=\"https://www.sling.com\">Sling TV</a>\u00a0as the first service to test. That'll be part two, so keep your eye out for my post on that in a few weeks.</p><p>\u00a0</p>",
+        "value": "Giving hundreds of dollars a month to AT&T / DirecTV has been on my list of expenses to shave for years, now. The kids mostly watch shows from Netflix or my family Plex\u00a0server, and occasionally will want to watch Disney Channel. Lacey doesn't\u00a0watch much TV anymore, but when she does,\u00a0its largely shows on the national broadcast networks. That's pretty true for me, as well, but I have two main vices that I can't shake: sports and HBO.\nHDHomeRun Logo\nI've decided to\u00a0experiment with cutting the cord, starting with the option that has the lowest ongoing cost: over the air programming. Thankfully, my aforementioned Plex server supports Live TV and DVR functionality\u00a0through the use of a network-connected tuner and an antenna. I purchased an inexpensive HDHomeRun Connect\u00a0tuner off of eBay for about $75, and bought a $10 antenna from Amazon, the Channel Master Flatenna, which was the recommended \"cheap\" antenna from the Wirecutter. Here are my quick takeaways so far:\nThe HDHomeRun is great. It was easy to set up, is compact, and responsive. The client application for macOS is barebones, but works really well. I recommend it without hesitation, especially at the price. Just make sure to get a good antenna.\nThat brings me to the cheap antenna I bought. How'd it go? Well, you get what you pay for. It picked up some channels, but completely failed to pull in ABC and Fox. After spending far too much time moving the antenna around the house trying to get it to work, I broke down and did what I should have done from the beginning, and bought the more expensive, amplified antenna recommendation from the Wirecutter, the ClearStream Eclipse from Antennas Direct. Now, I pull in every available channel with a strong, reliable signal.\nPlex Logo\nPlex Live TV and DVR shows a lot of promise, but also needs a lot of work. Live TV and DVR are only supported in a few of their client apps right now. Sadly, support doesn't yet exist in Fire TV or Plex Media Player, both of which we use in our house. The Apple TV support is pretty good, as is the iOS client. The user experience is a mixed bag, as well, with Plex choosing to eschew the traditional \"grid\" approach to presenting live TV content, instead breaking things down to a more Netflix-like experience. I see what they're trying to do, and it sort of works, but frankly they need a grid guide in addition to the more Netflix-like experience. Overall, its fine, not amazing, but I'm optimistic that it will continue to evolve.\nWith the addition of an Apple TV or two, I think this solution will work well enough to cut the cord, at least for local broadcast content. Apple is rumored to be releasing an updated Apple TV with 4K support, which would work great for us in our great room, where we currently use a Fire TV for our 4K TV. Its entirely possible that Apple will also still offer a 1080p version for cheaper, which we could then place into our home theater, which uses a 1080p native projector.\nI'm going to continue tinkering with this setup for the next week or two, and then I will be exploring a solutuion for the rest of our content \u2013 sports and HBO. I've chosen Sling TV\u00a0as the first service to test. That'll be part two, so keep your eye out for my post on that in a few weeks."
+      }
+    ],
+    "url": [
+      "/2017/cord-cutting-experiments-part-1"
+    ],
+    "published": [
+      "2017-09-04T19:35:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Who's your isp?"
+          ],
+          "content": [
+            {
+              "html": "<p>Who's your isp?</p>",
+              "value": "Who's your isp?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/863bd731b901a200293ab3ac5e8d8a89/thumb.jpg"
+                ],
+                "name": [
+                  "Eric Southard"
+                ],
+                "url": [
+                  "https://twitter.com/esouthard"
+                ]
+              },
+              "value": "Eric Southard"
+            }
+          ],
+          "url": [
+            "https://twitter.com/esouthard/status/904791629269229568"
+          ]
+        },
+        "value": "https://twitter.com/esouthard/status/904791629269229568"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Spectrum (Time Warner Cable)."
+          ],
+          "content": [
+            {
+              "html": "<p>Spectrum (Time Warner Cable).</p>",
+              "value": "Spectrum (Time Warner Cable)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f7dd3f9a1ce63685d4b3653cc768cb2a/thumb.jpg"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/904791859859415040"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/904791859859415040"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Interesting - we have u v e r s e and they only give uncapped data if you also have d i r e c t v or their tv service"
+          ],
+          "content": [
+            {
+              "html": "<p>Interesting - we have u v e r s e and they only give uncapped data if you also have d i r e c t v or their tv service</p>",
+              "value": "Interesting - we have u v e r s e and they only give uncapped data if you also have d i r e c t v or their tv service"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f822bd44d6dc148334945aea7b815978/thumb.jpg"
+                ],
+                "name": [
+                  "Eric Southard"
+                ],
+                "url": [
+                  "https://twitter.com/esouthard"
+                ]
+              },
+              "value": "Eric Southard"
+            }
+          ],
+          "url": [
+            "https://twitter.com/esouthard/status/904792878056169472"
+          ]
+        },
+        "value": "https://twitter.com/esouthard/status/904792878056169472"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It's kind of a roadblock to cordcutting, as it's intended to be"
+          ],
+          "content": [
+            {
+              "html": "<p>It's kind of a roadblock to cordcutting, as it's intended to be</p>",
+              "value": "It's kind of a roadblock to cordcutting, as it's intended to be"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/47a15be454c6e9af5cc3b28f427cc7af/thumb.jpg"
+                ],
+                "name": [
+                  "Eric Southard"
+                ],
+                "url": [
+                  "https://twitter.com/esouthard"
+                ]
+              },
+              "value": "Eric Southard"
+            }
+          ],
+          "url": [
+            "https://twitter.com/esouthard/status/904793021954260992"
+          ]
+        },
+        "value": "https://twitter.com/esouthard/status/904793021954260992"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I've actually been pretty pleased with my ISP. No cap. 300 Mbps downstream. Reliable. Inexpensive."
+          ],
+          "content": [
+            {
+              "html": "<p>I've actually been pretty pleased with my ISP. No cap. 300 Mbps downstream. Reliable. Inexpensive.</p>",
+              "value": "I've actually been pretty pleased with my ISP. No cap. 300 Mbps downstream. Reliable. Inexpensive."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/fea5214549421dc4445a1ae4edb5bfd9/thumb.jpg"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/904793081299427329"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/904793081299427329"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Thanks! This is super helpful, looking forward to updates!"
+          ],
+          "content": [
+            {
+              "html": "<p>Thanks! This is super helpful, looking forward to updates!</p>",
+              "value": "Thanks! This is super helpful, looking forward to updates!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7cb1388f417ef80df436f28910db5e65/thumb.jpg"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://eddiehinkle.com/2017/09/04/8/reply/"
+          ]
+        },
+        "value": "https://eddiehinkle.com/2017/09/04/8/reply/"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/904790538829930498"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "a0669297195fd12742c12c5690aae9d3"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/904790538829930498?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F904790538829930498%2F1025598943"
+          ],
+          "published": [
+            "2017-09-04T20:59:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Dadbod Billionaire"
+                ],
+                "url": [
+                  "https://twitter.com/DreamHostBrett"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/cdf44df3893a07d4a74b24e798e18b47/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/cdf44df3893a07d4a74b24e798e18b47/thumb.jpg Dadbod Billionaire"
+            }
+          ]
+        },
+        "value": "Dadbod Billionaire"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2017/09/04/7/like/"
+          ],
+          "published": [
+            "2017-09-05T01:42:54+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/0c85e564fbdf594ec16b5a401ca86373/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/0c85e564fbdf594ec16b5a401ca86373/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/904790538829930498?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F904790538829930498%2F308803734"
+          ],
+          "published": [
+            "2017-09-05T01:52:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d0df1f5ba14462d0aa193226fbbf9f97/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d0df1f5ba14462d0aa193226fbbf9f97/thumb.jpg Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/904790538829930498?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F904790538829930498%2F3153177420"
+          ],
+          "published": [
+            "2017-09-07T14:14:04+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Edwin Abundis"
+                ],
+                "url": [
+                  "https://twitter.com/er_abundis"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc1MTY1MTUyMTY5MTk0NzAwOC9ZOU9SQ0N2eC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc1MTY1MTUyMTY5MTk0NzAwOC9ZOU9SQ0N2eC5qcGc,/300/square Edwin Abundis"
+            }
+          ]
+        },
+        "value": "Edwin Abundis"
+      }
+    ]
+  }
+}

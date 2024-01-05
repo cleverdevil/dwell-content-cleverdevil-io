@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Le Smiley"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Le Smiley"
+          ],
+          "latitude": [
+            "48.87946194837"
+          ],
+          "longitude": [
+            "2.3399256264525"
+          ]
+        },
+        "value": "Le Smiley"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Le Smiley"
+          ],
+          "latitude": [
+            "48.87946194837"
+          ],
+          "longitude": [
+            "2.3399256264525"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Quick drink before heading toward the Eiffel Tower for dinner and sunset.</p>",
+        "value": "Quick drink before heading toward the Eiffel Tower for dinner and sunset."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-le-smiley"
+    ],
+    "published": [
+      "2017-06-18T18:24:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Le Smiley!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Le Smiley!</p>",
+              "value": "Your first check-in at Le Smiley!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4f29143aa6504ec359bf8aa66d609fe9"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5946c531dd844216b3487168/bfb73e582696e6e9f180502c07d72b6c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5946c531dd844216b3487168/bfb73e582696e6e9f180502c07d72b6c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2cba2c54d27f15038155607c0493cf6c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5946c531dd844216b3487168/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5946c531dd844216b3487168/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5946c531dd844216b3487168"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6286af431ddd1fafed4e6fade08e435a"
+    ]
+  }
+}

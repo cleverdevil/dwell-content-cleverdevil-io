@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/404-the-non"
+    ],
+    "published": [
+      "2022-06-29T07:56:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "79097ffea5412e70d5f0451b6679e94a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-29T08:04:37Z",
+      "year": 2022,
+      "month": 6,
+      "day": 29,
+      "hour": 8,
+      "minute": 4,
+      "x": -73.97859012855965,
+      "y": 40.76480176914439,
+      "altitude": 68,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 404: The Non"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4eaedc3bfed867e1a2fdea067cd42c97/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5XKMoQ"
+        ],
+        "content": [
+          {
+            "html": "<p>After handling some haunting follow-up, Myke, Federico and Stephen rank every iPhone ever.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "After handling some haunting follow-up, Myke, Federico and Stephen rank every iPhone ever.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

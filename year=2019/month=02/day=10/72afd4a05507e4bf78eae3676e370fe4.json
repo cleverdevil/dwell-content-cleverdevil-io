@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Schitt's Creek 1x02 \"The Drip\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/f6e4291bd44b68170f0815449c3a1e22/thumb.jpg"
+          ],
+          "name": [
+            "Schitt's Creek 1x02 \"The Drip\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/1335668"
+          ]
+        },
+        "value": "Schitt's Creek 1x02 \"The Drip\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Johnny must get permission to sell the town from its Mayor, Roland Schitt. David and Alexis spend a night out with the locals.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Johnny must get permission to sell the town from its Mayor, Roland Schitt. David and Alexis spend a night out with the locals.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/schitts-creek-1x02-the-drip"
+    ],
+    "published": [
+      "2019-02-10T07:00:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.13\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.13\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 50.13\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/schitts-creek-1x02-the-drip/annotations/f78475e46ce0e5a9834e8ec584d4d0ed"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/schitts-creek-1x02-the-drip/annotations/f78475e46ce0e5a9834e8ec584d4d0ed"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "72afd4a05507e4bf78eae3676e370fe4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-10T06:58:49Z",
+      "year": 2019,
+      "month": 2,
+      "day": 10,
+      "hour": 6,
+      "minute": 58,
+      "x": -118.37032729554157,
+      "y": 33.81543139560246,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6299999952316284,
+      "wifi": "LaCour"
+    }
+  }
+}

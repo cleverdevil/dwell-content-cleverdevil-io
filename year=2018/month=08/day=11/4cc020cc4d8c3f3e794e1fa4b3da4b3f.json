@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Good Stuff Restaurant"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.77212495374"
+          ],
+          "longitude": [
+            "-118.37384306313"
+          ]
+        },
+        "value": "Good Stuff Restaurant"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.77212495374"
+          ],
+          "longitude": [
+            "-118.37384306313"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-good-stuff-restaurant-4"
+    ],
+    "published": [
+      "2018-08-11T17:44:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It's been 2 months since you've checked in to Good Stuff Restaurant."
+          ],
+          "content": [
+            {
+              "html": "<p>It's been 2 months since you've checked in to Good Stuff Restaurant.</p>",
+              "value": "It's been 2 months since you've checked in to Good Stuff Restaurant."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b6f20704c30be00319eda0d/6606f608a880a38fbe0c15bb7da89f34"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b6f20704c30be00319eda0d/6606f608a880a38fbe0c15bb7da89f34"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b6f20704c30be00319eda0d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4cc020cc4d8c3f3e794e1fa4b3da4b3f"
+    ]
+  }
+}

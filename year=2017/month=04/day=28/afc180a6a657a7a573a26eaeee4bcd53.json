@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sea Beans"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sea Beans"
+          ],
+          "latitude": [
+            "33.738684525941"
+          ],
+          "longitude": [
+            "-118.39784560866"
+          ]
+        },
+        "value": "Sea Beans"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sea Beans"
+          ],
+          "latitude": [
+            "33.738684525941"
+          ],
+          "longitude": [
+            "-118.39784560866"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sea-beans"
+    ],
+    "published": [
+      "2017-04-28T15:33:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 50 check-ins at Coffee Shops!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 50 check-ins at Coffee Shops!</p>",
+              "value": "Wow! That's 50 check-ins at Coffee Shops!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3d212fd0f20c428f11c1ae4959021d9f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590360d38ad62e0a5b9599ba/3cdb1dfc847b1e475808d6c1453eb3a4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590360d38ad62e0a5b9599ba/3cdb1dfc847b1e475808d6c1453eb3a4"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Sea Beans."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Sea Beans.</p>",
+              "value": "First check-in at Sea Beans."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/852a068ba16bd4b6b375dfba87eef21c"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/590360d38ad62e0a5b9599ba/7b7d4578ebde780e586126b3de7a173d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/590360d38ad62e0a5b9599ba/7b7d4578ebde780e586126b3de7a173d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/590360d38ad62e0a5b9599ba"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "afc180a6a657a7a573a26eaeee4bcd53"
+    ]
+  }
+}

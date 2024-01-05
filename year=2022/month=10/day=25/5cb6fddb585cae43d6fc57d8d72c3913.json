@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/505-a-mental-laxative"
+    ],
+    "published": [
+      "2022-10-25T06:45:05+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5cb6fddb585cae43d6fc57d8d72c3913"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-25T00:58:28Z",
+      "year": 2022,
+      "month": 10,
+      "day": 25,
+      "hour": 0,
+      "minute": 58,
+      "x": -97.74647129054632,
+      "y": 30.264992133468606,
+      "altitude": 146,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 505: A Mental Laxative"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fe722ffa1b2a4c34abc950e2020564c6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULxODxk"
+        ],
+        "content": [
+          {
+            "html": "<p>New iPad! Well, it\u2019s the iPad, but not the iPad, which is still in the lineup at the same price. There\u2019s also a new Apple TV, with which you can use the TV app to watch TV or Apple TV+ on your TV.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "New iPad! Well, it\u2019s the iPad, but not the iPad, which is still in the lineup at the same price. There\u2019s also a new Apple TV, with which you can use the TV app to watch TV or Apple TV+ on your TV.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

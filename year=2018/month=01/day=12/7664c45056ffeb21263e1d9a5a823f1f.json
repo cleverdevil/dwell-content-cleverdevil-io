@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Wilshire Ebell Theatre"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Wilshire Ebell Theatre"
+          ],
+          "latitude": [
+            "34.060596048331"
+          ],
+          "longitude": [
+            "-118.32506955995"
+          ]
+        },
+        "value": "Wilshire Ebell Theatre"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Wilshire Ebell Theatre"
+          ],
+          "latitude": [
+            "34.060596048331"
+          ],
+          "longitude": [
+            "-118.32506955995"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-wilshire-ebell-theatre"
+    ],
+    "published": [
+      "2018-01-12T03:31:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Concert Hall check-in in 6 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Concert Hall check-in in 6 months!</p>",
+              "value": "First Concert Hall check-in in 6 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a582c0962420b1ebf87feaa/e445938e5517e9e5a5a9988786c17309"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a582c0962420b1ebf87feaa/e445938e5517e9e5a5a9988786c17309"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a582c0962420b1ebf87feaa"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7664c45056ffeb21263e1d9a5a823f1f"
+    ]
+  }
+}

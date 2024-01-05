@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/367-antitrust-relief-valve"
+    ],
+    "published": [
+      "2020-03-01T21:38:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.36\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.36\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.36\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/367-antitrust-relief-valve/annotations/10271efb4cd5295b4a507d79f1796333"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/367-antitrust-relief-valve/annotations/10271efb4cd5295b4a507d79f1796333"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2387d1a03cec6c29ff0d1eec323ca3c0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-01T23:59:56Z",
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "hour": 23,
+      "minute": 59,
+      "x": -118.39438569517715,
+      "y": 33.86407173651796,
+      "altitude": 24,
+      "motion": [
+        "walking"
+      ],
+      "speed": 2,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 367: Antitrust Relief Valve"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5f03165fe9a4e3e4b3e6894884959e75/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DUgx1aw"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple possibly adding default-app choice on iOS, shorter HTTPS-certificate lifespans, and Casey\u2019s humongous-gust-of wind.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple possibly adding default-app choice on iOS, shorter HTTPS-certificate lifespans, and Casey\u2019s humongous-gust-of wind.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

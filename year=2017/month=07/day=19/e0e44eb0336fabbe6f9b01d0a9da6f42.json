@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ralphs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": "Ralphs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ralphs-4"
+    ],
+    "published": [
+      "2017-07-19T00:30:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Baggs sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Baggs sticker bonus!</p>",
+              "value": "Baggs sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9003df3cb86ee0bbd928a8c28f670314"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596e3a87588e362b21255dab/b04fd575334b78482f4228994b91b303"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596e3a87588e362b21255dab/b04fd575334b78482f4228994b91b303"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596e3a87588e362b21255dab"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e0e44eb0336fabbe6f9b01d0a9da6f42"
+    ]
+  }
+}

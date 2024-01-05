@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Made a quick change to my site to directly ping Micro.blog on updates. Bypasses my need for WebSub, which seems sort of flaky at the moment."
+    ],
+    "content": [
+      {
+        "html": "Made a quick change to my site to directly ping Micro.blog on updates. Bypasses my need for WebSub, which seems sort of flaky at the moment.",
+        "value": "Made a quick change to my site to directly ping Micro.blog on updates. Bypasses my need for WebSub, which seems sort of flaky at the moment."
+      }
+    ],
+    "url": [
+      "/2017/made-a-quick-change-to-my-site-to-directly-ping"
+    ],
+    "published": [
+      "2017-09-27T17:07:30+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "878aab8b6b739a00539c57533320132b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2017/09/28/2/like/"
+          ],
+          "published": [
+            "2017-09-30T00:05:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

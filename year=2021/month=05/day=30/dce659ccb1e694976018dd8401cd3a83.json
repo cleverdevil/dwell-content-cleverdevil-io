@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/76-seafood"
+    ],
+    "published": [
+      "2021-05-30T21:29:15+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "dce659ccb1e694976018dd8401cd3a83"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-30T23:48:53Z",
+      "year": 2021,
+      "month": 5,
+      "day": 30,
+      "hour": 23,
+      "minute": 48,
+      "x": -118.37038876337239,
+      "y": 33.81540901836301,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 76: Seafood \ud83d\udc1f\ud83e\udd9e\ud83c\udf64\ud83e\udd80\ud83e\uddaa\ud83c\udf4b\ud83e\uddc8"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/33f210a865e760cda4941f676c91a657/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYmyBz0"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite objects to eat from the ocean.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite objects to eat from the ocean.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/306-big-shoes-to-phil"
+    ],
+    "published": [
+      "2020-08-07T05:27:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "df37b296e94ee09f0aa0f70c130e9db4"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-07T07:20:45Z",
+      "year": 2020,
+      "month": 8,
+      "day": 7,
+      "hour": 7,
+      "minute": 20,
+      "x": -118.37053106471264,
+      "y": 33.815296200622335,
+      "altitude": 57,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6100000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 306: Big Shoes to Phil"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/53955c0efde86545b23aa19528fe34f0/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6SrYho"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s been a busy start to August: Myke has LEGO on the way, Phil Schiller has a new job, the 27-inch iMac has been refreshed, and there are details out about third-party mail and browser apps being able to be set as default.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "It\u2019s been a busy start to August: Myke has LEGO on the way, Phil Schiller has a new job, the 27-inch iMac has been refreshed, and there are details out about third-party mail and browser apps being able to be set as default.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

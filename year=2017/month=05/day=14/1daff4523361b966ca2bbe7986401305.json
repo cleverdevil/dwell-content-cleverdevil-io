@@ -1,0 +1,100 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/bottomless-mimosas"
+    ],
+    "published": [
+      "2017-05-14T17:35:58+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "1daff4523361b966ca2bbe7986401305"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food",
+          "#micro"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/bottomless-mimosas"
+              ],
+              "name": [
+                "Bottomless Mimosas"
+              ]
+            },
+            "value": "Bottomless Mimosas"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9bf6b3bfbf932c765373bc96da2115c3/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "<p><a class=\"p-category\" href=\"/tag/micro\" rel=\"tag\">#micro</a></p>",
+            "value": "#micro"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

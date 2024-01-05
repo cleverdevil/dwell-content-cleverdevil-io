@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/obb-ep-90-blues-clues"
+    ],
+    "published": [
+      "2020-07-24T23:29:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 104.91\u00b0F and 16% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 104.91\u00b0F and 16% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 104.91\u00b0F and 16% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/obb-ep-90-blues-clues/annotations/669e953639b63e21b7c2a2422f42ee14"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/obb-ep-90-blues-clues/annotations/669e953639b63e21b7c2a2422f42ee14"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c2535dc14363347d0f6a664f2290ac63"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-24T23:56:50Z",
+      "year": 2020,
+      "month": 7,
+      "day": 24,
+      "hour": 23,
+      "minute": 56,
+      "x": -116.31670325570121,
+      "y": 33.7377533786794,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "GPS"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #90: Blues Clues"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d7c0d9fc6c748f1417e96550d6240b76/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf56HAMI"
+        ],
+        "content": [
+          {
+            "html": "<p>We talk LOTS of recruiting with the James Williams commitment. First up, Matthew Suero from CIS and then, the LEGEND, Larry Bluestein. We also heard from I.P. Daley and did 5 Questions. Enjoy the show. <a class=\"p-category\" href=\"/tag/GoCanes\" rel=\"tag\">#GoCanes</a></p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "We talk LOTS of recruiting with the James Williams commitment. First up, Matthew Suero from CIS and then, the LEGEND, Larry Bluestein. We also heard from I.P. Daley and did 5 Questions. Enjoy the show. #GoCanes\nBy Orange Bowl Boys"
+          }
+        ],
+        "category": [
+          "#GoCanes"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/385-federico-viticci-and-the-multiverse-of-madness"
+    ],
+    "published": [
+      "2022-02-24T08:56:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d9b23152c371bd8aa4ecaf8ce4125742"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-23T06:18:47Z",
+      "year": 2022,
+      "month": 2,
+      "day": 23,
+      "hour": 6,
+      "minute": 18,
+      "x": -118.37043316073984,
+      "y": 33.81517033338527,
+      "altitude": 54,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 385: Federico Viticci and the Multiverse of Madness"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/600d99bc8993ddf3a39e1b5a749d0166/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5vXOHk"
+        ],
+        "content": [
+          {
+            "html": "<p>Like, what even *is* an episode description?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Like, what even *is* an episode description?\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

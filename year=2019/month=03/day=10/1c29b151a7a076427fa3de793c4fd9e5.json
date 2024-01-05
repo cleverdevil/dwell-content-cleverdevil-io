@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "How low can you go? \u2013 On my Om"
+    ],
+    "like-of": [
+      "https://om.co/2019/03/10/how-low-can-you-go/"
+    ],
+    "url": [
+      "/2019/how-low-can-you-go-on-my-om"
+    ],
+    "published": [
+      "2019-03-10T23:47:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.94\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.94\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 56.94\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/how-low-can-you-go-on-my-om/annotations/d82583493b5bdbf4a03970544d3428f2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/how-low-can-you-go-on-my-om/annotations/d82583493b5bdbf4a03970544d3428f2"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101729019459210512"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "1c29b151a7a076427fa3de793c4fd9e5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-10T23:46:30Z",
+      "year": 2019,
+      "month": 3,
+      "day": 10,
+      "hour": 23,
+      "minute": 46,
+      "x": -118.37042748841584,
+      "y": 33.81536063772494,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.33000001311302185,
+      "wifi": "LaCour"
+    }
+  }
+}

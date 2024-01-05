@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Figured out my #Firefox issues with Google Apps \u2013\u00a0turns out an update to the \"StopTheMadness\" extension I have installed had toggled some preferences that caused the behavior. All fixed!"
+    ],
+    "content": [
+      {
+        "html": "Figured out my <a class=\"p-category\" href=\"/tag/Firefox\" rel=\"tag\">#Firefox</a> issues with Google Apps \u2013\u00a0turns out an update to the \"StopTheMadness\" extension I have installed had toggled some preferences that caused the behavior. All fixed!",
+        "value": "Figured out my #Firefox issues with Google Apps \u2013\u00a0turns out an update to the \"StopTheMadness\" extension I have installed had toggled some preferences that caused the behavior. All fixed!"
+      }
+    ],
+    "category": [
+      "#Firefox"
+    ],
+    "url": [
+      "/2019/figured-out-my-firefox-issues-with-google"
+    ],
+    "published": [
+      "2019-02-19T23:38:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.88\u00b0F and 33% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.88\u00b0F and 33% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.88\u00b0F and 33% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/figured-out-my-firefox-issues-with-google/annotations/42f10d1f0f59d8581a6e78f3ccf69ccc"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/figured-out-my-firefox-issues-with-google/annotations/42f10d1f0f59d8581a6e78f3ccf69ccc"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1098003903378059266"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "be747827c0e05c05132830784b8914ea"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-19T23:35:52Z",
+      "year": 2019,
+      "month": 2,
+      "day": 19,
+      "hour": 23,
+      "minute": 35,
+      "x": -118.41148707176912,
+      "y": 33.9174330575225,
+      "altitude": 28,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "Mission"
+    }
+  }
+}

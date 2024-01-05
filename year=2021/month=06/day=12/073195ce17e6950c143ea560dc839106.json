@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/349-if-robots-happen-well-need-to-readdress-this"
+    ],
+    "published": [
+      "2021-06-12T06:07:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "073195ce17e6950c143ea560dc839106"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-12T07:48:03Z",
+      "year": 2021,
+      "month": 6,
+      "day": 12,
+      "hour": 7,
+      "minute": 48,
+      "x": -118.37055840408973,
+      "y": 33.81531882823832,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 349: If Robots Happen, We\u2019ll Need To Readdress This"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/543c1e0a155e09121ad24737ff0b4d95/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx70G0aw"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC 2021 is underway, and picks made last week must be judged. There will be a winner, a loser and probably some changes to the rules of the game.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "WWDC 2021 is underway, and picks made last week must be judged. There will be a winner, a loser and probably some changes to the rules of the game.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

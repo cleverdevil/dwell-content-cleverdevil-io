@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Site Updates: /listens and /photos pages"
+    ],
+    "like-of": [
+      "https://martymcgui.re/2019/02/19/site-updates-listens-and-photos-pages/"
+    ],
+    "url": [
+      "/2019/site-updates-listens-and-photos-pages-1"
+    ],
+    "published": [
+      "2019-02-19T23:06:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 56.25\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 56.25\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 56.25\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/site-updates-listens-and-photos-pages-1/annotations/ce421cc5be08ac98022e2e1b19523f0e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/site-updates-listens-and-photos-pages-1/annotations/ce421cc5be08ac98022e2e1b19523f0e"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "6833a2271fc2929b320a2e550fab44a6"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-19T23:04:14Z",
+      "year": 2019,
+      "month": 2,
+      "day": 19,
+      "hour": 23,
+      "minute": 4,
+      "x": -118.4114608096704,
+      "y": 33.917454784870465,
+      "altitude": 28,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "Mission"
+    }
+  }
+}

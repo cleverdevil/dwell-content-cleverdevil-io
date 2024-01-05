@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Joey's Kitchen"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Joey's Kitchen"
+          ],
+          "latitude": [
+            "20.92139655545"
+          ],
+          "longitude": [
+            "-156.69480960526"
+          ]
+        },
+        "value": "Joey's Kitchen"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Joey's Kitchen"
+          ],
+          "latitude": [
+            "20.92139655545"
+          ],
+          "longitude": [
+            "-156.69480960526"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Oh and breakfast.</p>",
+        "value": "Oh and breakfast."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-joeys-kitchen"
+    ],
+    "published": [
+      "2017-07-16T19:17:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f26a7497c292edf684990dde96e34cf0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596bbbb5ad178914c290ef86/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596bbbb5ad178914c290ef86/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Joey's Kitchen!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Joey's Kitchen!</p>",
+              "value": "Your first check-in at Joey's Kitchen!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5dcb1316bd4c0d374b7f8d069be73f6d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596bbbb5ad178914c290ef86/5cca781668c6b2fe63f57a4fe973cc15"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596bbbb5ad178914c290ef86/5cca781668c6b2fe63f57a4fe973cc15"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596bbbb5ad178914c290ef86"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "116d5f0c2a75efb4f2b720966e25c3a3"
+    ]
+  }
+}

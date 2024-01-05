@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-263-extra-professional"
+    ],
+    "published": [
+      "2019-09-17T15:21:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.05\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.05\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 77.05\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-263-extra-professional/annotations/25427d47f917c26b307115249fd169e2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-263-extra-professional/annotations/25427d47f917c26b307115249fd169e2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "13c6cd0f77e83210d94c960bd2a1606b"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-17T13:38:43Z",
+      "year": 2019,
+      "month": 9,
+      "day": 17,
+      "hour": 13,
+      "minute": 38,
+      "x": -77.05141943127137,
+      "y": 38.90513623392283,
+      "altitude": 26,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 263: Extra Professional"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8088dfed4268206d78c93fa782147d3d/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9ysx_o"
+        ],
+        "content": [
+          {
+            "html": "<p>Upgrade turns five and we\u2019re waiting for our new Apple hardware. But there\u2019s still time to reflect on last week\u2019s announcements, deal with a flood of Apple TV+ news, ponder Apple\u2019s fragmented OS release schedule, and prepare for the arrival of iOS 13.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Upgrade turns five and we\u2019re waiting for our new Apple hardware. But there\u2019s still time to reflect on last week\u2019s announcements, deal with a flood of Apple TV+ news, ponder Apple\u2019s fragmented OS release schedule, and prepare for the arrival of iOS 13.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

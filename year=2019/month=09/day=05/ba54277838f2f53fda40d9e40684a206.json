@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Comedy & Magic Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Comedy & Magic Club"
+          ],
+          "latitude": [
+            "33.861022742004"
+          ],
+          "longitude": [
+            "-118.3995201281"
+          ]
+        },
+        "value": "The Comedy & Magic Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Comedy & Magic Club"
+          ],
+          "latitude": [
+            "33.861022742004"
+          ],
+          "longitude": [
+            "-118.3995201281"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-the-comedy-magic-club-1"
+    ],
+    "published": [
+      "2019-09-05T01:21:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to The Comedy & Magic Club since June '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to The Comedy &amp; Magic Club since June '17.</p>",
+              "value": "Welcome back! You haven't checked in to The Comedy & Magic Club since June '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d7063191b16b7000820c9e1/acc7d35e02df8705f7044e7cc5ba5153"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d7063191b16b7000820c9e1/acc7d35e02df8705f7044e7cc5ba5153"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 73.93\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 73.93\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 73.93\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-the-comedy-magic-club-1/annotations/5f5bfb908473bca67f74c39f9acb0ee5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-the-comedy-magic-club-1/annotations/5f5bfb908473bca67f74c39f9acb0ee5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d7063191b16b7000820c9e1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ba54277838f2f53fda40d9e40684a206"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-05T04:04:45Z",
+      "year": 2019,
+      "month": 9,
+      "day": 5,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.39967001664932,
+      "y": 33.860950412156996,
+      "altitude": 25,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": ""
+    }
+  }
+}

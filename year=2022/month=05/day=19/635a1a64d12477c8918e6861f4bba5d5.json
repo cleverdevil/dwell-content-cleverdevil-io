@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/184-reconcilable-differences-accidental-emotional-podcast"
+    ],
+    "published": [
+      "2022-05-19T01:46:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "635a1a64d12477c8918e6861f4bba5d5"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-19T03:59:01Z",
+      "year": 2022,
+      "month": 5,
+      "day": 19,
+      "hour": 3,
+      "minute": 59,
+      "x": -116.38041617681243,
+      "y": 33.70165085403797,
+      "altitude": 129,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 184: Reconcilable Differences: Accidental Emotional Podcast"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/efb593f9ad30779f040c3e3c4ca2824e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+5iX8skXR8"
+        ],
+        "content": [
+          {
+            "html": "<p>\u201cAccidental Tech Podcast\u201d hosts, Casey Liss and Marco Arment, join us for this year\u2019s Reconcilable Differences members\u2019 special episode.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Relay FM Crossover</p>",
+            "value": "\u201cAccidental Tech Podcast\u201d hosts, Casey Liss and Marco Arment, join us for this year\u2019s Reconcilable Differences members\u2019 special episode.\nBy Relay FM Crossover"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/313-story-of-the-summer"
+    ],
+    "published": [
+      "2020-09-04T16:17:01+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "09032db6999a5504f02fe66506cd44e8"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-04T19:23:43Z",
+      "year": 2020,
+      "month": 9,
+      "day": 4,
+      "hour": 19,
+      "minute": 23,
+      "x": -118.37040413566368,
+      "y": 33.81539795120508,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 313: Story of the Summer"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/027f10e3850b994870157802054125a7/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-JWKEI"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason and Myke try to piece together conflicting rumors about Macs with Apple silicon, Apple TV+ embraces the UK and Mariah Carey, and Apple and Epic take it to the courts, and <a class=\"p-category\" href=\"/tag/askupgrade\" rel=\"tag\">#askupgrade</a> reaches its final form as <a class=\"p-category\" href=\"/tag/keyboardtalk\" rel=\"tag\">#keyboardtalk</a>.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason and Myke try to piece together conflicting rumors about Macs with Apple silicon, Apple TV+ embraces the UK and Mariah Carey, and Apple and Epic take it to the courts, and #askupgrade reaches its final form as #keyboardtalk.\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#askupgrade",
+          "#keyboardtalk"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

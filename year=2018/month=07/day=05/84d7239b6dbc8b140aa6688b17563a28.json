@@ -1,0 +1,152 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Indiepaper for macOS"
+    ],
+    "content": [
+      {
+        "html": "<p><img alt=\"Indiepaper Logo\" class=\"right\" height=\"128\" src=\"https://cleverdevil.io/file/61000d18360e83d40894fd2b52a6de9e\" width=\"128\"/><a href=\"http://2018.indieweb.org\">IndieWeb Summit 2018</a>\u00a0took place a few weeks ago in Portland, OR, and my project on day two was to create a service called <a href=\"https://indiepaper.io\">Indiepaper</a>, which is a \"read it later\" service for the <a href=\"https://indieweb.org\">IndieWeb</a>. Indiepaper makes use of\u00a0<a href=\"https://mercury.postlight.com\">Mercury by Postlight Labs</a>\u00a0under the hood to extract article content and then publish it to a <a href=\"https://indieweb.org/Micropub\">Micropub</a>\u00a0destination for later reading. <a href=\"https://github.com/cleverdevil/indiepaper\">Indiepaper is open source</a>\u00a0and is deployed on <a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a>\u00a0using the <a href=\"https://www.zappa.io\">Zappa framework</a>. The <a href=\"https://www.indiepaper.io\">Indiepaper website</a>\u00a0includes a tool to create a Bookmarklet for your web browser, and a Workflow for iOS that adds system-wide support for sending links to Indiepaper.</p><p>In order to make Indiepaper even easier to use, I created <a href=\"https://github.com/cleverdevil/Indiepaper-macOS/releases\">Indiepaper for macOS</a>, which adds system-wide sharing support for Indiepaper to macOS. <a href=\"https://cleverdevil.io/s/ZM4yR9ndtw.mp4\">Here is a quick video demo of Indiepaper for macOS in action</a>. <a href=\"https://github.com/cleverdevil/Indiepaper-macOS\">Indiepaper for macOS is also open source</a>, so feel free to poke around in the source code, and submit pull requests if you have improvements!</p>",
+        "value": "Indiepaper Logo IndieWeb Summit 2018\u00a0took place a few weeks ago in Portland, OR, and my project on day two was to create a service called Indiepaper, which is a \"read it later\" service for the IndieWeb. Indiepaper makes use of\u00a0Mercury by Postlight Labs\u00a0under the hood to extract article content and then publish it to a Micropub\u00a0destination for later reading. Indiepaper is open source\u00a0and is deployed on AWS Lambda\u00a0using the Zappa framework. The Indiepaper website\u00a0includes a tool to create a Bookmarklet for your web browser, and a Workflow for iOS that adds system-wide support for sending links to Indiepaper.\nIn order to make Indiepaper even easier to use, I created Indiepaper for macOS, which adds system-wide sharing support for Indiepaper to macOS. Here is a quick video demo of Indiepaper for macOS in action. Indiepaper for macOS is also open source, so feel free to poke around in the source code, and submit pull requests if you have improvements!"
+      }
+    ],
+    "url": [
+      "/2018/indiepaper-for-macos"
+    ],
+    "published": [
+      "2018-07-05T20:11:38+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1014967340797177858"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "84d7239b6dbc8b140aa6688b17563a28"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2018/07/05/11/"
+          ],
+          "published": [
+            "2018-07-05T20:11:38+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/"
+          ],
+          "published": [
+            "2018-07-05T20:47:02+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1014967340797177858?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1014967340797177858%2F14447132"
+          ],
+          "published": [
+            "2018-07-05T20:49:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      }
+    ]
+  }
+}

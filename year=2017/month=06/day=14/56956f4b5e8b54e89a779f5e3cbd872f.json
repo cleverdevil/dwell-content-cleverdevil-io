@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Crossroads Caf\u00e9"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Crossroads Caf\u00e9"
+          ],
+          "latitude": [
+            "37.783091435213"
+          ],
+          "longitude": [
+            "-122.38887548447"
+          ]
+        },
+        "value": "Crossroads Caf\u00e9"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Crossroads Caf\u00e9"
+          ],
+          "latitude": [
+            "37.783091435213"
+          ],
+          "longitude": [
+            "-122.38887548447"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-crossroads-caf%C3%A9"
+    ],
+    "published": [
+      "2017-06-14T15:37:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Crossroads Caf\u00e9!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Crossroads Caf\u00e9!</p>",
+              "value": "Your first check-in at Crossroads Caf\u00e9!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c73f0bd63683a9ecbc9e16a6e0f13c57"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5941580e69e77b4ef881f5d9/17327ce8a356c0fe87a59b9a0f5bbd29"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5941580e69e77b4ef881f5d9/17327ce8a356c0fe87a59b9a0f5bbd29"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5941580e69e77b4ef881f5d9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "56956f4b5e8b54e89a779f5e3cbd872f"
+    ]
+  }
+}

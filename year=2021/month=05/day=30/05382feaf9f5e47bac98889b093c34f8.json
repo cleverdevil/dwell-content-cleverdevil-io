@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/314-obviously-tier-one-with-marco-arment"
+    ],
+    "published": [
+      "2021-05-30T20:48:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "05382feaf9f5e47bac98889b093c34f8"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-30T23:48:53Z",
+      "year": 2021,
+      "month": 5,
+      "day": 30,
+      "hour": 23,
+      "minute": 48,
+      "x": -118.37038876337239,
+      "y": 33.81540901836301,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 314: \u2018Obviously Tier One\u2019, With Marco Arment"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/22847eade280bf7d522d966c5d62e454/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NA6afaU"
+        ],
+        "content": [
+          {
+            "html": "<p>314: \u2018Obviously Tier One\u2019, With Marco Arment</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "314: \u2018Obviously Tier One\u2019, With Marco Arment\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

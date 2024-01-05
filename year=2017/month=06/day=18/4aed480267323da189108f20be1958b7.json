@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Caf\u00e9 de l'Ours"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Caf\u00e9 de l'Ours"
+          ],
+          "latitude": [
+            "48.859564580777"
+          ],
+          "longitude": [
+            "2.3271696094771"
+          ]
+        },
+        "value": "Caf\u00e9 de l'Ours"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Caf\u00e9 de l'Ours"
+          ],
+          "latitude": [
+            "48.859564580777"
+          ],
+          "longitude": [
+            "2.3271696094771"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Tune up!</p>",
+        "value": "Tune up!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-caf%C3%A9-de-lours"
+    ],
+    "published": [
+      "2017-06-18T12:31:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Caf\u00e9 de l'Ours!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Caf\u00e9 de l'Ours!</p>",
+              "value": "Your first check-in at Caf\u00e9 de l'Ours!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/85a699f8a491357abb158a063bdeb27b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594672ab2aff314adae9c492/e3ee1a43e66a3a27f07dfaa10d1c477c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594672ab2aff314adae9c492/e3ee1a43e66a3a27f07dfaa10d1c477c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594672ab2aff314adae9c492"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4aed480267323da189108f20be1958b7"
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Astro Doughnuts and Fried Chicken"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Astro Doughnuts and Fried Chicken \u2003"
+          ],
+          "latitude": [
+            "34.048090305773"
+          ],
+          "longitude": [
+            "-118.25403571129"
+          ]
+        },
+        "value": "Astro Doughnuts and Fried Chicken \u2003"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Astro Doughnuts and Fried Chicken \u2003"
+          ],
+          "latitude": [
+            "34.048090305773"
+          ],
+          "longitude": [
+            "-118.25403571129"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-astro-doughnuts-and-fried-chicken--1"
+    ],
+    "published": [
+      "2017-05-25T19:06:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fried Check-in sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fried Check-in sticker bonus!</p>",
+              "value": "Fried Check-in sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/5e94b6690e818f261cff0735d0304856"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59272b2b1fa7632207411603/82eca3c3e435298bc08d47315f83a0ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59272b2b1fa7632207411603/82eca3c3e435298bc08d47315f83a0ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59272b2b1fa7632207411603"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e51277c11a55379728a3f6566e45b9a6"
+    ]
+  }
+}

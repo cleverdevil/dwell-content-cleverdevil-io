@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/485-this-is-casey-actual"
+    ],
+    "published": [
+      "2022-06-04T17:46:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4f9608addad069c245f3eb858b6aa960"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-04T20:03:08Z",
+      "year": 2022,
+      "month": 6,
+      "day": 4,
+      "hour": 20,
+      "minute": 3,
+      "x": -116.38044401302092,
+      "y": 33.70166760999174,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 485: This Is Casey Actual"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ee29702b80c3849da9759e8c2145f3d0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL-Xhdw"
+        ],
+        "content": [
+          {
+            "html": "<p>WWDC hopes, WWDC dreams, WWDC predictions, and WWDC\u2026 menus?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "WWDC hopes, WWDC dreams, WWDC predictions, and WWDC\u2026 menus?\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

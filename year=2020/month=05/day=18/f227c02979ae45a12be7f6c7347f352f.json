@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/top-four-64-taco-toppings"
+    ],
+    "published": [
+      "2020-05-18T16:41:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 65.55\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 65.55\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 65.55\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/top-four-64-taco-toppings/annotations/2b99b75fdf3af13bf3a321d92b4a70c9"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/top-four-64-taco-toppings/annotations/2b99b75fdf3af13bf3a321d92b4a70c9"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f227c02979ae45a12be7f6c7347f352f"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-18T20:00:31Z",
+      "year": 2020,
+      "month": 5,
+      "day": 18,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37038235886303,
+      "y": 33.81539805307304,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 64: Taco Toppings \ud83c\udf2e"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/663f99b3576baa24771c1027a66725b0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDZoI_iI"
+        ],
+        "content": [
+          {
+            "html": "<p>Celebrating this year\u2019s Cinco de Mayo that also falls on Taco Tuesday, we rank our favorite taco toppings.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Celebrating this year\u2019s Cinco de Mayo that also falls on Taco Tuesday, we rank our favorite taco toppings.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

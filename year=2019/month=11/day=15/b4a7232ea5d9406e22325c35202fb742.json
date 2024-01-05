@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/03-she-was-killed-by-space-junk"
+    ],
+    "published": [
+      "2019-11-15T15:44:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.06\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.06\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.06\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/03-she-was-killed-by-space-junk/annotations/994bd935213664859987a9d02d0c5508"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/03-she-was-killed-by-space-junk/annotations/994bd935213664859987a9d02d0c5508"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b4a7232ea5d9406e22325c35202fb742"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-15T16:02:41Z",
+      "year": 2019,
+      "month": 11,
+      "day": 15,
+      "hour": 16,
+      "minute": 2,
+      "x": -96.81759509395633,
+      "y": 32.931408503377064,
+      "altitude": 191,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 03. She Was Killed By Space Junk"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file//thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+VJ9EQZPl4"
+        ],
+        "content": [
+          {
+            "html": "<p>Agent Laurie Blake makes her entrance by shooting Batman in the back! Huzzah! The gang makes wild predictions about what captivity means and who keeps kidnapping these cars! TopgallantRadio.com - Radio for sailors</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Watchmen: On the Clock</p>",
+            "value": "Agent Laurie Blake makes her entrance by shooting Batman in the back! Huzzah! The gang makes wild predictions about what captivity means and who keeps kidnapping these cars! TopgallantRadio.com - Radio for sailors\nBy Watchmen: On the Clock"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

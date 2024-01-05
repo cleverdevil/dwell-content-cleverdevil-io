@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fluffy's Sno-Balls"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fluffy's Sno-Balls"
+          ],
+          "latitude": [
+            "33.781185"
+          ],
+          "longitude": [
+            "-118.18912"
+          ]
+        },
+        "value": "Fluffy's Sno-Balls"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fluffy's Sno-Balls"
+          ],
+          "latitude": [
+            "33.781185"
+          ],
+          "longitude": [
+            "-118.18912"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-fluffys-sno-balls-1"
+    ],
+    "published": [
+      "2023-04-16T19:56:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Saint Mary was in September '21 at Fluffy's Sno-Balls."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Saint Mary was in September '21 at Fluffy's Sno-Balls.</p>",
+              "value": "Your last check-in in Saint Mary was in September '21 at Fluffy's Sno-Balls."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/643c52ea694bb92b080769db/fa123b8d635944614364e085e56b0712"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/643c52ea694bb92b080769db/fa123b8d635944614364e085e56b0712"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/643c52ea694bb92b080769db"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c4a8af09126759c5c65342b5f9f5528d"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-16T19:52:38Z",
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 19,
+      "minute": 52,
+      "x": -118.18949184063672,
+      "y": 33.78080844708044,
+      "altitude": 13,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.4000000059604645,
+      "wifi": ""
+    }
+  }
+}

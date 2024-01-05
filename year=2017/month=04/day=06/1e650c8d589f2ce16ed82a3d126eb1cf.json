@@ -1,0 +1,99 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/pinot-noir"
+    ],
+    "published": [
+      "2017-04-06T02:00:31+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "1e650c8d589f2ce16ed82a3d126eb1cf"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/pinot-noir"
+              ],
+              "name": [
+                "Pinot Noir"
+              ]
+            },
+            "value": "Pinot Noir"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5de6ce571388b515976155b53c9818a9/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "<p>Really lovely.</p>",
+            "value": "Really lovely."
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

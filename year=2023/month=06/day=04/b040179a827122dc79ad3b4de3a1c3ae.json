@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/376-one-true-hig-with-neil-jhaveri"
+    ],
+    "published": [
+      "2023-06-04T06:34:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b040179a827122dc79ad3b4de3a1c3ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-04T07:47:13Z",
+      "year": 2023,
+      "month": 6,
+      "day": 4,
+      "hour": 7,
+      "minute": 47,
+      "x": -118.3705068283479,
+      "y": 33.81532901905899,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 376: \u2018One True HIG\u2019, With Neil Jhaveri"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/adc14c6cc7dbb54769ea160bb9d1bb08/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBzAmo0"
+        ],
+        "content": [
+          {
+            "html": "<p>376: \u2018One True HIG\u2019, With Neil Jhaveri</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "376: \u2018One True HIG\u2019, With Neil Jhaveri\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

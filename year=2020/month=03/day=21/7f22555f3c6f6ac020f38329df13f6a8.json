@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-286-the-ipad-g4"
+    ],
+    "published": [
+      "2020-03-21T16:50:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.86\u00b0F and 61% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.86\u00b0F and 61% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.86\u00b0F and 61% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-286-the-ipad-g4/annotations/f15ecfa8855ea0fc6d3bf5c5f3112743"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-286-the-ipad-g4/annotations/f15ecfa8855ea0fc6d3bf5c5f3112743"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7f22555f3c6f6ac020f38329df13f6a8"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-21T20:03:24Z",
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "hour": 20,
+      "minute": 3,
+      "x": -118.37040064451188,
+      "y": 33.81564214486968,
+      "altitude": 57,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5899999737739563,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 286: The iPad G4"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/64a749018f10b3baa690b932eb07dff2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4Ky8Xo"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple has announced new iPad Pros with a new keyboard and trackpad case, as well as the addition of cursor support in iOS 13.4. Myke takes it for a spin as Federico waits for his download. Then, Apple\u2019s updated Macs and Stephen\u2019s new project, Mac Madness.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple has announced new iPad Pros with a new keyboard and trackpad case, as well as the addition of cursor support in iOS 13.4. Myke takes it for a spin as Federico waits for his download. Then, Apple\u2019s updated Macs and Stephen\u2019s new project, Mac Madness.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

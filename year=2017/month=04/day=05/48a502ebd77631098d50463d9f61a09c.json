@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Perch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Perch"
+          ],
+          "latitude": [
+            "34.048997610153"
+          ],
+          "longitude": [
+            "-118.25150595362"
+          ]
+        },
+        "value": "Perch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Perch"
+          ],
+          "latitude": [
+            "34.048997610153"
+          ],
+          "longitude": [
+            "-118.25150595362"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-perch"
+    ],
+    "published": [
+      "2017-04-05T01:50:55+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First French Restaurant check-in in 5 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First French Restaurant check-in in 5 years!</p>",
+              "value": "First French Restaurant check-in in 5 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/40a7f21824acc68ee324ca77572e9465"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e44d7c158b9634bdab0d27/6becd978b947c266c993046fbb996c47"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e44d7c158b9634bdab0d27/6becd978b947c266c993046fbb996c47"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Perch!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Perch!</p>",
+              "value": "Your first check-in at Perch!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/40a7f21824acc68ee324ca77572e9465"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58e44d7c158b9634bdab0d27/a09cbf21f5b670a7f05fa728eefe9654"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58e44d7c158b9634bdab0d27/a09cbf21f5b670a7f05fa728eefe9654"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58e44d7c158b9634bdab0d27"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "48a502ebd77631098d50463d9f61a09c"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-247-the-wwdc-keynote-draft-2019"
+    ],
+    "published": [
+      "2019-05-29T15:05:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 59.41\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 59.41\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 59.41\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-247-the-wwdc-keynote-draft-2019/annotations/30707eab268d58959a400d820d14333c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-247-the-wwdc-keynote-draft-2019/annotations/30707eab268d58959a400d820d14333c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f7d40198de48c11bb0e4e12aa74db6d5"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-29T12:11:29Z",
+      "year": 2019,
+      "month": 5,
+      "day": 29,
+      "hour": 12,
+      "minute": 11,
+      "x": -87.61560121714334,
+      "y": 41.893828437950084,
+      "altitude": 183,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "W Guestrooms"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 247: The WWDC Keynote Draft 2019"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8324633598164e3cd710739e5bb8eebc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-5vj0w"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason and Myke compete in predicting what will happen during the WWDC keynote next week. Will there be new hardware? What will macOS be called? How many times will we see Tim Cook? This week we guess, but next week reality will be our judge</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason and Myke compete in predicting what will happen during the WWDC keynote next week. Will there be new hardware? What will macOS be called? How many times will we see Tim Cook? This week we guess, but next week reality will be our judge\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

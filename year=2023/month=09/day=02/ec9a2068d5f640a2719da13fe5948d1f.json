@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/reaction-canes-beat-miami-oh-38-3-episode-63"
+    ],
+    "published": [
+      "2023-09-02T22:19:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ec9a2068d5f640a2719da13fe5948d1f"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-03T00:00:24Z",
+      "year": 2023,
+      "month": 9,
+      "day": 3,
+      "hour": 0,
+      "minute": 0,
+      "x": -118.3574576361822,
+      "y": 33.806564583021824,
+      "altitude": 28,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to REACTION: Canes Beat Miami (OH) 38-3 (EPISODE 63)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e77398ce06347ff505baf1fadbbe5307/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kSU4UKk"
+        ],
+        "content": [
+          {
+            "html": "<p>REACTION: Canes Beat Miami (OH) 38-3 (EPISODE 63)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The CanesInSight Podcast</p>",
+            "value": "REACTION: Canes Beat Miami (OH) 38-3 (EPISODE 63)\nBy The CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

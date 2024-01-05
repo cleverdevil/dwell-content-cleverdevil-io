@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Peking Tavern"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Peking Tavern"
+          ],
+          "latitude": [
+            "34.042958646508"
+          ],
+          "longitude": [
+            "-118.25362801552"
+          ]
+        },
+        "value": "Peking Tavern"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Peking Tavern"
+          ],
+          "latitude": [
+            "34.042958646508"
+          ],
+          "longitude": [
+            "-118.25362801552"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>DTLA dumplings with Dan.</p>",
+        "value": "DTLA dumplings with Dan."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-peking-tavern-1"
+    ],
+    "published": [
+      "2017-07-21T19:41:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A donkey will sink in quicksand but a mule won\u2019t. Trust us, we tried. We feel pretty terrible about it."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A donkey will sink in quicksand but a mule won\u2019t. Trust us, we tried. We feel pretty terrible about it.</p>",
+              "value": "Fun Fact! A donkey will sink in quicksand but a mule won\u2019t. Trust us, we tried. We feel pretty terrible about it."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/95776f1cf9ae5866b1c33c8f62e787c6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597258f0d8fe7a279c01be4f/f100ed3c8cc1fde1aaf8f0851eb832c4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597258f0d8fe7a279c01be4f/f100ed3c8cc1fde1aaf8f0851eb832c4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597258f0d8fe7a279c01be4f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0735c673d16edc0bc057727e01223161"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/makers-mark-with-a-twist"
+    ],
+    "published": [
+      "2017-04-05T02:04:12+0000"
+    ],
+    "post-kind": [
+      "Food"
+    ],
+    "post-id": [
+      "091fae3b2c0979b6ef98fae52c46f2af"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-entry"
+      ],
+      "properties": {
+        "category": [
+          "food"
+        ],
+        "name": [
+          {
+            "type": [
+              "h-drank"
+            ],
+            "properties": {
+              "url": [
+                "/2017/makers-mark-with-a-twist"
+              ],
+              "name": [
+                "Maker's Mark with a Twist"
+              ]
+            },
+            "value": "Maker's Mark with a Twist"
+          }
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/101edbce3ceb80b7dff56fa9f493ae9d/thumb.jpg"
+        ],
+        "content": [
+          {
+            "html": "<p>DreamHost party!</p>",
+            "value": "DreamHost party!"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

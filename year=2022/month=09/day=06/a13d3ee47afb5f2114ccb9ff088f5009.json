@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/242-a-group-of-robots"
+    ],
+    "published": [
+      "2022-09-06T07:58:39+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a13d3ee47afb5f2114ccb9ff088f5009"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-06T08:02:25Z",
+      "year": 2022,
+      "month": 9,
+      "day": 6,
+      "hour": 8,
+      "minute": 2,
+      "x": -118.37041717965003,
+      "y": 33.815396027671,
+      "altitude": 56,
+      "motion": [],
+      "speed": 3,
+      "battery_state": "unplugged",
+      "battery_level": 0.4000000059604645,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 242: A Group of Robots"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/be114d18e1d47f4aa04dba52aabf84d3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2R8nNbw"
+        ],
+        "content": [
+          {
+            "html": "<p>When robots flock together naturally, will humans give them a name? Or will we be too busy dying?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "When robots flock together naturally, will humans give them a name? Or will we be too busy dying?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

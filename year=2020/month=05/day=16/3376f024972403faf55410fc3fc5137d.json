@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-297-factual-controller"
+    ],
+    "published": [
+      "2020-05-16T18:02:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.35\u00b0F and 59% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.35\u00b0F and 59% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.35\u00b0F and 59% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-297-factual-controller/annotations/d9eb41c54e42d800aad6c507afeefb5f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-297-factual-controller/annotations/d9eb41c54e42d800aad6c507afeefb5f"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3376f024972403faf55410fc3fc5137d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-16T20:04:57Z",
+      "year": 2020,
+      "month": 5,
+      "day": 16,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.37027624446591,
+      "y": 33.815403575939385,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 297: Factual Controller"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/721b3ab5ed521774aa5e663783e72425/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-d3jMs"
+        ],
+        "content": [
+          {
+            "html": "<p>This week Jason and Myke ponder the mysteries of the 13-inch MacBook Pro(s), an online-only WWDC, BBC job titles, IKEA orders, and their least-favorite Apple products ever.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week Jason and Myke ponder the mysteries of the 13-inch MacBook Pro(s), an online-only WWDC, BBC job titles, IKEA orders, and their least-favorite Apple products ever.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

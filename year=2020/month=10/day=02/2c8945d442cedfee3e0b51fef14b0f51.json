@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/398-the-state-of-your-baby"
+    ],
+    "published": [
+      "2020-10-02T19:05:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2c8945d442cedfee3e0b51fef14b0f51"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-02T20:02:52Z",
+      "year": 2020,
+      "month": 10,
+      "day": 2,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.3917778300337,
+      "y": 33.81374874909338,
+      "altitude": 3,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.41999998688697815,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 398: The State of Your Baby"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/41c8be3f64118d3ab943ccbc46a9173e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJcS8M0"
+        ],
+        "content": [
+          {
+            "html": "<p>Desks, cables, game discs, app stores, and first impressions of Apple Watch Family Setup.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Desks, cables, game discs, app stores, and first impressions of Apple Watch Family Setup.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

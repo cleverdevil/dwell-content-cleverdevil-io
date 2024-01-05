@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into 21 Square Bar + Kitchen"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "21 Square Bar + Kitchen"
+          ],
+          "latitude": [
+            "33.8358529"
+          ],
+          "longitude": [
+            "-118.3505559"
+          ]
+        },
+        "value": "21 Square Bar + Kitchen"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "21 Square Bar + Kitchen"
+          ],
+          "latitude": [
+            "33.8358529"
+          ],
+          "longitude": [
+            "-118.3505559"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-21-square-bar-kitchen-1"
+    ],
+    "published": [
+      "2019-02-06T01:36:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to 21 Square Bar + Kitchen since July '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to 21 Square Bar + Kitchen since July '17.</p>",
+              "value": "Welcome back! You haven't checked in to 21 Square Bar + Kitchen since July '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c5a3a1f3092be002ce32604/a5942f39d42ed59846031a9b73206fab"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c5a3a1f3092be002ce32604/a5942f39d42ed59846031a9b73206fab"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 52.91\u00b0F and 56% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 52.91\u00b0F and 56% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 52.91\u00b0F and 56% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-21-square-bar-kitchen-1/annotations/e57edee1ce4d4e12318fc3b0e70cd9c3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-21-square-bar-kitchen-1/annotations/e57edee1ce4d4e12318fc3b0e70cd9c3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c5a3a1f3092be002ce32604"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f3d42dcc37479881ac1baeddac8014ff"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-06T01:31:03Z",
+      "year": 2019,
+      "month": 2,
+      "day": 6,
+      "hour": 1,
+      "minute": 31,
+      "x": -118.35292834716672,
+      "y": 33.834270413891446,
+      "altitude": 26,
+      "motion": [
+        "driving"
+      ],
+      "speed": 11,
+      "battery_state": "charging",
+      "battery_level": 0.25999999046325684,
+      "wifi": ""
+    }
+  }
+}

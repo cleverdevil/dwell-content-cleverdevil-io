@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/08-a-god-walks-into-a-bar"
+    ],
+    "published": [
+      "2019-12-10T17:01:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.03\u00b0F and 57% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.03\u00b0F and 57% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.03\u00b0F and 57% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/08-a-god-walks-into-a-bar/annotations/ea2e8d49fd18b35a33196a384545108a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/08-a-god-walks-into-a-bar/annotations/ea2e8d49fd18b35a33196a384545108a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f1b70257e2a46e1ada04585e775e9d56"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-10T20:02:46Z",
+      "year": 2019,
+      "month": 12,
+      "day": 10,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.39515391036004,
+      "y": 33.919720946555906,
+      "altitude": 31,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 08. A God Walks Into A Bar"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file//thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+VJ9HSYBgI"
+        ],
+        "content": [
+          {
+            "html": "<p>Time is a flat circle! Remember that? Anyway, time exists on all points for the gang as they discuss the penultimate episode, featuring the great blue dong himself! Also: A NEW game is played! It\u2019s called Gatekeeper! Topgallantradio.com - Radio for sailors</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Watchmen: On the Clock</p>",
+            "value": "Time is a flat circle! Remember that? Anyway, time exists on all points for the gang as they discuss the penultimate episode, featuring the great blue dong himself! Also: A NEW game is played! It\u2019s called Gatekeeper! Topgallantradio.com - Radio for sailors\nBy Watchmen: On the Clock"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

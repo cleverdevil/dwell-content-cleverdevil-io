@@ -1,0 +1,127 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Selfishly, I want someone to step up to maintain @Nextclouders News, since its my current news reader!"
+    ],
+    "content": [
+      {
+        "html": "Selfishly, I want someone to step up to maintain @Nextclouders News, since its my current news reader!",
+        "value": "Selfishly, I want someone to step up to maintain @Nextclouders News, since its my current news reader!"
+      }
+    ],
+    "url": [
+      "/2017/selfishly-i-want-someone-to-step-up-to-maintain-nextclouders"
+    ],
+    "published": [
+      "2017-05-22T22:26:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "#ownyourownreader?"
+          ],
+          "content": [
+            {
+              "html": "<p>#ownyourownreader?</p>",
+              "value": "#ownyourownreader?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c8020305e8e2916631535e86978ccb3f"
+                ],
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://stream.boffosocko.com/profile/chrisaldrich"
+                ]
+              },
+              "value": "Chris Aldrich"
+            }
+          ],
+          "url": [
+            "http://stream.boffosocko.com/2017/ownyourownreader"
+          ]
+        },
+        "value": "http://stream.boffosocko.com/2017/ownyourownreader"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/866782395483271169"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "631d8cb8b24670e80e31d44925b65134"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/866782395483271169?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F866782395483271169%2F734010048712675329"
+          ],
+          "published": [
+            "2017-05-23T08:22:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nextcloud"
+                ],
+                "url": [
+                  "https://twitter.com/Nextclouders"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/61c2980d923fb0e4c428c5e62f186783/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/61c2980d923fb0e4c428c5e62f186783/thumb.jpg Nextcloud"
+            }
+          ]
+        },
+        "value": "Nextcloud"
+      }
+    ]
+  }
+}

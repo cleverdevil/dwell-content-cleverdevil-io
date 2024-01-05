@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/326-2020-year-in-review-not-an-ideal-situation"
+    ],
+    "published": [
+      "2021-01-05T17:12:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "08b25b9d4b5dd03e9922ababc0f00e65"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-05T20:00:39Z",
+      "year": 2021,
+      "month": 1,
+      "day": 5,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37035333710367,
+      "y": 33.81541045523593,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 326: 2020 Year in Review: Not an Ideal Situation"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e6682dbc0d3bf91dc059c0ef8c406412/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5aY0iU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, the guys walk down memory lane, re-visiting the top tech stories of 2020. It was \u2026 quite the year.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, the guys walk down memory lane, re-visiting the top tech stories of 2020. It was \u2026 quite the year.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

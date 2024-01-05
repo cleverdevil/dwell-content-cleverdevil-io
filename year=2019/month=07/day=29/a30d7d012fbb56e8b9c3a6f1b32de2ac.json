@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played SUPER MARIO ODYSSEY\nPlayed on the Nintendo Switch.\nPlayed for 35 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/d56096fba4f72e7ba041c2d7859613d0/thumb.jpg"
+    ],
+    "name": [
+      "SUPER MARIO ODYSSEY"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 35 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 35 minutes."
+      }
+    ],
+    "url": [
+      "/2019/super-mario-odyssey-8"
+    ],
+    "published": [
+      "2019-07-29T06:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.81\u00b0F and 95% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.81\u00b0F and 95% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 64.81\u00b0F and 95% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/super-mario-odyssey-8/annotations/aaf3b2951143fdcd4076980e7de658e5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/super-mario-odyssey-8/annotations/aaf3b2951143fdcd4076980e7de658e5"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "a30d7d012fbb56e8b9c3a6f1b32de2ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-29T06:29:08Z",
+      "year": 2019,
+      "month": 7,
+      "day": 29,
+      "hour": 6,
+      "minute": 29,
+      "x": -118.37056078999852,
+      "y": 33.81534916135355,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

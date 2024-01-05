@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sherman's Deli & Bakery"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sherman's Deli & Bakery"
+          ],
+          "latitude": [
+            "33.822984245311"
+          ],
+          "longitude": [
+            "-116.54335585388"
+          ]
+        },
+        "value": "Sherman's Deli & Bakery"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sherman's Deli & Bakery"
+          ],
+          "latitude": [
+            "33.822984245311"
+          ],
+          "longitude": [
+            "-116.54335585388"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-shermans-deli-bakery"
+    ],
+    "published": [
+      "2023-11-22T21:21:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Sherman's Deli & Bakery!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Sherman's Deli &amp; Bakery!</p>",
+              "value": "Your first check-in at Sherman's Deli & Bakery!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/655e70bd0b5812204f989c58/b5a4e0e90f797a0ec4ece65361a99ea7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/655e70bd0b5812204f989c58/b5a4e0e90f797a0ec4ece65361a99ea7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Deli check-in in 3 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Deli check-in in 3 years!</p>",
+              "value": "First Deli check-in in 3 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/655e70bd0b5812204f989c58/df6d16b89016f437e65413e4161661ac"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/655e70bd0b5812204f989c58/df6d16b89016f437e65413e4161661ac"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/655e70bd0b5812204f989c58"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "88277c0273bac67466f48b95d865e8f1"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-11-22T20:59:06Z",
+      "year": 2023,
+      "month": 11,
+      "day": 22,
+      "hour": 20,
+      "minute": 59,
+      "x": -116.544153,
+      "y": 33.822938,
+      "altitude": 137,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9,
+      "wifi": ""
+    }
+  }
+}

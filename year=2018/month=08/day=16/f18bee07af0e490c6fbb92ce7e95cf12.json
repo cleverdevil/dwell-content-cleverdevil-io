@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into FishBar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "FishBar"
+          ],
+          "latitude": [
+            "33.901814848843"
+          ],
+          "longitude": [
+            "-118.41826093533"
+          ]
+        },
+        "value": "FishBar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "FishBar"
+          ],
+          "latitude": [
+            "33.901814848843"
+          ],
+          "longitude": [
+            "-118.41826093533"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Early dinner with the fam and my visiting parents.</p>",
+        "value": "Early dinner with the fam and my visiting parents."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-fishbar-2"
+    ],
+    "published": [
+      "2018-08-16T00:05:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in North End was over 2 months ago at FishBar."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in North End was over 2 months ago at FishBar.</p>",
+              "value": "Your last check-in in North End was over 2 months ago at FishBar."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b74bfdd811045002c2f7763/3d16153ed0e0fa4af1760ca3bd8d5b31"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b74bfdd811045002c2f7763/3d16153ed0e0fa4af1760ca3bd8d5b31"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b74bfdd811045002c2f7763"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f18bee07af0e490c6fbb92ce7e95cf12"
+    ]
+  }
+}

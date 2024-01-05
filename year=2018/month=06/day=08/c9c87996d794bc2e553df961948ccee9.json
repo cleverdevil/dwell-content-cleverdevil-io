@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/611-dark-mode-irl"
+    ],
+    "published": [
+      "2018-06-08T22:06:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c9c87996d794bc2e553df961948ccee9"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 611: Dark Mode IRL"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/962c200107b76ba22dffb09f5d340d90/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Jz-zzZvM4"
+        ],
+        "content": [
+          {
+            "html": "<p>Mikah Sargent and Lory Gil talk about all the new awesomeness coming in iOS 12, WatchOS 5, and macOS Mojave. They share some favorite features demoed at WWDC and their experiences using the first developer beta. Don\u2019t try this at home, kids! Public\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  iMore show</p>",
+            "value": "Mikah Sargent and Lory Gil talk about all the new awesomeness coming in iOS 12, WatchOS 5, and macOS Mojave. They share some favorite features demoed at WWDC and their experiences using the first developer beta. Don\u2019t try this at home, kids! Public\u2026\nBy iMore show"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

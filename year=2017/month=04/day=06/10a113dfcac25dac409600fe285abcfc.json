@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "IndiewebPress: Connecting Your Site and Mine - David Shanske"
+    ],
+    "bookmark-of": [
+      "https://david.shanske.com/2017/04/05/indiewebpress-connecting-your-site-and-mine/"
+    ],
+    "content": [
+      {
+        "html": "<p><a href=\"https://david.shanske.com\">David Shanske</a>\u00a0is writing a blog series on <a href=\"https://wordpress.org\">WordPress</a>\u00a0and the <a href=\"https://indieweb.org\">IndieWeb</a>. The <a href=\"https://david.shanske.com/2017/04/02/indiewebpress-improving-comments/\">first article in the series addressed comments</a>, and this one talks about <a href=\"https://indieweb.org/Webmention\">Webmention</a>\u00a0and <a href=\"https://indieweb.org/Vouch\">Vouch</a>. Its a great series worth following, especially if you're a WordPress person who is interested in learning more about the IndieWeb and how you can take part.</p>",
+        "value": "David Shanske\u00a0is writing a blog series on WordPress\u00a0and the IndieWeb. The first article in the series addressed comments, and this one talks about Webmention\u00a0and Vouch. Its a great series worth following, especially if you're a WordPress person who is interested in learning more about the IndieWeb and how you can take part."
+      }
+    ],
+    "url": [
+      "/2017/indiewebpress-connecting-your-site-and-mine---david-shanske"
+    ],
+    "published": [
+      "2017-04-06T17:30:14+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/850037949358120962"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "10a113dfcac25dac409600fe285abcfc"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/850037949358120962?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F850037949358120962%2F14469175"
+          ],
+          "published": [
+            "2017-04-06T18:29:15+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "David"
+                ],
+                "url": [
+                  "https://twitter.com/davidandgoliath"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/69d95f720b41a8d17ff0622beb1ce7e0/thumb.jpg"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/69d95f720b41a8d17ff0622beb1ce7e0/thumb.jpg David"
+            }
+          ]
+        },
+        "value": "David"
+      }
+    ]
+  }
+}

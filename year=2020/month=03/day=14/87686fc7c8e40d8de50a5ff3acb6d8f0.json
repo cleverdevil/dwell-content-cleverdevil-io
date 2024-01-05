@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-285-how-much-ram-is-in-these-potatoes-2"
+    ],
+    "published": [
+      "2020-03-14T17:33:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.84\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.84\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.84\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-285-how-much-ram-is-in-these-potatoes-2/annotations/94b3e2bd9d7cf059393e3cc65ac16ee8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-285-how-much-ram-is-in-these-potatoes-2/annotations/94b3e2bd9d7cf059393e3cc65ac16ee8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "87686fc7c8e40d8de50a5ff3acb6d8f0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-03-15T04:02:33Z",
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37048116403035,
+      "y": 33.815334438796086,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 285: How Much RAM is in These Potatoes?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a5efafd0358b7eb13b5a4ffc334fbf19/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4ksgu8"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico gives a status report about life in Italy, then Stephen tries to cheer people up by talking about the HomePod. After that fails, Myke tells a story and the gang wade through a sea of iOS 14 rumors.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico gives a status report about life in Italy, then Stephen tries to cheer people up by talking about the HomePod. After that fails, Myke tells a story and the gang wade through a sea of iOS 14 rumors.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

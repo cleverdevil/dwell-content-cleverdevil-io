@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Editing a post in Known can have destructive side effects on content"
+    ],
+    "content": [
+      {
+        "html": "<p>There is a bug in <a class=\"u-in-reply-to\" href=\"https://github.com/idno/Known\">Known</a> which causes HTML posts published via Micropub to be changed (usually in bad ways) when \"editing\" the post, even when you don't actually make any changes to the post. I discovered this issue when publishing via <a href=\"http://www.manton.org/2018/01/sunlit-beta-update.html\">Sunlit 2.0</a>, which supports Micropub.</p><p>I published two stories:</p><ul><li><a href=\"https://cleverdevil.io/2018/car-museum-with-william\">Car Museum with William</a></li>\n<li><a href=\"https://cleverdevil.io/2018/san-diego-with-lacey\">San Diego with Lacey</a></li>\n</ul><p>Because Sunlit doesn't yet support syndication via Micropub, I clicked \"edit\" on one of the posts, and toggled on syndication to Twitter and Facebook, and then clicked \"save.\" The result was that the post's content was changed (in a destructive way, resulting in visual regressions), even though I hadn't actually edited the content, or even clicked into the content editor.</p><p>Seems like this is a bug.</p>",
+        "value": "There is a bug in Known which causes HTML posts published via Micropub to be changed (usually in bad ways) when \"editing\" the post, even when you don't actually make any changes to the post. I discovered this issue when publishing via Sunlit 2.0, which supports Micropub.\nI published two stories:Car Museum with William San Diego with Lacey\nBecause Sunlit doesn't yet support syndication via Micropub, I clicked \"edit\" on one of the posts, and toggled on syndication to Twitter and Facebook, and then clicked \"save.\" The result was that the post's content was changed (in a destructive way, resulting in visual regressions), even though I hadn't actually edited the content, or even clicked into the content editor.\nSeems like this is a bug."
+      }
+    ],
+    "in-reply-to": [
+      "https://github.com/idno/Known"
+    ],
+    "url": [
+      "/2018/editing-a-post-in-known-can-have-destructive-side-effects"
+    ],
+    "published": [
+      "2018-02-12T17:15:32+0000"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "2cbb4a6919a98b7675e42c4e2d28e93c"
+    ]
+  }
+}

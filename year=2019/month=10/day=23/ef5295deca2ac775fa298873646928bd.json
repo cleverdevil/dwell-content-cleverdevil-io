@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mickey & Friends Parking Structure"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mickey & Friends Parking Structure"
+          ],
+          "latitude": [
+            "33.815006680233"
+          ],
+          "longitude": [
+            "-117.92518615723"
+          ]
+        },
+        "value": "Mickey & Friends Parking Structure"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mickey & Friends Parking Structure"
+          ],
+          "latitude": [
+            "33.815006680233"
+          ],
+          "longitude": [
+            "-117.92518615723"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-mickey-friends-parking-structure"
+    ],
+    "published": [
+      "2019-10-23T01:09:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Parking!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Parking!</p>",
+              "value": "Wow! That's 5 check-ins at Parking!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dafa848e8e50c0007d3577c/b9f07adc06114f01b133038b18e4b539"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dafa848e8e50c0007d3577c/b9f07adc06114f01b133038b18e4b539"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 83.1\u00b0F and 30% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 83.1\u00b0F and 30% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 83.1\u00b0F and 30% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-mickey-friends-parking-structure/annotations/f4fe66670e82120360f00d1454196e7d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-mickey-friends-parking-structure/annotations/f4fe66670e82120360f00d1454196e7d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dafa848e8e50c0007d3577c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ef5295deca2ac775fa298873646928bd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-23T01:04:56Z",
+      "year": 2019,
+      "month": 10,
+      "day": 23,
+      "hour": 1,
+      "minute": 4,
+      "x": -117.92706702541835,
+      "y": 33.815298788771045,
+      "altitude": 40,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

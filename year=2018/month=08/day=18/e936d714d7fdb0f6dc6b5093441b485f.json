@@ -1,0 +1,116 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I have started to think of Micro.blog as a wonderful discovery and aggregation service for the IndieWeb. It fits neatly into my Microsub reader, enables me to find new people to follow and interact with, and integrates perfectly with my website through Webmentions. \ud83d\udc4f\ud83c\udffb"
+    ],
+    "content": [
+      {
+        "html": "I have started to think of Micro.blog as a wonderful discovery and aggregation service for the IndieWeb. It fits neatly into my Microsub reader, enables me to find new people to follow and interact with, and integrates perfectly with my website through Webmentions. \ud83d\udc4f\ud83c\udffb",
+        "value": "I have started to think of Micro.blog as a wonderful discovery and aggregation service for the IndieWeb. It fits neatly into my Microsub reader, enables me to find new people to follow and interact with, and integrates perfectly with my website through Webmentions. \ud83d\udc4f\ud83c\udffb"
+      }
+    ],
+    "url": [
+      "/2018/i-have-started-to-think-of-microblog"
+    ],
+    "published": [
+      "2018-08-18T17:21:48+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e936d714d7fdb0f6dc6b5093441b485f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2018/08/18/13/"
+          ],
+          "published": [
+            "2018-08-18T17:21:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/08/18/30/like/"
+          ],
+          "published": [
+            "2018-08-18T20:34:09+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

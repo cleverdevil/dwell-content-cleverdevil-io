@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The MacBook keyboard fiasco is way worse than Apple thinks - Signal v. Noise"
+    ],
+    "like-of": [
+      "https://m.signalvnoise.com/the-macbook-keyboard-fiasco-is-surely-worse-than-apple-thinks/"
+    ],
+    "url": [
+      "/2019/the-macbook-keyboard-fiasco-is-way-worse-than-apple-thinks"
+    ],
+    "published": [
+      "2019-04-03T04:20:09+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.75\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.75\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 57.75\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-macbook-keyboard-fiasco-is-way-worse-than-apple-thinks/annotations/c8cda3f08507aa06bdfcaf197cabd053"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-macbook-keyboard-fiasco-is-way-worse-than-apple-thinks/annotations/c8cda3f08507aa06bdfcaf197cabd053"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "5bd0e1ac7d53be8fe3388c35ebbac5f9"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-03T04:19:33Z",
+      "year": 2019,
+      "month": 4,
+      "day": 3,
+      "hour": 4,
+      "minute": 19,
+      "x": -118.37031419947775,
+      "y": 33.81540960740882,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": "LaCour"
+    }
+  }
+}

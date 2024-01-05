@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/injunction-junction"
+    ],
+    "published": [
+      "2023-09-19T04:05:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9f2f378a181d9fbe3212e823c22e7f86"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-19T05:40:41Z",
+      "year": 2023,
+      "month": 9,
+      "day": 19,
+      "hour": 5,
+      "minute": 40,
+      "x": -122.34172720759875,
+      "y": 47.62320309272503,
+      "altitude": 11,
+      "motion": [
+        "driving"
+      ],
+      "speed": 11,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Injunction Junction"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9df25d75377f2540dcaf2f32acdf0f77/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2gBMQg"
+        ],
+        "content": [
+          {
+            "html": "<p>Dan brings the case against his wife, Carrie. Dan wants to build a model railroad in a small switching layout that simulates a switchyard. This type of model railroad does not move in a loop. Carrie says that a model railroad is pointless if it doesn\u2019t move in a loop! Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Dan brings the case against his wife, Carrie. Dan wants to build a model railroad in a small switching layout that simulates a switchyard. This type of model railroad does not move in a loop. Carrie says that a model railroad is pointless if it doesn\u2019t move in a loop! Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/234-everybody-has-asterisks"
+    ],
+    "published": [
+      "2017-08-14T15:33:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "62074769dd2b5bcf08161bc75fd53f49"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 234: Everybody Has Asterisks"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9052794ab348ae26823f73e5698a06b0/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+CdSCxRoQ"
+        ],
+        "content": [
+          {
+            "html": "<p>The <a class=\"p-category\" href=\"/tag/askatp\" rel=\"tag\">#askatp</a> Q&amp;A episode!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "The #askatp Q&A episode!\nBy Accidental Tech Podcast"
+          }
+        ],
+        "category": [
+          "#askatp"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

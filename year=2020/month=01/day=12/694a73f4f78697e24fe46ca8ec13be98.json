@@ -1,0 +1,147 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Mr. Robot 4x12 \"whoami\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/ac5332ea57f50749a896a68a8b4e9d03/thumb.jpg"
+          ],
+          "name": [
+            "Mr. Robot 4x12 \"whoami\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3819186"
+          ]
+        },
+        "value": "Mr. Robot 4x12 \"whoami\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Elliot questions his identity and the world he woke up into.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Elliot questions his identity and the world he woke up into.\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2020/mr-robot-4x12-whoami"
+    ],
+    "published": [
+      "2020-01-12T07:00:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 52.18\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 52.18\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 52.18\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/mr-robot-4x12-whoami/annotations/d01bb318a9a13e7f2cf66c958d9eb1da"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/mr-robot-4x12-whoami/annotations/d01bb318a9a13e7f2cf66c958d9eb1da"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "694a73f4f78697e24fe46ca8ec13be98"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-12T06:58:31Z",
+      "year": 2020,
+      "month": 1,
+      "day": 12,
+      "hour": 6,
+      "minute": 58,
+      "x": -118.37031239628618,
+      "y": 33.81542925825505,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.47999998927116394,
+      "wifi": "LaCour"
+    }
+  }
+}

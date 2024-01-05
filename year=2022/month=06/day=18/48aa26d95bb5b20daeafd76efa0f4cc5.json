@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/487-mid-life-rally"
+    ],
+    "published": [
+      "2022-06-18T07:44:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "48aa26d95bb5b20daeafd76efa0f4cc5"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-18T08:01:46Z",
+      "year": 2022,
+      "month": 6,
+      "day": 18,
+      "hour": 8,
+      "minute": 1,
+      "x": -116.3803518723905,
+      "y": 33.70170629174508,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.23999999463558197,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 487: Mid-Life Rally"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/cdc92fff5f0fb2da0f76fb020aa85ae4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKnnV88"
+        ],
+        "content": [
+          {
+            "html": "<p>Aging hosts with aging hardware, passkey recovery, Stage Manager device segmentation, and the design of System Settings.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Aging hosts with aging hardware, passkey recovery, Stage Manager device segmentation, and the design of System Settings.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Skyview Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": "Skyview Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Skyview Center"
+          ],
+          "latitude": [
+            "33.946964956144"
+          ],
+          "longitude": [
+            "-118.38981767002"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>\ud83d\udcbb</p>",
+        "value": "\ud83d\udcbb"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-skyview-center-5"
+    ],
+    "published": [
+      "2018-01-26T16:40:59+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 5 straight days at Buildings. You set a new record!"
+          ],
+          "content": [
+            {
+              "html": "<p>That's 5 straight days at Buildings. You set a new record!</p>",
+              "value": "That's 5 straight days at Buildings. You set a new record!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a6b5a0b8ad62e3afea011c2/ab564fbf054681edc91401adcc6629ed"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a6b5a0b8ad62e3afea011c2/ab564fbf054681edc91401adcc6629ed"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a6b5a0b8ad62e3afea011c2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6d384167f7e85e16f03d24a7b26e8869"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-282-three-homepods-too-late"
+    ],
+    "published": [
+      "2020-02-21T17:22:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 68.57\u00b0F and 51% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 68.57\u00b0F and 51% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 68.57\u00b0F and 51% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-282-three-homepods-too-late/annotations/a0c93b8783541bda3a260e2523055219"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-282-three-homepods-too-late/annotations/a0c93b8783541bda3a260e2523055219"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "172921579d0ba1edd3271c854c6c82dc"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-21T20:01:57Z",
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.37037530524007,
+      "y": 33.815404601687774,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 282: Three HomePods Too Late"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/213691447e0c7f3f0816b49ecd37e37d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5nsr_c"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen shares a prepared statement. Myke suggests some games and Federico envisions a March iPad Pro event. Also: more Qi chargers have come on the market and a discussion about the HomePod\u2019s future.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen shares a prepared statement. Myke suggests some games and Federico envisions a March iPad Pro event. Also: more Qi chargers have come on the market and a discussion about the HomePod\u2019s future.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

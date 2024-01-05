@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into JC's Patio Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": "JC's Patio Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Brunch in the heat</p>",
+        "value": "Brunch in the heat"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-jcs-patio-cafe-2"
+    ],
+    "published": [
+      "2022-06-12T18:15:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still the Mayor! They might as well name the place after you!"
+          ],
+          "content": [
+            {
+              "html": "<p>Still the Mayor! They might as well name the place after you!</p>",
+              "value": "Still the Mayor! They might as well name the place after you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62a62d4435e3ec462dbabe39/7f6d493f2bf1ef5520316723c18099d1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62a62d4435e3ec462dbabe39/7f6d493f2bf1ef5520316723c18099d1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62a62d4435e3ec462dbabe39"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "95fd532f1d3d6f41082f98284d08f318"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-12T18:15:22Z",
+      "year": 2022,
+      "month": 6,
+      "day": 12,
+      "hour": 18,
+      "minute": 15,
+      "x": -116.38722491874852,
+      "y": 33.72004216167786,
+      "altitude": 76,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "JC's Cafe"
+    }
+  }
+}

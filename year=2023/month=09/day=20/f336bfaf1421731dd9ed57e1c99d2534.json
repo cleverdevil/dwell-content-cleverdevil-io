@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta SkyClub A-B"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta SkyClub A-B"
+          ],
+          "latitude": [
+            "47.442524547599"
+          ],
+          "longitude": [
+            "-122.30270411898"
+          ]
+        },
+        "value": "Delta SkyClub A-B"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta SkyClub A-B"
+          ],
+          "latitude": [
+            "47.442524547599"
+          ],
+          "longitude": [
+            "-122.30270411898"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-delta-skyclub-a-b-5"
+    ],
+    "published": [
+      "2023-09-20T18:57:56+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to this Delta since April."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to this Delta since April.</p>",
+              "value": "Welcome back! You haven't checked in to this Delta since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/650b40b41b063e6074ad3c7e/0e64991076e71b9b873906a66c134d28"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/650b40b41b063e6074ad3c7e/0e64991076e71b9b873906a66c134d28"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/650b40b41b063e6074ad3c7e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f336bfaf1421731dd9ed57e1c99d2534"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-20T18:42:59Z",
+      "year": 2023,
+      "month": 9,
+      "day": 20,
+      "hour": 18,
+      "minute": 42,
+      "x": -122.300683005073,
+      "y": 47.442643908693775,
+      "altitude": 121,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": ""
+    }
+  }
+}

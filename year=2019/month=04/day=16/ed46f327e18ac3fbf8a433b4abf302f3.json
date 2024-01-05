@@ -1,0 +1,109 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Fun trip: https://cleverdevil.io/2019/catalina-camping-with-william"
+    ],
+    "content": [
+      {
+        "html": "Fun trip: <a href=\"https://cleverdevil.io/2019/catalina-camping-with-william\" target=\"_blank\">https://<wbr/>cleverdevil.io/<wbr/>2019/<wbr/>catalina-camping-with-william</a>",
+        "value": "Fun trip: https://cleverdevil.io/2019/catalina-camping-with-william"
+      }
+    ],
+    "url": [
+      "/2019/fun-trip-2019catalina-camping-with-william"
+    ],
+    "published": [
+      "2019-04-16T15:47:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.13\u00b0F and 75% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.13\u00b0F and 75% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.13\u00b0F and 75% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/fun-trip-2019catalina-camping-with-william/annotations/5f0579a1e8eeea926ac711f39cee3fe6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/fun-trip-2019catalina-camping-with-william/annotations/5f0579a1e8eeea926ac711f39cee3fe6"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1118179063947038722",
+      "https://mastodon.social/@cleverdevil/101936636864885933"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "ed46f327e18ac3fbf8a433b4abf302f3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-16T15:46:07Z",
+      "year": 2019,
+      "month": 4,
+      "day": 16,
+      "hour": 15,
+      "minute": 46,
+      "x": -118.39970140540115,
+      "y": 33.95039317736421,
+      "altitude": 32,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7699999809265137,
+      "wifi": ""
+    }
+  }
+}

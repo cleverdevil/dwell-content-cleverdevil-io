@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/12-the-amazon-fire-phone"
+    ],
+    "published": [
+      "2021-03-25T07:44:07+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3b4d66b1bd022f2d0a559037dea21fac"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-25T07:30:17Z",
+      "year": 2021,
+      "month": 3,
+      "day": 25,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37055234164858,
+      "y": 33.815311662167666,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 12: The Amazon Fire Phone"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b10376b2ae7740124a8e9222c1b2ac31/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2w1wTBY"
+        ],
+        "content": [
+          {
+            "html": "<p>This time, Quinn and Stephen look back \u2014 in 3D! \u2014 at the Amazon Fire Phone. Between its operating system, unusual gesture system and a price that was way too high, it was dead on arrival. After that, the guys go shopping for each other on Amazon.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "This time, Quinn and Stephen look back \u2014 in 3D! \u2014 at the Amazon Fire Phone. Between its operating system, unusual gesture system and a price that was way too high, it was dead on arrival. After that, the guys go shopping for each other on Amazon.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

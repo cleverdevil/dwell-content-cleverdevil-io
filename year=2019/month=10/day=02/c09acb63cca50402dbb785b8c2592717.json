@@ -1,0 +1,108 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2019/10/01/31/"
+    ],
+    "name": [
+      "I just ordered one of these, as it was dirt cheap and worth trying out - https://www.amazon.com/dp/B001UE7SC8/ref=cm_sw_r_cp_api_i_qnaLDbYM70QJ5"
+    ],
+    "content": [
+      {
+        "html": "I just ordered one of these, as it was dirt cheap and worth trying out - <a href=\"https://www.amazon.com/dp/B001UE7SC8/ref=cm_sw_r_cp_api_i_qnaLDbYM70QJ5\" target=\"_blank\">https://<wbr/>www.amazon.com/<wbr/>dp/<wbr/>B001UE7SC8/<wbr/>ref=<wbr/>cm_sw_r_cp_api_i_qnaLDbYM70QJ5</a>",
+        "value": "I just ordered one of these, as it was dirt cheap and worth trying out - https://www.amazon.com/dp/B001UE7SC8/ref=cm_sw_r_cp_api_i_qnaLDbYM70QJ5"
+      }
+    ],
+    "url": [
+      "/2019/i-just-ordered-one-of-these-as"
+    ],
+    "published": [
+      "2019-10-02T01:57:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 83.46\u00b0F and 50% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 83.46\u00b0F and 50% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 83.46\u00b0F and 50% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i-just-ordered-one-of-these-as/annotations/2b66f2efb3dcfb33cb8fb42e45bf29a2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i-just-ordered-one-of-these-as/annotations/2b66f2efb3dcfb33cb8fb42e45bf29a2"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "c09acb63cca50402dbb785b8c2592717"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-02T01:56:44Z",
+      "year": 2019,
+      "month": 10,
+      "day": 2,
+      "hour": 1,
+      "minute": 56,
+      "x": -85.55155288346164,
+      "y": 38.29620562453979,
+      "altitude": 210,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": ""
+    }
+  }
+}

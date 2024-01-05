@@ -1,0 +1,54 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://twitter.com/benwerd/status/949749939927621633"
+    ],
+    "name": [
+      "@benwerd I'm interested in simplifying as well... I've been considering developing a flat-file storage backend for Known, with directories of JSON files for storage. Server management isn't that bad, and AWS Elastic Beanstalk makes it even less of an issue."
+    ],
+    "content": [
+      {
+        "html": "<a href=\"https://twitter.com/benwerd\" target=\"_blank\">@benwerd</a> I'm interested in simplifying as well... I've been considering developing a flat-file storage backend for Known, with directories of JSON files for storage. Server management isn't that bad, and AWS Elastic Beanstalk makes it even less of an issue.",
+        "value": "@benwerd I'm interested in simplifying as well... I've been considering developing a flat-file storage backend for Known, with directories of JSON files for storage. Server management isn't that bad, and AWS Elastic Beanstalk makes it even less of an issue."
+      }
+    ],
+    "url": [
+      "/2018/benwerd-im-interested-in-simplifying-as-well-ive-been-considering"
+    ],
+    "published": [
+      "2018-01-09T18:41:40+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/950799751385112576"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "b3d89545bfdb8eba832b5fc0256472f7"
+    ]
+  }
+}

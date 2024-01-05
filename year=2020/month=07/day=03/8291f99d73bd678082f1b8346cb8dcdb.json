@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-301-we-should-be-developers"
+    ],
+    "published": [
+      "2020-07-03T02:28:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.38\u00b0F and 88% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.38\u00b0F and 88% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.38\u00b0F and 88% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-301-we-should-be-developers/annotations/d7a6cd8f4c8c452f6fb4180fcf94a2e6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-301-we-should-be-developers/annotations/d7a6cd8f4c8c452f6fb4180fcf94a2e6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8291f99d73bd678082f1b8346cb8dcdb"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-03T04:03:26Z",
+      "year": 2020,
+      "month": 7,
+      "day": 3,
+      "hour": 4,
+      "minute": 3,
+      "x": -118.37035031005098,
+      "y": 33.815463973317854,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9900000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 301: We Should Be Developers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4e42b96c3f4feafd6bfd95730290d6f8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx55oUZ4"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, the guys talk with Jenny Chen, an Apple engineer who works on Apple Pencil software, and Stephen Tonna from Apple\u2019s product marketing team about what\u2019s new in iPad OS 14, including Scribble and the release\u2019s updated design language.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, the guys talk with Jenny Chen, an Apple engineer who works on Apple Pencil software, and Stephen Tonna from Apple\u2019s product marketing team about what\u2019s new in iPad OS 14, including Scribble and the release\u2019s updated design language.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-58-cheeses"
+    ],
+    "published": [
+      "2019-11-30T18:17:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 56.57\u00b0F and 60% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 56.57\u00b0F and 60% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 56.57\u00b0F and 60% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-four-58-cheeses/annotations/51aad8c55d6036d8dfe3d675bc57fe2f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-four-58-cheeses/annotations/51aad8c55d6036d8dfe3d675bc57fe2f"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d537c27f354e2ac00fe3fcb72417b5d2"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-30T20:01:17Z",
+      "year": 2019,
+      "month": 11,
+      "day": 30,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.37035342122283,
+      "y": 33.81540159817167,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6499999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 58: Cheeses \ud83e\uddc0"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1ed513248ffd57f63f36b881515a31df/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDba4lDg"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite types of cheese, taste-tested live for your enjoyment \u2014 or at least ours.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite types of cheese, taste-tested live for your enjoyment \u2014 or at least ours.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

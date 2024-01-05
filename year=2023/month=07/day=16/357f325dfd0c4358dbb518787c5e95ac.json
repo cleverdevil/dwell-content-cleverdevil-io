@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/381-tape-deck-dongle-with-joanna-stern"
+    ],
+    "published": [
+      "2023-07-16T00:33:40+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "357f325dfd0c4358dbb518787c5e95ac"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-15T23:38:42Z",
+      "year": 2023,
+      "month": 7,
+      "day": 15,
+      "hour": 23,
+      "minute": 38,
+      "x": -118.37039830500575,
+      "y": 33.815404315892124,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 381: \u2018Tape Deck Dongle\u2019, With Joanna Stern"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c322e73b8acc3c62c1bf07d644fc6b49/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBrRIuQ"
+        ],
+        "content": [
+          {
+            "html": "<p>381: \u2018Tape Deck Dongle\u2019, With Joanna Stern</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "381: \u2018Tape Deck Dongle\u2019, With Joanna Stern\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

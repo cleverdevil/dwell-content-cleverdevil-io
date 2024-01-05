@@ -1,0 +1,495 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Well so much for the 2G internet excitement. It turns out that my top of the line Eero Pro 6E only has a single 2.5 GbE port. So, I can connect it to the upstream at full speed, but everything wired downstream will be limited to 1 GbE speeds. Lame."
+    ],
+    "content": [
+      {
+        "html": "Well so much for the 2G internet excitement. It turns out that my top of the line Eero Pro 6E only has a single 2.5 GbE port. So, I can connect it to the upstream at full speed, but everything wired downstream will be limited to 1 GbE speeds. Lame.",
+        "value": "Well so much for the 2G internet excitement. It turns out that my top of the line Eero Pro 6E only has a single 2.5 GbE port. So, I can connect it to the upstream at full speed, but everything wired downstream will be limited to 1 GbE speeds. Lame."
+      }
+    ],
+    "url": [
+      "/2023/well-so-much-for-the-2g-internet"
+    ],
+    "published": [
+      "2023-05-31T22:58:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Paging @mikepj because I\u2019ve seen him write smart stuff about fast Ethernet. Mike, if you have a chance do you have any advice for Jonathan about taking full advantage of his new home fiber upgrade?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Paging @mikepj because I\u2019ve seen him write smart stuff about fast Ethernet. Mike, if you have a chance do you have any advice for Jonathan about taking full advantage of his new home fiber upgrade?</p>",
+              "value": "@cleverdevil Paging @mikepj because I\u2019ve seen him write smart stuff about fast Ethernet. Mike, if you have a chance do you have any advice for Jonathan about taking full advantage of his new home fiber upgrade?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzEwOTkwMDhmODJhZDM4YWZkMGZhM2UyZDNjNGQ3OGY3P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "fgtech"
+                ],
+                "url": [
+                  "https://micro.blog/fgtech"
+                ]
+              },
+              "value": "fgtech"
+            }
+          ],
+          "url": [
+            "https://micro.blog/fgtech/19547297"
+          ]
+        },
+        "value": "https://micro.blog/fgtech/19547297"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@fgtech @cleverdevil Did you end up finding a better solution? Probably the best option would be to have another upstream router/firewall to give you 2.5Gb (or faster) LAN ports, and hang the Eero off of that just for wifi."
+          ],
+          "content": [
+            {
+              "html": "<p>@fgtech @cleverdevil Did you end up finding a better solution? Probably the best option would be to have another upstream router/firewall to give you 2.5Gb (or faster) LAN ports, and hang the Eero off of that just for wifi.</p>",
+              "value": "@fgtech @cleverdevil Did you end up finding a better solution? Probably the best option would be to have another upstream router/firewall to give you 2.5Gb (or faster) LAN ports, and hang the Eero off of that just for wifi."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2M2NzA2NmI5NzdkMWMyNjVmMDRiMGE5YTA0NThiMmUwP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "mikepj"
+                ],
+                "url": [
+                  "https://micro.blog/mikepj"
+                ]
+              },
+              "value": "mikepj"
+            }
+          ],
+          "url": [
+            "https://micro.blog/mikepj/19836214"
+          ]
+        },
+        "value": "https://micro.blog/mikepj/19836214"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@mikepj yeah that\u2019s sort of what I\u2019m thinking. I honestly have been so busy I haven\u2019t had a chance to research. Apparently Eero will have a solution soonish, but it looks like it will come in the form of a expensive PoE adapter that just happens to be able to solve the problem as a side effect."
+          ],
+          "content": [
+            {
+              "html": "<p>@mikepj yeah that\u2019s sort of what I\u2019m thinking. I honestly have been so busy I haven\u2019t had a chance to research. Apparently Eero will have a solution soonish, but it looks like it will come in the form of a expensive PoE adapter that just happens to be able to solve the problem as a side effect.</p>",
+              "value": "@mikepj yeah that\u2019s sort of what I\u2019m thinking. I honestly have been so busy I haven\u2019t had a chance to research. Apparently Eero will have a solution soonish, but it looks like it will come in the form of a expensive PoE adapter that just happens to be able to solve the problem as a side effect."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19836707"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19836707"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@mikepj @cleverdevil @fgtech I have the same issue. I bought a 2.5G switch for upstairs and hardwired it to the main router downstairs but it isn't reliable. Those switches are $100+ We got two extenders for the rest of the house from Google but I still think we are not making full use of the 2G"
+          ],
+          "content": [
+            {
+              "html": "<p>@mikepj @cleverdevil @fgtech I have the same issue. I bought a 2.5G switch for upstairs and hardwired it to the main router downstairs but it isn't reliable. Those switches are $100+ We got two extenders for the rest of the house from Google but I still think we are not making full use of the 2G</p>",
+              "value": "@mikepj @cleverdevil @fgtech I have the same issue. I bought a 2.5G switch for upstairs and hardwired it to the main router downstairs but it isn't reliable. Those switches are $100+ We got two extenders for the rest of the house from Google but I still think we are not making full use of the 2G"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjMvMDIvMjM4Mi5qcGc,/300/square"
+                ],
+                "name": [
+                  "pratik"
+                ],
+                "url": [
+                  "https://micro.blog/pratik"
+                ]
+              },
+              "value": "pratik"
+            }
+          ],
+          "url": [
+            "https://micro.blog/pratik/19836754"
+          ]
+        },
+        "value": "https://micro.blog/pratik/19836754"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik definitely a first world problem tho haha."
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik definitely a first world problem tho haha.</p>",
+              "value": "@pratik definitely a first world problem tho haha."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19836808"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19836808"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik Thanks for chiming in. I knew I had seen someone else puzzling through this issue but didn\u2019t remember it was you.\nUnfortunately we do not have this problem in Hanover, NH. Stuck paying too much for too little from Comcast\u2019s Xfinity."
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik Thanks for chiming in. I knew I had seen someone else puzzling through this issue but didn\u2019t remember it was you.<br/>Unfortunately we do not have this problem in Hanover, NH. Stuck paying too much for too little from Comcast\u2019s Xfinity.</p>",
+              "value": "@pratik Thanks for chiming in. I knew I had seen someone else puzzling through this issue but didn\u2019t remember it was you.\nUnfortunately we do not have this problem in Hanover, NH. Stuck paying too much for too little from Comcast\u2019s Xfinity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzEwOTkwMDhmODJhZDM4YWZkMGZhM2UyZDNjNGQ3OGY3P3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "fgtech"
+                ],
+                "url": [
+                  "https://micro.blog/fgtech"
+                ]
+              },
+              "value": "fgtech"
+            }
+          ],
+          "url": [
+            "https://micro.blog/fgtech/19836857"
+          ]
+        },
+        "value": "https://micro.blog/fgtech/19836857"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik @cleverdevil @fgtech I saw someone attempting to setup the Eero as a router on a stick, with both LAN&WAN on the 2.5Gb port using VLANs to isolate the traffic. You\u2019d have to be careful the networks are really isolated though.\nI\u2019d lean toward the 2nd router or the future Eero solution."
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik @cleverdevil @fgtech I saw someone attempting to setup the Eero as a router on a stick, with both LAN&amp;WAN on the 2.5Gb port using VLANs to isolate the traffic. You\u2019d have to be careful the networks are really isolated though.<br/>I\u2019d lean toward the 2nd router or the future Eero solution.</p>",
+              "value": "@pratik @cleverdevil @fgtech I saw someone attempting to setup the Eero as a router on a stick, with both LAN&WAN on the 2.5Gb port using VLANs to isolate the traffic. You\u2019d have to be careful the networks are really isolated though.\nI\u2019d lean toward the 2nd router or the future Eero solution."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2M2NzA2NmI5NzdkMWMyNjVmMDRiMGE5YTA0NThiMmUwP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "mikepj"
+                ],
+                "url": [
+                  "https://micro.blog/mikepj"
+                ]
+              },
+              "value": "mikepj"
+            }
+          ],
+          "url": [
+            "https://micro.blog/mikepj/19838859"
+          ]
+        },
+        "value": "https://micro.blog/mikepj/19838859"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik I\u2019m surprised the hardwire isn\u2019t reliable. Bad cable or something?"
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik I\u2019m surprised the hardwire isn\u2019t reliable. Bad cable or something?</p>",
+              "value": "@pratik I\u2019m surprised the hardwire isn\u2019t reliable. Bad cable or something?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2M2NzA2NmI5NzdkMWMyNjVmMDRiMGE5YTA0NThiMmUwP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "mikepj"
+                ],
+                "url": [
+                  "https://micro.blog/mikepj"
+                ]
+              },
+              "value": "mikepj"
+            }
+          ],
+          "url": [
+            "https://micro.blog/mikepj/19838876"
+          ]
+        },
+        "value": "https://micro.blog/mikepj/19838876"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@mikepj I mean the hardwire from downstairs first comes to the switch after which it is redirected by another hardwire to the computer. I get a max of only 1G so it\u2019s either the switch or the device. BTW I do bring in the cable from outside the house."
+          ],
+          "content": [
+            {
+              "html": "<p>@mikepj I mean the hardwire from downstairs first comes to the switch after which it is redirected by another hardwire to the computer. I get a max of only 1G so it\u2019s either the switch or the device. BTW I do bring in the cable from outside the house.</p>",
+              "value": "@mikepj I mean the hardwire from downstairs first comes to the switch after which it is redirected by another hardwire to the computer. I get a max of only 1G so it\u2019s either the switch or the device. BTW I do bring in the cable from outside the house."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjMvMDIvMjM4Mi5qcGc,/300/square"
+                ],
+                "name": [
+                  "pratik"
+                ],
+                "url": [
+                  "https://micro.blog/pratik"
+                ]
+              },
+              "value": "pratik"
+            }
+          ],
+          "url": [
+            "https://micro.blog/pratik/19839992"
+          ]
+        },
+        "value": "https://micro.blog/pratik/19839992"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@pratik That\u2019s interesting. I know there are cables rated for outdoor use, but I thought that was more for weather resistance and not signal quality. Could try taking the switch out of the loop and seeing if a direct connection is faster."
+          ],
+          "content": [
+            {
+              "html": "<p>@pratik That\u2019s interesting. I know there are cables rated for outdoor use, but I thought that was more for weather resistance and not signal quality. Could try taking the switch out of the loop and seeing if a direct connection is faster.</p>",
+              "value": "@pratik That\u2019s interesting. I know there are cables rated for outdoor use, but I thought that was more for weather resistance and not signal quality. Could try taking the switch out of the loop and seeing if a direct connection is faster."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2M2NzA2NmI5NzdkMWMyNjVmMDRiMGE5YTA0NThiMmUwP3M9OTYmZD1odHRwcyUzQSUyRiUyRm1pY3JvLmJsb2clMkZpbWFnZXMlMkZibGFua19hdmF0YXIucG5n/300/square"
+                ],
+                "name": [
+                  "mikepj"
+                ],
+                "url": [
+                  "https://micro.blog/mikepj"
+                ]
+              },
+              "value": "mikepj"
+            }
+          ],
+          "url": [
+            "https://micro.blog/mikepj/19845698"
+          ]
+        },
+        "value": "https://micro.blog/mikepj/19845698"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110465769985563935",
+      "https://bsky.app/profile/cleverdevil.io/post/3jx2p2oallf2x"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "25e76befebd36e581ea39b7df34f830b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/110465769985563935#favorited-by-109368435745022396"
+          ],
+          "published": [
+            "2023-05-31T23:05:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Patuleia"
+                ],
+                "url": [
+                  "https://metalhead.club/@Patuleia"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDM1Lzc0NS8wMjIvMzk2L29yaWdpbmFsLzg4NzI2Njc3M2M3ZDhhODQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDM1Lzc0NS8wMjIvMzk2L29yaWdpbmFsLzg4NzI2Njc3M2M3ZDhhODQuanBn/300/square Patuleia"
+            }
+          ]
+        },
+        "value": "Patuleia"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-31T15:58:26Z",
+      "year": 2023,
+      "month": 5,
+      "day": 31,
+      "hour": 15,
+      "minute": 58,
+      "x": -118.3703481576073,
+      "y": 33.81542719979521,
+      "altitude": 0,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9399999976158142,
+      "wifi": "LaCour"
+    }
+  }
+}

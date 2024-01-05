@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into BOX LUNCH"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOX LUNCH"
+          ],
+          "latitude": [
+            "33.833383"
+          ],
+          "longitude": [
+            "-118.350443"
+          ]
+        },
+        "value": "BOX LUNCH"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOX LUNCH"
+          ],
+          "latitude": [
+            "33.833383"
+          ],
+          "longitude": [
+            "-118.350443"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Geekin out</p>",
+        "value": "Geekin out"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-box-lunch"
+    ],
+    "published": [
+      "2017-04-10T00:57:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Toy / Game Store."
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Toy / Game Store.</p>",
+              "value": "Your first Toy / Game Store."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f6a4a498463dc1853d40b089b7e43d65"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ead87c5289302d1e352c23/65b70ff05b37c94865d7406c69bd19d4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ead87c5289302d1e352c23/65b70ff05b37c94865d7406c69bd19d4"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at BOX LUNCH!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at BOX LUNCH!</p>",
+              "value": "Your first check-in at BOX LUNCH!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f6a4a498463dc1853d40b089b7e43d65"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58ead87c5289302d1e352c23/f9ed5a098f085053def205d0df7ba024"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58ead87c5289302d1e352c23/f9ed5a098f085053def205d0df7ba024"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58ead87c5289302d1e352c23"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0ac7770ff1453f898377d8c635a9a3a3"
+    ]
+  }
+}

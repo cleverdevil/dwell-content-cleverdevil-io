@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/top-four-56-instant-coffee"
+    ],
+    "published": [
+      "2019-09-21T00:19:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 66.84\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 66.84\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 66.84\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-four-56-instant-coffee/annotations/a8b94902275f62df5ad7d5d59d3e2bfa"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-four-56-instant-coffee/annotations/a8b94902275f62df5ad7d5d59d3e2bfa"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "23d1e43420978e3fa96d20154d215468"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-21T02:54:49Z",
+      "year": 2019,
+      "month": 9,
+      "day": 21,
+      "hour": 2,
+      "minute": 54,
+      "x": -118.37028686668015,
+      "y": 33.81544723415936,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Top Four 56: Instant Coffee \u2615\ud83d\udca8"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/18f25bce05dbbc8ee38a59dccb412251/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDaFm5Ck"
+        ],
+        "content": [
+          {
+            "html": "<p>We taste-tested 14 instant coffees, from mouth parties to tire fires, to discover if there\u2019s anything redeemable about this much-maligned beverage.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "We taste-tested 14 instant coffees, from mouth parties to tire fires, to discover if there\u2019s anything redeemable about this much-maligned beverage.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

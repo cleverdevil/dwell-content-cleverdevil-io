@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/introducing-the-touch-base-the-nevers"
+    ],
+    "published": [
+      "2021-05-04T06:43:07+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "45d8104ed21efdef89e36ab17d797e4f"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-04T07:01:54Z",
+      "year": 2021,
+      "month": 5,
+      "day": 4,
+      "hour": 7,
+      "minute": 1,
+      "x": -118.37049855988292,
+      "y": 33.815294786744424,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Introducing The Touch Base: The Nevers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/10ee6ec8c254395d4bc8aa256e76e88c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+spebqRp50"
+        ],
+        "content": [
+          {
+            "html": "<p>In the official, fan-driven companion podcast for HBO\u2019s The Nevers, join Rooster Teeth\u2019s Barbara Dunkelman and Jessica Vasami as they dive into the exciting world and characters of The Nevers. They\u2019ll talk about the jaw-dropping moments from each episode, theorize about what might come next, and have fun, in-depth conversations with guests from the show! See omnystudio.com/listener for privacy information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Touch Base: The Official Nevers Podcast</p>",
+            "value": "In the official, fan-driven companion podcast for HBO\u2019s The Nevers, join Rooster Teeth\u2019s Barbara Dunkelman and Jessica Vasami as they dive into the exciting world and characters of The Nevers. They\u2019ll talk about the jaw-dropping moments from each episode, theorize about what might come next, and have fun, in-depth conversations with guests from the show! See omnystudio.com/listener for privacy information.\nBy The Touch Base: The Official Nevers Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Portland International Airport (PDX)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Portland International Airport (PDX)"
+          ],
+          "latitude": [
+            "45.589149381786"
+          ],
+          "longitude": [
+            "-122.59328147125"
+          ]
+        },
+        "value": "Portland International Airport (PDX)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Portland International Airport (PDX)"
+          ],
+          "latitude": [
+            "45.589149381786"
+          ],
+          "longitude": [
+            "-122.59328147125"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>It's been real!</p>",
+        "value": "It's been real!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-portland-international-airport-pdx-1"
+    ],
+    "published": [
+      "2017-06-26T14:56:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Portland International Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Portland International Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Portland International Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c6cabf7747301d78c854f08d4aef7029"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5951206fee628b2c2ca628d8/366f82c0bcdcfb18fce08c1bc0592cfa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5951206fee628b2c2ca628d8/366f82c0bcdcfb18fce08c1bc0592cfa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5951206fee628b2c2ca628d8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a127700e1e2e9028db5f483f69a7617c"
+    ]
+  }
+}

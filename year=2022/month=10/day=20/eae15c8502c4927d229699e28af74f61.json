@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lake Austin In Riverplace"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lake Austin In Riverplace"
+          ],
+          "latitude": [
+            "30.34778950615"
+          ],
+          "longitude": [
+            "-97.873749007786"
+          ]
+        },
+        "value": "Lake Austin In Riverplace"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lake Austin In Riverplace"
+          ],
+          "latitude": [
+            "30.34778950615"
+          ],
+          "longitude": [
+            "-97.873749007786"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-lake-austin-in-riverplace"
+    ],
+    "published": [
+      "2022-10-20T23:33:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nessie sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Nessie sticker bonus!</p>",
+              "value": "Nessie sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9mYXN0bHkuNHNxaS5uZXQvaW1nL3N0aWNrZXIvODAvTGFrZXNfMWNmODc5LnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6351dad1f60de85c5300ec49/71e60300d13d911b62718601eb14ad20"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6351dad1f60de85c5300ec49/71e60300d13d911b62718601eb14ad20"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6351dad1f60de85c5300ec49"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "eae15c8502c4927d229699e28af74f61"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-20T23:31:23Z",
+      "year": 2022,
+      "month": 10,
+      "day": 20,
+      "hour": 23,
+      "minute": 31,
+      "x": -97.87506430061741,
+      "y": 30.345094038545867,
+      "altitude": 157,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": ""
+    }
+  }
+}

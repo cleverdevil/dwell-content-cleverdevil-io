@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hollywood Bowl Shuttle At Wilson Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hollywood Bowl Shuttle At Wilson Park"
+          ],
+          "latitude": [
+            "33.826685574843"
+          ],
+          "longitude": [
+            "-118.32764987591"
+          ]
+        },
+        "value": "Hollywood Bowl Shuttle At Wilson Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hollywood Bowl Shuttle At Wilson Park"
+          ],
+          "latitude": [
+            "33.826685574843"
+          ],
+          "longitude": [
+            "-118.32764987591"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Pink Martini!</p>",
+        "value": "Pink Martini!"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-hollywood-bowl-shuttle-at-wilson-park-1"
+    ],
+    "published": [
+      "2019-08-25T00:38:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 5 weeks since you last checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 5 weeks since you last checked in here!</p>",
+              "value": "Welcome back! It's been 5 weeks since you last checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d61d8860cbdfe000846226c/ded09759bc9cafc54dfde6bcb8454a3d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d61d8860cbdfe000846226c/ded09759bc9cafc54dfde6bcb8454a3d"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-hollywood-bowl-shuttle-at-wilson-park-1/annotations/8d5910f1718d9550b937fd987f73fdd0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-hollywood-bowl-shuttle-at-wilson-park-1/annotations/8d5910f1718d9550b937fd987f73fdd0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d61d8860cbdfe000846226c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c4d30b14f89b0a24e79db161bce1ec9f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-25T00:33:35Z",
+      "year": 2019,
+      "month": 8,
+      "day": 25,
+      "hour": 0,
+      "minute": 33,
+      "x": -118.3394244009716,
+      "y": 33.827008134027956,
+      "altitude": 22,
+      "motion": [
+        "driving"
+      ],
+      "speed": 12,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

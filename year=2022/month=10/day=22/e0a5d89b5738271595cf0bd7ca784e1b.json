@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fairmont Austin"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fairmont Austin"
+          ],
+          "latitude": [
+            "30.26207420239"
+          ],
+          "longitude": [
+            "-97.738260790871"
+          ]
+        },
+        "value": "Fairmont Austin"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fairmont Austin"
+          ],
+          "latitude": [
+            "30.26207420239"
+          ],
+          "longitude": [
+            "-97.738260790871"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>The Chainsmokers</p>",
+        "value": "The Chainsmokers"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-fairmont-austin"
+    ],
+    "published": [
+      "2022-10-22T03:06:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Fairmont Austin!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Fairmont Austin!</p>",
+              "value": "Your first check-in at Fairmont Austin!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63535e26bea5d478b500554a/52b003114ae2d4dde9756078c0a761e5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63535e26bea5d478b500554a/52b003114ae2d4dde9756078c0a761e5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63535e26bea5d478b500554a/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63535e26bea5d478b500554a/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63535e26bea5d478b500554a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e0a5d89b5738271595cf0bd7ca784e1b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-22T03:04:51Z",
+      "year": 2022,
+      "month": 10,
+      "day": 22,
+      "hour": 3,
+      "minute": 4,
+      "x": -97.73799415280492,
+      "y": 30.2625608648821,
+      "altitude": 145,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.800000011920929,
+      "wifi": ""
+    }
+  }
+}

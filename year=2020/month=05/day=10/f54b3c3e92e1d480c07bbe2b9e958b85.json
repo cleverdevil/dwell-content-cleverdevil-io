@@ -1,0 +1,189 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Are you a @geteero user interested in using Pi Hole to provide network-level ad blocking? Some lessons from me:\n\n1. Disable all Eero Secure features.\n2. Disable HomeKit support in the Eero app.\n3. Disable Local DNS Cache.\n\nI also recommend reserving IP addresses for all your clients, and specifying hostnames in your Pi Hole\u2019s /etc/hosts."
+    ],
+    "content": [
+      {
+        "html": "Are you a @geteero user interested in using Pi Hole to provide network-level ad blocking? Some lessons from me:<br/>\n<br/>\n1. Disable all Eero Secure features.<br/>\n2. Disable HomeKit support in the Eero app.<br/>\n3. Disable Local DNS Cache.<br/>\n<br/>\nI also recommend reserving IP addresses for all your clients, and specifying hostnames in your Pi Hole\u2019s /etc/hosts.",
+        "value": "Are you a @geteero user interested in using Pi Hole to provide network-level ad blocking? Some lessons from me:\n\n1. Disable all Eero Secure features.\n2. Disable HomeKit support in the Eero app.\n3. Disable Local DNS Cache.\n\nI also recommend reserving IP addresses for all your clients, and specifying hostnames in your Pi Hole\u2019s /etc/hosts."
+      }
+    ],
+    "url": [
+      "/2020/are-you-a-geteero-user-interested-in"
+    ],
+    "published": [
+      "2020-05-10T20:53:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.77\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.77\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 67.77\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/are-you-a-geteero-user-interested-in/annotations/eecfc89f22696845c327aae51fcb7458"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/are-you-a-geteero-user-interested-in/annotations/eecfc89f22696845c327aae51fcb7458"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil thanks for posting this. I have a pi-hole waiting to be hooked up but I've been holding off as I don\u2019t want to mess up the internet lest i face the wrath of my family. I have an eero setup so this is really helpful."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil thanks for posting this. I have a pi-hole waiting to be hooked up but I've been holding off as I don\u2019t want to mess up the internet lest i face the wrath of my family. I have an eero setup so this is really helpful.</p>",
+              "value": "@cleverdevil thanks for posting this. I have a pi-hole waiting to be hooked up but I've been holding off as I don\u2019t want to mess up the internet lest i face the wrath of my family. I have an eero setup so this is really helpful."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2Rvbm92YW53YXR0cy9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "donovanwatts"
+                ],
+                "url": [
+                  "https://micro.blog/donovanwatts"
+                ]
+              },
+              "value": "donovanwatts"
+            }
+          ],
+          "url": [
+            "https://micro.blog/donovanwatts/9632632"
+          ]
+        },
+        "value": "https://micro.blog/donovanwatts/9632632"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@donovanwatts you bet!"
+          ],
+          "content": [
+            {
+              "html": "<p>@donovanwatts you bet!</p>",
+              "value": "@donovanwatts you bet!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/9632635"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/9632635"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1259587489540509697",
+      "https://mastodon.social/@cleverdevil/104146143522883812"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "f54b3c3e92e1d480c07bbe2b9e958b85"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-10T20:52:06Z",
+      "year": 2020,
+      "month": 5,
+      "day": 10,
+      "hour": 20,
+      "minute": 52,
+      "x": -118.37038029788187,
+      "y": 33.81548833643945,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  }
+}

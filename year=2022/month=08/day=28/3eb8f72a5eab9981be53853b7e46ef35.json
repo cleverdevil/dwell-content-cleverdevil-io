@@ -1,0 +1,69 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Now, thanks to Tailscale and Nginx Proxy Manager, I have my entire suite of self-hosted apps available on my tailnet, on a custom domain / subdomains, with auto-renewing LetsEncrypt certs. Getting traffic in/out of the proxy container was a challenge, as was HSTS. But it works!"
+    ],
+    "content": [
+      {
+        "html": "Now, thanks to Tailscale and Nginx Proxy Manager, I have my entire suite of self-hosted apps available on my tailnet, on a custom domain / subdomains, with auto-renewing LetsEncrypt certs. Getting traffic in/out of the proxy container was a challenge, as was HSTS. But it works!",
+        "value": "Now, thanks to Tailscale and Nginx Proxy Manager, I have my entire suite of self-hosted apps available on my tailnet, on a custom domain / subdomains, with auto-renewing LetsEncrypt certs. Getting traffic in/out of the proxy container was a challenge, as was HSTS. But it works!"
+      }
+    ],
+    "url": [
+      "/2022/now-thanks-to-tailscale-and-nginx-proxy"
+    ],
+    "published": [
+      "2022-08-28T00:02:59+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1563678575399784449"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "3eb8f72a5eab9981be53853b7e46ef35"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-28T00:02:48Z",
+      "year": 2022,
+      "month": 8,
+      "day": 28,
+      "hour": 0,
+      "minute": 2,
+      "x": -116.38013762432745,
+      "y": 33.701501218633446,
+      "altitude": 127,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.5600000023841858,
+      "wifi": "DesertSun"
+    }
+  }
+}

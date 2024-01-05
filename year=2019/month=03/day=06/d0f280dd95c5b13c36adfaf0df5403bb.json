@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://eddiehinkle.com/2019/03/06/9/note/"
+    ],
+    "name": [
+      "@eddiehinkle.com looks great! I love how whimsical it looks with the chunky shadows, popping colors, and comic-like map. Nice work."
+    ],
+    "content": [
+      {
+        "html": "@eddiehinkle.com looks great! I love how whimsical it looks with the chunky shadows, popping colors, and comic-like map. Nice work.",
+        "value": "@eddiehinkle.com looks great! I love how whimsical it looks with the chunky shadows, popping colors, and comic-like map. Nice work."
+      }
+    ],
+    "url": [
+      "/2019/eddiehinklecom-looks-great-i-love-how-whimsical"
+    ],
+    "published": [
+      "2019-03-06T21:26:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 59.48\u00b0F and 94% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 59.48\u00b0F and 94% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 59.48\u00b0F and 94% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/eddiehinklecom-looks-great-i-love-how-whimsical/annotations/1adb52653d3826d046fe3bff8dded67a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/eddiehinklecom-looks-great-i-love-how-whimsical/annotations/1adb52653d3826d046fe3bff8dded67a"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "d0f280dd95c5b13c36adfaf0df5403bb"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2019/03/06/13/like/"
+          ],
+          "published": [
+            "2019-03-07T01:53:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://eddiehinkle.com"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-06T21:21:35Z",
+      "year": 2019,
+      "month": 3,
+      "day": 6,
+      "hour": 21,
+      "minute": 21,
+      "x": -118.37050719184307,
+      "y": 33.815366592558604,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5199999809265137,
+      "wifi": "LaCour"
+    }
+  }
+}

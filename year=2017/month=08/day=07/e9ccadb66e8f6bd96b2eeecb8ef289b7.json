@@ -1,0 +1,479 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I'm starting to think that the biggest way to encourage engagement on Micro.blog would be to add `repost-of` support. On Twitter, I frequently discover new users/content to follow by seeing what is amplified by my current timeline. /cc @manton"
+    ],
+    "content": [
+      {
+        "html": "I'm starting to think that the biggest way to encourage engagement on Micro.blog would be to add `repost-of` support. On Twitter, I frequently discover new users/content to follow by seeing what is amplified by my current timeline. /cc @manton",
+        "value": "I'm starting to think that the biggest way to encourage engagement on Micro.blog would be to add `repost-of` support. On Twitter, I frequently discover new users/content to follow by seeing what is amplified by my current timeline. /cc @manton"
+      }
+    ],
+    "url": [
+      "/2017/im-starting-to-think-that-the-biggest-way-to-encourage"
+    ],
+    "published": [
+      "2017-08-07T15:56:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil As of yesterday Micro.blog's Micropub API has basic support for repost-of. Anything else missing to make this workflow better? (A more formal repost/quote feature will be coming.)"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil As of yesterday Micro.blog's Micropub API has basic support for repost-of. Anything else missing to make this workflow better? (A more formal repost/quote feature will be coming.)</p>",
+              "value": "@cleverdevil As of yesterday Micro.blog's Micropub API has basic support for repost-of. Anything else missing to make this workflow better? (A more formal repost/quote feature will be coming.)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d5c44d11454e3d1ff48ed4f99cc0e799"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/127014"
+          ]
+        },
+        "value": "https://micro.blog/manton/127014"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton great news! Supporting repost-of in feeds, and properly displaying reposts in timelines, would likely be the best next step. But, @aaronpk may have some additional feedback."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton great news! Supporting repost-of in feeds, and properly displaying reposts in timelines, would likely be the best next step. But, @aaronpk may have some additional feedback.</p>",
+              "value": "@manton great news! Supporting repost-of in feeds, and properly displaying reposts in timelines, would likely be the best next step. But, @aaronpk may have some additional feedback."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3d75f7e0b2291334a2609d819622ad85"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/127016"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/127016"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton oh, it would also be awesome if at-mentioning a Micro.blog user that is self-hosted would send them a homepage webmention. At least, I think that would be awesome :)"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton oh, it would also be awesome if at-mentioning a Micro.blog user that is self-hosted would send them a homepage webmention. At least, I think that would be awesome :)</p>",
+              "value": "@manton oh, it would also be awesome if at-mentioning a Micro.blog user that is self-hosted would send them a homepage webmention. At least, I think that would be awesome :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c6f01be54e44ffd3f1248a2bd0ea18a2"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/127017"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/127017"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I was wondering about @-mentions without a reply-to URL as well. Does your site or others do anything with home page Webmentions?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I was wondering about @-mentions without a reply-to URL as well. Does your site or others do anything with home page Webmentions?</p>",
+              "value": "@cleverdevil I was wondering about @-mentions without a reply-to URL as well. Does your site or others do anything with home page Webmentions?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/783e70c8806a89c9bc7d6e92bcc06adb"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/127078"
+          ]
+        },
+        "value": "https://micro.blog/manton/127078"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton I use Known, and it has a \"Notifications\" screen that shows all interactions, including homepage mentions, IIRC. Needs improvement, but looks like this: share.cleverdevil.io/PzkkmAwzX... and share.cleverdevil.io/0v4AgDfhP..."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton I use Known, and it has a \"Notifications\" screen that shows all interactions, including homepage mentions, IIRC. Needs improvement, but looks like this: share.cleverdevil.io/PzkkmAwzX... and share.cleverdevil.io/0v4AgDfhP...</p>",
+              "value": "@manton I use Known, and it has a \"Notifications\" screen that shows all interactions, including homepage mentions, IIRC. Needs improvement, but looks like this: share.cleverdevil.io/PzkkmAwzX... and share.cleverdevil.io/0v4AgDfhP..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/2bf371bf350501b1abbc79b7ba30be36"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/127100"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/127100"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton I also know that WordPress supports homepage mentions. I think that @c does something fancy with them. Maybe he can chime in on this thread?"
+          ],
+          "content": [
+            {
+              "html": "<p>@manton I also know that WordPress supports homepage mentions. I think that @c does something fancy with them. Maybe he can chime in on this thread?</p>",
+              "value": "@manton I also know that WordPress supports homepage mentions. I think that @c does something fancy with them. Maybe he can chime in on this thread?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7b9b1973873b9226ecb913f21e174059"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/127101"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/127101"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil @c Cool. I might be overthinking it too. I could send Webmentions to the home page even if they aren't used, and it's up to the blog software to do something useful with them or not."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil @c Cool. I might be overthinking it too. I could send Webmentions to the home page even if they aren't used, and it's up to the blog software to do something useful with them or not.</p>",
+              "value": "@cleverdevil @c Cool. I might be overthinking it too. I could send Webmentions to the home page even if they aren't used, and it's up to the blog software to do something useful with them or not."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9cb8aae09649902d1b7c12393ba5acf0"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/127103"
+          ]
+        },
+        "value": "https://micro.blog/manton/127103"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton @c I agree with that thinking. Enable the CMS to be creative."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton @c I agree with that thinking. Enable the CMS to be creative.</p>",
+              "value": "@manton @c I agree with that thinking. Enable the CMS to be creative."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/eeadf04d12abb4df734c1bc1defa4292"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/127104"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/127104"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil @manton Not sure if it's fancy, but I do use brid.gy to get generic @mentions from Twitter to my homepage, which I redirect to an /mentions/ page mostly for the simple notifications. Outline here: boffosocko.com/2017/04/1..."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil @manton Not sure if it's fancy, but I do use brid.gy to get generic @mentions from Twitter to my homepage, which I redirect to an /mentions/ page mostly for the simple notifications. Outline here: boffosocko.com/2017/04/1...</p>",
+              "value": "@cleverdevil @manton Not sure if it's fancy, but I do use brid.gy to get generic @mentions from Twitter to my homepage, which I redirect to an /mentions/ page mostly for the simple notifications. Outline here: boffosocko.com/2017/04/1..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/14a99045d3e1ecb3e0b30b98b9da05a4"
+                ],
+                "name": [
+                  "c"
+                ],
+                "url": [
+                  "https://micro.blog/c"
+                ]
+              },
+              "value": "c"
+            }
+          ],
+          "url": [
+            "https://micro.blog/c/127870"
+          ]
+        },
+        "value": "https://micro.blog/c/127870"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@c @cleverdevil That's cool. I like collecting them in one place like /mentions. Thanks for writing up your approach!"
+          ],
+          "content": [
+            {
+              "html": "<p>@c @cleverdevil That's cool. I like collecting them in one place like /mentions. Thanks for writing up your approach!</p>",
+              "value": "@c @cleverdevil That's cool. I like collecting them in one place like /mentions. Thanks for writing up your approach!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f82934983df73367ba78ab0b20483e06"
+                ],
+                "name": [
+                  "manton"
+                ],
+                "url": [
+                  "https://micro.blog/manton"
+                ]
+              },
+              "value": "manton"
+            }
+          ],
+          "url": [
+            "https://micro.blog/manton/128104"
+          ]
+        },
+        "value": "https://micro.blog/manton/128104"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@manton In practice, I don't think there are a lot of people who accept homepage webmentions. Some, like kevinmarks.com actually collect and show them on his homepage, but the UI (and load times) for that can eventually become clunky depending on your site's CMS/infrastructure."
+          ],
+          "content": [
+            {
+              "html": "<p>@manton In practice, I don't think there are a lot of people who accept homepage webmentions. Some, like kevinmarks.com actually collect and show them on his homepage, but the UI (and load times) for that can eventually become clunky depending on your site's CMS/infrastructure.</p>",
+              "value": "@manton In practice, I don't think there are a lot of people who accept homepage webmentions. Some, like kevinmarks.com actually collect and show them on his homepage, but the UI (and load times) for that can eventually become clunky depending on your site's CMS/infrastructure."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3b0f604e15aa75221753fb64f4fcd7e9"
+                ],
+                "name": [
+                  "c"
+                ],
+                "url": [
+                  "https://micro.blog/c"
+                ]
+              },
+              "value": "c"
+            }
+          ],
+          "url": [
+            "https://micro.blog/c/128332"
+          ]
+        },
+        "value": "https://micro.blog/c/128332"
+      }
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "e9ccadb66e8f6bd96b2eeecb8ef289b7"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/uab-post-game-recap"
+    ],
+    "published": [
+      "2020-09-14T05:45:38+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ba888922a594c829176852a0d08bdf9d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-14T07:21:07Z",
+      "year": 2020,
+      "month": 9,
+      "day": 14,
+      "hour": 7,
+      "minute": 21,
+      "x": -118.3705299292651,
+      "y": 33.815297938548945,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5799999833106995,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to UAB Post Game Recap"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f34b4de10173f18916ba5d75a97b9bab/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf5kngs0"
+        ],
+        "content": [
+          {
+            "html": "<p>The Hurricanes knocked off UAB last night with 337 yards rushing! The boys recap it and disagree over how much credit the Offensive Line should get for the performance.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "The Hurricanes knocked off UAB last night with 337 yards rushing! The boys recap it and disagree over how much credit the Offensive Line should get for the performance.\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

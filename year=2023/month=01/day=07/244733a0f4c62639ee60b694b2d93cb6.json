@@ -1,0 +1,182 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Discovered the Philips Hue API and have already made my life better. Now, with a single tap or voice command, my back yard in the desert is set for a perfect evening of floating in the pool.\n\nPool heater and pump on. Colorful pool light enabled. Motion detectors deactivated. Entire outdoor lightning system set to a dynamic, colorful palette."
+    ],
+    "content": [
+      {
+        "html": "Discovered the Philips Hue API and have already made my life better. Now, with a single tap or voice command, my back yard in the desert is set for a perfect evening of floating in the pool.<br/>\n<br/>\nPool heater and pump on. Colorful pool light enabled. Motion detectors deactivated. Entire outdoor lightning system set to a dynamic, colorful palette.",
+        "value": "Discovered the Philips Hue API and have already made my life better. Now, with a single tap or voice command, my back yard in the desert is set for a perfect evening of floating in the pool.\n\nPool heater and pump on. Colorful pool light enabled. Motion detectors deactivated. Entire outdoor lightning system set to a dynamic, colorful palette."
+      }
+    ],
+    "url": [
+      "/2023/discovered-the-philips-hue-api-and-have"
+    ],
+    "published": [
+      "2023-01-07T06:28:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan in the slim chance you haven't looked into home assistant, I 1000% suggest you do. abstracts away all the various Hue, zigbee, zwave, and countless other APIs making everything seamlessly work together. I've got voice stuff that'll fire off scenes that include hue, zwave, zigbee, govee and esp32 devices -- all just magically work together."
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan in the slim chance you haven't looked into home assistant, I 1000% suggest you do. abstracts away all the various Hue, zigbee, zwave, and countless other APIs making everything seamlessly work together. I've got voice stuff that'll fire off scenes that include hue, zwave, zigbee, govee and esp32 devices -- all just magically work together.</p>",
+              "value": "@jonathan in the slim chance you haven't looked into home assistant, I 1000% suggest you do. abstracts away all the various Hue, zigbee, zwave, and countless other APIs making everything seamlessly work together. I've got voice stuff that'll fire off scenes that include hue, zwave, zigbee, govee and esp32 devices -- all just magically work together."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS81NDgvMjc5Lzk0Ny82MzkvMTM2L29yaWdpbmFsLzY4MjUwYTUwNDllNjQ4OGIuanBlZw,,/300/square"
+                ],
+                "name": [
+                  "Zeb Palmer (Syringa Admin)"
+                ],
+                "url": [
+                  "https://syringa.social/@zebpalmer"
+                ]
+              },
+              "value": "Zeb Palmer (Syringa Admin)"
+            }
+          ],
+          "url": [
+            "https://syringa.social/@zebpalmer/109646525742170129"
+          ]
+        },
+        "value": "https://syringa.social/@zebpalmer/109646525742170129"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@zebpalmer my setup is HomeKit, with both Homebridge and HomeAssistant, along with a small amount of custom code. Magic, indeed!\nI\u2019m using the Hue API to do a few things that aren\u2019t supported by any of the standard integrations, but have it all wired up in Homebridge using custom HTTP buttons."
+          ],
+          "content": [
+            {
+              "html": "<p>@zebpalmer my setup is HomeKit, with both Homebridge and HomeAssistant, along with a small amount of custom code. Magic, indeed!<br/>I\u2019m using the Hue API to do a few things that aren\u2019t supported by any of the standard integrations, but have it all wired up in Homebridge using custom HTTP buttons.</p>",
+              "value": "@zebpalmer my setup is HomeKit, with both Homebridge and HomeAssistant, along with a small amount of custom code. Magic, indeed!\nI\u2019m using the Hue API to do a few things that aren\u2019t supported by any of the standard integrations, but have it all wired up in Homebridge using custom HTTP buttons."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjcvNzU4LzEwMC85MDgvMzQ5L29yaWdpbmFsL2U5NjMzOTE1YmJlMjUzNDEucG5n/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.club/@jonathan"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.club/@jonathan/109646539977594198"
+          ]
+        },
+        "value": "https://cleverdevil.club/@jonathan/109646539977594198"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/109646507339959199"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "244733a0f4c62639ee60b694b2d93cb6"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://cleverdevil.club/@jonathan/109646507339959199#favorited-by-109368496481741909"
+          ],
+          "published": [
+            "2023-01-07T07:38:24+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff \ud83c\uddfa\ud83c\udde6"
+                ],
+                "url": [
+                  "https://indieweb.social/@jeff"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDk2LzQ4MS83NDEvOTA5L29yaWdpbmFsL2I0MjVmMDEzODNlY2RkM2IuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDk2LzQ4MS83NDEvOTA5L29yaWdpbmFsL2I0MjVmMDEzODNlY2RkM2IuanBn/300/square Jeff \ud83c\uddfa\ud83c\udde6"
+            }
+          ]
+        },
+        "value": "Jeff \ud83c\uddfa\ud83c\udde6"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-07T06:25:21Z",
+      "year": 2023,
+      "month": 1,
+      "day": 7,
+      "hour": 6,
+      "minute": 25,
+      "x": -116.38030334251138,
+      "y": 33.701739812197346,
+      "altitude": 129,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.3199999928474426,
+      "wifi": "DesertSun"
+    }
+  }
+}

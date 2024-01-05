@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Good Stuff Restaurant"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.819217"
+          ],
+          "longitude": [
+            "-118.385464"
+          ]
+        },
+        "value": "Good Stuff Restaurant"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Good Stuff Restaurant"
+          ],
+          "latitude": [
+            "33.819217"
+          ],
+          "longitude": [
+            "-118.385464"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Good Stuff Restaurant\" src=\"https://cleverdevil.io/file/f1ab1a23ccef4bef2daf42225477b84a\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Breakfast with the kids while mommy is away.</p>",
+        "value": "Good Stuff Restaurant\nBreakfast with the kids while mommy is away."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-good-stuff-restaurant-1"
+    ],
+    "published": [
+      "2017-05-28T16:16:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Three \ud83d\udc4f Day \ud83d\udc4f Weekend\ud83d\udc4f"
+          ],
+          "content": [
+            {
+              "html": "<p>Three \ud83d\udc4f Day \ud83d\udc4f Weekend\ud83d\udc4f</p>",
+              "value": "Three \ud83d\udc4f Day \ud83d\udc4f Weekend\ud83d\udc4f"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/58314fe54a09ddc8f1707ad094467727"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/592af7dba9e4022e874a395c/f64facffcbd9dffdc0df4b71f70a1df9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/592af7dba9e4022e874a395c/f64facffcbd9dffdc0df4b71f70a1df9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/592af7dba9e4022e874a395c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "b7ba232b8eea7fa734fb34b272875956"
+    ]
+  }
+}

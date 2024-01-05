@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Disneyland Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disneyland Park"
+          ],
+          "latitude": [
+            "33.810485"
+          ],
+          "longitude": [
+            "-117.918989"
+          ]
+        },
+        "value": "Disneyland Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Disneyland Park"
+          ],
+          "latitude": [
+            "33.810485"
+          ],
+          "longitude": [
+            "-117.918989"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-disneyland-park-4"
+    ],
+    "published": [
+      "2023-01-28T16:16:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Disneyland Park since June '21."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Disneyland Park since June '21.</p>",
+              "value": "Welcome back! You haven't checked in to Disneyland Park since June '21."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63d54a6a8619a92e912b48bf/19df83297ce4b4952b515baa636b51d7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63d54a6a8619a92e912b48bf/19df83297ce4b4952b515baa636b51d7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63d54a6a8619a92e912b48bf"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7ae8bce0fdba2928f04b5b19f1a22e90"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-28T16:15:49Z",
+      "year": 2023,
+      "month": 1,
+      "day": 28,
+      "hour": 16,
+      "minute": 15,
+      "x": -117.91922650564048,
+      "y": 33.81011080561252,
+      "altitude": 41,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  }
+}

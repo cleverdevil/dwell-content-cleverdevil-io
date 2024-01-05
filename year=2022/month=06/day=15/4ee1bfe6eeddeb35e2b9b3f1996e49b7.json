@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/182-disapproval-has-a-scent"
+    ],
+    "published": [
+      "2022-06-15T06:36:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4ee1bfe6eeddeb35e2b9b3f1996e49b7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-15T07:44:36Z",
+      "year": 2022,
+      "month": 6,
+      "day": 15,
+      "hour": 7,
+      "minute": 44,
+      "x": -116.38036086819305,
+      "y": 33.70170726023052,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.30000001192092896,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 182: Disapproval Has a Scent"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/56aed549af75b98560fb428f344473d4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMUrmeI"
+        ],
+        "content": [
+          {
+            "html": "<p>On the heels of releasing their annual member episode, John and Merlin answer some of the very good questions posed by one of their friend-guests at length.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "On the heels of releasing their annual member episode, John and Merlin answer some of the very good questions posed by one of their friend-guests at length.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

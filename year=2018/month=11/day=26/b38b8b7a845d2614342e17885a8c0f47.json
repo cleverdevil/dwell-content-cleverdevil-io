@@ -1,0 +1,163 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2018/11/26/16/aws"
+    ],
+    "name": [
+      "@aaronpk see you there! Maybe we can have an impromptu HWC?!"
+    ],
+    "content": [
+      {
+        "html": "@aaronpk see you there! Maybe we can have an impromptu HWC?!",
+        "value": "@aaronpk see you there! Maybe we can have an impromptu HWC?!"
+      }
+    ],
+    "url": [
+      "/2018/aaronpk-see-you-there-maybe-we-can"
+    ],
+    "published": [
+      "2018-11-26T18:35:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "omg yesss! HWC re:invent!"
+          ],
+          "content": [
+            {
+              "html": "<p>omg yesss! HWC re:invent!</p>",
+              "value": "omg yesss! HWC re:invent!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2018/11/26/18/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2018/11/26/18/"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1067124761065648128"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "b38b8b7a845d2614342e17885a8c0f47"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2018/11/26/17/"
+          ],
+          "published": [
+            "2018-11-26T18:35:40+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1067124761065648128?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1067124761065648128%2F14447132"
+          ],
+          "published": [
+            "2018-11-26T18:54:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc3NTc1NTQ1NTE4ODUxMjc2OC9DQTNZeEdhNC5qcGc,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      }
+    ]
+  }
+}

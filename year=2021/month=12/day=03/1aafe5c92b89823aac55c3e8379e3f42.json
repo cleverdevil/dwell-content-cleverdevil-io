@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into McCarran International Airport (LAS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.083814936605"
+          ],
+          "longitude": [
+            "-115.14206171036"
+          ]
+        },
+        "value": "McCarran International Airport (LAS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "McCarran International Airport (LAS)"
+          ],
+          "latitude": [
+            "36.083814936605"
+          ],
+          "longitude": [
+            "-115.14206171036"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-mccarran-international-airport-las-10"
+    ],
+    "published": [
+      "2021-12-03T17:30:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "\u201cA bartender is just a pharmacist with a limited inventory.\" \ud83e\udd43 \ud83c\udf79\ud83e\udd43"
+          ],
+          "content": [
+            {
+              "html": "<p>\u201cA bartender is just a pharmacist with a limited inventory.\" \ud83e\udd43 \ud83c\udf79\ud83e\udd43</p>",
+              "value": "\u201cA bartender is just a pharmacist with a limited inventory.\" \ud83e\udd43 \ud83c\udf79\ud83e\udd43"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3Rhci5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61aa5430d5b8e6471df84025/e4af154ba056ab8b82b04eff2cf7189d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61aa5430d5b8e6471df84025/e4af154ba056ab8b82b04eff2cf7189d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61aa5430d5b8e6471df84025"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1aafe5c92b89823aac55c3e8379e3f42"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-03T17:26:41Z",
+      "year": 2021,
+      "month": 12,
+      "day": 3,
+      "hour": 17,
+      "minute": 26,
+      "x": -115.14872835853423,
+      "y": 36.084991509180604,
+      "altitude": 646,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Silver Spur Ranch"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": "Silver Spur Ranch"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Silver Spur Ranch"
+          ],
+          "latitude": [
+            "33.698132645338"
+          ],
+          "longitude": [
+            "-116.38346632507"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-silver-spur-ranch-9"
+    ],
+    "published": [
+      "2022-03-14T03:32:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 10 check-ins at Housing Developments!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 10 check-ins at Housing Developments!</p>",
+              "value": "Wow! That's 10 check-ins at Housing Developments!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/622eb7315a09aa3f51cace01/fecbaa4575b2dc4533823716d6ee668e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/622eb7315a09aa3f51cace01/fecbaa4575b2dc4533823716d6ee668e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/622eb7315a09aa3f51cace01"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1726b76c46db1592a24d7df57e45d311"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-14T03:31:01Z",
+      "year": 2022,
+      "month": 3,
+      "day": 14,
+      "hour": 3,
+      "minute": 31,
+      "x": -116.38034233437517,
+      "y": 33.70154500596691,
+      "altitude": 128,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.3499999940395355,
+      "wifi": "DesertSun"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/413-the-rickies-september-2022"
+    ],
+    "published": [
+      "2022-09-08T01:51:16+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5658079bf157998a6f39c0261b92158b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-08T04:03:38Z",
+      "year": 2022,
+      "month": 9,
+      "day": 8,
+      "hour": 4,
+      "minute": 3,
+      "x": -116.39128232782791,
+      "y": 33.75675887683556,
+      "altitude": 67,
+      "motion": [
+        "driving"
+      ],
+      "speed": 26,
+      "battery_state": "charging",
+      "battery_level": 0.6399999856948853,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 413: The Rickies (September 2022)"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9d85584fdfcb2a6f8a54afb917ef906c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4UJ2RE"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple is holding an event on September 7, so the Rickies have been called to order.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Apple is holding an event on September 7, so the Rickies have been called to order.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

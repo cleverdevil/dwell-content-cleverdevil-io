@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Making progress on my latest IoT project, which will let me control the RGB LED pool lamp I recently installed. It's controlled by an RF remote. I am using a Raspberry Pi and an RF transmitter and receiver, and some custom Python code. Hoping to finish this weekend! \ud83e\udd13"
+    ],
+    "content": [
+      {
+        "html": "Making progress on my latest IoT project, which will let me control the RGB LED pool lamp I recently installed. It's controlled by an RF remote. I am using a Raspberry Pi and an RF transmitter and receiver, and some custom Python code. Hoping to finish this weekend! \ud83e\udd13",
+        "value": "Making progress on my latest IoT project, which will let me control the RGB LED pool lamp I recently installed. It's controlled by an RF remote. I am using a Raspberry Pi and an RF transmitter and receiver, and some custom Python code. Hoping to finish this weekend! \ud83e\udd13"
+      }
+    ],
+    "url": [
+      "/2022/making-progress-on-my-latest-iot-project"
+    ],
+    "published": [
+      "2022-07-08T03:49:31+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1545253742886490112"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "b022a57f01eda0c6f0fdc836b00d17c3"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1545253742886490112#favorited-by-253359899"
+          ],
+          "published": [
+            "2022-07-08T04:37:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Brianna \uc815\uc544, MPH"
+                ],
+                "url": [
+                  "https://twitter.com/briannajegan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MjM4OTI1OTY1MTQyOTk5MDUvdW5zckswbkQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzE1MjM4OTI1OTY1MTQyOTk5MDUvdW5zckswbkQuanBn/300/square Brianna \uc815\uc544, MPH"
+            }
+          ]
+        },
+        "value": "Brianna \uc815\uc544, MPH"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-08T03:43:57Z",
+      "year": 2022,
+      "month": 7,
+      "day": 8,
+      "hour": 3,
+      "minute": 43,
+      "x": -118.3703190871283,
+      "y": 33.81543906712758,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  }
+}

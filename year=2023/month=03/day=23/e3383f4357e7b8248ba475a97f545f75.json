@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/527-the-true-siri-experience"
+    ],
+    "published": [
+      "2023-03-23T22:26:20+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "e3383f4357e7b8248ba475a97f545f75"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-24T00:04:46Z",
+      "year": 2023,
+      "month": 3,
+      "day": 24,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.37038298199187,
+      "y": 33.81535824534005,
+      "altitude": 58,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4099999964237213,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 527: The True Siri Experience"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/48fce4aa29cf94a9611f776f7b58ac43/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIhQ290"
+        ],
+        "content": [
+          {
+            "html": "<p>AI developments, Apple Watch Ultra bands, furniture surgery, and the experience of using standalone cameras today.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "AI developments, Apple Watch Ultra bands, furniture surgery, and the experience of using standalone cameras today.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

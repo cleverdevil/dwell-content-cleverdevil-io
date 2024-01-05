@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/389-one-branch-leads-to-yes"
+    ],
+    "published": [
+      "2020-08-01T17:09:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 77.34\u00b0F and 58% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 77.34\u00b0F and 58% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 77.34\u00b0F and 58% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/389-one-branch-leads-to-yes/annotations/b8e5d0742ab0faf6b2567124f308c93d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/389-one-branch-leads-to-yes/annotations/b8e5d0742ab0faf6b2567124f308c93d"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4a2ad1fa3912ae7e6d1b76b03a7953f3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-01T20:00:03Z",
+      "year": 2020,
+      "month": 8,
+      "day": 1,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37032657797037,
+      "y": 33.815441187452926,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 389: One Branch Leads to Yes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c068965e847983ae617febf735324725/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJTieOw"
+        ],
+        "content": [
+          {
+            "html": "<p>For some reason, nobody asked us to testify before Congress.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "For some reason, nobody asked us to testify before Congress.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

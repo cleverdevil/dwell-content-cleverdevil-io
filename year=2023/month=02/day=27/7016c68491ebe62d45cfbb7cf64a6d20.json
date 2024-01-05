@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/qa-he-gets-us-doesnt-get-it"
+    ],
+    "published": [
+      "2023-02-27T23:35:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7016c68491ebe62d45cfbb7cf64a6d20"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-28T00:03:42Z",
+      "year": 2023,
+      "month": 2,
+      "day": 28,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.29731945384114,
+      "y": 33.81292079634186,
+      "altitude": 22,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.12999999523162842,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Q&A: \u201cHe Gets Us\u201d doesn\u2019t get it"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/acae7f8c2b8b0cb4aec410f91db91dbd/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6m8Dsg3Jg"
+        ],
+        "content": [
+          {
+            "html": "<p>Q&amp;A: \u201cHe Gets Us\u201d doesn\u2019t get it</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vacation Bible School Early Service</p>",
+            "value": "Q&A: \u201cHe Gets Us\u201d doesn\u2019t get it\nBy Vacation Bible School Early Service"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

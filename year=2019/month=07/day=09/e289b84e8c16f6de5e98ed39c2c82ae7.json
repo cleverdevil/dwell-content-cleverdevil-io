@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Boston Logan International Airport (BOS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365139666206"
+          ],
+          "longitude": [
+            "-71.018886566162"
+          ]
+        },
+        "value": "Boston Logan International Airport (BOS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365139666206"
+          ],
+          "longitude": [
+            "-71.018886566162"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-boston-logan-international-airport-bos-10"
+    ],
+    "published": [
+      "2019-07-09T18:44:41+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 269 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 269 people are here!</p>",
+              "value": "This place is swarming! 269 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d24e099e8d2810008b966da/a020f00110c5ba24cf409e1afaee660a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d24e099e8d2810008b966da/a020f00110c5ba24cf409e1afaee660a"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 87.29\u00b0F and 29% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 87.29\u00b0F and 29% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 87.29\u00b0F and 29% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-boston-logan-international-airport-bos-10/annotations/af234bb6e14a750db3df5008ce21e46b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-boston-logan-international-airport-bos-10/annotations/af234bb6e14a750db3df5008ce21e46b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d24e099e8d2810008b966da"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e289b84e8c16f6de5e98ed39c2c82ae7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-09T18:38:25Z",
+      "year": 2019,
+      "month": 7,
+      "day": 9,
+      "hour": 18,
+      "minute": 38,
+      "x": -71.02532379819698,
+      "y": 42.368134559285764,
+      "altitude": 10,
+      "motion": [
+        "driving"
+      ],
+      "speed": 16,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

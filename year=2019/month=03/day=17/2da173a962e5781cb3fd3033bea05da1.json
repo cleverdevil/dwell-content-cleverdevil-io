@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/tony-hawk"
+    ],
+    "published": [
+      "2019-03-17T20:29:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.89\u00b0F and 32% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.89\u00b0F and 32% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.89\u00b0F and 32% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/tony-hawk/annotations/f6b787038343b534a2e2f93d132eb9b4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/tony-hawk/annotations/f6b787038343b534a2e2f93d132eb9b4"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2da173a962e5781cb3fd3033bea05da1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-17T23:44:19Z",
+      "year": 2019,
+      "month": 3,
+      "day": 17,
+      "hour": 23,
+      "minute": 44,
+      "x": -118.37057038855126,
+      "y": 33.81527933986244,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Tony Hawk"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c637125555d10a00d72900ee23b4fd0f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+HuUBfS_Lg"
+        ],
+        "content": [
+          {
+            "html": "<p>Tony Hawk, professional skateboarder, joins us along with panelists Jessi Klein, Luke Burbank, and Helen Hong.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Wait Wait...Don't Tell Me!</p>",
+            "value": "Tony Hawk, professional skateboarder, joins us along with panelists Jessi Klein, Luke Burbank, and Helen Hong.\nBy Wait Wait...Don't Tell Me!"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

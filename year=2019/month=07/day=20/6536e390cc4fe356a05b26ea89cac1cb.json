@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Charles H. Wilson Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825935076329"
+          ],
+          "longitude": [
+            "-118.31937356495"
+          ]
+        },
+        "value": "Charles H. Wilson Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Charles H. Wilson Park"
+          ],
+          "latitude": [
+            "33.825935076329"
+          ],
+          "longitude": [
+            "-118.31937356495"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-charles-h-wilson-park-9"
+    ],
+    "published": [
+      "2019-07-20T23:56:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Charles H. Wilson Park 10 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Charles H. Wilson Park 10 times!</p>",
+              "value": "Wow! You've checked in to Charles H. Wilson Park 10 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d33aa2aee2a560008e80e1a/df1ad66647c02c8b46336da330a48410"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d33aa2aee2a560008e80e1a/df1ad66647c02c8b46336da330a48410"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.12\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.12\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.12\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-charles-h-wilson-park-9/annotations/24340d779a53a05b28dee7974f2be9bb"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-charles-h-wilson-park-9/annotations/24340d779a53a05b28dee7974f2be9bb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d33aa2aee2a560008e80e1a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6536e390cc4fe356a05b26ea89cac1cb"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-21T00:01:17Z",
+      "year": 2019,
+      "month": 7,
+      "day": 21,
+      "hour": 0,
+      "minute": 1,
+      "x": -118.3272270684442,
+      "y": 33.82658067937185,
+      "altitude": 26,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  }
+}

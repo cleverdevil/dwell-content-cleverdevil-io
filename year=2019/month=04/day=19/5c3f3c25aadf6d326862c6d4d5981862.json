@@ -1,0 +1,184 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-102-preparing-the-way"
+    ],
+    "published": [
+      "2019-04-19T16:43:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.94\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-102-preparing-the-way/annotations/5ef5547a13a9b0f4dfbb4640042b85a7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-102-preparing-the-way/annotations/5ef5547a13a9b0f4dfbb4640042b85a7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That\u2019s great to hear! It\u2019s already sitting in my Overcast queue waiting \ud83d\ude42 (eddiehinkle.com/2019/04/19/13/\u2026)"
+          ],
+          "content": [
+            {
+              "html": "<p>That\u2019s great to hear! It\u2019s already sitting in my Overcast queue waiting \ud83d\ude42 (eddiehinkle.com/2019/04/19/13/\u2026)</p>",
+              "value": "That\u2019s great to hear! It\u2019s already sitting in my Overcast queue waiting \ud83d\ude42 (eddiehinkle.com/2019/04/19/13/\u2026)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://twitter.com/EddieHinkle/status/1119354289053405186"
+          ]
+        },
+        "value": "https://twitter.com/EddieHinkle/status/1119354289053405186"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5c3f3c25aadf6d326862c6d4d5981862"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-19T20:00:48Z",
+      "year": 2019,
+      "month": 4,
+      "day": 19,
+      "hour": 20,
+      "minute": 0,
+      "x": -118.37039866783618,
+      "y": 33.81545376653154,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 102: Preparing the Way"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/351bad81bbc2e6f56b4d633577c40ede/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMQYJes"
+        ],
+        "content": [
+          {
+            "html": "<p>Your hosts discuss John\u2019s new refrigerator.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Your hosts discuss John\u2019s new refrigerator.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

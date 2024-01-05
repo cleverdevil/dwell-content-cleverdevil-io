@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-274-2019-in-review-the-date-of-november-came"
+    ],
+    "published": [
+      "2019-12-29T05:22:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 50.85\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 50.85\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 50.85\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-274-2019-in-review-the-date-of-november-came/annotations/2a9b34f61ff3a6fa154b21a85cec4ed5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-274-2019-in-review-the-date-of-november-came/annotations/2a9b34f61ff3a6fa154b21a85cec4ed5"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b8f33817cd07f01d2ec0f21d68c9219f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-29T08:00:14Z",
+      "year": 2019,
+      "month": 12,
+      "day": 29,
+      "hour": 8,
+      "minute": 0,
+      "x": -118.37054544530415,
+      "y": 33.8153201567286,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.75,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 274: 2019 in Review: The Date of November Came in September"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f906e045b048d748dbcb3f7bc2863f8b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4AHjTs"
+        ],
+        "content": [
+          {
+            "html": "<p>2019 was a wild year, complete with the death of AirPower, the announcement of iPadOS, the release of the iPhone 11 and the return of the Mac Pro. This week, Stephen, Federico and Myke revisit the headlines that made this year so hectic.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "2019 was a wild year, complete with the death of AirPower, the announcement of iPadOS, the release of the iPhone 11 and the return of the Mac Pro. This week, Stephen, Federico and Myke revisit the headlines that made this year so hectic.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

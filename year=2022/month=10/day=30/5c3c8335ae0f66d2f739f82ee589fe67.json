@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/506-our-only-seo-is-you"
+    ],
+    "published": [
+      "2022-10-30T00:07:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5c3c8335ae0f66d2f739f82ee589fe67"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-30T03:56:20Z",
+      "year": 2022,
+      "month": 10,
+      "day": 30,
+      "hour": 3,
+      "minute": 56,
+      "x": -118.37010022832783,
+      "y": 33.81558472228474,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.3100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 506: Our Only SEO Is You"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/426992961ff8e316ab3027c1a5bc53f1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI1D_sg"
+        ],
+        "content": [
+          {
+            "html": "<p>Switchglass 2.0, Casey\u2019s new iPad Pro, and our first experiences with macOS Ventura and iCloud Shared Photo Library.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Switchglass 2.0, Casey\u2019s new iPad Pro, and our first experiences with macOS Ventura and iCloud Shared Photo Library.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

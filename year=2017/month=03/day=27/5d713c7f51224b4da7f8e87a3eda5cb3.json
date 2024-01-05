@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2017/03/27/9/day-97-known-micropub-json"
+    ],
+    "name": [
+      "This sounds great. I wish Known had even deeper support, but this is a good start. Thanks Aaron :)"
+    ],
+    "content": [
+      {
+        "html": "This sounds great. I wish Known had even deeper support, but this is a good start. Thanks Aaron :)",
+        "value": "This sounds great. I wish Known had even deeper support, but this is a good start. Thanks Aaron :)"
+      }
+    ],
+    "url": [
+      "/2017/this-sounds-great-i-wish-known-had-even-deeper-support"
+    ],
+    "published": [
+      "2017-03-27T23:34:24+0000"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "5d713c7f51224b4da7f8e87a3eda5cb3"
+    ]
+  }
+}

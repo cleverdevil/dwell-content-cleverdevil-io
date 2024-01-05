@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/478-no-bum-cores"
+    ],
+    "published": [
+      "2022-04-14T14:21:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "70c7a7d7e261eacd59d8b0d564af5a64"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-14T16:00:47Z",
+      "year": 2022,
+      "month": 4,
+      "day": 14,
+      "hour": 16,
+      "minute": 0,
+      "x": -117.25211543981408,
+      "y": 32.78987720420599,
+      "altitude": 8,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "Catamaran Conference"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 478: No Bum Cores"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/154af3e7a8aef77b5d439a106a9b6666/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+0mfc2RlSo"
+        ],
+        "content": [
+          {
+            "html": "<p>Marco discovers TV, Casey\u2019s setup changes again, and John installs a thermostat.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast: Unedited Live Stream</p>",
+            "value": "Marco discovers TV, Casey\u2019s setup changes again, and John installs a thermostat.\nBy Accidental Tech Podcast: Unedited Live Stream"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818167005599"
+          ],
+          "longitude": [
+            "-118.38519045213"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818167005599"
+          ],
+          "longitude": [
+            "-118.38519045213"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-barber-shop-2"
+    ],
+    "published": [
+      "2017-06-11T17:51:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Clippy sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Clippy sticker bonus!</p>",
+              "value": "Clippy sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f3afe4504e10378e1fbb56687cea6078"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593d832193bd6328a4aba284/354ec1573d1185ef172fb1f69d930dc7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593d832193bd6328a4aba284/354ec1573d1185ef172fb1f69d930dc7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/593d832193bd6328a4aba284"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "044aa7c76e75d16c3911ed3edf3434e0"
+    ]
+  }
+}

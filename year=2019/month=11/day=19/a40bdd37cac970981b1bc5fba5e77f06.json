@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Delta Sky Club"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "30.203285"
+          ],
+          "longitude": [
+            "-97.66536"
+          ]
+        },
+        "value": "Delta Sky Club"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Delta Sky Club"
+          ],
+          "latitude": [
+            "30.203285"
+          ],
+          "longitude": [
+            "-97.66536"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-delta-sky-club-52"
+    ],
+    "published": [
+      "2019-11-19T22:19:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Austin Bergstrom International Airport for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Austin Bergstrom International Airport for more coins!</p>",
+              "value": "Keep checking in to places inside Austin Bergstrom International Airport for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dd46a837fec210008a0edb9/c5ddd47fefde2f244020686fa9ba6dfd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dd46a837fec210008a0edb9/c5ddd47fefde2f244020686fa9ba6dfd"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.68\u00b0F and 52% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.68\u00b0F and 52% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.68\u00b0F and 52% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-delta-sky-club-52/annotations/c5d94fe5a1f3bd1848f0b6d7dc451ffc"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-delta-sky-club-52/annotations/c5d94fe5a1f3bd1848f0b6d7dc451ffc"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dd46a837fec210008a0edb9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a40bdd37cac970981b1bc5fba5e77f06"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-20T00:02:59Z",
+      "year": 2019,
+      "month": 11,
+      "day": 20,
+      "hour": 0,
+      "minute": 2,
+      "x": -97.66279979604818,
+      "y": 30.202391946142818,
+      "altitude": 152,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "DeltaSkyClub"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fish Market Maui"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fish Market Maui"
+          ],
+          "latitude": [
+            "20.95244604"
+          ],
+          "longitude": [
+            "-156.686527"
+          ]
+        },
+        "value": "Fish Market Maui"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fish Market Maui"
+          ],
+          "latitude": [
+            "20.95244604"
+          ],
+          "longitude": [
+            "-156.686527"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Fish Market Maui\" src=\"https://cleverdevil.io/file/c787011705353ea4db24e86839d178d5\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Fish tacos \ud83c\udf2e!</p>",
+        "value": "Fish Market Maui\nFish tacos \ud83c\udf2e!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-fish-market-maui"
+    ],
+    "published": [
+      "2017-07-09T00:07:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Fish Market Maui!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Fish Market Maui!</p>",
+              "value": "Your first check-in at Fish Market Maui!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/3756609d916f09ec82b7b5ee2e6d34c2"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596173a3fd16bb5b69dff01c/89300d0ec9cd28cd0b6002797fd265eb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596173a3fd16bb5b69dff01c/89300d0ec9cd28cd0b6002797fd265eb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596173a3fd16bb5b69dff01c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4733094df4362e2a83a6d20138ec7bf6"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Counter"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048441443041"
+          ],
+          "longitude": [
+            "-118.25825750828"
+          ]
+        },
+        "value": "The Counter"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Counter"
+          ],
+          "latitude": [
+            "34.048441443041"
+          ],
+          "longitude": [
+            "-118.25825750828"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Kris' birthday!</p>",
+        "value": "Kris' birthday!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-counter"
+    ],
+    "published": [
+      "2017-03-30T19:12:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at The Counter!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at The Counter!</p>",
+              "value": "Your first check-in at The Counter!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7dc887b47e5dcf4db38df8b4e63c9bbb"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58dd58b033a2457d7c2c1a7e/d103df4c95df1730e961b357a3dc31af"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58dd58b033a2457d7c2c1a7e/d103df4c95df1730e961b357a3dc31af"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Burger Joint check-in in 5 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Burger Joint check-in in 5 years!</p>",
+              "value": "First Burger Joint check-in in 5 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7dc887b47e5dcf4db38df8b4e63c9bbb"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58dd58b033a2457d7c2c1a7e/a2d1e6f78aabfdde2a6c46abe18f8f73"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58dd58b033a2457d7c2c1a7e/a2d1e6f78aabfdde2a6c46abe18f8f73"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58dd58b033a2457d7c2c1a7e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "e6cae24e6dce25ecc5fadc2fabe25e1f"
+    ]
+  }
+}

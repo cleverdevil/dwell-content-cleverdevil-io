@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/near-death-experiences"
+    ],
+    "published": [
+      "2023-09-28T21:43:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9e68c921474ef0ab3a89880433b8f642"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-29T00:01:09Z",
+      "year": 2023,
+      "month": 9,
+      "day": 29,
+      "hour": 0,
+      "minute": 1,
+      "x": -118.28454366796691,
+      "y": 33.85573625105742,
+      "altitude": 12,
+      "motion": [
+        "driving"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Near-death experiences"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/010629085ba4b52263149eb01dc7c511/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6m8DzBafg"
+        ],
+        "content": [
+          {
+            "html": "<p>Near-death experiences</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vacation Bible School Early Service</p>",
+            "value": "Near-death experiences\nBy Vacation Bible School Early Service"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

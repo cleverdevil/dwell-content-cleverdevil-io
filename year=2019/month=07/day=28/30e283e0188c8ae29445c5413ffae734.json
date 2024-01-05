@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-253-jeff-would-absolutely-destroy-me"
+    ],
+    "published": [
+      "2019-07-28T20:21:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.25\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-253-jeff-would-absolutely-destroy-me/annotations/ccc9d5ffc3e08b3eaca245253991bffd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-253-jeff-would-absolutely-destroy-me/annotations/ccc9d5ffc3e08b3eaca245253991bffd"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "30e283e0188c8ae29445c5413ffae734"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-28T23:14:58Z",
+      "year": 2019,
+      "month": 7,
+      "day": 28,
+      "hour": 23,
+      "minute": 14,
+      "x": -118.37036381579476,
+      "y": 33.815463648089,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 253: Jeff Would Absolutely Destroy Me"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/366169fa83c7a0a59ee0cb5f494c9231/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4lMFK4"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico and Myke are interested in expanding their smart home devices, wondering if Apple will buy a chunk of Intel, and considering the possible new features of the iPhone 11.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico and Myke are interested in expanding their smart home devices, wondering if Apple will buy a chunk of Intel, and considering the possible new features of the iPhone 11.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

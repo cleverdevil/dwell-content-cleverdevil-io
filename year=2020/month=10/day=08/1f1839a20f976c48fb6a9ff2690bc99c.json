@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riera\u2019s"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riera\u2019s"
+          ],
+          "latitude": [
+            "33.81628"
+          ],
+          "longitude": [
+            "-118.376288"
+          ]
+        },
+        "value": "Riera\u2019s"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riera\u2019s"
+          ],
+          "latitude": [
+            "33.81628"
+          ],
+          "longitude": [
+            "-118.376288"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-rieras-1"
+    ],
+    "published": [
+      "2020-10-08T20:10:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "New Mayor! That crown looks better on you!"
+          ],
+          "content": [
+            {
+              "html": "<p>New Mayor! That crown looks better on you!</p>",
+              "value": "New Mayor! That crown looks better on you!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5f7f7246c5dd660b07ed6cac/ff6c0ef653f69f769972d608997c6bfc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5f7f7246c5dd660b07ed6cac/ff6c0ef653f69f769972d608997c6bfc"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Do your best to stay home and practice social distancing"
+          ],
+          "content": [
+            {
+              "html": "<p>Do your best to stay home and practice social distancing</p>",
+              "value": "Do your best to stay home and practice social distancing"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5f7f7246c5dd660b07ed6cac/3e8c9104eeea1162af556cce1b8f9ba0"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5f7f7246c5dd660b07ed6cac/3e8c9104eeea1162af556cce1b8f9ba0"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5f7f7246c5dd660b07ed6cac"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1f1839a20f976c48fb6a9ff2690bc99c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-08T20:04:10Z",
+      "year": 2020,
+      "month": 10,
+      "day": 8,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.37038319849509,
+      "y": 33.81543374126175,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

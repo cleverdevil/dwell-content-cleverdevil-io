@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bouzy Gastropub"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": "Bouzy Gastropub"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bouzy Gastropub"
+          ],
+          "latitude": [
+            "33.819441"
+          ],
+          "longitude": [
+            "-118.388598"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Mothers' Day Brunch!</p>",
+        "value": "Mothers' Day Brunch!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-bouzy-gastropub-1"
+    ],
+    "published": [
+      "2017-05-14T17:15:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ad4f0fe8ab18611d486f72c1a945c672"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/591890a395a72279a97a827b/94eded37caa558063b9bae8432349b05"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/591890a395a72279a97a827b/94eded37caa558063b9bae8432349b05"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/591890a395a72279a97a827b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "99bc860b0ffe524ebbf7412ecd3d5628"
+    ]
+  }
+}

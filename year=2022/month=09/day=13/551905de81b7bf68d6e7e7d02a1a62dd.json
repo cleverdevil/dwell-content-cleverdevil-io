@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/scheduled-for-adrainment"
+    ],
+    "published": [
+      "2022-09-13T04:08:33+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "551905de81b7bf68d6e7e7d02a1a62dd"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-12T00:25:49Z",
+      "year": 2022,
+      "month": 9,
+      "day": 12,
+      "hour": 0,
+      "minute": 25,
+      "x": -116.40341310126041,
+      "y": 33.72582383165575,
+      "altitude": 65,
+      "motion": [
+        "driving"
+      ],
+      "speed": 7,
+      "battery_state": "charging",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Scheduled For Adrainment"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e5bfb6844a636b7122f190e729a82c51/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2_6zk4"
+        ],
+        "content": [
+          {
+            "html": "<p>Karen brings the case against her husband, Matt. Part of their property has a pasture that slopes downward. This creates a low spot that fills with a foot of water during certain times of the year. Karen calls this area the \u201cfrog bog.\u201d Matt wants to fill it in, but Karen wants to leave the bog alone. Who\u2019s right? Who\u2019s wrong?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Karen brings the case against her husband, Matt. Part of their property has a pasture that slopes downward. This creates a low spot that fills with a foot of water during certain times of the year. Karen calls this area the \u201cfrog bog.\u201d Matt wants to fill it in, but Karen wants to leave the bog alone. Who\u2019s right? Who\u2019s wrong?\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Cuts with the boy.</p>",
+        "value": "Cuts with the boy."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-barber-shop-21"
+    ],
+    "published": [
+      "2019-01-05T18:58:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Still got the crown! Just don't get Joffrey'd."
+          ],
+          "content": [
+            {
+              "html": "<p>Still got the crown! Just don't get Joffrey'd.</p>",
+              "value": "Still got the crown! Just don't get Joffrey'd."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c30fe5116fa04002c9f6737/71b137c6695e8a9d0f3cbe6b5e16e8eb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c30fe5116fa04002c9f6737/71b137c6695e8a9d0f3cbe6b5e16e8eb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c30fe5116fa04002c9f6737"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "251dc9f7d41687722fcf72d58a5fb452"
+    ]
+  }
+}

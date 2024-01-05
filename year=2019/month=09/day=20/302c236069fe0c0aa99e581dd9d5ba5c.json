@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Detroit Metropolitan Wayne County Airport (DTW)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.209235014088"
+          ],
+          "longitude": [
+            "-83.359213483699"
+          ]
+        },
+        "value": "Detroit Metropolitan Wayne County Airport (DTW)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.209235014088"
+          ],
+          "longitude": [
+            "-83.359213483699"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-detroit-metropolitan-wayne-county-airport-dtw-2"
+    ],
+    "published": [
+      "2019-09-20T18:03:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This place is swarming! 242 people are here!"
+          ],
+          "content": [
+            {
+              "html": "<p>This place is swarming! 242 people are here!</p>",
+              "value": "This place is swarming! 242 people are here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYmVlLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d851467a8e22b000869c59b/02b59cb199752198842db6ac4fe4d519"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d851467a8e22b000869c59b/02b59cb199752198842db6ac4fe4d519"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 82.45\u00b0F and 55% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 82.45\u00b0F and 55% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 82.45\u00b0F and 55% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-detroit-metropolitan-wayne-county-airport-dtw-2/annotations/1ee5877db5775b4d74ab2ff682bab9f5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-detroit-metropolitan-wayne-county-airport-dtw-2/annotations/1ee5877db5775b4d74ab2ff682bab9f5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d851467a8e22b000869c59b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "302c236069fe0c0aa99e581dd9d5ba5c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-20T17:59:32Z",
+      "year": 2019,
+      "month": 9,
+      "day": 20,
+      "hour": 17,
+      "minute": 59,
+      "x": -83.36747358444758,
+      "y": 42.20157699971494,
+      "altitude": 194,
+      "motion": [
+        "driving"
+      ],
+      "speed": 13,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": ""
+    }
+  }
+}

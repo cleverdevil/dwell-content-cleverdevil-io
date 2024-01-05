@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/491-salmon-and-swiftui"
+    ],
+    "published": [
+      "2022-07-16T06:48:30+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ba64e494eeb3392f971558ae56a7b7b7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-16T07:54:25Z",
+      "year": 2022,
+      "month": 7,
+      "day": 16,
+      "hour": 7,
+      "minute": 54,
+      "x": -116.38034362870225,
+      "y": 33.70173267785065,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.27000001072883606,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 491: Salmon and SwiftUI"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f15d2fc81eb479757092b66cf936c6a2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI_lMyo"
+        ],
+        "content": [
+          {
+            "html": "<p>Sometimes, you just have to force yourself to keep eating until you like it.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Sometimes, you just have to force yourself to keep eating until you like it.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

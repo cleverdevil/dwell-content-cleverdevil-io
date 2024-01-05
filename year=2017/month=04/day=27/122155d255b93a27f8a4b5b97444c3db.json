@@ -1,0 +1,119 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://colinwalker.blog/2017/04/27/indieweb-adoption-how-does-a-new-way-spread/"
+    ],
+    "name": [
+      "Well put, Colin. A platform like Micro.blog has a great deal of potential to advance the adoption of IndieWeb building blocks like Micropub, IndieAuth, Webmention, and mf2, even if the users of Micro.blog don't know or understand any of the underlying foundations. Why? User experience! Micro.blog is simply leveraging IndieWeb technology and standards to build a platform that makes users happy.\n\nWhile Micro.blog is a great step forward for the IndieWeb, I still believe that the holy grail is getting native support for IndieWeb deep within WordPress core, including broad support from themes. WordPress runs over 28% of all websites, and IndieWeb support in core could be the tipping point for broad adoption."
+    ],
+    "content": [
+      {
+        "html": "Well put, Colin. A platform like Micro.blog has a great deal of potential to advance the adoption of IndieWeb  building blocks like Micropub, IndieAuth, Webmention, and mf2, even if the users of Micro.blog don't know or understand any of the underlying foundations. Why? User experience! Micro.blog is simply leveraging IndieWeb technology and standards to build a platform that makes users happy.<br/>\n<br/>\nWhile Micro.blog is a great step forward for the IndieWeb, I still believe that the holy grail is getting native support for IndieWeb deep within WordPress core, including broad support from themes. WordPress runs over 28% of all websites, and IndieWeb support in core could be the tipping point for broad adoption.",
+        "value": "Well put, Colin. A platform like Micro.blog has a great deal of potential to advance the adoption of IndieWeb building blocks like Micropub, IndieAuth, Webmention, and mf2, even if the users of Micro.blog don't know or understand any of the underlying foundations. Why? User experience! Micro.blog is simply leveraging IndieWeb technology and standards to build a platform that makes users happy.\n\nWhile Micro.blog is a great step forward for the IndieWeb, I still believe that the holy grail is getting native support for IndieWeb deep within WordPress core, including broad support from themes. WordPress runs over 28% of all websites, and IndieWeb support in core could be the tipping point for broad adoption."
+      }
+    ],
+    "url": [
+      "/2017/well-put-colin-a-platform-like-microblog-has-a-great"
+    ],
+    "published": [
+      "2017-04-27T17:03:26+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "122155d255b93a27f8a4b5b97444c3db"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://colinwalker.blog/2017/04/27/27042017-1837/"
+          ],
+          "published": [
+            "2017-04-27T18:37:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Colin Walker"
+                ],
+                "url": [
+                  "https://colinwalker.blog/"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Colin Walker"
+            }
+          ]
+        },
+        "value": "Colin Walker"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2017/04/27/7/"
+          ],
+          "published": [
+            "2017-04-27T20:11:56+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/fad57636ee77552a9d937847d0e98be4"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/fad57636ee77552a9d937847d0e98be4 Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      }
+    ]
+  }
+}

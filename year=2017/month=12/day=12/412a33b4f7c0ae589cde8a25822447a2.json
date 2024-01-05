@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Tortilla Jo's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tortilla Jo's"
+          ],
+          "latitude": [
+            "33.809308"
+          ],
+          "longitude": [
+            "-117.923614"
+          ]
+        },
+        "value": "Tortilla Jo's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tortilla Jo's"
+          ],
+          "latitude": [
+            "33.809308"
+          ],
+          "longitude": [
+            "-117.923614"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Fuh hee tuhs</p>",
+        "value": "Fuh hee tuhs"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-tortilla-jos"
+    ],
+    "published": [
+      "2017-12-12T03:22:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Tortilla Jo's!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Tortilla Jo's!</p>",
+              "value": "Your first check-in at Tortilla Jo's!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2f4b737dc9e123918a94c9/5559b3d9a1c7295150308d183d5454ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a2f4b737dc9e123918a94c9/5559b3d9a1c7295150308d183d5454ae"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That's 2 check-ins inside Disneyland Resort today! Keep going for more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>That's 2 check-ins inside Disneyland Resort today! Keep going for more coins.</p>",
+              "value": "That's 2 check-ins inside Disneyland Resort today! Keep going for more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a2f4b737dc9e123918a94c9/feb7adc993a7912cec0ff0259cb1c066"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a2f4b737dc9e123918a94c9/feb7adc993a7912cec0ff0259cb1c066"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a2f4b737dc9e123918a94c9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "412a33b4f7c0ae589cde8a25822447a2"
+    ]
+  }
+}

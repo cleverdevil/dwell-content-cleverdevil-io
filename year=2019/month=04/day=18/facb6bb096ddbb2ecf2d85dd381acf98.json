@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "@manton @pratik @JohnPhilpin For scheduling, there is a solution: Futurepub from @cleverdevil (but you\u2019d need to use something other than the Micro.blog apps to write the post/send it to Futurepub\u2014and, of course, you\u2019d need to generate a token for futurepub to use to publish to your micro.blog)."
+    ],
+    "like-of": [
+      "https://micro.blog/smokey/3193556"
+    ],
+    "url": [
+      "/2019/manton-pratik-johnphilpin-for-scheduling-there-is-a-solution-futurepub"
+    ],
+    "published": [
+      "2019-04-18T07:06:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 55.85\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 55.85\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 55.85\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/manton-pratik-johnphilpin-for-scheduling-there-is-a-solution-futurepub/annotations/cd664a07b74dbbaf587116920c34c783"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/manton-pratik-johnphilpin-for-scheduling-there-is-a-solution-futurepub/annotations/cd664a07b74dbbaf587116920c34c783"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "facb6bb096ddbb2ecf2d85dd381acf98"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-18T06:54:06Z",
+      "year": 2019,
+      "month": 4,
+      "day": 18,
+      "hour": 6,
+      "minute": 54,
+      "x": -122.3778575857942,
+      "y": 37.602599811643294,
+      "altitude": -2,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9300000071525574,
+      "wifi": "Aloft-Guestrooms"
+    }
+  }
+}

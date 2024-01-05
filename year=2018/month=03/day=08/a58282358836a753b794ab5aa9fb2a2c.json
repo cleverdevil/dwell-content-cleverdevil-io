@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into BOA Steakhouse"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOA Steakhouse"
+          ],
+          "latitude": [
+            "34.014275186565"
+          ],
+          "longitude": [
+            "-118.49808775689"
+          ]
+        },
+        "value": "BOA Steakhouse"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOA Steakhouse"
+          ],
+          "latitude": [
+            "34.014275186565"
+          ],
+          "longitude": [
+            "-118.49808775689"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Biz</p>",
+        "value": "Biz"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-boa-steakhouse"
+    ],
+    "published": [
+      "2018-03-08T02:04:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at BOA Steakhouse!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at BOA Steakhouse!</p>",
+              "value": "Your first check-in at BOA Steakhouse!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5aa09a25c8b2fb467e0dd61d/b055feee64764360449aee1813e24480"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5aa09a25c8b2fb467e0dd61d/b055feee64764360449aee1813e24480"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5aa09a25c8b2fb467e0dd61d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a58282358836a753b794ab5aa9fb2a2c"
+    ]
+  }
+}

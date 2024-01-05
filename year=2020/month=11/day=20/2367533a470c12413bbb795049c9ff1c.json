@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/326-the-m1-macs-interview-and-review"
+    ],
+    "published": [
+      "2020-11-20T16:45:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2367533a470c12413bbb795049c9ff1c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-11-20T19:59:33Z",
+      "year": 2020,
+      "month": 11,
+      "day": 20,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37040602068764,
+      "y": 33.81538425639591,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 326: The M1 Macs: Interview and Review"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fa2358c3aacc76a87655902e0064fac2/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_JI40o"
+        ],
+        "content": [
+          {
+            "html": "<p>In this special, extra-packed episode we\u2019ve got an interview with Apple\u2019s Tim Millet and Tom Boger about Apple\u2019s new M1 Macs, followed by Jason\u2019s review of the new Macs after spending nearly a week with all three models.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "In this special, extra-packed episode we\u2019ve got an interview with Apple\u2019s Tim Millet and Tom Boger about Apple\u2019s new M1 Macs, followed by Jason\u2019s review of the new Macs after spending nearly a week with all three models.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

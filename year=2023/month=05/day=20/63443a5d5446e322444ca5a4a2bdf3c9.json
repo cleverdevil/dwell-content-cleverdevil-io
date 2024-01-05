@@ -1,0 +1,462 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Again feeling the desire to build a new open source social website platform that natively supports feeds, ActivityPub, ATProto, with an integrated reader and mobile client.\n\nOh yeah, I don\u2019t have any time for that and there isn\u2019t a market for it \ud83e\udd13"
+    ],
+    "content": [
+      {
+        "html": "Again feeling the desire to build a new open source social website platform that natively supports feeds, ActivityPub, ATProto, with an integrated reader and mobile client.<br/>\n<br/>\nOh yeah, I don\u2019t have any time for that and there isn\u2019t a market for it \ud83e\udd13",
+        "value": "Again feeling the desire to build a new open source social website platform that natively supports feeds, ActivityPub, ATProto, with an integrated reader and mobile client.\n\nOh yeah, I don\u2019t have any time for that and there isn\u2019t a market for it \ud83e\udd13"
+      }
+    ],
+    "url": [
+      "/2023/again-feeling-the-desire-to-build-a"
+    ],
+    "published": [
+      "2023-05-20T02:13:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "haha you and me both. I was just thinking about this the other day"
+          ],
+          "content": [
+            {
+              "html": "<p>haha you and me both. I was just thinking about this the other day</p>",
+              "value": "haha you and me both. I was just thinking about this the other day"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ]
+              },
+              "value": "Aaron Parecki"
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2023/05/20/2/"
+          ]
+        },
+        "value": "https://aaronparecki.com/2023/05/20/2/"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil kind of what I use Micro.blog for"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil kind of what I use Micro.blog for</p>",
+              "value": "@cleverdevil kind of what I use Micro.blog for"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvcGhvdG9zLzIwMC9odHRwcyUzQSUyRiUyRnN1cmZzY2FwZS5jbG91ZCUyRnN5c3RlbSUyRmNhY2hlJTJGYWNjb3VudHMlMkZhdmF0YXJzJTJGMTEwJTJGMTkyJTJGNTY3JTJGMjA4JTJGODI4JTJGNDc5JTJGb3JpZ2luYWwlMkY0NWEzNjY3ZGIwZDg0MjVlLmpwZWc,/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/19264308"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/19264308"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker it\u2019s the closest thing out there. @manton has done a fantastic job.\nI like having a dynamic site, powered by a queryable data store, and I would love for there to be a self-hosted, open source option that acts as a feed aggregator, Fediverse server, and ATProto server."
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker it\u2019s the closest thing out there. @manton has done a fantastic job.<br/>I like having a dynamic site, powered by a queryable data store, and I would love for there to be a self-hosted, open source option that acts as a feed aggregator, Fediverse server, and ATProto server.</p>",
+              "value": "@jsonbecker it\u2019s the closest thing out there. @manton has done a fantastic job.\nI like having a dynamic site, powered by a queryable data store, and I would love for there to be a self-hosted, open source option that acts as a feed aggregator, Fediverse server, and ATProto server."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19267959"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19267959"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I\u2019m the reverse largely. Went static site a decade ago and cannot imagine going back for a personal website. Hugo\u2019s data-driven pages are close enough if you really need to go there. But the need for any infrastructure past nginx or Caddy feels nuts to me."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I\u2019m the reverse largely. Went static site a decade ago and cannot imagine going back for a personal website. Hugo\u2019s data-driven pages are close enough if you really need to go there. But the need for any infrastructure past nginx or Caddy feels nuts to me.</p>",
+              "value": "@cleverdevil I\u2019m the reverse largely. Went static site a decade ago and cannot imagine going back for a personal website. Hugo\u2019s data-driven pages are close enough if you really need to go there. But the need for any infrastructure past nginx or Caddy feels nuts to me."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvcGhvdG9zLzIwMC9odHRwcyUzQSUyRiUyRnN1cmZzY2FwZS5jbG91ZCUyRnN5c3RlbSUyRmNhY2hlJTJGYWNjb3VudHMlMkZhdmF0YXJzJTJGMTEwJTJGMTkyJTJGNTY3JTJGMjA4JTJGODI4JTJGNDc5JTJGb3JpZ2luYWwlMkY0NWEzNjY3ZGIwZDg0MjVlLmpwZWc,/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/19268356"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/19268356"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker yeah, I do lots of crazy stuff with my site, admittedly. For the majority of people static is great.\nIf I did build something today, I\u2019d likely store content as individual JSON files in a directory in either JF2 or mf2json and then make a query interface using Apache Drill or the like."
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker yeah, I do lots of crazy stuff with my site, admittedly. For the majority of people static is great.<br/>If I did build something today, I\u2019d likely store content as individual JSON files in a directory in either JF2 or mf2json and then make a query interface using Apache Drill or the like.</p>",
+              "value": "@jsonbecker yeah, I do lots of crazy stuff with my site, admittedly. For the majority of people static is great.\nIf I did build something today, I\u2019d likely store content as individual JSON files in a directory in either JF2 or mf2json and then make a query interface using Apache Drill or the like."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19271184"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19271184"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker alternatively, I have considered using something like Datasette with the \u201cBaked Data\u201d pattern - simonwillison.net/2021/Jul/..."
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker alternatively, I have considered using something like Datasette with the \u201cBaked Data\u201d pattern - simonwillison.net/2021/Jul/...</p>",
+              "value": "@jsonbecker alternatively, I have considered using something like Datasette with the \u201cBaked Data\u201d pattern - simonwillison.net/2021/Jul/..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19271235"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19271235"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Hugo fully supports this with json formatted data."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Hugo fully supports this with json formatted data.</p>",
+              "value": "@cleverdevil Hugo fully supports this with json formatted data."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvcGhvdG9zLzIwMC9odHRwcyUzQSUyRiUyRnN1cmZzY2FwZS5jbG91ZCUyRnN5c3RlbSUyRmNhY2hlJTJGYWNjb3VudHMlMkZhdmF0YXJzJTJGMTEwJTJGMTkyJTJGNTY3JTJGMjA4JTJGODI4JTJGNDc5JTJGb3JpZ2luYWwlMkY0NWEzNjY3ZGIwZDg0MjVlLmpwZWc,/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/19271318"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/19271318"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker neat! I wasn\u2019t aware. You can do dynamic queries?"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker neat! I wasn\u2019t aware. You can do dynamic queries?</p>",
+              "value": "@jsonbecker neat! I wasn\u2019t aware. You can do dynamic queries?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19271412"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19271412"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil this whole page is powered by a json blob for books data json.blog/books/"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil this whole page is powered by a json blob for books data json.blog/books/</p>",
+              "value": "@cleverdevil this whole page is powered by a json blob for books data json.blog/books/"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL21pY3JvLmJsb2cvcGhvdG9zLzIwMC9odHRwcyUzQSUyRiUyRnN1cmZzY2FwZS5jbG91ZCUyRnN5c3RlbSUyRmNhY2hlJTJGYWNjb3VudHMlMkZhdmF0YXJzJTJGMTEwJTJGMTkyJTJGNTY3JTJGMjA4JTJGODI4JTJGNDc5JTJGb3JpZ2luYWwlMkY0NWEzNjY3ZGIwZDg0MjVlLmpwZWc,/300/square"
+                ],
+                "name": [
+                  "jsonbecker"
+                ],
+                "url": [
+                  "https://micro.blog/jsonbecker"
+                ]
+              },
+              "value": "jsonbecker"
+            }
+          ],
+          "url": [
+            "https://micro.blog/jsonbecker/19271418"
+          ]
+        },
+        "value": "https://micro.blog/jsonbecker/19271418"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jsonbecker may need to give Hugo another look!"
+          ],
+          "content": [
+            {
+              "html": "<p>@jsonbecker may need to give Hugo another look!</p>",
+              "value": "@jsonbecker may need to give Hugo another look!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL3Bob3Rvcy85Ni9odHRwczovL2F2YXRhcnMubWljcm8uYmxvZy9hdmF0YXJzLzIwMjIvNDczLmpwZw,,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/19271481"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/19271481"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110398590083008375",
+      "https://bsky.app/profile/cleverdevil.io/post/3jw4ueh3rvl27"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "63443a5d5446e322444ca5a4a2bdf3c9"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-20T01:52:18Z",
+      "year": 2023,
+      "month": 5,
+      "day": 20,
+      "hour": 1,
+      "minute": 52,
+      "x": -118.37034627968166,
+      "y": 33.815389667125,
+      "altitude": 58,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  }
+}

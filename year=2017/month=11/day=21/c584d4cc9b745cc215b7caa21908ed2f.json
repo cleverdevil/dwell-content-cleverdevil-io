@@ -1,0 +1,706 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I heard a lot of suggestions from people for 1Password as an MFA solution. Honestly, I rarely use 1Password anymore thanks to iCloud Keychain and its tight integration with iOS and Safari."
+    ],
+    "content": [
+      {
+        "html": "I heard a lot of suggestions from people for 1Password as an MFA solution. Honestly, I rarely use 1Password anymore thanks to iCloud Keychain and its tight integration with iOS and Safari.",
+        "value": "I heard a lot of suggestions from people for 1Password as an MFA solution. Honestly, I rarely use 1Password anymore thanks to iCloud Keychain and its tight integration with iOS and Safari."
+      }
+    ],
+    "url": [
+      "/2017/i-heard-a-lot-of-suggestions-from-people-for-1password"
+    ],
+    "published": [
+      "2017-11-21T00:57:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Same. Everything outside of native has clunky af integration"
+          ],
+          "content": [
+            {
+              "html": "<p>Same. Everything outside of native has clunky af integration</p>",
+              "value": "Same. Everything outside of native has clunky af integration"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "http://mattfelten.com"
+                ]
+              },
+              "value": "Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/932775053053194240"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/932775053053194240"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Yup! I totally agree. Honestly, I'd love it if I could use Apple's built-in iOS MFA stuff for everything else. Its wonderful in comparison to the rest."
+          ],
+          "content": [
+            {
+              "html": "<p>Yup! I totally agree. Honestly, I'd love it if I could use Apple's built-in iOS MFA stuff for everything else. Its wonderful in comparison to the rest.</p>",
+              "value": "Yup! I totally agree. Honestly, I'd love it if I could use Apple's built-in iOS MFA stuff for everything else. Its wonderful in comparison to the rest."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932775438904041472"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932775438904041472"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I\u2019m hoping they open it up the way websites can use Apple Pay, we can just auth to websites"
+          ],
+          "content": [
+            {
+              "html": "<p>I\u2019m hoping they open it up the way websites can use Apple Pay, we can just auth to websites</p>",
+              "value": "I\u2019m hoping they open it up the way websites can use Apple Pay, we can just auth to websites"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "http://mattfelten.com"
+                ]
+              },
+              "value": "Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/932775790952857601"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/932775790952857601"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That would please me so much. Especially with Face ID being so awesome now."
+          ],
+          "content": [
+            {
+              "html": "<p>That would please me so much. Especially with Face ID being so awesome now.</p>",
+              "value": "That would please me so much. Especially with Face ID being so awesome now."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932776559181627392"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932776559181627392"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Is it working well for you? Haven\u2019t tried an X yet"
+          ],
+          "content": [
+            {
+              "html": "<p>Is it working well for you? Haven\u2019t tried an X yet</p>",
+              "value": "Is it working well for you? Haven\u2019t tried an X yet"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "http://mattfelten.com"
+                ]
+              },
+              "value": "Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/932776783014805504"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/932776783014805504"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Its wonderful. So many little details that they got right. Face ID isn't *perfect*, but its better than gen-1 Touch ID. Its almost like not having a passcode at all. Amazing."
+          ],
+          "content": [
+            {
+              "html": "<p>Its wonderful. So many little details that they got right. Face ID isn't *perfect*, but its better than gen-1 Touch ID. Its almost like not having a passcode at all. Amazing.</p>",
+              "value": "Its wonderful. So many little details that they got right. Face ID isn't *perfect*, but its better than gen-1 Touch ID. Its almost like not having a passcode at all. Amazing."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932777060287660032"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932777060287660032"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "How\u2019s the notch? Stopped noticing it yet?"
+          ],
+          "content": [
+            {
+              "html": "<p>How\u2019s the notch? Stopped noticing it yet?</p>",
+              "value": "How\u2019s the notch? Stopped noticing it yet?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "http://mattfelten.com"
+                ]
+              },
+              "value": "Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/932777289623904256"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/932777289623904256"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Honestly? I hardly notice it. Its totally, 100% fine. Was mostly curious about it in landscape with video, but in practice, almost all video is at an aspect ratio where the notch is hidden."
+          ],
+          "content": [
+            {
+              "html": "<p>Honestly? I hardly notice it. Its totally, 100% fine. Was mostly curious about it in landscape with video, but in practice, almost all video is at an aspect ratio where the notch is hidden.</p>",
+              "value": "Honestly? I hardly notice it. Its totally, 100% fine. Was mostly curious about it in landscape with video, but in practice, almost all video is at an aspect ratio where the notch is hidden."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932777506049945600"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932777506049945600"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That\u2019s awesome. I was thinking about jumping into the next gen one to let design patterns develop a bit more but maybe that\u2019s unnecessary"
+          ],
+          "content": [
+            {
+              "html": "<p>That\u2019s awesome. I was thinking about jumping into the next gen one to let design patterns develop a bit more but maybe that\u2019s unnecessary</p>",
+              "value": "That\u2019s awesome. I was thinking about jumping into the next gen one to let design patterns develop a bit more but maybe that\u2019s unnecessary"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ],
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "http://mattfelten.com"
+                ]
+              },
+              "value": "Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mattfelten/status/932778047899439104"
+          ]
+        },
+        "value": "https://twitter.com/mattfelten/status/932778047899439104"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "How tight we talking? #word\nhttp://pbs.twimg.com/tweet_video_thumb/DPHn5oUWAAAMoGf.jpg"
+          ],
+          "content": [
+            {
+              "html": "<p>How tight we talking? #word</p>\n\n<p><a href=\"http://pbs.twimg.com/tweet_video_thumb/DPHn5oUWAAAMoGf.jpg\" rel=\"nofollow\" target=\"_blank\">http://<wbr/>pbs.twimg.com/<wbr/>tweet_video_thumb/<wbr/>DPHn5oUWAAAMoGf.jpg</a></p>",
+              "value": "How tight we talking? #word\nhttp://pbs.twimg.com/tweet_video_thumb/DPHn5oUWAAAMoGf.jpg"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkwOTMwNjcyNzU5MzQ3MjAwMS9TcVdBaGZsSi5qcGc,/300/square"
+                ],
+                "name": [
+                  "Sam"
+                ],
+                "url": [
+                  "https://twitter.com/ssjbeeno"
+                ]
+              },
+              "value": "Sam"
+            }
+          ],
+          "url": [
+            "https://twitter.com/ssjbeeno/status/932781614324527105"
+          ]
+        },
+        "value": "https://twitter.com/ssjbeeno/status/932781614324527105"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I had a less-than-great experience with iCloud Keychain so pretty glad that 1Password meets my needs."
+          ],
+          "content": [
+            {
+              "html": "<p>I had a less-than-great experience with iCloud Keychain so pretty glad that 1Password meets my needs.</p>",
+              "value": "I had a less-than-great experience with iCloud Keychain so pretty glad that 1Password meets my needs."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0ODU0NjY1NDQwMDg2ODM1Mi94dlNkLXoway5wbmc,/300/square"
+                ],
+                "name": [
+                  "mpirnat would prefer banning Nazis too, thanks"
+                ],
+                "url": [
+                  "http://mike.pirnat.com/"
+                ]
+              },
+              "value": "mpirnat would prefer banning Nazis too, thanks"
+            }
+          ],
+          "url": [
+            "https://twitter.com/mpirnat/status/932784566288506880"
+          ]
+        },
+        "value": "https://twitter.com/mpirnat/status/932784566288506880"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Really? How long ago? I\u2019ve had splendid luck."
+          ],
+          "content": [
+            {
+              "html": "<p>Really? How long ago? I\u2019ve had splendid luck.</p>",
+              "value": "Really? How long ago? I\u2019ve had splendid luck."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932797883442536448"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932797883442536448"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I mostly use 1Password. We\u2019ve got a Family subscription to share logins for things like utilities, kid\u2019s healthcare login, and other stuff we both use. I usually let Keychain manage my logins, but add/update them in 1P as prompted. Will be free w/ eero next month, too!"
+          ],
+          "content": [
+            {
+              "html": "<p>I mostly use 1Password. We\u2019ve got a Family subscription to share logins for things like utilities, kid\u2019s healthcare login, and other stuff we both use. I usually let Keychain manage my logins, but add/update them in 1P as prompted. Will be free w/ eero next month, too!</p>",
+              "value": "I mostly use 1Password. We\u2019ve got a Family subscription to share logins for things like utilities, kid\u2019s healthcare login, and other stuff we both use. I usually let Keychain manage my logins, but add/update them in 1P as prompted. Will be free w/ eero next month, too!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkzMTU3NjAxNDgxNTIzMjAwMS9GcVhKSl9CVS5qcGc,/300/square"
+                ],
+                "name": [
+                  "Michael \ud83e\uddc0"
+                ],
+                "url": [
+                  "https://singletary.blog"
+                ]
+              },
+              "value": "Michael \ud83e\uddc0"
+            }
+          ],
+          "url": [
+            "https://twitter.com/singletary/status/932825947857879042"
+          ]
+        },
+        "value": "https://twitter.com/singletary/status/932825947857879042"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Good point on family stuff, that is a problem for my family. It\u2019s only free with Eero plus, which I don\u2019t subscribe to (yet). Still, iCloud Keychain convenience is so much higher!"
+          ],
+          "content": [
+            {
+              "html": "<p>Good point on family stuff, that is a problem for my family. It\u2019s only free with Eero plus, which I don\u2019t subscribe to (yet). Still, iCloud Keychain convenience is so much higher!</p>",
+              "value": "Good point on family stuff, that is a problem for my family. It\u2019s only free with Eero plus, which I don\u2019t subscribe to (yet). Still, iCloud Keychain convenience is so much higher!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/932826367237828609"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/932826367237828609"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "With covering the 1Password Family plan, eero Plus is only net $40/yr. The ad blocking more than makes up for that, in my opinion. If not, the free VPN makes it free (if you use the VPN, anyway)."
+          ],
+          "content": [
+            {
+              "html": "<p>With covering the 1Password Family plan, eero Plus is only net $40/yr. The ad blocking more than makes up for that, in my opinion. If not, the free VPN makes it free (if you use the VPN, anyway).</p>",
+              "value": "With covering the 1Password Family plan, eero Plus is only net $40/yr. The ad blocking more than makes up for that, in my opinion. If not, the free VPN makes it free (if you use the VPN, anyway)."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkzMTU3NjAxNDgxNTIzMjAwMS9GcVhKSl9CVS5qcGc,/300/square"
+                ],
+                "name": [
+                  "Michael \ud83e\uddc0"
+                ],
+                "url": [
+                  "https://singletary.blog"
+                ]
+              },
+              "value": "Michael \ud83e\uddc0"
+            }
+          ],
+          "url": [
+            "https://twitter.com/singletary/status/932827091422400512"
+          ]
+        },
+        "value": "https://twitter.com/singletary/status/932827091422400512"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/932774814657466368"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "c584d4cc9b745cc215b7caa21908ed2f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/932774814657466368?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F932774814657466368%2F15847700"
+          ],
+          "published": [
+            "2017-11-21T01:22:51+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Dr. \u20a5\u25b2\u2020\u2020"
+                ],
+                "url": [
+                  "https://twitter.com/mattfelten"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc4MzQ4ODQ1NTE0OTkxNjE2MC9GM0NZX04yei5qcGc,/300/square Dr. \u20a5\u25b2\u2020\u2020"
+            }
+          ]
+        },
+        "value": "Dr. \u20a5\u25b2\u2020\u2020"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/932774814657466368?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F932774814657466368%2F11989152"
+          ],
+          "published": [
+            "2017-11-22T14:43:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris Moyer"
+                ],
+                "url": [
+                  "https://twitter.com/kopertop"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzcyNjExOTE4MjU1OTkzMjQxNy9TX045RUJXaC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzcyNjExOTE4MjU1OTkzMjQxNy9TX045RUJXaC5qcGc,/300/square Chris Moyer"
+            }
+          ]
+        },
+        "value": "Chris Moyer"
+      }
+    ]
+  }
+}

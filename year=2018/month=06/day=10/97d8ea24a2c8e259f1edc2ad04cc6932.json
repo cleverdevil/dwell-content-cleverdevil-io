@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/subnet-89-june-08-2018"
+    ],
+    "published": [
+      "2018-06-10T16:25:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "97d8ea24a2c8e259f1edc2ad04cc6932"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Subnet 89: June 08, 2018"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f5ef95cc4bd2812a25db6d573615f7be/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+MA5QiOU1o"
+        ],
+        "content": [
+          {
+            "html": "<p>Amazon has a new Fire TV device, Ticketfly is back online after a massive breach, and the NTSB has weighed in on a recent Tesla crash.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Subnet</p>",
+            "value": "Amazon has a new Fire TV device, Ticketfly is back online after a massive breach, and the NTSB has weighed in on a recent Tesla crash.\nBy Subnet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

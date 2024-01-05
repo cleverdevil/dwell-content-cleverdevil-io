@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-257-relay-fm-family-feud"
+    ],
+    "published": [
+      "2019-08-27T15:44:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.61\u00b0F and 69% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.61\u00b0F and 69% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.61\u00b0F and 69% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-257-relay-fm-family-feud/annotations/b716a32fe18918230cca540ca89e844c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-257-relay-fm-family-feud/annotations/b716a32fe18918230cca540ca89e844c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0fe74d6970fac4d1178bec68d23b48fd"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-27T16:00:50Z",
+      "year": 2019,
+      "month": 8,
+      "day": 27,
+      "hour": 16,
+      "minute": 0,
+      "x": -118.39538444666141,
+      "y": 33.91980956554059,
+      "altitude": 31,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 257: Relay FM Family Feud"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fe45597a1515e9dd34506549a99dcf86/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx7AXMJY"
+        ],
+        "content": [
+          {
+            "html": "<p>Live in San Francisco, Stephen and Myke are joined by Jason Snell and nearly 20 other Relay FM hosts to celebrate the network\u2019s 5th anniversary by playing a game of Family Feud, with answers provided by over 3,000 podcast listeners.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Live in San Francisco, Stephen and Myke are joined by Jason Snell and nearly 20 other Relay FM hosts to celebrate the network\u2019s 5th anniversary by playing a game of Family Feud, with answers provided by over 3,000 podcast listeners.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/213-double-crown"
+    ],
+    "published": [
+      "2023-07-24T15:54:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "329129cfe0f75554f413c933a5935d06"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-24T16:03:34Z",
+      "year": 2023,
+      "month": 7,
+      "day": 24,
+      "hour": 16,
+      "minute": 3,
+      "x": -73.98405141765545,
+      "y": 40.75562944201926,
+      "altitude": 21,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6800000071525574,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 213: Double Crown"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0267de024cb2ddbc2b65ce6f832e0787/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IPdiW28"
+        ],
+        "content": [
+          {
+            "html": "<p>John interrogates the source of Merlin\u2019s recent infection.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John interrogates the source of Merlin\u2019s recent infection.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

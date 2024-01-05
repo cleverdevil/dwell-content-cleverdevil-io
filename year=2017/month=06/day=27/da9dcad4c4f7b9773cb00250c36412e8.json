@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into LAZ Parking Structure"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "LAZ Parking Structure"
+          ],
+          "latitude": [
+            "34.04699"
+          ],
+          "longitude": [
+            "-118.257118"
+          ]
+        },
+        "value": "LAZ Parking Structure"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "LAZ Parking Structure"
+          ],
+          "latitude": [
+            "34.04699"
+          ],
+          "longitude": [
+            "-118.257118"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-laz-parking-structure"
+    ],
+    "published": [
+      "2017-06-27T16:10:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at LAZ Parking Structure!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at LAZ Parking Structure!</p>",
+              "value": "Your first check-in at LAZ Parking Structure!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/cb211e52251465a87571f94235b6c632"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59528376a35dce343fc23138/34562d5947815c5ed85461cb6cab975f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59528376a35dce343fc23138/34562d5947815c5ed85461cb6cab975f"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1ef765de323d57828138f983fb378993"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59528376a35dce343fc23138/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59528376a35dce343fc23138/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59528376a35dce343fc23138"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "da9dcad4c4f7b9773cb00250c36412e8"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/312-how-september-it-would-be"
+    ],
+    "published": [
+      "2020-09-18T15:42:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1b61f424b94845aaabbde66d4ecc52bf"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-18T15:58:29Z",
+      "year": 2020,
+      "month": 9,
+      "day": 18,
+      "hour": 15,
+      "minute": 58,
+      "x": -118.37032998783364,
+      "y": 33.81540980617841,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 312: How September It Would Be"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/af95d46d3e5316d21f743fdba9d0ff34/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5peDck"
+        ],
+        "content": [
+          {
+            "html": "<p>The Rickies and Flexies have been judged. There is a winner and a loser. A donation has been made. What\u2019s inside an avocado has been discovered. That, and a lot more this week as the guys unpack Apple\u2019s September 15th event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The Rickies and Flexies have been judged. There is a winner and a loser. A donation has been made. What\u2019s inside an avocado has been discovered. That, and a lot more this week as the guys unpack Apple\u2019s September 15th event.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/282-everybody-is-an-expert-with-joanna-stern"
+    ],
+    "published": [
+      "2020-04-23T14:43:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 67.57\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 67.57\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 67.57\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/282-everybody-is-an-expert-with-joanna-stern/annotations/79ade2c8b0490e12d047c83215bd2db6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/282-everybody-is-an-expert-with-joanna-stern/annotations/79ade2c8b0490e12d047c83215bd2db6"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1dc337f21505fea627b6f4f93c294f50"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-23T15:21:46Z",
+      "year": 2020,
+      "month": 4,
+      "day": 23,
+      "hour": 15,
+      "minute": 21,
+      "x": -118.37040155907624,
+      "y": 33.81544876964474,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.46000000834465027,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 282: \u2018Everybody Is an Expert\u2019, With Joanna Stern"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3687248871708fb9dda874b38ab4afb6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NBdlQ8w"
+        ],
+        "content": [
+          {
+            "html": "<p>282: \u2018Everybody Is an Expert\u2019, With Joanna Stern</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "282: \u2018Everybody Is an Expert\u2019, With Joanna Stern\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

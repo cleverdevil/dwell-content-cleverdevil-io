@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Starbucks"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Starbucks"
+          ],
+          "latitude": [
+            "33.78928"
+          ],
+          "longitude": [
+            "-118.30863"
+          ]
+        },
+        "value": "Starbucks"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Starbucks"
+          ],
+          "latitude": [
+            "33.78928"
+          ],
+          "longitude": [
+            "-118.30863"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Monday \ud83e\udd13</p>",
+        "value": "Monday \ud83e\udd13"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-starbucks-4"
+    ],
+    "published": [
+      "2017-08-28T15:18:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at this Starbucks."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at this Starbucks.</p>",
+              "value": "First check-in at this Starbucks."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/00dc36651c9ac313999740fe6fc6f969"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a43444e1f0aa2672415eaa/43975c8d12ca1689d82218a6564baf35"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a43444e1f0aa2672415eaa/43975c8d12ca1689d82218a6564baf35"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Trendsetter! You're one of the first 50 people to check in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Trendsetter! You're one of the first 50 people to check in here!</p>",
+              "value": "Trendsetter! You're one of the first 50 people to check in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/392c3bf3ff92af16b32a3af93de5f768"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a43444e1f0aa2672415eaa/981b2cba194858f819fa7be92605dffa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a43444e1f0aa2672415eaa/981b2cba194858f819fa7be92605dffa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59a43444e1f0aa2672415eaa"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "76d6ebc4a188257abb1e195af9888244"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/356-this-is-not-for-you-developers"
+    ],
+    "published": [
+      "2021-06-13T19:41:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ac08adf2b0e7e640effd651469d23894"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-13T17:34:29Z",
+      "year": 2021,
+      "month": 6,
+      "day": 13,
+      "hour": 17,
+      "minute": 34,
+      "x": -118.3703251612053,
+      "y": 33.8154569220471,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.38999998569488525,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 356: This Is Not for You, Developers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9c7c0128eba2663731e63c54f82a5064/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8wYvLQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke and Jason break down the WWDC 2021 keynote, which brought Apple\u2019s various devices together in some surprising ways. Were the changes to iPadOS exciting or disappointing? Are we excited about Shortcuts on the Mac? Will Focus modes keep us focused?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Myke and Jason break down the WWDC 2021 keynote, which brought Apple\u2019s various devices together in some surprising ways. Were the changes to iPadOS exciting or disappointing? Are we excited about Shortcuts on the Mac? Will Focus modes keep us focused?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

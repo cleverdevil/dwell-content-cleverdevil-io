@@ -1,0 +1,113 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Honeydew : Fruit Salad :: Pretzels : Snack Mix\n\n#discuss #snackythoughts"
+    ],
+    "content": [
+      {
+        "html": "Honeydew : Fruit Salad :: Pretzels : Snack Mix<br/>\n<br/>\n<a class=\"p-category\" href=\"/tag/discuss\" rel=\"tag\">#discuss</a> <a class=\"p-category\" href=\"/tag/snackythoughts\" rel=\"tag\">#snackythoughts</a>",
+        "value": "Honeydew : Fruit Salad :: Pretzels : Snack Mix\n\n#discuss #snackythoughts"
+      }
+    ],
+    "category": [
+      "#discuss",
+      "#snackythoughts"
+    ],
+    "url": [
+      "/2020/honeydew-fruit-salad-pretzels"
+    ],
+    "published": [
+      "2020-02-25T07:08:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 57.67\u00b0F and 75% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 57.67\u00b0F and 75% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 57.67\u00b0F and 75% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/honeydew-fruit-salad-pretzels/annotations/13aa3f2c318f89fd0cbc3d40138b6dbd"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/honeydew-fruit-salad-pretzels/annotations/13aa3f2c318f89fd0cbc3d40138b6dbd"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1232200615889117185",
+      "https://mastodon.social/@cleverdevil/103718223618621013"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "64c044bbdabfdc735f19998ea4984f1b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-25T07:03:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "hour": 7,
+      "minute": 3,
+      "x": -118.37029239740288,
+      "y": 33.81543292658011,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": "LaCour"
+    }
+  }
+}

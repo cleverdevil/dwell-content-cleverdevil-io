@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/472-file-a-casey-radar"
+    ],
+    "published": [
+      "2022-03-04T07:11:48+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "49a88782fc331c74ead0181b7392752f"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-04T07:56:07Z",
+      "year": 2022,
+      "month": 3,
+      "day": 4,
+      "hour": 7,
+      "minute": 56,
+      "x": -71.07041957466572,
+      "y": 42.361790325114086,
+      "altitude": 1,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.8600000143051147,
+      "wifi": "Liberty-GuestRoom"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 472: File a Casey Radar"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/64c2a67d7caea09037cc168945a30b45/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULNCDcA"
+        ],
+        "content": [
+          {
+            "html": "<p>Casey\u2019s new app, developer rabbit-holes, and predictions for next week\u2019s Apple event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Casey\u2019s new app, developer rabbit-holes, and predictions for next week\u2019s Apple event.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

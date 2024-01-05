@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into W Austin"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Austin"
+          ],
+          "latitude": [
+            "30.26546360657"
+          ],
+          "longitude": [
+            "-97.746725231409"
+          ]
+        },
+        "value": "W Austin"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "W Austin"
+          ],
+          "latitude": [
+            "30.26546360657"
+          ],
+          "longitude": [
+            "-97.746725231409"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Soooo tiiiired</p>",
+        "value": "Soooo tiiiired"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-w-austin"
+    ],
+    "published": [
+      "2022-10-24T02:23:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside W Austin! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside W Austin! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside W Austin! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6355f71c264ffb638ba295be/5e9e63310bdc6338a77e6298849041bc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6355f71c264ffb638ba295be/5e9e63310bdc6338a77e6298849041bc"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at W Austin!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at W Austin!</p>",
+              "value": "Your first check-in at W Austin!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6355f71c264ffb638ba295be/9991b773f1736cf0f30091260da3cee3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6355f71c264ffb638ba295be/9991b773f1736cf0f30091260da3cee3"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6355f71c264ffb638ba295be"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2db2566db2568102a0b0f5037a32dfe3"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-24T02:14:39Z",
+      "year": 2022,
+      "month": 10,
+      "day": 24,
+      "hour": 2,
+      "minute": 14,
+      "x": -97.74397998446833,
+      "y": 30.265239501787942,
+      "altitude": 135,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.18000000715255737,
+      "wifi": ""
+    }
+  }
+}

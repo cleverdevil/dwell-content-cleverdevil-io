@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/345-why-are-the-italians-involved"
+    ],
+    "published": [
+      "2021-05-18T14:48:46+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "5b20e45b92eeb070958d04f75ec73a5c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-18T01:47:25Z",
+      "year": 2021,
+      "month": 5,
+      "day": 18,
+      "hour": 1,
+      "minute": 47,
+      "x": -118.37032293797326,
+      "y": 33.81539708999784,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 345: Why Are the Italians Involved?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f6e3f961720c04774182fb1fd7fc6f66/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5rzCeU"
+        ],
+        "content": [
+          {
+            "html": "<p>Federico is attempting to live that Thunderbolt life as Myke starts reviewing apps. Meanwhile, Stephen is the worst. Then, with WWDC a month away, the guys introduce a new segment.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Federico is attempting to live that Thunderbolt life as Myke starts reviewing apps. Meanwhile, Stephen is the worst. Then, with WWDC a month away, the guys introduce a new segment.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-230-the-general-drift-of-sentiment"
+    ],
+    "published": [
+      "2019-02-01T01:23:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.17\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.17\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 56.17\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-230-the-general-drift-of-sentiment/annotations/cb12d7ee95010bbc6030c77eb76458ee"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-230-the-general-drift-of-sentiment/annotations/cb12d7ee95010bbc6030c77eb76458ee"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f01cd881cfb34dc3e3a5f480fcffc178"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-01T04:02:23Z",
+      "year": 2019,
+      "month": 2,
+      "day": 1,
+      "hour": 4,
+      "minute": 2,
+      "x": -118.37045715792878,
+      "y": 33.81526956502689,
+      "altitude": 48,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.49000000953674316,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 230: The General Drift of Sentiment"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0154e9e5bc297e26aed82a258ab31808/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8ZeWNk"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time for Jason\u2019s annual poll of 55 Apple watchers, to see how they judge the company\u2019s performance in 2018. Plus, we discuss Apple\u2019s possible new game subscription service!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "It\u2019s time for Jason\u2019s annual poll of 55 Apple watchers, to see how they judge the company\u2019s performance in 2018. Plus, we discuss Apple\u2019s possible new game subscription service!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

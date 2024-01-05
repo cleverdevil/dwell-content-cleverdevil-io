@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sheraton Boston Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": "Sheraton Boston Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sheraton-boston-hotel"
+    ],
+    "published": [
+      "2017-05-09T14:20:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Prudential - St. Botolph."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Prudential - St. Botolph.</p>",
+              "value": "First check-in in Prudential - St. Botolph."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/72325a16a56634edbdd3416ebd26e370"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5911d0061acf116428f108ae/44c9858e266d39f25b43f38906762d74"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5911d0061acf116428f108ae/44c9858e266d39f25b43f38906762d74"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Sheraton Boston Hotel!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Sheraton Boston Hotel!</p>",
+              "value": "Your first check-in at Sheraton Boston Hotel!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a77fd86a52d08d45f924ed7993d34e2b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5911d0061acf116428f108ae/903dfc536003570c824960de119525dd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5911d0061acf116428f108ae/903dfc536003570c824960de119525dd"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5911d0061acf116428f108ae"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "fc093801b56a61f8f0d76bc8b2359006"
+    ]
+  }
+}

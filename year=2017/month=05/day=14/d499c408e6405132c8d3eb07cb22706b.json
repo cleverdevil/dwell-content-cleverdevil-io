@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>\ud83c\udfe1 \ud83d\udecc \ud83c\udf03</p>",
+        "value": "\ud83c\udfe1 \ud83d\udecc \ud83c\udf03"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-48"
+    ],
+    "published": [
+      "2017-05-14T05:44:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! On average, Americans eat 18 acres of pizza every day. USA! USA! USA!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! On average, Americans eat 18 acres of pizza every day. USA! USA! USA!</p>",
+              "value": "Fun Fact! On average, Americans eat 18 acres of pizza every day. USA! USA! USA!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c5ecb6bb908c1de321a5595f7593e8d3"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5917eec7c8b2fb47407b4375/cb2746f6163a944bb9781a6028b9b228"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5917eec7c8b2fb47407b4375/cb2746f6163a944bb9781a6028b9b228"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5917eec7c8b2fb47407b4375"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d499c408e6405132c8d3eb07cb22706b"
+    ]
+  }
+}

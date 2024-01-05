@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/11-crutches-and-ice-packs-ft-dj-williams-and-coach"
+    ],
+    "published": [
+      "2019-08-15T15:04:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.68\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.68\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.68\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/11-crutches-and-ice-packs-ft-dj-williams-and-coach/annotations/76321be148b17e1702d8f4220697ff8e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/11-crutches-and-ice-packs-ft-dj-williams-and-coach/annotations/76321be148b17e1702d8f4220697ff8e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9a1aad67a0cdc44452eadf8c65426324"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-15T16:02:24Z",
+      "year": 2019,
+      "month": 8,
+      "day": 15,
+      "hour": 16,
+      "minute": 2,
+      "x": -118.39515104858731,
+      "y": 33.91976894090122,
+      "altitude": 31,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 11: Crutches and Ice Packs ft. DJ Williams and Coach Todd Wofford"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2b622fe8749050bc2167d6204f5ddbf8/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+ScpEP8-iM"
+        ],
+        "content": [
+          {
+            "html": "<p>11: Crutches and Ice Packs ft. DJ Williams and Coach Todd Wofford</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Storm Surge</p>",
+            "value": "11: Crutches and Ice Packs ft. DJ Williams and Coach Todd Wofford\nBy Storm Surge"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

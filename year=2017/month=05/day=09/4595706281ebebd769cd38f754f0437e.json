@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hynes Convention Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hynes Convention Center"
+          ],
+          "latitude": [
+            "42.347886630837"
+          ],
+          "longitude": [
+            "-71.083949764748"
+          ]
+        },
+        "value": "Hynes Convention Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hynes Convention Center"
+          ],
+          "latitude": [
+            "42.347886630837"
+          ],
+          "longitude": [
+            "-71.083949764748"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Kubernetes talk</p>",
+        "value": "Kubernetes talk"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-hynes-convention-center-1"
+    ],
+    "published": [
+      "2017-05-09T17:47:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A goldfish has a memory span of three seconds... A goldfish has a memory span of..."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A goldfish has a memory span of three seconds... A goldfish has a memory span of...</p>",
+              "value": "Fun Fact! A goldfish has a memory span of three seconds... A goldfish has a memory span of..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/7082d0488a63e976eaf886323f1ddd6f"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5912009b1f7440712f7537a6/d3d2059855e4ce2057520aff35c4ab1c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5912009b1f7440712f7537a6/d3d2059855e4ce2057520aff35c4ab1c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5912009b1f7440712f7537a6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4595706281ebebd769cd38f754f0437e"
+    ]
+  }
+}

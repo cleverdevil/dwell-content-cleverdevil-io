@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Eiffel Tower (Tour Eiffel)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eiffel Tower (Tour Eiffel)"
+          ],
+          "latitude": [
+            "48.858249354606"
+          ],
+          "longitude": [
+            "2.2944259643555"
+          ]
+        },
+        "value": "Eiffel Tower (Tour Eiffel)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eiffel Tower (Tour Eiffel)"
+          ],
+          "latitude": [
+            "48.858249354606"
+          ],
+          "longitude": [
+            "2.2944259643555"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-eiffel-tower-tour-eiffel"
+    ],
+    "published": [
+      "2017-06-18T19:45:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Eiffel Tower! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Eiffel Tower! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Eiffel Tower! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/82aa08d432051db42abf80812826b286"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5946d86104d1ae61d89ef0c4/a924a9e0e344acd2b3a8b83623baa39d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5946d86104d1ae61d89ef0c4/a924a9e0e344acd2b3a8b83623baa39d"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Eiffel Tower!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Eiffel Tower!</p>",
+              "value": "Your first check-in at Eiffel Tower!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/829a0c76ca50ace8545660a030bf8731"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5946d86104d1ae61d89ef0c4/91d7d7de5202cde0d67923e6d97ef307"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5946d86104d1ae61d89ef0c4/91d7d7de5202cde0d67923e6d97ef307"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5946d86104d1ae61d89ef0c4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2221a8b709b8d5bb64e2b7cc6da8dccd"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5946d86104d1ae61d89ef0c4/c04ff46c19ee8082d592d353ef5617c0"
+          ],
+          "published": [
+            "2017-06-18T19:45:37+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Joe Joyce"
+                ],
+                "url": [
+                  "https://foursquare.com/user/148783"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/d829a41f3d066928d6493004cc0b51a6"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/d829a41f3d066928d6493004cc0b51a6 Joe Joyce"
+            }
+          ]
+        },
+        "value": "Joe Joyce"
+      }
+    ]
+  }
+}

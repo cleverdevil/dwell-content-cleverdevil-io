@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ululani's Hawaiian Shave Ice"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ululani's Hawaiian Shave Ice"
+          ],
+          "latitude": [
+            "20.875255117977"
+          ],
+          "longitude": [
+            "-156.67946968135"
+          ]
+        },
+        "value": "Ululani's Hawaiian Shave Ice"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ululani's Hawaiian Shave Ice"
+          ],
+          "latitude": [
+            "20.875255117977"
+          ],
+          "longitude": [
+            "-156.67946968135"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Ululani's Hawaiian Shave Ice\" src=\"https://cleverdevil.io/file/c1366b9ceba73ed6f84480581e796020\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>The bessssst</p>",
+        "value": "Ululani's Hawaiian Shave Ice\nThe bessssst"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ululanis-hawaiian-shave-ice"
+    ],
+    "published": [
+      "2017-07-11T01:17:29+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+          ],
+          "content": [
+            {
+              "html": "<p>Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.</p>",
+              "value": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/31ca6984e47dc458003d4f6acee7be88"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596427171108ba642f4954d6/02c9c54da903dc2ada0368f7b502f3ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596427171108ba642f4954d6/02c9c54da903dc2ada0368f7b502f3ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596427171108ba642f4954d6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ff567748e813f622788cbc5a4e36d147"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596427171108ba642f4954d6/ce8cb5e49053b81e4ed698c91cf9f906"
+          ],
+          "published": [
+            "2017-07-11T01:17:11+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/c4bee679b154f0580a186352ad6201ae"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/c4bee679b154f0580a186352ad6201ae Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

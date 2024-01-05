@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/188-ten-year-cleanse"
+    ],
+    "published": [
+      "2022-08-10T23:55:01+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "86e2e42166deec86feb4ce54d6b7d07a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-11T00:08:56Z",
+      "year": 2022,
+      "month": 8,
+      "day": 11,
+      "hour": 0,
+      "minute": 8,
+      "x": -118.37045179691013,
+      "y": 33.81534229967177,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7099999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 188: Ten-Year Cleanse"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/aa9025a483ccfe2b0ee5479823405bb6/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMCLPHM"
+        ],
+        "content": [
+          {
+            "html": "<p>This week finds both John and Merlin helping things leave their house.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "This week finds both John and Merlin helping things leave their house.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

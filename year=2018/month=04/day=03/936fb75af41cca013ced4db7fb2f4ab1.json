@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.617027886929"
+          ],
+          "longitude": [
+            "-122.38727694415"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.617027886929"
+          ],
+          "longitude": [
+            "-122.38727694415"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Back again.</p>",
+        "value": "Back again."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-san-francisco-international-airport-sfo-6"
+    ],
+    "published": [
+      "2018-04-03T21:48:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You've traveled 337 miles since your last check-in!"
+          ],
+          "content": [
+            {
+              "html": "<p>You've traveled 337 miles since your last check-in!</p>",
+              "value": "You've traveled 337 miles since your last check-in!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ac3f6a6f79faa002b546d25/a7547bc3c82ed7a46d354dba6eac34ce"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ac3f6a6f79faa002b546d25/a7547bc3c82ed7a46d354dba6eac34ce"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ac3f6a6f79faa002b546d25"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "936fb75af41cca013ced4db7fb2f4ab1"
+    ]
+  }
+}

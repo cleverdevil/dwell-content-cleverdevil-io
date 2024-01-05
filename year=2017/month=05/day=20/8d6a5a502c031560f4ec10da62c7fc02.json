@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Knowing Garden"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Knowing Garden"
+          ],
+          "latitude": [
+            "33.824771"
+          ],
+          "longitude": [
+            "-118.385182"
+          ]
+        },
+        "value": "The Knowing Garden"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Knowing Garden"
+          ],
+          "latitude": [
+            "33.824771"
+          ],
+          "longitude": [
+            "-118.385182"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Parent Meeting.</p>",
+        "value": "Parent Meeting."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-knowing-garden"
+    ],
+    "published": [
+      "2017-05-20T16:05:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f2241eed4bb0cd1eccb825a0cb8dc6e3"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/592069518e886a2cdfb9faba/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/592069518e886a2cdfb9faba/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/592069518e886a2cdfb9faba"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8d6a5a502c031560f4ec10da62c7fc02"
+    ]
+  }
+}

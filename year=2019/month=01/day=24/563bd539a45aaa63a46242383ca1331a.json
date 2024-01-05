@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "IndieAuth: One Year Later &bull; Aaron Parecki"
+    ],
+    "like-of": [
+      "https://aaronparecki.com/2019/01/23/22/indieauth"
+    ],
+    "url": [
+      "/2019/indieauth-one-year-later-bull-aaron-parecki"
+    ],
+    "published": [
+      "2019-01-24T06:02:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.98\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.98\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 73.98\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/indieauth-one-year-later-bull-aaron-parecki/annotations/f2c9fa30cfb5944def2c1dc7400521a1"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/indieauth-one-year-later-bull-aaron-parecki/annotations/f2c9fa30cfb5944def2c1dc7400521a1"
+      }
+    ],
+    "syndication": [
+      "https://mastodon.social/@cleverdevil/101470026846235596"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "563bd539a45aaa63a46242383ca1331a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-23T21:52:48Z",
+      "year": 2019,
+      "month": 1,
+      "day": 23,
+      "hour": 21,
+      "minute": 52,
+      "x": -156.46435172999995,
+      "y": 20.873061949999993,
+      "altitude": 0,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  }
+}

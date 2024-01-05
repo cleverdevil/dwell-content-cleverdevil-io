@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera United Methodist Church"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812227427055"
+          ],
+          "longitude": [
+            "-118.38744996398"
+          ]
+        },
+        "value": "Riviera United Methodist Church"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera United Methodist Church"
+          ],
+          "latitude": [
+            "33.812227427055"
+          ],
+          "longitude": [
+            "-118.38744996398"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-united-methodist-church-1"
+    ],
+    "published": [
+      "2017-04-22T17:40:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c604c986375a6855a4142d05bf1dbcd6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fb9579840fc24f02322afb/94eded37caa558063b9bae8432349b05"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fb9579840fc24f02322afb/94eded37caa558063b9bae8432349b05"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fb9579840fc24f02322afb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "3088cdb6e330701109cf3b52d2a0679b"
+    ]
+  }
+}

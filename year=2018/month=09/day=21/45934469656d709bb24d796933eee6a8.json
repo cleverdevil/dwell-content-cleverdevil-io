@@ -1,0 +1,287 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I\u2019m interested in building a @draftsapp action to publish notes via Micropub. I\u2019m finding their documentation inscrutable. Anyone have pointers? Source for a similar action (perhaps publishing to Tumblr or WordPress) would be super helpful."
+    ],
+    "content": [
+      {
+        "html": "I\u2019m interested in building a @draftsapp action to publish notes via Micropub. I\u2019m finding their documentation inscrutable. Anyone have pointers? Source for a similar action (perhaps publishing to Tumblr or WordPress) would be super helpful.",
+        "value": "I\u2019m interested in building a @draftsapp action to publish notes via Micropub. I\u2019m finding their documentation inscrutable. Anyone have pointers? Source for a similar action (perhaps publishing to Tumblr or WordPress) would be super helpful."
+      }
+    ],
+    "url": [
+      "/2018/im-interested-in-building-a-draftsapp-action"
+    ],
+    "published": [
+      "2018-09-21T14:17:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil The developer, @agiletortoise, is on M.b. He'll probably have some good recommendations. \ud83d\ude43"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil The developer, @agiletortoise, is on M.b. He'll probably have some good recommendations. \ud83d\ude43</p>",
+              "value": "@cleverdevil The developer, @agiletortoise, is on M.b. He'll probably have some good recommendations. \ud83d\ude43"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL0JydWNlL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "Bruce"
+                ],
+                "url": [
+                  "https://micro.blog/Bruce"
+                ]
+              },
+              "value": "Bruce"
+            }
+          ],
+          "url": [
+            "https://micro.blog/Bruce/905127"
+          ]
+        },
+        "value": "https://micro.blog/Bruce/905127"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This Micro.blog example uses Micropub. Could be adapted to other hosts, I\u2019m sure. actions.getdrafts.com/a/1Dj"
+          ],
+          "content": [
+            {
+              "html": "<p>This Micro.blog example uses Micropub. Could be adapted to other hosts, I\u2019m sure. actions.getdrafts.com/a/1Dj</p>",
+              "value": "This Micro.blog example uses Micropub. Could be adapted to other hosts, I\u2019m sure. actions.getdrafts.com/a/1Dj"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk4Mzg0OTc1OTg5ODI1OTQ1Ni9temd0b19zcS5qcGc,/300/square"
+                ],
+                "name": [
+                  "Drafts"
+                ],
+                "url": [
+                  "http://getdrafts.com/"
+                ]
+              },
+              "value": "Drafts"
+            }
+          ],
+          "url": [
+            "https://twitter.com/draftsapp/status/1043163582320574465"
+          ]
+        },
+        "value": "https://twitter.com/draftsapp/status/1043163582320574465"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil maybe have look at these two Drafts actions:\nPost to Micro.blog\nSend to Micro.blog\nThe first one has a bunch of JavaScript and I think it could also be adapted to another Micropub endpoint. (I haven\u2019t)"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil maybe have look at these two Drafts actions:<br/>Post to Micro.blog<br/>Send to Micro.blog<br/>The first one has a bunch of JavaScript and I think it could also be adapted to another Micropub endpoint. (I haven\u2019t)</p>",
+              "value": "@cleverdevil maybe have look at these two Drafts actions:\nPost to Micro.blog\nSend to Micro.blog\nThe first one has a bunch of JavaScript and I think it could also be adapted to another Micropub endpoint. (I haven\u2019t)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8yZDM1YTczOTg4ZGQxYmExNjIxYWMzMDI1ZDM3NWE3MD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "renem"
+                ],
+                "url": [
+                  "https://micro.blog/renem"
+                ]
+              },
+              "value": "renem"
+            }
+          ],
+          "url": [
+            "https://micro.blog/renem/905380"
+          ]
+        },
+        "value": "https://micro.blog/renem/905380"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil but I use both actions to post from Drafts to M.b."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil but I use both actions to post from Drafts to M.b.</p>",
+              "value": "@cleverdevil but I use both actions to post from Drafts to M.b."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8yZDM1YTczOTg4ZGQxYmExNjIxYWMzMDI1ZDM3NWE3MD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "renem"
+                ],
+                "url": [
+                  "https://micro.blog/renem"
+                ]
+              },
+              "value": "renem"
+            }
+          ],
+          "url": [
+            "https://micro.blog/renem/905383"
+          ]
+        },
+        "value": "https://micro.blog/renem/905383"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Nice! I\u2019ll download it and see if I can adapt it. Is there an easy way to see the source code for it?"
+          ],
+          "content": [
+            {
+              "html": "<p>Nice! I\u2019ll download it and see if I can adapt it. Is there an easy way to see the source code for it?</p>",
+              "value": "Nice! I\u2019ll download it and see if I can adapt it. Is there an easy way to see the source code for it?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://cleverdevil.io"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1043175811392528384"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1043175811392528384"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It\u2019s right on the Action Directory page I linked to."
+          ],
+          "content": [
+            {
+              "html": "<p>It\u2019s right on the Action Directory page I linked to.</p>",
+              "value": "It\u2019s right on the Action Directory page I linked to."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk4Mzg0OTc1OTg5ODI1OTQ1Ni9temd0b19zcS5qcGc,/300/square"
+                ],
+                "name": [
+                  "Drafts"
+                ],
+                "url": [
+                  "http://getdrafts.com/"
+                ]
+              },
+              "value": "Drafts"
+            }
+          ],
+          "url": [
+            "https://twitter.com/draftsapp/status/1043176138410000391"
+          ]
+        },
+        "value": "https://twitter.com/draftsapp/status/1043176138410000391"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1043142258269343745"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "45934469656d709bb24d796933eee6a8"
+    ]
+  }
+}

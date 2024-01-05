@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/374-screwdriver-testing-harness"
+    ],
+    "published": [
+      "2020-04-19T16:31:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.17\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.17\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.17\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/374-screwdriver-testing-harness/annotations/06481f5695c93057eb43c8dbc172a6e0"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/374-screwdriver-testing-harness/annotations/06481f5695c93057eb43c8dbc172a6e0"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "568975e2520f4e5582c60c24f8e03e5e"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-19T20:01:21Z",
+      "year": 2020,
+      "month": 4,
+      "day": 19,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.3704117502411,
+      "y": 33.81538812243594,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7699999809265137,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 374: Screwdriver Testing Harness"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7fff05ad4f0b176eab456aaf6905439e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DX-gE_8"
+        ],
+        "content": [
+          {
+            "html": "<p>John pours even more money into his Mac Pro, Casey buys a $300 keyboard for his tertiary computer, and Marco realizes he may not be a programmer.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "John pours even more money into his Mac Pro, Casey buys a $300 keyboard for his tertiary computer, and Marco realizes he may not be a programmer.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

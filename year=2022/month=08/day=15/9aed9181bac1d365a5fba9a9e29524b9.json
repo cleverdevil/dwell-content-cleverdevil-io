@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/marbits-and-a-mayo-knife"
+    ],
+    "published": [
+      "2022-08-15T15:52:35+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9aed9181bac1d365a5fba9a9e29524b9"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-15T15:55:05Z",
+      "year": 2022,
+      "month": 8,
+      "day": 15,
+      "hour": 15,
+      "minute": 55,
+      "x": -118.3703277447432,
+      "y": 33.81533970128169,
+      "altitude": 54,
+      "motion": [],
+      "speed": 4,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Marbits and a Mayo Knife"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ab5c05f6c5920f0baaad944e00697d9a/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3HrtH0"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! Judge John Hodgman and Bailiff Jesse Thorn discuss the proper way to eat Lucky Charms, communal baked goods, adding berries to pancakes, ordering the same entr\u00e9e as your dining partner, and proper knife placement. Plus much more!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! Judge John Hodgman and Bailiff Jesse Thorn discuss the proper way to eat Lucky Charms, communal baked goods, adding berries to pancakes, ordering the same entr\u00e9e as your dining partner, and proper knife placement. Plus much more!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

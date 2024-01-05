@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-104-true-bottom"
+    ],
+    "published": [
+      "2019-05-20T20:27:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.04\u00b0F and 62% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.04\u00b0F and 62% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.04\u00b0F and 62% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-104-true-bottom/annotations/b34c5a68aad1824c55aec88754b5714c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-104-true-bottom/annotations/b34c5a68aad1824c55aec88754b5714c"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4a670a9d7a2667acd1ced37311145fd3"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-21T00:04:44Z",
+      "year": 2019,
+      "month": 5,
+      "day": 21,
+      "hour": 0,
+      "minute": 4,
+      "x": -118.39527691676885,
+      "y": 33.919695435760076,
+      "altitude": 30,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 104: True Bottom"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4352d7873f9a60fa225e160f0932496c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IMUWaQk"
+        ],
+        "content": [
+          {
+            "html": "<p>This week\u2019s main topic is \u201cJobs We Were Terrible At.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "This week\u2019s main topic is \u201cJobs We Were Terrible At.\u201d\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

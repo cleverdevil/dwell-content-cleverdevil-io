@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/399-never-deal-abadhand"
+    ],
+    "published": [
+      "2022-05-29T07:44:10+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7d40f15bfe99d0e48234234baa72f69e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-29T07:44:05Z",
+      "year": 2022,
+      "month": 5,
+      "day": 29,
+      "hour": 7,
+      "minute": 44,
+      "x": -116.38036596709516,
+      "y": 33.701702707345575,
+      "altitude": 128,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.7900000214576721,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 399: Never Deal Abadhand"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/01ba3078da23a940b144663ee6277dbe/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6rhCRU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, a look back at macOS Monterey, a conversation about Apple\u2019s supply chain issues and the news that two out of three Connected hosts will be at WWDC.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, a look back at macOS Monterey, a conversation about Apple\u2019s supply chain issues and the news that two out of three Connected hosts will be at WWDC.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

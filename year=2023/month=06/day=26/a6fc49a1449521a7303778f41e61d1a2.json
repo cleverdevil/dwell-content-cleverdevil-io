@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/the-bicycle-grief"
+    ],
+    "published": [
+      "2023-06-26T00:35:18+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a6fc49a1449521a7303778f41e61d1a2"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-26T00:25:57Z",
+      "year": 2023,
+      "month": 6,
+      "day": 26,
+      "hour": 0,
+      "minute": 25,
+      "x": -116.38037349037343,
+      "y": 33.70166750641061,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.36000001430511475,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The Bicycle Grief"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/25da77b947f7683b7b7be4f4f1d2a657/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM2VZP_o"
+        ],
+        "content": [
+          {
+            "html": "<p>Clare brings the case against her mother Suzanne and her stepdad David. Every summer, Clare spends a month visiting Suzanne and David at their house. Her visit always overlaps with the Tour de France. Suzanne and David watch every minute of the Tour because they don\u2019t want to miss any of it. Clare says that\u2019s getting in the way of them spending time with her!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Clare brings the case against her mother Suzanne and her stepdad David. Every summer, Clare spends a month visiting Suzanne and David at their house. Her visit always overlaps with the Tour de France. Suzanne and David watch every minute of the Tour because they don\u2019t want to miss any of it. Clare says that\u2019s getting in the way of them spending time with her!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

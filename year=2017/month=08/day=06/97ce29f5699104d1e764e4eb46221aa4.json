@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Redondo Beach Brewing Company"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816904589288"
+          ],
+          "longitude": [
+            "-118.38723314346"
+          ]
+        },
+        "value": "Redondo Beach Brewing Company"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Redondo Beach Brewing Company"
+          ],
+          "latitude": [
+            "33.816904589288"
+          ],
+          "longitude": [
+            "-118.38723314346"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Redondo Beach Brewing Company\" src=\"https://cleverdevil.io/file/f4c33bebb1ad1f0429b52c4c350d9fbe\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Lunch with the boy!</p>",
+        "value": "Redondo Beach Brewing Company\nLunch with the boy!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-redondo-beach-brewing-company-1"
+    ],
+    "published": [
+      "2017-08-06T20:28:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You haven't checked in to Redondo Beach Brewing Company since April."
+          ],
+          "content": [
+            {
+              "html": "<p>You haven't checked in to Redondo Beach Brewing Company since April.</p>",
+              "value": "You haven't checked in to Redondo Beach Brewing Company since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/c5eff929155c13484ffe9f650b4dc9f2"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59877bc14b78c517cf513157/46799c51aa68d7513ef7d9d2a92a9099"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59877bc14b78c517cf513157/46799c51aa68d7513ef7d9d2a92a9099"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59877bc14b78c517cf513157"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "97ce29f5699104d1e764e4eb46221aa4"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-274-more-clunky"
+    ],
+    "published": [
+      "2019-12-05T16:31:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 65% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 65% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 58.17\u00b0F and 65% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-274-more-clunky/annotations/3585f867d3e09c6a3fb8a2fc6b998203"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-274-more-clunky/annotations/3585f867d3e09c6a3fb8a2fc6b998203"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a4c17f1441159467d6d527f095e7a26e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-12-05T20:01:19Z",
+      "year": 2019,
+      "month": 12,
+      "day": 5,
+      "hour": 20,
+      "minute": 1,
+      "x": -115.16908436943024,
+      "y": 36.12288120821674,
+      "altitude": -1,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "VenetianPalazzoWifi"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 274: More Clunky!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e8fe65dc5a610f074a59272811a739e5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_qugDg"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we get caught up on Apple services (Apple Pay, Apple News+, Apple Arcade), Jason gives Myke a tour of CarPlay in iOS 13, and we feed the tech podcast ecosystem with discussions of office lighting and weather stations.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we get caught up on Apple services (Apple Pay, Apple News+, Apple Arcade), Jason gives Myke a tour of CarPlay in iOS 13, and we feed the tech podcast ecosystem with discussions of office lighting and weather stations.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

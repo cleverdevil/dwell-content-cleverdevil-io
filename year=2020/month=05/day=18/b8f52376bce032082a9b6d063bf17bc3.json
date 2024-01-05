@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/378-whale-quench"
+    ],
+    "published": [
+      "2020-05-18T03:53:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 80% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 80% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 80% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/378-whale-quench/annotations/53a92139614d2da1dfda16d0043c5886"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/378-whale-quench/annotations/53a92139614d2da1dfda16d0043c5886"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b8f52376bce032082a9b6d063bf17bc3"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-18T04:04:43Z",
+      "year": 2020,
+      "month": 5,
+      "day": 18,
+      "hour": 4,
+      "minute": 4,
+      "x": -118.37031742223624,
+      "y": 33.81544314766342,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.27000001072883606,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 378: Whale Quench"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1b9116661bebf85fb51b656d0b5e3342/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DW6x7hQ"
+        ],
+        "content": [
+          {
+            "html": "<p>More Casey solutions to problems, voice-control superhumans, scams targeting app developers, and the etymology of \u201ccamcorder\u201d.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "More Casey solutions to problems, voice-control superhumans, scams targeting app developers, and the etymology of \u201ccamcorder\u201d.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

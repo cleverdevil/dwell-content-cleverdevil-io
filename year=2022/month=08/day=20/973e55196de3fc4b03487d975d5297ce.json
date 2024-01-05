@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Ave"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Ave"
+          ],
+          "latitude": [
+            "33.818956"
+          ],
+          "longitude": [
+            "-118.387444"
+          ]
+        },
+        "value": "The Ave"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Ave"
+          ],
+          "latitude": [
+            "33.818956"
+          ],
+          "longitude": [
+            "-118.387444"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Cuts with the boy</p>",
+        "value": "Cuts with the boy"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-the-ave-2"
+    ],
+    "published": [
+      "2022-08-20T21:15:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to The Ave since April."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to The Ave since April.</p>",
+              "value": "Welcome back! You haven't checked in to The Ave since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63014ef8a769b2264e8ebabf/b67d03fc2c5a8988b6786d8d25395cb2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63014ef8a769b2264e8ebabf/b67d03fc2c5a8988b6786d8d25395cb2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Redondo Beach was over 2 months ago at The Rockefeller Redondo Beach."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Redondo Beach was over 2 months ago at The Rockefeller Redondo Beach.</p>",
+              "value": "Your last check-in in Redondo Beach was over 2 months ago at The Rockefeller Redondo Beach."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63014ef8a769b2264e8ebabf/74a6fd97f2afb766af66fcadfa1639f9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63014ef8a769b2264e8ebabf/74a6fd97f2afb766af66fcadfa1639f9"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63014ef8a769b2264e8ebabf"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "973e55196de3fc4b03487d975d5297ce"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-20T21:11:25Z",
+      "year": 2022,
+      "month": 8,
+      "day": 20,
+      "hour": 21,
+      "minute": 11,
+      "x": -118.38818086322246,
+      "y": 33.81891223605147,
+      "altitude": 32,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  }
+}

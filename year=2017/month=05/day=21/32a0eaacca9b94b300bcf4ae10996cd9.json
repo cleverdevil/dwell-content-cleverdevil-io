@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Yogurtland"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yogurtland"
+          ],
+          "latitude": [
+            "33.818323239121"
+          ],
+          "longitude": [
+            "-118.38612621326"
+          ]
+        },
+        "value": "Yogurtland"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Yogurtland"
+          ],
+          "latitude": [
+            "33.818323239121"
+          ],
+          "longitude": [
+            "-118.38612621326"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-yogurtland"
+    ],
+    "published": [
+      "2017-05-21T18:57:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Yogurtland!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Yogurtland!</p>",
+              "value": "Your first check-in at this Yogurtland!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4a6e314596df97ffa0b540c549526d59"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5921e2f8e65d0c7b02120213/353a8cfeb1720f55447b7d598930d040"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5921e2f8e65d0c7b02120213/353a8cfeb1720f55447b7d598930d040"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/abbf2da6086a3285f5b8476a1ed92396"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5921e2f8e65d0c7b02120213/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5921e2f8e65d0c7b02120213/901d2062fe377d8f54b57d96cafc0d5b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5921e2f8e65d0c7b02120213"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "32a0eaacca9b94b300bcf4ae10996cd9"
+    ]
+  }
+}

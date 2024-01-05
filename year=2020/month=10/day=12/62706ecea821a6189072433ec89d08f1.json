@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/320-apple-silicon-and-the-2020-october-event-draft"
+    ],
+    "published": [
+      "2020-10-12T07:10:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "62706ecea821a6189072433ec89d08f1"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-12T07:14:53Z",
+      "year": 2020,
+      "month": 10,
+      "day": 12,
+      "hour": 7,
+      "minute": 14,
+      "x": -118.37056995600446,
+      "y": 33.8153106508048,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.41999998688697815,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 320: Apple Silicon and the 2020 October Event Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/844b95678fe4fc4a8e3e249652a51223/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8QhgSw"
+        ],
+        "content": [
+          {
+            "html": "<p>HUGE bonus episode! First, we interview Apple\u2019s Tim Millet and Tom Boger about the new iPad Air and Apple silicon. Then it\u2019s time for us to predict what will happen Tuesday via the October Apple Event Draft!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "HUGE bonus episode! First, we interview Apple\u2019s Tim Millet and Tom Boger about the new iPad Air and Apple silicon. Then it\u2019s time for us to predict what will happen Tuesday via the October Apple Event Draft!\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

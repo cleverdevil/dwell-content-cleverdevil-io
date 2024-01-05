@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Classic Airline Logos"
+    ],
+    "like-of": [
+      "https://kottke.org/19/05/classic-airline-logos"
+    ],
+    "url": [
+      "/2019/classic-airline-logos"
+    ],
+    "published": [
+      "2019-05-20T21:17:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.84\u00b0F and 54% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.84\u00b0F and 54% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.84\u00b0F and 54% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/classic-airline-logos/annotations/131be93dfca221b17740d70e2b80026e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/classic-airline-logos/annotations/131be93dfca221b17740d70e2b80026e"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "bb993594a5c8250105f36ea2cf6e50c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-20T21:12:54Z",
+      "year": 2019,
+      "month": 5,
+      "day": 20,
+      "hour": 21,
+      "minute": 12,
+      "x": -118.39517790131372,
+      "y": 33.919628894358546,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9200000166893005,
+      "wifi": "WeWork"
+    }
+  }
+}

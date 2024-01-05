@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/421-the-first-miniboss"
+    ],
+    "published": [
+      "2021-03-12T08:58:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8a10c027a016a0dc8781b332004ccf2f"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-12T08:37:20Z",
+      "year": 2021,
+      "month": 3,
+      "day": 12,
+      "hour": 8,
+      "minute": 37,
+      "x": -118.37055640306173,
+      "y": 33.81532230883269,
+      "altitude": 58,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 421: The First Miniboss"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9f39af8101d5dc802cfad5b32818513e/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULNhQII"
+        ],
+        "content": [
+          {
+            "html": "<p>A farewell to the iMac Pro (and a tire), the state of iCloud family awareness, scam pricing in the App Store, and the Halloween costume that may never be.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "A farewell to the iMac Pro (and a tire), the state of iCloud family awareness, scam pricing in the App Store, and the Halloween costume that may never be.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

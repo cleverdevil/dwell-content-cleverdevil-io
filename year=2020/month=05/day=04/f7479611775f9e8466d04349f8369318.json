@@ -1,0 +1,296 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I have successfully installed and configured pi-hole 5.0 beta on my Synology in a docker container. Bye, bye Eero ad blocking.\n\nPer-client blocklists work great, but I still wish I could pick per-client upstream DNS."
+    ],
+    "content": [
+      {
+        "html": "I have successfully installed and configured pi-hole 5.0 beta on my Synology in a docker container. Bye, bye Eero ad blocking.<br/>\n<br/>\nPer-client blocklists work great, but I still wish I could pick per-client upstream DNS.",
+        "value": "I have successfully installed and configured pi-hole 5.0 beta on my Synology in a docker container. Bye, bye Eero ad blocking.\n\nPer-client blocklists work great, but I still wish I could pick per-client upstream DNS."
+      }
+    ],
+    "url": [
+      "/2020/i-have-successfully-installed-and-configured-pi-hole"
+    ],
+    "published": [
+      "2020-05-04T03:51:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 63.39\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/i-have-successfully-installed-and-configured-pi-hole/annotations/7f87f09846cb3060f460cfdfe3f055e3"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/i-have-successfully-installed-and-configured-pi-hole/annotations/7f87f09846cb3060f460cfdfe3f055e3"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "This can be done! I use the pi-hole for DHCP+DNS, then set rules in /etc/dnsmasq.d/03-bypass.conf."
+          ],
+          "content": [
+            {
+              "html": "<p>This can be done! I use the pi-hole for DHCP+DNS, then set rules in /etc/dnsmasq.d/03-bypass.conf.</p>",
+              "value": "This can be done! I use the pi-hole for DHCP+DNS, then set rules in /etc/dnsmasq.d/03-bypass.conf."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDg1NzQ0MzkwNC95YWtpTFdjSi5qcGVn/300/square"
+                ],
+                "name": [
+                  "Mark T. Voelker"
+                ],
+                "url": [
+                  "https://twitter.com/marktvoelker"
+                ]
+              },
+              "value": "Mark T. Voelker"
+            }
+          ],
+          "url": [
+            "https://twitter.com/marktvoelker/status/1257286252723724290"
+          ]
+        },
+        "value": "https://twitter.com/marktvoelker/status/1257286252723724290"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "AdGuard home claims to support this, haven\u2019t tried it myself so can\u2019t speak about it but Home Assistant Community has switched from pihole to AdGuard Home. github.com/AdguardTeam/Ad\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>AdGuard home claims to support this, haven\u2019t tried it myself so can\u2019t speak about it but Home Assistant Community has switched from pihole to AdGuard Home. github.com/AdguardTeam/Ad\u2026</p>",
+              "value": "AdGuard home claims to support this, haven\u2019t tried it myself so can\u2019t speak about it but Home Assistant Community has switched from pihole to AdGuard Home. github.com/AdguardTeam/Ad\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2OTI2NjA1MTEzNDI3NTU4NC9EMlNQVkI4Si5qcGVn/300/square"
+                ],
+                "name": [
+                  "Chet Burgess"
+                ],
+                "url": [
+                  "https://twitter.com/cfbIV"
+                ]
+              },
+              "value": "Chet Burgess"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cfbIV/status/1257310162886381571"
+          ]
+        },
+        "value": "https://twitter.com/cfbIV/status/1257310162886381571"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Cool! Unfortunately, I want to avoid using the pi-hole for DHCP, if possible... but I may change my mind over time :)"
+          ],
+          "content": [
+            {
+              "html": "<p>Cool! Unfortunately, I want to avoid using the pi-hole for DHCP, if possible... but I may change my mind over time :)</p>",
+              "value": "Cool! Unfortunately, I want to avoid using the pi-hole for DHCP, if possible... but I may change my mind over time :)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1257339202624159749"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1257339202624159749"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1257155917604425729",
+      "https://mastodon.social/@cleverdevil/104108150206138011"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "f7479611775f9e8466d04349f8369318"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1257155917604425729?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1257155917604425729%2F1025598943"
+          ],
+          "published": [
+            "2020-05-04T04:23:12+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Social Media Influencer #69764287"
+                ],
+                "url": [
+                  "https://twitter.com/TremendousValue"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkwMjk0NzU5NDQyNjU2ODcwNi9oTWpEa2dlRC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkwMjk0NzU5NDQyNjU2ODcwNi9oTWpEa2dlRC5qcGc,/300/square Social Media Influencer #69764287"
+            }
+          ]
+        },
+        "value": "Social Media Influencer #69764287"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1257155917604425729?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1257155917604425729%2F1537525484"
+          ],
+          "published": [
+            "2020-05-04T16:41:48+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nolan Leake"
+                ],
+                "url": [
+                  "https://twitter.com/NolanSIGBUS"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square Nolan Leake"
+            }
+          ]
+        },
+        "value": "Nolan Leake"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2020-05-04T02:58:04Z",
+      "year": 2020,
+      "month": 5,
+      "day": 4,
+      "hour": 2,
+      "minute": 58,
+      "x": -118.37037522116339,
+      "y": 33.81543207968659,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.20999999344348907,
+      "wifi": "LaCour"
+    }
+  }
+}

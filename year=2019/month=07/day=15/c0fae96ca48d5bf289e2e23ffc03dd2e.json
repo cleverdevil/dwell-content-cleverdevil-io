@@ -1,0 +1,153 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://lzahq.tech/2019/07/14/dynamic-content-in-static-site/"
+    ],
+    "name": [
+      "Dope! It\u2019d be pretty sweet to have a site that is dynamically generated from content in Nextcloud."
+    ],
+    "content": [
+      {
+        "html": "Dope! It\u2019d be pretty sweet to have a site that is dynamically generated from content in Nextcloud.",
+        "value": "Dope! It\u2019d be pretty sweet to have a site that is dynamically generated from content in Nextcloud."
+      }
+    ],
+    "url": [
+      "/2019/dope-itd-be-pretty-sweet-to-have"
+    ],
+    "published": [
+      "2019-07-15T00:14:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.78\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.78\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.78\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/dope-itd-be-pretty-sweet-to-have/annotations/de8d927f18f146145e741b64943473bb"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/dope-itd-be-pretty-sweet-to-have/annotations/de8d927f18f146145e741b64943473bb"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Challenge accepted!"
+          ],
+          "content": [
+            {
+              "html": "<p>Challenge accepted!</p>",
+              "value": "Challenge accepted!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9semFocS50ZWNoL2Fzc2V0cy9pbWcvbWUuanBn/300/square"
+                ],
+                "name": [
+                  "Lance"
+                ],
+                "url": [
+                  "https://lzahq.tech"
+                ]
+              },
+              "value": "Lance"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/dope-itd-be-pretty-sweet-to-have/annotations/1b3162e7ab00cf91407894a8a84b82ee"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/dope-itd-be-pretty-sweet-to-have/annotations/1b3162e7ab00cf91407894a8a84b82ee"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1150559267570814976",
+      "https://mastodon.social/@cleverdevil/102442577509055256"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "c0fae96ca48d5bf289e2e23ffc03dd2e"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-15T00:11:25Z",
+      "year": 2019,
+      "month": 7,
+      "day": 15,
+      "hour": 0,
+      "minute": 11,
+      "x": -118.37031649923252,
+      "y": 33.81544450228734,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ronald Reagan Washington National Airport (DCA)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ronald Reagan Washington National Airport (DCA)"
+          ],
+          "latitude": [
+            "38.852878267287"
+          ],
+          "longitude": [
+            "-77.042484165929"
+          ]
+        },
+        "value": "Ronald Reagan Washington National Airport (DCA)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ronald Reagan Washington National Airport (DCA)"
+          ],
+          "latitude": [
+            "38.852878267287"
+          ],
+          "longitude": [
+            "-77.042484165929"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-ronald-reagan-washington-national-airport-dca"
+    ],
+    "published": [
+      "2018-02-12T20:58:33+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "2307 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>2307 miles since last check-in</p>",
+              "value": "2307 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a81ffe9464d652aa9ec2342/c2470a00bfc74d9365821d843f96ed5f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a81ffe9464d652aa9ec2342/c2470a00bfc74d9365821d843f96ed5f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a81ffe9464d652aa9ec2342"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ce9b0ddc6e1e07eb874a40fc5da85a38"
+    ]
+  }
+}

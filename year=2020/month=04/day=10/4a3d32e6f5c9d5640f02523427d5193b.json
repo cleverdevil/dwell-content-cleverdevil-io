@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-292-dont-look-over-there"
+    ],
+    "published": [
+      "2020-04-10T15:47:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 53.77\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 53.77\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 53.77\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-292-dont-look-over-there/annotations/889dd83a2215098a4ed0a87d98485a6d"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-292-dont-look-over-there/annotations/889dd83a2215098a4ed0a87d98485a6d"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4a3d32e6f5c9d5640f02523427d5193b"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-10T15:57:19Z",
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "hour": 15,
+      "minute": 57,
+      "x": -118.37039300837289,
+      "y": 33.8154190345462,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 292: Don\u2019t Look Over There!"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6e505bcc719a546a37eb61b13bf93a17/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8okVWY"
+        ],
+        "content": [
+          {
+            "html": "<p>How will COVID-19 change the future of consumer technology? Why is Zoom the videoconferencing tool of the moment, and why has it had so many security and privacy issues? We also discuss Amazon\u2019s ability to sell and rent movies on iOS.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "How will COVID-19 change the future of consumer technology? Why is Zoom the videoconferencing tool of the moment, and why has it had so many security and privacy issues? We also discuss Amazon\u2019s ability to sell and rent movies on iOS.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

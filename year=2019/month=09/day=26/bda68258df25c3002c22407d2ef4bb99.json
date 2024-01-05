@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Gabi James"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gabi James"
+          ],
+          "latitude": [
+            "33.816874"
+          ],
+          "longitude": [
+            "-118.387321"
+          ]
+        },
+        "value": "Gabi James"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Gabi James"
+          ],
+          "latitude": [
+            "33.816874"
+          ],
+          "longitude": [
+            "-118.387321"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night!</p>",
+        "value": "Date night!"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-gabi-james-2"
+    ],
+    "published": [
+      "2019-09-26T01:32:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Gabi James since April."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Gabi James since April.</p>",
+              "value": "Welcome back! You haven't checked in to Gabi James since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d8c154547bde300079f4011/2ba840ef317340e16743faa0eeee5ac9"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d8c154547bde300079f4011/2ba840ef317340e16743faa0eeee5ac9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.96\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.96\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.96\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-gabi-james-2/annotations/5bb32228d7a79682e3099c57b6361e6e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-gabi-james-2/annotations/5bb32228d7a79682e3099c57b6361e6e"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d8c154547bde300079f4011"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bda68258df25c3002c22407d2ef4bb99"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-26T01:32:36Z",
+      "year": 2019,
+      "month": 9,
+      "day": 26,
+      "hour": 1,
+      "minute": 32,
+      "x": -118.38742913908492,
+      "y": 33.816944760536536,
+      "altitude": 20,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": ""
+    }
+  }
+}

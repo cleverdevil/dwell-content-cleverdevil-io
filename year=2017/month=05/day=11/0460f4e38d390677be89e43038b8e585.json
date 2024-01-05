@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sheraton Boston Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": "Sheraton Boston Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Ceph talks</p>",
+        "value": "Ceph talks"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sheraton-boston-hotel-2"
+    ],
+    "published": [
+      "2017-05-11T17:57:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Sheraton Boston Hotel! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Sheraton Boston Hotel! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Sheraton Boston Hotel! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bb5233e4940514d0f932b76b13cb49e1"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5914a5f765cdf8479a923bff/f8219d9b5109d022b60490f04ec562b2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5914a5f765cdf8479a923bff/f8219d9b5109d022b60490f04ec562b2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5914a5f765cdf8479a923bff"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0460f4e38d390677be89e43038b8e585"
+    ]
+  }
+}

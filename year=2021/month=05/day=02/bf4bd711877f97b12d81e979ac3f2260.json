@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/75-beer-types"
+    ],
+    "published": [
+      "2021-05-02T21:13:56+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bf4bd711877f97b12d81e979ac3f2260"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-03T00:01:33Z",
+      "year": 2021,
+      "month": 5,
+      "day": 3,
+      "hour": 0,
+      "minute": 1,
+      "x": -118.37030373857425,
+      "y": 33.81544791359988,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5699999928474426,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 75: Beer Types \ud83c\udf7b"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5a5da74fe397175b4928a044af7707a1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDbfWiTo"
+        ],
+        "content": [
+          {
+            "html": "<p>A tour of the world\u2019s best ways to combine barley, hops, yeast, and water.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "A tour of the world\u2019s best ways to combine barley, hops, yeast, and water.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/all-weirdsies-with-linda-holmes"
+    ],
+    "published": [
+      "2022-07-04T15:33:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "10b35ab476bc3e5776b0c199024df57a"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-04T15:57:37Z",
+      "year": 2022,
+      "month": 7,
+      "day": 4,
+      "hour": 15,
+      "minute": 57,
+      "x": -116.38040334109735,
+      "y": 33.70157790733172,
+      "altitude": 129,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to All Weirdsies With Linda Holmes"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f43310f3e2450cddab333e59747191ef/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3zOajU"
+        ],
+        "content": [
+          {
+            "html": "<p>All Weirdsies With Linda Holmes</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "All Weirdsies With Linda Holmes\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

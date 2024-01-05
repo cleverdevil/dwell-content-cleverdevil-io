@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/the-host-with-the-most-with-janie-haddad-tompkins"
+    ],
+    "published": [
+      "2023-07-04T08:40:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "45ddfab069b2888cf667b56180011583"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-04T08:07:34Z",
+      "year": 2023,
+      "month": 7,
+      "day": 4,
+      "hour": 8,
+      "minute": 7,
+      "x": -116.38033284614484,
+      "y": 33.70174952722706,
+      "altitude": 128,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.4699999988079071,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The Host with the Most, with Janie Haddad Tompkins"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/41755da16d901d7d0a48d27c6161ec10/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM0IYcqw"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s time to clear the docket! This week, we\u2019re joined by Judge Hodgman\u2019s regular host in Los Angeles, Janie Haddad Tompkins. We tackle disputes about hosting, guesting, restocking larders, hostess gifts, and more!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "It\u2019s time to clear the docket! This week, we\u2019re joined by Judge Hodgman\u2019s regular host in Los Angeles, Janie Haddad Tompkins. We tackle disputes about hosting, guesting, restocking larders, hostess gifts, and more!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

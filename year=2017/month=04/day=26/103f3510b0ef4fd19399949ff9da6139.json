@@ -1,0 +1,131 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://twitter.com/brucegodin/status/857382460325113856"
+    ],
+    "name": [
+      "@brucegodin I create all content on my site, which is linked to Micro.blog via RSS. My site syndicates to Twitter."
+    ],
+    "content": [
+      {
+        "html": "<a href=\"https://twitter.com/brucegodin\" target=\"_blank\">@brucegodin</a> I create all content on my site, which is linked to Micro.blog via RSS. My site syndicates to Twitter.",
+        "value": "@brucegodin I create all content on my site, which is linked to Micro.blog via RSS. My site syndicates to Twitter."
+      }
+    ],
+    "url": [
+      "/2017/brucegodin-i-create-all-content-on-my-site-which-is"
+    ],
+    "published": [
+      "2017-04-26T23:56:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Ok, thank you for getting back to me. So the cross posting (syndication) is handled by your site...on Wordpress?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Ok, thank you for getting back to me. So the cross posting (syndication) is handled by your site...on Wordpress?</p>",
+              "value": "@cleverdevil Ok, thank you for getting back to me. So the cross posting (syndication) is handled by your site...on Wordpress?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ceef111e6702c5ec0bb6834b36fade31"
+                ],
+                "name": [
+                  "brucegodin"
+                ],
+                "url": [
+                  "https://micro.blog/brucegodin"
+                ]
+              },
+              "value": "brucegodin"
+            }
+          ],
+          "url": [
+            "https://micro.blog/brucegodin/15455"
+          ]
+        },
+        "value": "https://micro.blog/brucegodin/15455"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Sorry to ask on Twitter too, I just never had a reply on Micro yet and I was unsure if it worked or was enabled yet for me."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Sorry to ask on Twitter too, I just never had a reply on Micro yet and I was unsure if it worked or was enabled yet for me.</p>",
+              "value": "@cleverdevil Sorry to ask on Twitter too, I just never had a reply on Micro yet and I was unsure if it worked or was enabled yet for me."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/efca43e703cb45ddf4d4cfd583478f7c"
+                ],
+                "name": [
+                  "brucegodin"
+                ],
+                "url": [
+                  "https://micro.blog/brucegodin"
+                ]
+              },
+              "value": "brucegodin"
+            }
+          ],
+          "url": [
+            "https://micro.blog/brucegodin/15463"
+          ]
+        },
+        "value": "https://micro.blog/brucegodin/15463"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "103f3510b0ef4fd19399949ff9da6139"
+    ]
+  }
+}

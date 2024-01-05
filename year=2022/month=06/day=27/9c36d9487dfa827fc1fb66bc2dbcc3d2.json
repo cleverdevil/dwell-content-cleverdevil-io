@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/403-he-cant-stop-merging"
+    ],
+    "published": [
+      "2022-06-27T07:46:12+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9c36d9487dfa827fc1fb66bc2dbcc3d2"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-27T07:33:11Z",
+      "year": 2022,
+      "month": 6,
+      "day": 27,
+      "hour": 7,
+      "minute": 33,
+      "x": -118.37043779824268,
+      "y": 33.81536730876087,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8500000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 403: He Can\u2019t Stop Merging"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/354dc9afd53f14f556db81dd6c50667e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5Q_MyY"
+        ],
+        "content": [
+          {
+            "html": "<p>There are new betas, new chargers and new versions of iWork apps out this week. Beyond covering those items, the guys talk about WeatherKit and calculate updated Hackett Numbers.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "There are new betas, new chargers and new versions of iWork apps out this week. Beyond covering those items, the guys talk about WeatherKit and calculate updated Hackett Numbers.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

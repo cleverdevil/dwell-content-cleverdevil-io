@@ -1,0 +1,89 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "AWS, MongoDB, and the Economic Realities of Open Source \u2013 Stratechery by Ben Thompson"
+    ],
+    "bookmark-of": [
+      "https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source"
+    ],
+    "content": [
+      {
+        "html": "<blockquote><p>It\u2019s hard to not be sympathetic to MongoDB Inc. and Redis Labs: both spent a lot of money and effort building their products, and now Amazon is making money off of them. But that\u2019s the thing: Amazon isn\u2019t making money by selling software, they are making money by providing a service that enterprises value, and both MongoDB and Redis are popular in large part because they were open source to begin with.</p></blockquote><p>Ben Thompson of Stratechery does a great job here of summarizing the drama surrounding AWS' DocumentDB launch, but more importantly, he captures the complexity of running open source projects and businesses based upon them in the age of the hyperscale cloud provider.</p><p>I'm a huge believer in open source, and its been a large contributor to my career. Making money off of open source has always been a challenge, and fundamentally the only business that has been able to really do it at scale is RedHat.</p><p>I don't believe that user-hostile and provider-hostile licensing is the answer, but Ben's post here definitely shows that the path forward is not yet clear.</p>",
+        "value": "It\u2019s hard to not be sympathetic to MongoDB Inc. and Redis Labs: both spent a lot of money and effort building their products, and now Amazon is making money off of them. But that\u2019s the thing: Amazon isn\u2019t making money by selling software, they are making money by providing a service that enterprises value, and both MongoDB and Redis are popular in large part because they were open source to begin with.\nBen Thompson of Stratechery does a great job here of summarizing the drama surrounding AWS' DocumentDB launch, but more importantly, he captures the complexity of running open source projects and businesses based upon them in the age of the hyperscale cloud provider.\nI'm a huge believer in open source, and its been a large contributor to my career. Making money off of open source has always been a challenge, and fundamentally the only business that has been able to really do it at scale is RedHat.\nI don't believe that user-hostile and provider-hostile licensing is the answer, but Ben's post here definitely shows that the path forward is not yet clear."
+      }
+    ],
+    "url": [
+      "/2019/aws-mongodb-and-the-economic-realities-of-open-source-stratechery"
+    ],
+    "published": [
+      "2019-01-14T18:09:17+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1084875160635740162"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "dfb560b79078befe968c570812f4dc41"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1084875160635740162?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1084875160635740162%2F24284646"
+          ],
+          "published": [
+            "2019-01-15T18:20:42+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mission"
+                ],
+                "url": [
+                  "https://twitter.com/MissionCloud"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTAwNTg4NDk2OTUwOTI3MzYvaFhUUnE2SE4uanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNTAwNTg4NDk2OTUwOTI3MzYvaFhUUnE2SE4uanBn/300/square Mission"
+            }
+          ]
+        },
+        "value": "Mission"
+      }
+    ]
+  }
+}

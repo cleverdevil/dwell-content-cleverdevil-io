@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/episode-13---rio-special"
+    ],
+    "published": [
+      "2023-10-09T20:50:50+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "abdd27dee5bb63745792e62ceedc0926"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-09T20:27:24Z",
+      "year": 2023,
+      "month": 10,
+      "day": 9,
+      "hour": 20,
+      "minute": 27,
+      "x": -118.36988056616556,
+      "y": 33.815386095444424,
+      "altitude": 48,
+      "motion": [
+        "driving"
+      ],
+      "speed": 10,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Episode 13 - Rio Special"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c4ae1f5a6a94362a8da39e7cccaf74e5/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E8qQwi5_M"
+        ],
+        "content": [
+          {
+            "html": "<p>Miles Jupp joins in with this month\u2019s Rio special, recorded in Rio De Janeiro ahead of the Olympic games. By Benjamin Partridge and Miles Jupp with thanks to Helen Zaltzmann, Mariana Maioline, Felipe Galvao, Vanessa Del Negri, Regina Souza, Marina De Menezes and Marcellus Lima. Also countless Brazilians on the answer phone. Music: \u201cAt Dawn\u201d by Dana Boule (www.danaboule.com) Stock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Beef And Dairy Network</p>",
+            "value": "Miles Jupp joins in with this month\u2019s Rio special, recorded in Rio De Janeiro ahead of the Olympic games. By Benjamin Partridge and Miles Jupp with thanks to Helen Zaltzmann, Mariana Maioline, Felipe Galvao, Vanessa Del Negri, Regina Souza, Marina De Menezes and Marcellus Lima. Also countless Brazilians on the answer phone. Music: \u201cAt Dawn\u201d by Dana Boule (www.danaboule.com) Stock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com\nBy Beef And Dairy Network"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

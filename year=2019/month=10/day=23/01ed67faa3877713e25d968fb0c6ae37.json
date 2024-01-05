@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Lamplight Lounge"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lamplight Lounge"
+          ],
+          "latitude": [
+            "33.805209544344"
+          ],
+          "longitude": [
+            "-117.92124224579"
+          ]
+        },
+        "value": "Lamplight Lounge"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lamplight Lounge"
+          ],
+          "latitude": [
+            "33.805209544344"
+          ],
+          "longitude": [
+            "-117.92124224579"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-lamplight-lounge"
+    ],
+    "published": [
+      "2019-10-23T02:26:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 5 check-ins at Lounges!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 5 check-ins at Lounges!</p>",
+              "value": "Wow! That's 5 check-ins at Lounges!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5dafba4d54dda8000832c0d8/1cd60957aef5218f3916364414bfd783"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5dafba4d54dda8000832c0d8/1cd60957aef5218f3916364414bfd783"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 76.88\u00b0F and 38% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 76.88\u00b0F and 38% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 76.88\u00b0F and 38% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-lamplight-lounge/annotations/d5deedbdb95318616396a37afde3f8b6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-lamplight-lounge/annotations/d5deedbdb95318616396a37afde3f8b6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5dafba4d54dda8000832c0d8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "01ed67faa3877713e25d968fb0c6ae37"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-23T02:25:39Z",
+      "year": 2019,
+      "month": 10,
+      "day": 23,
+      "hour": 2,
+      "minute": 25,
+      "x": -117.92116943945966,
+      "y": 33.80516609461881,
+      "altitude": 39,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  }
+}

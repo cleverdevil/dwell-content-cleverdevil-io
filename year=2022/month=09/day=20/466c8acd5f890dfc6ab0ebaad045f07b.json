@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/500-all-the-nerds-in-the-room"
+    ],
+    "published": [
+      "2022-09-20T06:21:38+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "466c8acd5f890dfc6ab0ebaad045f07b"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-20T08:02:48Z",
+      "year": 2022,
+      "month": 9,
+      "day": 20,
+      "hour": 8,
+      "minute": 2,
+      "x": -116.38037050884978,
+      "y": 33.70164705078756,
+      "altitude": 130,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9900000095367432,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 500: All the Nerds in the Room"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/eaf911627e7a3bec69a026c4df0b10d1/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIhccYU"
+        ],
+        "content": [
+          {
+            "html": "<p>Celebrating 500 episodes with the best audience in the nerd world.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Celebrating 500 episodes with the best audience in the nerd world.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

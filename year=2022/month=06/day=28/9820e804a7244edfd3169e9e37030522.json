@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Rue 57"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rue 57"
+          ],
+          "latitude": [
+            "40.764084"
+          ],
+          "longitude": [
+            "-73.977134"
+          ]
+        },
+        "value": "Rue 57"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rue 57"
+          ],
+          "latitude": [
+            "40.764084"
+          ],
+          "longitude": [
+            "-73.977134"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-rue-57"
+    ],
+    "published": [
+      "2022-06-28T23:24:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Midtown East was in September '19 at Grand Hyatt New York."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Midtown East was in September '19 at Grand Hyatt New York.</p>",
+              "value": "Your last check-in in Midtown East was in September '19 at Grand Hyatt New York."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62bb8dbfaffe262509d2e814/a5e590b06183cfcff8baf4af68c40544"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62bb8dbfaffe262509d2e814/a5e590b06183cfcff8baf4af68c40544"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 40 check-ins at French Restaurants!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 40 check-ins at French Restaurants!</p>",
+              "value": "Wow! That's 40 check-ins at French Restaurants!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/62bb8dbfaffe262509d2e814/c53ec584b005cd3a3226adc1983ca143"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/62bb8dbfaffe262509d2e814/c53ec584b005cd3a3226adc1983ca143"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/62bb8dbfaffe262509d2e814"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9820e804a7244edfd3169e9e37030522"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-28T23:24:40Z",
+      "year": 2022,
+      "month": 6,
+      "day": 28,
+      "hour": 23,
+      "minute": 24,
+      "x": -73.9799403258344,
+      "y": 40.76445315107638,
+      "altitude": 25,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.3799999952316284,
+      "wifi": ""
+    }
+  }
+}

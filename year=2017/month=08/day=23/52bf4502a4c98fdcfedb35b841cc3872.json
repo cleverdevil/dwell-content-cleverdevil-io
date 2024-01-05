@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Desserts By Patrick"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": "Desserts By Patrick"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Desserts By Patrick\" src=\"https://cleverdevil.io/file/9839fc2e61a46b00b8cf04bf074c65e3\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Again!</p>",
+        "value": "Desserts By Patrick\nAgain!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-desserts-by-patrick-3"
+    ],
+    "published": [
+      "2017-08-23T02:17:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/488d963d8407d0ab3ec3038da8543b3a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599ce5bead910e699b48495f/32c452690035aafb2f077bb8432923cf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599ce5bead910e699b48495f/32c452690035aafb2f077bb8432923cf"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo!</p>",
+              "value": "Great photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6a3e5a1f8511a1d96742303845193e0b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599ce5bead910e699b48495f/138228e30468badba0a8c087471331d2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599ce5bead910e699b48495f/138228e30468badba0a8c087471331d2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599ce5bead910e699b48495f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "52bf4502a4c98fdcfedb35b841cc3872"
+    ]
+  }
+}

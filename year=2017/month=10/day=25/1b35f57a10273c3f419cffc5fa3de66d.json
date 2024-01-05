@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Westin Seattle"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Seattle"
+          ],
+          "latitude": [
+            "47.613769767747"
+          ],
+          "longitude": [
+            "-122.33818811366"
+          ]
+        },
+        "value": "The Westin Seattle"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Westin Seattle"
+          ],
+          "latitude": [
+            "47.613769767747"
+          ],
+          "longitude": [
+            "-122.33818811366"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-westin-seattle-1"
+    ],
+    "published": [
+      "2017-10-25T20:24:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside The Westin Seattle! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside The Westin Seattle! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside The Westin Seattle! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59f0f2eba22db729959bf6f4/304c9f6514f04b5fa098c5acff5baa97"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59f0f2eba22db729959bf6f4/304c9f6514f04b5fa098c5acff5baa97"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59f0f2eba22db729959bf6f4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1b35f57a10273c3f419cffc5fa3de66d"
+    ]
+  }
+}

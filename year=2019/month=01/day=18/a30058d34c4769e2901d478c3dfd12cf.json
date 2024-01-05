@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "John Gruber on Twitter: \"Literally laughed out loud at this album art gag. Just perfect.\u2026 \""
+    ],
+    "like-of": [
+      "https://twitter.com/gruber/status/1086396565147791368"
+    ],
+    "url": [
+      "/2019/john-gruber-on-twitter-literally-laughed-out-loud-at-this"
+    ],
+    "published": [
+      "2019-01-18T23:55:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.02\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.02\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 63.02\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/john-gruber-on-twitter-literally-laughed-out-loud-at-this/annotations/d12bad283c3708523c49925bf5c8e2c2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/john-gruber-on-twitter-literally-laughed-out-loud-at-this/annotations/d12bad283c3708523c49925bf5c8e2c2"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "a30058d34c4769e2901d478c3dfd12cf"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-01-18T07:30:24Z",
+      "year": 2019,
+      "month": 1,
+      "day": 18,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37051178197673,
+      "y": 33.815358239166414,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-307-big-sur-sosumi"
+    ],
+    "published": [
+      "2020-07-22T07:40:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.79\u00b0F and 93% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.79\u00b0F and 93% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 58.79\u00b0F and 93% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-307-big-sur-sosumi/annotations/2ec1c0d0ff6953b230f0b5314586042a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-307-big-sur-sosumi/annotations/2ec1c0d0ff6953b230f0b5314586042a"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "75df077ab913b60fbadefdbace7e4dab"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-07-22T02:56:37Z",
+      "year": 2020,
+      "month": 7,
+      "day": 22,
+      "hour": 2,
+      "minute": 56,
+      "x": -118.37031401400341,
+      "y": 33.81543103480979,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 307: Big Sur Sosumi"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/94d54619ac932751c95479eeb7428666/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm93a0SU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week is an audio extravaganza about a major new change in macOS Big Sur. Plus: Apple News adds audio features (but won\u2019t save journalism), and Jason test drives Peacock Premium.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week is an audio extravaganza about a major new change in macOS Big Sur. Plus: Apple News adds audio features (but won\u2019t save journalism), and Jason test drives Peacock Premium.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

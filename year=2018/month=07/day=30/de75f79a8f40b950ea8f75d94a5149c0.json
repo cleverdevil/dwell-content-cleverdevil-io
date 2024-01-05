@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Two Guns Kitchen"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Two Guns Kitchen"
+          ],
+          "latitude": [
+            "33.919796146312"
+          ],
+          "longitude": [
+            "-118.416117482"
+          ]
+        },
+        "value": "Two Guns Kitchen"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Two Guns Kitchen"
+          ],
+          "latitude": [
+            "33.919796146312"
+          ],
+          "longitude": [
+            "-118.416117482"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-two-guns-kitchen-1"
+    ],
+    "published": [
+      "2018-07-30T16:00:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Bees are the only insect that make food eaten by humans. So to you weirdos eating spider webs... please stop."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Bees are the only insect that make food eaten by humans. So to you weirdos eating spider webs... please stop.</p>",
+              "value": "Fun Fact! Bees are the only insect that make food eaten by humans. So to you weirdos eating spider webs... please stop."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b5f360f234724002ce9f50c/690941d1dd467791108d15f7d178f7c8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b5f360f234724002ce9f50c/690941d1dd467791108d15f7d178f7c8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b5f360f234724002ce9f50c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "de75f79a8f40b950ea8f75d94a5149c0"
+    ]
+  }
+}

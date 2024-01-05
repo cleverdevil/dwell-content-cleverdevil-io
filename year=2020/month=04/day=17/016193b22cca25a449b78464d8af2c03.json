@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Tape As Pandemic Architectural Element"
+    ],
+    "like-of": [
+      "https://kottke.org/20/04/tape-as-pandemic-architectural-element"
+    ],
+    "url": [
+      "/2020/tape-as-pandemic-architectural-element"
+    ],
+    "published": [
+      "2020-04-17T00:36:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.89\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.89\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.89\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/tape-as-pandemic-architectural-element/annotations/a91a4500d56ac0773d4760bcd488e549"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/tape-as-pandemic-architectural-element/annotations/a91a4500d56ac0773d4760bcd488e549"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "016193b22cca25a449b78464d8af2c03"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-17T00:17:56Z",
+      "year": 2020,
+      "month": 4,
+      "day": 17,
+      "hour": 0,
+      "minute": 17,
+      "x": -118.3704161954494,
+      "y": 33.815401878999495,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/77-simpsons-characters"
+    ],
+    "published": [
+      "2021-06-29T07:38:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "444720af20253d8e885d794006f8e5bd"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-28T17:56:15Z",
+      "year": 2021,
+      "month": 6,
+      "day": 28,
+      "hour": 17,
+      "minute": 56,
+      "x": -118.3703944601319,
+      "y": 33.81539491032005,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 77: Simpsons Characters"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a43e1fdbd495628a1b85e05190adfdeb/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDYzKCqE"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite characters on The Simpsons.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite characters on The Simpsons.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

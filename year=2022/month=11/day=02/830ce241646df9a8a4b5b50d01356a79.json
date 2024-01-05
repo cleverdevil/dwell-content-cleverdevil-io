@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/judge-of-the-darned"
+    ],
+    "published": [
+      "2022-11-02T15:24:04+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "830ce241646df9a8a4b5b50d01356a79"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-11-02T15:55:25Z",
+      "year": 2022,
+      "month": 11,
+      "day": 2,
+      "hour": 15,
+      "minute": 55,
+      "x": -118.37038796040149,
+      "y": 33.81542413726031,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Judge of the Darned"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/7d8e1d92bf80903f4dc5494aaf4e9484/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM1wjPMU"
+        ],
+        "content": [
+          {
+            "html": "<p>Spooky Season is here! We are in chambers this week to clear the docket and it\u2019s all Halloween! We talk about costumes, trick-or-treating, scaring kids, and much more! Plus we catch up with Friend of the Court and Spirit Halloween expert, Aidan Kaye!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Spooky Season is here! We are in chambers this week to clear the docket and it\u2019s all Halloween! We talk about costumes, trick-or-treating, scaring kids, and much more! Plus we catch up with Friend of the Court and Spirit Halloween expert, Aidan Kaye!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

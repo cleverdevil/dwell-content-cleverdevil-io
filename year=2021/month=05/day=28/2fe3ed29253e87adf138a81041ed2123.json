@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/354-even-safari-knows-its-yellow"
+    ],
+    "published": [
+      "2021-05-28T07:38:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2fe3ed29253e87adf138a81041ed2123"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-26T02:59:57Z",
+      "year": 2021,
+      "month": 5,
+      "day": 26,
+      "hour": 2,
+      "minute": 59,
+      "x": -118.3703315081979,
+      "y": 33.81544926048287,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8100000023841858,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 354: Even Safari Knows It\u2019s Yellow"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/dcf48560c77ccbcfb01ff808f3da53f3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9EDALQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason reviews the new iPad Pro, Myke reviews the new 24-inch iMac, and the future of Apple silicon might be coming into focus.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason reviews the new iPad Pro, Myke reviews the new 24-inch iMac, and the future of Apple silicon might be coming into focus.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

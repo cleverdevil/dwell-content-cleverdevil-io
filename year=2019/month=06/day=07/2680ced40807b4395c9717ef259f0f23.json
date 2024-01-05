@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/114-craig-federighi-the-appstories-interview"
+    ],
+    "published": [
+      "2019-06-07T17:09:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.49\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.49\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 64.49\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/114-craig-federighi-the-appstories-interview/annotations/fe02de6268524f39f8cce6f8e317d498"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/114-craig-federighi-the-appstories-interview/annotations/fe02de6268524f39f8cce6f8e317d498"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2680ced40807b4395c9717ef259f0f23"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-07T19:35:13Z",
+      "year": 2019,
+      "month": 6,
+      "day": 7,
+      "hour": 19,
+      "minute": 35,
+      "x": -118.37034422556147,
+      "y": 33.81546391233629,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 114 \u2013 Craig Federighi: The AppStories Interview"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/07cb7418ebe481d1a10a68e0995bd8e2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+I5ClkVhek"
+        ],
+        "content": [
+          {
+            "html": "<p>An interview with Apple\u2019s Craig Federighi</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  AppStories</p>",
+            "value": "An interview with Apple\u2019s Craig Federighi\nBy AppStories"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into TML 'The Media Lounge'"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TML 'The Media Lounge'"
+          ],
+          "latitude": [
+            "25.097625760992"
+          ],
+          "longitude": [
+            "55.157012784202"
+          ]
+        },
+        "value": "TML 'The Media Lounge'"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "TML 'The Media Lounge'"
+          ],
+          "latitude": [
+            "25.097625760992"
+          ],
+          "longitude": [
+            "55.157012784202"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Customer lunch.</p>",
+        "value": "Customer lunch."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-tml-the-media-lounge"
+    ],
+    "published": [
+      "2018-07-10T08:30:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b446ea37cd14c0043afb670/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b446ea37cd14c0043afb670/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b446ea37cd14c0043afb670"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6987f8ae734157b1f4c8f66d4fd86410"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b446ea37cd14c0043afb670/56d775b12f2d348785bdfc04067071b3"
+          ],
+          "published": [
+            "2018-07-10T08:30:27+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Mike Schroder"
+                ],
+                "url": [
+                  "https://foursquare.com/user/10453317"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMDQ1MzMxN18xeFhTM1FxbV94QUhyQXB6eVRrb0JFM0lFTjJ3UUc3YlJnVkVhQk9ybUJJY0Z1VUwxYXdwZUtCcHVDc1J0bzdOMDc3YVNOU3Jn/300/square Mike Schroder"
+            }
+          ]
+        },
+        "value": "Mike Schroder"
+      }
+    ]
+  }
+}

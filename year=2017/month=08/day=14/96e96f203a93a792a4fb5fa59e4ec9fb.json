@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into DreamHost West"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": "DreamHost West"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "DreamHost West"
+          ],
+          "latitude": [
+            "34.049198213037"
+          ],
+          "longitude": [
+            "-118.25703922035"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"DreamHost West\" src=\"https://cleverdevil.io/file/ce33bec480586a936d25c462b91e6377\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Hazy Monday at work.</p>",
+        "value": "DreamHost West\nHazy Monday at work."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-dreamhost-west-53"
+    ],
+    "published": [
+      "2017-08-14T16:10:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Great photo!"
+          ],
+          "content": [
+            {
+              "html": "<p>Great photo!</p>",
+              "value": "Great photo!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/11efc6ca6d7ab3cba9490d9f1a6ae246"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5991cb7a47f87677577414e5/138228e30468badba0a8c087471331d2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5991cb7a47f87677577414e5/138228e30468badba0a8c087471331d2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5991cb7a47f87677577414e5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "96e96f203a93a792a4fb5fa59e4ec9fb"
+    ]
+  }
+}

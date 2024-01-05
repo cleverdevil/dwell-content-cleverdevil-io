@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://werd.io/2019/i-wish-more-people-would-blog"
+    ],
+    "name": [
+      "@benwerd I keep a completely up-to-date list of feeds that I subscribe to in my microsub server (generated in real-time!) here - http://cleverdevil.io/following. Bonus points: its actually an h-feed you can subscribe to! I never got around to generating an OPML file from it, but I could do that easily. Its all a Known plugin, too :)"
+    ],
+    "content": [
+      {
+        "html": "@benwerd I keep a completely up-to-date list of feeds that I subscribe to in my microsub server (generated in real-time!) here - <a href=\"http://cleverdevil.io/following\" target=\"_blank\">http://<wbr/>cleverdevil.io/<wbr/>following</a>. Bonus points: its actually an h-feed you can subscribe to! I never got around to generating an OPML file from it, but I could do that easily. Its all a Known plugin, too :)",
+        "value": "@benwerd I keep a completely up-to-date list of feeds that I subscribe to in my microsub server (generated in real-time!) here - http://cleverdevil.io/following. Bonus points: its actually an h-feed you can subscribe to! I never got around to generating an OPML file from it, but I could do that easily. Its all a Known plugin, too :)"
+      }
+    ],
+    "url": [
+      "/2019/benwerd-i-keep-a-completely-up-to-date-list"
+    ],
+    "published": [
+      "2019-08-26T19:53:19+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.11\u00b0F and 45% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.11\u00b0F and 45% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 80.11\u00b0F and 45% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/benwerd-i-keep-a-completely-up-to-date-list/annotations/b4417168f3e4bdb360e5c907aa14bf82"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/benwerd-i-keep-a-completely-up-to-date-list/annotations/b4417168f3e4bdb360e5c907aa14bf82"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1166076204706873345"
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "e1e959ca26e4cd9cd90c212814e0c3a0"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1166076204706873345?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1166076204706873345%2F783092"
+          ],
+          "published": [
+            "2019-08-26T19:55:03+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNDA2MzIyNzc3NzA3ODg4NjQvUlRJZTh1bEQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNDA2MzIyNzc3NzA3ODg4NjQvUlRJZTh1bEQuanBn/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-26T19:52:16Z",
+      "year": 2019,
+      "month": 8,
+      "day": 26,
+      "hour": 19,
+      "minute": 52,
+      "x": -118.39515480327002,
+      "y": 33.919737030931685,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.6800000071525574,
+      "wifi": "WeWork"
+    }
+  }
+}

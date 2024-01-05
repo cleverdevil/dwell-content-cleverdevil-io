@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "I did this very thing the other day to reverse engineer the Nintendo Switch Parental Controls API (super fun), but also launched a bunch of other apps to see what sorts of services they were talking to, and what kind of data they were sending. Yikes.\n\nhttps://twitter.com/migueldeicaza/status/1110275251320090625"
+    ],
+    "content": [
+      {
+        "html": "I did this very thing the other day to reverse engineer the Nintendo Switch Parental Controls API (super fun), but also launched a bunch of other apps to see what sorts of services they were talking to, and what kind of data they were sending. Yikes.<br/>\n<br/>\n<a href=\"https://twitter.com/migueldeicaza/status/1110275251320090625\" target=\"_blank\">https://<wbr/>twitter.com/<wbr/>migueldeicaza/<wbr/>status/<wbr/>1110275251320090625</a>",
+        "value": "I did this very thing the other day to reverse engineer the Nintendo Switch Parental Controls API (super fun), but also launched a bunch of other apps to see what sorts of services they were talking to, and what kind of data they were sending. Yikes.\n\nhttps://twitter.com/migueldeicaza/status/1110275251320090625"
+      }
+    ],
+    "url": [
+      "/2019/i-did-this-very-thing-the-other"
+    ],
+    "published": [
+      "2019-03-26T22:58:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 66.73\u00b0F and 53% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 66.73\u00b0F and 53% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 66.73\u00b0F and 53% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i-did-this-very-thing-the-other/annotations/c351b9f3d7108572f4971616c8d270f4"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i-did-this-very-thing-the-other/annotations/c351b9f3d7108572f4971616c8d270f4"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1110677521287266306"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "0eb9a6f9450c741517b99e7bf5e86fae"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1110677521287266306?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1110677521287266306%2F1537525484"
+          ],
+          "published": [
+            "2019-03-27T01:42:45+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nolan Leake"
+                ],
+                "url": [
+                  "https://twitter.com/NolanSIGBUS"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3ODgwMDAwMDAyNjkxMTUyNi84ZDc5YTE5NjkyMzBlM2MyODY5YTA1NzA3ZTZiOTA5Zi5qcGVn/300/square Nolan Leake"
+            }
+          ]
+        },
+        "value": "Nolan Leake"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-26T22:54:11Z",
+      "year": 2019,
+      "month": 3,
+      "day": 26,
+      "hour": 22,
+      "minute": 54,
+      "x": -118.39480332245175,
+      "y": 33.91938814545329,
+      "altitude": 32,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "Mission"
+    }
+  }
+}

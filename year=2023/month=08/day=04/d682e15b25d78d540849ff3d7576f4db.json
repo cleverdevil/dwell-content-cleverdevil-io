@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/the-worst-christian-movie-ever-made"
+    ],
+    "published": [
+      "2023-08-04T00:30:51+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d682e15b25d78d540849ff3d7576f4db"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-04T01:52:07Z",
+      "year": 2023,
+      "month": 8,
+      "day": 4,
+      "hour": 1,
+      "minute": 52,
+      "x": -116.3802947674885,
+      "y": 33.70167149255138,
+      "altitude": 128,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to The worst Christian movie ever made"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/eeaf9cfd55879f9071b6fc4818753cac/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+6m8Dnz5Xw"
+        ],
+        "content": [
+          {
+            "html": "<p>The worst Christian movie ever made</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Vacation Bible School Early Service</p>",
+            "value": "The worst Christian movie ever made\nBy Vacation Bible School Early Service"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

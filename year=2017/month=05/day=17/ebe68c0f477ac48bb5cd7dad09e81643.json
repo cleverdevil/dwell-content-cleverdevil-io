@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Chick-fil-A"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chick-fil-A"
+          ],
+          "latitude": [
+            "33.829714416218"
+          ],
+          "longitude": [
+            "-118.3527294767"
+          ]
+        },
+        "value": "Chick-fil-A"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chick-fil-A"
+          ],
+          "latitude": [
+            "33.829714416218"
+          ],
+          "longitude": [
+            "-118.3527294767"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-chick-fil-a"
+    ],
+    "published": [
+      "2017-05-17T01:08:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!</p>",
+              "value": "Fun Fact! Tears won't flow in zero gravity so you can't cry in space. So next time you're sad, just hop in that rocketship of yours!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1c6671e49b782a871a4b8a445cac7f82"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/591ba27aa795bd0a2529c664/2abb11f1a3ad1d7f93942e01a3671e2d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/591ba27aa795bd0a2529c664/2abb11f1a3ad1d7f93942e01a3671e2d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/591ba27aa795bd0a2529c664"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ebe68c0f477ac48bb5cd7dad09e81643"
+    ]
+  }
+}

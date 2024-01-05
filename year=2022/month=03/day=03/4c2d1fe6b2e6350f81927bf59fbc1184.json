@@ -1,0 +1,226 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Flour Bakery + Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Flour Bakery + Cafe"
+          ],
+          "latitude": [
+            "42.361306"
+          ],
+          "longitude": [
+            "-71.066595"
+          ]
+        },
+        "value": "Flour Bakery + Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Flour Bakery + Cafe"
+          ],
+          "latitude": [
+            "42.361306"
+          ],
+          "longitude": [
+            "-71.066595"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-flour-bakery-cafe"
+    ],
+    "published": [
+      "2022-03-03T16:36:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Flour Bakery + Cafe."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Flour Bakery + Cafe.</p>",
+              "value": "First check-in at Flour Bakery + Cafe."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/56f0875e43b0e10da40955a993f60df2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/56f0875e43b0e10da40955a993f60df2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in West End was in May '17 at Alibi Bar and Lounge."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in West End was in May '17 at Alibi Bar and Lounge.</p>",
+              "value": "Your last check-in in West End was in May '17 at Alibi Bar and Lounge."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/ccb69f2cec40a6209b71d3e05afaabe3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/ccb69f2cec40a6209b71d3e05afaabe3"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6220ee75dc75b07398d2f6cc/298d1d38300e94108a614bfe5e113b11"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6220ee75dc75b07398d2f6cc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4c2d1fe6b2e6350f81927bf59fbc1184"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-03T16:34:03Z",
+      "year": 2022,
+      "month": 3,
+      "day": 3,
+      "hour": 16,
+      "minute": 34,
+      "x": -71.06662574356547,
+      "y": 42.361300615575786,
+      "altitude": 1,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": ""
+    }
+  }
+}

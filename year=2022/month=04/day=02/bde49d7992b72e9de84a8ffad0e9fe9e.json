@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/476-plausibly-viable"
+    ],
+    "published": [
+      "2022-04-02T23:41:29+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bde49d7992b72e9de84a8ffad0e9fe9e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-04-02T01:01:04Z",
+      "year": 2022,
+      "month": 4,
+      "day": 2,
+      "hour": 1,
+      "minute": 1,
+      "x": -118.37035490040861,
+      "y": 33.815421733399134,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8799999952316284,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 476: Plausibly Viable"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/eb8f6d87011d3ca7c8f408dff0712a99/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULicz-8"
+        ],
+        "content": [
+          {
+            "html": "<p>Cracked pixels, acousticiology, the Overcast redesign, and a big surprise.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Cracked pixels, acousticiology, the Overcast redesign, and a big surprise.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

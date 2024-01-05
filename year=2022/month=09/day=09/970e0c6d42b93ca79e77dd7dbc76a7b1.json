@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into JC's Patio Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": "JC's Patio Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JC's Patio Cafe"
+          ],
+          "latitude": [
+            "33.720078"
+          ],
+          "longitude": [
+            "-116.387182"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-jcs-patio-cafe-3"
+    ],
+    "published": [
+      "2022-09-09T15:54:23+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 2 months since you've checked in to JC's Patio Cafe."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 2 months since you've checked in to JC's Patio Cafe.</p>",
+              "value": "Welcome back! It's been 2 months since you've checked in to JC's Patio Cafe."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/631b61af80e6a6754eba3e9a/d6d0f3fad22ad40494f58fe7494a7c4f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/631b61af80e6a6754eba3e9a/d6d0f3fad22ad40494f58fe7494a7c4f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/631b61af80e6a6754eba3e9a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "970e0c6d42b93ca79e77dd7dbc76a7b1"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-09T15:52:54Z",
+      "year": 2022,
+      "month": 9,
+      "day": 9,
+      "hour": 15,
+      "minute": 52,
+      "x": -116.38759803846276,
+      "y": 33.71979981152374,
+      "altitude": 77,
+      "motion": [
+        "driving"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": ""
+    }
+  }
+}

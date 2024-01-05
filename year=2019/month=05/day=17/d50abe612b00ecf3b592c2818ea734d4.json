@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into San Francisco International Airport (SFO)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.6167130001"
+          ],
+          "longitude": [
+            "-122.38709449768"
+          ]
+        },
+        "value": "San Francisco International Airport (SFO)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "San Francisco International Airport (SFO)"
+          ],
+          "latitude": [
+            "37.6167130001"
+          ],
+          "longitude": [
+            "-122.38709449768"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Headed home after a productive day in SF</p>",
+        "value": "Headed home after a productive day in SF"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-san-francisco-international-airport-sfo-11"
+    ],
+    "published": [
+      "2019-05-17T01:17:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights.</p>",
+              "value": "Fun Fact! A group of toads is called a knot. A group of knots is called Christmas lights."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5cde0bb960255e002c8c4e7c/bff36936af4f5fcc73a43ac8ebd82c48"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5cde0bb960255e002c8c4e7c/bff36936af4f5fcc73a43ac8ebd82c48"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 55.96\u00b0F and 72% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 55.96\u00b0F and 72% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 55.96\u00b0F and 72% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-san-francisco-international-airport-sfo-11/annotations/a5bff8e1e25681e300d2c5b6bee1cf2a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-san-francisco-international-airport-sfo-11/annotations/a5bff8e1e25681e300d2c5b6bee1cf2a"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5cde0bb960255e002c8c4e7c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d50abe612b00ecf3b592c2818ea734d4"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-17T01:17:10Z",
+      "year": 2019,
+      "month": 5,
+      "day": 17,
+      "hour": 1,
+      "minute": 17,
+      "x": -122.40073644402463,
+      "y": 37.62203430144856,
+      "altitude": -8,
+      "motion": [
+        "driving"
+      ],
+      "speed": 26,
+      "battery_state": "unplugged",
+      "battery_level": 0.6000000238418579,
+      "wifi": ""
+    }
+  }
+}

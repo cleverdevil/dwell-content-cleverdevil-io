@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/366-theres-nothing-you-can-fix-in-a-day"
+    ],
+    "published": [
+      "2020-02-24T15:37:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 53.67\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 53.67\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 53.67\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/366-theres-nothing-you-can-fix-in-a-day/annotations/1fcbc07807bb855838796816fee8eaed"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/366-theres-nothing-you-can-fix-in-a-day/annotations/1fcbc07807bb855838796816fee8eaed"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6c7bf30267c1f89f880accdca1c8c1ab"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-24T16:01:38Z",
+      "year": 2020,
+      "month": 2,
+      "day": 24,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.38777724233184,
+      "y": 33.84667933764787,
+      "altitude": 21,
+      "motion": [
+        "driving"
+      ],
+      "speed": 2,
+      "battery_state": "charging",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 366: There\u2019s Nothing You Can Fix in a Day"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/48de090a26bfc0267c7eaf0d12a608df/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXkWlo0"
+        ],
+        "content": [
+          {
+            "html": "<p>We invent new Apple products and fix some bugs for them, and John implements a seemingly trivial feature.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "We invent new Apple products and fix some bugs for them, and John implements a seemingly trivial feature.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

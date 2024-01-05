@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Boston Logan International Airport (BOS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365029104928"
+          ],
+          "longitude": [
+            "-71.017713622132"
+          ]
+        },
+        "value": "Boston Logan International Airport (BOS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Boston Logan International Airport (BOS)"
+          ],
+          "latitude": [
+            "42.365029104928"
+          ],
+          "longitude": [
+            "-71.017713622132"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Boarding!</p>",
+        "value": "Boarding!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-boston-logan-international-airport-bos-1"
+    ],
+    "published": [
+      "2017-05-12T21:48:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Boston Logan International Airport (BOS)! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Boston Logan International Airport (BOS)! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Boston Logan International Airport (BOS)! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f3cec3dd802f926eb2591c8ab6207e56"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59162d999be522383aa83bbb/f84f7cd2dcee573f6519295cf53497b7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59162d999be522383aa83bbb/f84f7cd2dcee573f6519295cf53497b7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59162d999be522383aa83bbb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "aa5efb85150d84cadbd460c989d0a45b"
+    ]
+  }
+}

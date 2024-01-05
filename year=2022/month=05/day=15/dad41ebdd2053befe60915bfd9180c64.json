@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Fix"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fix"
+          ],
+          "latitude": [
+            "33.719921"
+          ],
+          "longitude": [
+            "-116.380862"
+          ]
+        },
+        "value": "Fix"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fix"
+          ],
+          "latitude": [
+            "33.719921"
+          ],
+          "longitude": [
+            "-116.380862"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-fix"
+    ],
+    "published": [
+      "2022-05-15T19:30:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Caf\u00e9 check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Caf\u00e9 check-in in 2 months!</p>",
+              "value": "First Caf\u00e9 check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/628154ec4893595b84249889/134585a3fd02b8f8cb9f1fbc99eab49c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/628154ec4893595b84249889/134585a3fd02b8f8cb9f1fbc99eab49c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/628154ec4893595b84249889"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "dad41ebdd2053befe60915bfd9180c64"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-05-15T19:30:39Z",
+      "year": 2022,
+      "month": 5,
+      "day": 15,
+      "hour": 19,
+      "minute": 30,
+      "x": -116.38084458501518,
+      "y": 33.719862510551074,
+      "altitude": 74,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": ""
+    }
+  }
+}

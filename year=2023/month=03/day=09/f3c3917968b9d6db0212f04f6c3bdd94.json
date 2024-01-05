@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/369-18-hour-bombing-mission-with-marco-arment"
+    ],
+    "published": [
+      "2023-03-09T09:14:01+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f3c3917968b9d6db0212f04f6c3bdd94"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-09T02:03:56Z",
+      "year": 2023,
+      "month": 3,
+      "day": 9,
+      "hour": 2,
+      "minute": 3,
+      "x": -122.33892447099888,
+      "y": 47.615940407854886,
+      "altitude": 34,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 369: \u201818-Hour Bombing Mission\u2019, With Marco Arment"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/62d8c120a01cefbc05a12ba4eb891e45/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCbbrM4"
+        ],
+        "content": [
+          {
+            "html": "<p>369: \u201818-Hour Bombing Mission\u2019, With Marco Arment</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "369: \u201818-Hour Bombing Mission\u2019, With Marco Arment\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

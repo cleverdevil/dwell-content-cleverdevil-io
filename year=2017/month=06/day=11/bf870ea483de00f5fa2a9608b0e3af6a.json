@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Mulligan Family Fun Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mulligan Family Fun Center"
+          ],
+          "latitude": [
+            "33.8158391"
+          ],
+          "longitude": [
+            "-118.3014086"
+          ]
+        },
+        "value": "Mulligan Family Fun Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mulligan Family Fun Center"
+          ],
+          "latitude": [
+            "33.8158391"
+          ],
+          "longitude": [
+            "-118.3014086"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Family fun before my trip!</p>",
+        "value": "Family fun before my trip!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-mulligan-family-fun-center"
+    ],
+    "published": [
+      "2017-06-11T22:50:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first Theme Park."
+          ],
+          "content": [
+            {
+              "html": "<p>Your first Theme Park.</p>",
+              "value": "Your first Theme Park."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/49f6ea31c6d61492bf4b382b491f0176"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/593dc90bdec1d604ebb852c2/a0b033b75f0697c27bc9f46f7df7fcda"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/593dc90bdec1d604ebb852c2/a0b033b75f0697c27bc9f46f7df7fcda"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/593dc90bdec1d604ebb852c2"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "bf870ea483de00f5fa2a9608b0e3af6a"
+    ]
+  }
+}

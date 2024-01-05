@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into La Galer\u00eda"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Galer\u00eda"
+          ],
+          "latitude": [
+            "23.046822860017"
+          ],
+          "longitude": [
+            "-109.69581094987"
+          ]
+        },
+        "value": "La Galer\u00eda"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Galer\u00eda"
+          ],
+          "latitude": [
+            "23.046822860017"
+          ],
+          "longitude": [
+            "-109.69581094987"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-la-galer%C3%ADa"
+    ],
+    "published": [
+      "2019-10-17T00:40:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Mexican Restaurant check-in in 2 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Mexican Restaurant check-in in 2 months!</p>",
+              "value": "First Mexican Restaurant check-in in 2 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5da7b893a48ed80007fb3f48/7032cd9c1d78974372fd434f05d2caf2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5da7b893a48ed80007fb3f48/7032cd9c1d78974372fd434f05d2caf2"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Humid and Partly Cloudy with a temperature of 85.07\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Humid and Partly Cloudy with a temperature of 85.07\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Humid and Partly Cloudy with a temperature of 85.07\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-la-galer%C3%ADa/annotations/fe69b03d9164382d0b72b73830b763df"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-la-galer%C3%ADa/annotations/fe69b03d9164382d0b72b73830b763df"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5da7b893a48ed80007fb3f48"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "89fc5362cb7b4eda5a50f2803391df0c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-17T00:36:05Z",
+      "year": 2019,
+      "month": 10,
+      "day": 17,
+      "hour": 0,
+      "minute": 36,
+      "x": -109.69495615833738,
+      "y": 23.047110984934157,
+      "altitude": 17,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": ""
+    }
+  }
+}

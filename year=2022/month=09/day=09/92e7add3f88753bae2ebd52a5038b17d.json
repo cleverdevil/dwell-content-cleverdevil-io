@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/499-living-is-pretty-important-to-me"
+    ],
+    "published": [
+      "2022-09-09T02:28:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "92e7add3f88753bae2ebd52a5038b17d"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-09T04:03:43Z",
+      "year": 2022,
+      "month": 9,
+      "day": 9,
+      "hour": 4,
+      "minute": 3,
+      "x": -116.38035697873343,
+      "y": 33.70171017947959,
+      "altitude": 128,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 499: Living Is Pretty Important to Me"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/aa561ae6f76d5444e38a4c01484ec6a2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUKcJCdk"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple Watch Ultra and Series 8, iPhone 14 and 14 Pro, the second-generation AirPods Pro, and executives standing on mountains.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple Watch Ultra and Series 8, iPhone 14 and 14 Pro, the second-generation AirPods Pro, and executives standing on mountains.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

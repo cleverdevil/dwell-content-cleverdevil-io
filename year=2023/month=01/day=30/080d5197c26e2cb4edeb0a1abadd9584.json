@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/367-slow-moving-hurricane-with-craig-hockenberry"
+    ],
+    "published": [
+      "2023-01-30T17:16:31+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "080d5197c26e2cb4edeb0a1abadd9584"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-01-30T20:01:14Z",
+      "year": 2023,
+      "month": 1,
+      "day": 30,
+      "hour": 20,
+      "minute": 1,
+      "x": -118.37035719645363,
+      "y": 33.81545424936514,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 367: \u2018Slow-Moving Hurricane\u2019, With Craig Hockenberry"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a24fee39d8a75a4a99a4aca08ddccb9c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7ND0zcCY"
+        ],
+        "content": [
+          {
+            "html": "<p>367: \u2018Slow-Moving Hurricane\u2019, With Craig Hockenberry</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "367: \u2018Slow-Moving Hurricane\u2019, With Craig Hockenberry\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

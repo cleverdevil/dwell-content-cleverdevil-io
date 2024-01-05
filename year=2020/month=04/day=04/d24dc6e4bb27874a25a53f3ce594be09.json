@@ -1,0 +1,842 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Hey, Siri... Don't Bother Daddy!"
+    ],
+    "content": [
+      {
+        "html": "<p>In the new world, where many of us are working 100% from home, it can be really difficult to find quiet and focus. Distractions abound, especially if you have kids. As <a href=\"https://cleverdevil.io/2020/im-in-the-market-for-a-battery-powered\">I mentioned yesterday</a>, closed office doors don't seem to get the message across to my children, so I thought it would be great if I could have a digital sign on my offce door. Well, I made it happen.</p><p><iframe frameborder=\"0\" height=\"360\" src=\"https://player.vimeo.com/video/403897758\" width=\"640\"></iframe></p><p>I'm really happy with how it turned out! How did I do it? It was pretty simple, really. I had a really old Amazon Fire tablet that hasn't been used in years, as the kids have both transitioned over to iPads. So, I charged it up, installed a \"full screen browser\" app and a hack that lets you keep the screen awake perpetually. Then, I wrote a quick web service to track state, and hooked it into HomeKit and Siri using <a href=\"https://homebridge.io\">Homebridge</a> and <a href=\"https://github.com/Supereg/homebridge-http-switch\">this excellent plugin</a>.</p><p>Tada! Now I can toggle the state of the sign using just my voice, or with automations. I can even automatically flip the status to \"Don't Bother Daddy\" when my calendar shows that I am scheduled for a meeting.</p><p><em>Update: the <a href=\"https://github.com/cleverdevil/daddyboard\">source code is available</a> for the web service.</em></p>",
+        "value": "In the new world, where many of us are working 100% from home, it can be really difficult to find quiet and focus. Distractions abound, especially if you have kids. As I mentioned yesterday, closed office doors don't seem to get the message across to my children, so I thought it would be great if I could have a digital sign on my offce door. Well, I made it happen.\nI'm really happy with how it turned out! How did I do it? It was pretty simple, really. I had a really old Amazon Fire tablet that hasn't been used in years, as the kids have both transitioned over to iPads. So, I charged it up, installed a \"full screen browser\" app and a hack that lets you keep the screen awake perpetually. Then, I wrote a quick web service to track state, and hooked it into HomeKit and Siri using Homebridge and this excellent plugin.\nTada! Now I can toggle the state of the sign using just my voice, or with automations. I can even automatically flip the status to \"Don't Bother Daddy\" when my calendar shows that I am scheduled for a meeting.\nUpdate: the source code is available for the web service."
+      }
+    ],
+    "url": [
+      "/2020/hey-siri-dont-bother-daddy"
+    ],
+    "published": [
+      "2020-04-04T00:52:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.54\u00b0F and 73% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.54\u00b0F and 73% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.54\u00b0F and 73% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/hey-siri-dont-bother-daddy/annotations/490944702fb69d219a638f5bdfa88ec7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/hey-siri-dont-bother-daddy/annotations/490944702fb69d219a638f5bdfa88ec7"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil That seems pretty useful. I happen to have an old Kindle Fire that never really worked like it was supposed to..."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil That seems pretty useful. I happen to have an old Kindle Fire that never really worked like it was supposed to...</p>",
+              "value": "@cleverdevil That seems pretty useful. I happen to have an old Kindle Fire that never really worked like it was supposed to..."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci81MjNmYjU1ZjFmNGM4M2U2MTRhNTYyYjU4YWE0YWYxZD9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "frostedechoes"
+                ],
+                "url": [
+                  "https://micro.blog/frostedechoes"
+                ]
+              },
+              "value": "frostedechoes"
+            }
+          ],
+          "url": [
+            "https://micro.blog/frostedechoes/9200304"
+          ]
+        },
+        "value": "https://micro.blog/frostedechoes/9200304"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1246239291807797248"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "d24dc6e4bb27874a25a53f3ce594be09"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F418213412"
+          ],
+          "published": [
+            "2020-04-04T12:49:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Rosemary Orchard"
+                ],
+                "url": [
+                  "https://twitter.com/RosemaryOrchard"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMTM3NzkwMjk4MTQ2NjExMjIvNDBUcklGTFkuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwMTM3NzkwMjk4MTQ2NjExMjIvNDBUcklGTFkuanBn/300/square Rosemary Orchard"
+            }
+          ]
+        },
+        "value": "Rosemary Orchard"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F76772442"
+          ],
+          "published": [
+            "2020-04-04T12:49:14+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johannes Ernst"
+                ],
+                "url": [
+                  "https://twitter.com/Johannes_Ernst"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzQ2MjMzNTIwOTAxNTIzODY1Ni9pZTBjUmpkeC5qcGVn/300/square Johannes Ernst"
+            }
+          ]
+        },
+        "value": "Johannes Ernst"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F15699553"
+          ],
+          "published": [
+            "2020-04-04T14:02:57+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jeff"
+                ],
+                "url": [
+                  "https://twitter.com/Darchmare"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjU2OTMwMDEwNDc5NTc1MDQvOHZQWXVHMVguanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNjU2OTMwMDEwNDc5NTc1MDQvOHZQWXVHMVguanBn/300/square Jeff"
+            }
+          ]
+        },
+        "value": "Jeff"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2020/04/04/hey-siri-dont-bother-daddy"
+          ],
+          "published": [
+            "2020-04-04T18:19:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS83MWQ5ZTQ0MDhjY2Y1NTBlYjc0YzViZGFhNmIxZjliNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F24112411"
+          ],
+          "published": [
+            "2020-04-05T14:25:41+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "David Sheneman \uf8ff"
+                ],
+                "url": [
+                  "https://twitter.com/tvwonder"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMzEzNjQ4NDUzNjkxNDMzMDAvX2NkOVlJbDQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMzEzNjQ4NDUzNjkxNDMzMDAvX2NkOVlJbDQuanBn/300/square David Sheneman \uf8ff"
+            }
+          ]
+        },
+        "value": "David Sheneman \uf8ff"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F194251872"
+          ],
+          "published": [
+            "2020-04-05T14:26:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eoin Doherty"
+                ],
+                "url": [
+                  "https://twitter.com/gristlebritches"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTIxMDc5NTAvZ29yaWxsYS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTIxMDc5NTAvZ29yaWxsYS5qcGc,/300/square Eoin Doherty"
+            }
+          ]
+        },
+        "value": "Eoin Doherty"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F14368763"
+          ],
+          "published": [
+            "2020-04-05T14:26:38+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ari Kontiainen"
+                ],
+                "url": [
+                  "https://twitter.com/kontiainen"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2MTEyMDI1NjIyMzQ1MzE4NC9RbFV1LUFUMi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2MTEyMDI1NjIyMzQ1MzE4NC9RbFV1LUFUMi5qcGc,/300/square Ari Kontiainen"
+            }
+          ]
+        },
+        "value": "Ari Kontiainen"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1246239291807797248?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1246239291807797248%2F20002525"
+          ],
+          "published": [
+            "2020-04-05T14:27:06+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andres"
+                ],
+                "url": [
+                  "https://twitter.com/andveg38"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0OTI3NTMxMDY4NDY0NzQyNS90YXMySWxCMy5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0OTI3NTMxMDY4NDY0NzQyNS90YXMySWxCMy5qcGc,/300/square Andres"
+            }
+          ]
+        },
+        "value": "Andres"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1247715364177403904?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1247715364177403904%2F18119839"
+          ],
+          "published": [
+            "2020-04-08T03:42:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Casey Liss"
+                ],
+                "url": [
+                  "https://twitter.com/caseyliss"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwODA2NDEwNjU1Nzk5Mzc3OTMvVVktaEpoMUouanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwODA2NDEwNjU1Nzk5Mzc3OTMvVVktaEpoMUouanBn/300/square Casey Liss"
+            }
+          ]
+        },
+        "value": "Casey Liss"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F63819362"
+          ],
+          "published": [
+            "2020-10-07T03:05:34+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "VM (Vicky) Brasseur"
+                ],
+                "url": [
+                  "https://twitter.com/vmbrasseur"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzYxNDk1NDQ1ODM2Mzk5ODIwOC94aXdxN0I1YS5wbmc,/300/square VM (Vicky) Brasseur"
+            }
+          ]
+        },
+        "value": "VM (Vicky) Brasseur"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F20292370"
+          ],
+          "published": [
+            "2020-10-07T04:51:07+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "John Ritsema"
+                ],
+                "url": [
+                  "https://twitter.com/jritsema"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0MTY4MjM2NzY1NzA1NDIwOC9zODFIdXVOZS5qcGc,/300/square John Ritsema"
+            }
+          ]
+        },
+        "value": "John Ritsema"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F36411940"
+          ],
+          "published": [
+            "2020-10-07T05:51:24+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Simon B. St\u00f8vring"
+                ],
+                "url": [
+                  "https://twitter.com/simonbs"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk1MTA5NDMxMzgyNzU2NTU2OC96MFlQU2c0ay5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk1MTA5NDMxMzgyNzU2NTU2OC96MFlQU2c0ay5qcGc,/300/square Simon B. St\u00f8vring"
+            }
+          ]
+        },
+        "value": "Simon B. St\u00f8vring"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F383277065"
+          ],
+          "published": [
+            "2020-10-07T05:50:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Sol"
+                ],
+                "url": [
+                  "https://twitter.com/Somkanel"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTU1NTI2MDk5NDUxMjg5NjEvZG1keTJ1RTQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyMTU1NTI2MDk5NDUxMjg5NjEvZG1keTJ1RTQuanBn/300/square Sol"
+            }
+          ]
+        },
+        "value": "Sol"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F1004086139400151041"
+          ],
+          "published": [
+            "2020-10-07T05:51:33+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "\ud83c\udf3a"
+                ],
+                "url": [
+                  "https://twitter.com/destroystokyo"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyOTcyODc2OTI3OTYwMjI3ODkvemV5T2x1UjUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyOTcyODc2OTI3OTYwMjI3ODkvemV5T2x1UjUuanBn/300/square \ud83c\udf3a"
+            }
+          ]
+        },
+        "value": "\ud83c\udf3a"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F2198716434"
+          ],
+          "published": [
+            "2020-10-07T07:05:06+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "leo"
+                ],
+                "url": [
+                  "https://twitter.com/_evilmatrix_"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyNTE4Mzk0NTA4MjY0NjExODUvb1ZNdk9kYXYuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyNTE4Mzk0NTA4MjY0NjExODUvb1ZNdk9kYXYuanBn/300/square leo"
+            }
+          ]
+        },
+        "value": "leo"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F107558206"
+          ],
+          "published": [
+            "2020-10-07T07:52:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Miguel A.Gras"
+                ],
+                "url": [
+                  "https://twitter.com/miguelangelgras"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMTgyNjEzMjgvZ3Jhc21pZy5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMTgyNjEzMjgvZ3Jhc21pZy5qcGc,/300/square Miguel A.Gras"
+            }
+          ]
+        },
+        "value": "Miguel A.Gras"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F601296332"
+          ],
+          "published": [
+            "2020-10-07T11:05:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nick \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83c\udfb5\ud83d\udc7b\ud83c\udf83"
+                ],
+                "url": [
+                  "https://twitter.com/link9313"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMTE4MDc0MzYxMzU4NDU4ODkvZmVfQmVtQUcuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzMTE4MDc0MzYxMzU4NDU4ODkvZmVfQmVtQUcuanBn/300/square Nick \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83c\udfb5\ud83d\udc7b\ud83c\udf83"
+            }
+          ]
+        },
+        "value": "Nick \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83c\udfb5\ud83d\udc7b\ud83c\udf83"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F9399882"
+          ],
+          "published": [
+            "2020-10-07T12:40:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Josh Boles"
+                ],
+                "url": [
+                  "https://twitter.com/joshboles"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyODE1NjExODcwNzE3ODcwMDkvMFo5UV9QeXAuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEyODE1NjExODcwNzE3ODcwMDkvMFo5UV9QeXAuanBn/300/square Josh Boles"
+            }
+          ]
+        },
+        "value": "Josh Boles"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F14505663"
+          ],
+          "published": [
+            "2020-10-07T15:27:05+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Richard Liriano"
+                ],
+                "url": [
+                  "https://twitter.com/rliriano"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0ODIwNDg2MzYyMTQ3NjM1My9YeTVOMDZEaC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzY0ODIwNDg2MzYyMTQ3NjM1My9YeTVOMDZEaC5qcGc,/300/square Richard Liriano"
+            }
+          ]
+        },
+        "value": "Richard Liriano"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F30455905"
+          ],
+          "published": [
+            "2020-10-07T20:28:20+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Jared Windridge"
+                ],
+                "url": [
+                  "https://twitter.com/jaredwindridge"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExNTc0ODYyOTQwMDU1MzQ3MjAvVVRnU0V6ZmMuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExNTc0ODYyOTQwMDU1MzQ3MjAvVVRnU0V6ZmMuanBn/300/square Jared Windridge"
+            }
+          ]
+        },
+        "value": "Jared Windridge"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1313669377263198209?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1313669377263198209%2F884806466"
+          ],
+          "published": [
+            "2020-10-07T20:44:30+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Nathan Crowther"
+                ],
+                "url": [
+                  "https://twitter.com/Crowther223"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzczMTMyMTUxNjU3NTQ0NDk5Mi9XVWR2MnFHQi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzczMTMyMTUxNjU3NTQ0NDk5Mi9XVWR2MnFHQi5qcGc,/300/square Nathan Crowther"
+            }
+          ]
+        },
+        "value": "Nathan Crowther"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-04T00:40:23Z",
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "hour": 0,
+      "minute": 40,
+      "x": -118.37038503954278,
+      "y": 33.81538555062031,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

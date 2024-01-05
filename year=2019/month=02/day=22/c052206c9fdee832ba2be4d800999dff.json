@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Watched Top Chef 16x12 \"Episode 12\""
+    ],
+    "item": [
+      {
+        "type": [
+          "h-product"
+        ],
+        "properties": {
+          "photo": [
+            "https://cleverdevil.io/file/c3089f9c081361040d3b2f5e63abe44f/thumb.jpg"
+          ],
+          "name": [
+            "Top Chef 16x12 \"Episode 12\""
+          ],
+          "url": [
+            "https://trakt.tv/episodes/3354859"
+          ]
+        },
+        "value": "Top Chef 16x12 \"Episode 12\""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Top Chef 16x12 \"Episode 12\"</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">Watched on Trakt</p>",
+        "value": "Top Chef 16x12 \"Episode 12\"\nWatched on Trakt"
+      }
+    ],
+    "url": [
+      "/2019/top-chef-16x12-episode-12"
+    ],
+    "published": [
+      "2019-02-22T06:15:02+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 46.04\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 46.04\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 46.04\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/top-chef-16x12-episode-12/annotations/c61d84d11afab3d05ac43ed7429d57fc"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/top-chef-16x12-episode-12/annotations/c61d84d11afab3d05ac43ed7429d57fc"
+      }
+    ],
+    "post-kind": [
+      "Watching"
+    ],
+    "post-id": [
+      "c052206c9fdee832ba2be4d800999dff"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-22T06:01:05Z",
+      "year": 2019,
+      "month": 2,
+      "day": 22,
+      "hour": 6,
+      "minute": 1,
+      "x": -118.37030934343882,
+      "y": 33.81538338848498,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8700000047683716,
+      "wifi": "LaCour"
+    }
+  }
+}

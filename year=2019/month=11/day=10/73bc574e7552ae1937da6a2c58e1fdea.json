@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "logo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ],
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "play-of": [
+      "Played Captain Toad: Treasure Tracker\nPlayed on the Nintendo Switch.\nPlayed for 75 minutes.\n Jonathan LaCour"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/d7590954e854494e495da61d80e9c658/thumb.jpg"
+    ],
+    "name": [
+      "Captain Toad: Treasure Tracker"
+    ],
+    "content": [
+      {
+        "html": "<p>Played on the Nintendo Switch.</p>\n        \n                <p class=\"play-duration\">Played for 75 minutes.</p>",
+        "value": "Played on the Nintendo Switch.\nPlayed for 75 minutes."
+      }
+    ],
+    "url": [
+      "/2019/captain-toad-treasure-tracker-18"
+    ],
+    "published": [
+      "2019-11-10T07:30:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 60.28\u00b0F and 83% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 60.28\u00b0F and 83% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 60.28\u00b0F and 83% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/captain-toad-treasure-tracker-18/annotations/ec01b701208cfe38cc20eab47b4a4aee"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/captain-toad-treasure-tracker-18/annotations/ec01b701208cfe38cc20eab47b4a4aee"
+      }
+    ],
+    "post-kind": [
+      "Play"
+    ],
+    "post-id": [
+      "73bc574e7552ae1937da6a2c58e1fdea"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-11-10T08:04:06Z",
+      "year": 2019,
+      "month": 11,
+      "day": 10,
+      "hour": 8,
+      "minute": 4,
+      "x": -118.37058113809437,
+      "y": 33.815274977584195,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.5699999928474426,
+      "wifi": "LaCour"
+    }
+  }
+}

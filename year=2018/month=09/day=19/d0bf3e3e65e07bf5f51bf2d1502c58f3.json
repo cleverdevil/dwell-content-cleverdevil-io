@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Bettolino Kitchen"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bettolino Kitchen"
+          ],
+          "latitude": [
+            "33.816796010258"
+          ],
+          "longitude": [
+            "-118.38552670158"
+          ]
+        },
+        "value": "Bettolino Kitchen"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bettolino Kitchen"
+          ],
+          "latitude": [
+            "33.816796010258"
+          ],
+          "longitude": [
+            "-118.38552670158"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night</p>",
+        "value": "Date night"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-bettolino-kitchen-1"
+    ],
+    "published": [
+      "2018-09-19T01:41:26+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 40 check-ins at Italian Restaurants!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 40 check-ins at Italian Restaurants!</p>",
+              "value": "Wow! That's 40 check-ins at Italian Restaurants!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba1a94686f4cc002cbf4247/17954656facb1c9b233d91d2eebc2abf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba1a94686f4cc002cbf4247/17954656facb1c9b233d91d2eebc2abf"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Italian Restaurant check-in in 5 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Italian Restaurant check-in in 5 months!</p>",
+              "value": "First Italian Restaurant check-in in 5 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ba1a94686f4cc002cbf4247/dcdda4f018a4b6c85d6603ab61e324e2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ba1a94686f4cc002cbf4247/dcdda4f018a4b6c85d6603ab61e324e2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ba1a94686f4cc002cbf4247"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d0bf3e3e65e07bf5f51bf2d1502c58f3"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/09/20/9/like/"
+          ],
+          "published": [
+            "2018-09-20T21:39:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

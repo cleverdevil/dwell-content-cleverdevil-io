@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Urban Cookhouse"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Urban Cookhouse"
+          ],
+          "latitude": [
+            "33.879814581907"
+          ],
+          "longitude": [
+            "-84.380937902943"
+          ]
+        },
+        "value": "Urban Cookhouse"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Urban Cookhouse"
+          ],
+          "latitude": [
+            "33.879814581907"
+          ],
+          "longitude": [
+            "-84.380937902943"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Urban Cookhouse\" src=\"https://cleverdevil.io/file/63caf61811100c90634303fb3e10bd52\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Last dinner in Atlanta.</p>",
+        "value": "Urban Cookhouse\nLast dinner in Atlanta."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-urban-cookhouse"
+    ],
+    "published": [
+      "2017-08-21T23:57:25+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "No filters needed for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>No filters needed for that photo.</p>",
+              "value": "No filters needed for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f06cc4ebd31da179875aad6c1930a633"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/fb2a961c61117b1a3a17fa5ac170c281"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/fb2a961c61117b1a3a17fa5ac170c281"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6327815c3b979e1fdd7ded751533bf54"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/5e7d16b41392930f8c314f4ac8a73024"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/5e7d16b41392930f8c314f4ac8a73024"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Urban Cookhouse!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Urban Cookhouse!</p>",
+              "value": "Your first check-in at Urban Cookhouse!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6552723a82ccc96332ffe0c541839838"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/d048e9a3e3ceecfc40d4ddcaee6522fa"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599b7354345cbe0f76b19bcb/d048e9a3e3ceecfc40d4ddcaee6522fa"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599b7354345cbe0f76b19bcb"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4cc3d409530e41a5428fd38b5a752c63"
+    ]
+  }
+}

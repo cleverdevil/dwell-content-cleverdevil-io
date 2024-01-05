@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/330-a-rotation-you-cant-complete"
+    ],
+    "published": [
+      "2019-06-18T20:05:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.13\u00b0F and 86% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.13\u00b0F and 86% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Humid and Mostly Cloudy with a temperature of 79.13\u00b0F and 86% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/330-a-rotation-you-cant-complete/annotations/0faddbbe58a82742140506dc8be41fba"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/330-a-rotation-you-cant-complete/annotations/0faddbbe58a82742140506dc8be41fba"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1000418419890dbe8d897114a5b8b1b1"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-19T00:01:37Z",
+      "year": 2019,
+      "month": 6,
+      "day": 19,
+      "hour": 0,
+      "minute": 1,
+      "x": -81.65208485123851,
+      "y": 28.360594483140964,
+      "altitude": 38,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.699999988079071,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 330: A Rotation You Can\u2019t Complete"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8c7db387073de9a23e9889c7bfedee4b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DXCA8C4"
+        ],
+        "content": [
+          {
+            "html": "<p>Catalina under the hood, John\u2019s new \u201capp\u201d, and why Casey is getting a Mac Pro.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Catalina under the hood, John\u2019s new \u201capp\u201d, and why Casey is getting a Mac Pro.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

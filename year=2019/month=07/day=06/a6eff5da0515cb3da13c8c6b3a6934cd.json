@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "After a conversation over drinks at IndieWeb Summit, I am re-reading Y: The Last Man, and have realized that I never finished the entire series the first time around. Such a great graphic novel! /cc @atmlutter"
+    ],
+    "content": [
+      {
+        "html": "After a conversation over drinks at IndieWeb Summit, I am re-reading Y: The Last Man, and have realized that I never finished the entire series the first time around. Such a great graphic novel! /cc @atmlutter",
+        "value": "After a conversation over drinks at IndieWeb Summit, I am re-reading Y: The Last Man, and have realized that I never finished the entire series the first time around. Such a great graphic novel! /cc @atmlutter"
+      }
+    ],
+    "url": [
+      "/2019/after-a-conversation-over-drinks-at-indieweb"
+    ],
+    "published": [
+      "2019-07-06T17:26:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 64.74\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 64.74\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 64.74\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/after-a-conversation-over-drinks-at-indieweb/annotations/77902dde8592987a8921767289867ca6"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/after-a-conversation-over-drinks-at-indieweb/annotations/77902dde8592987a8921767289867ca6"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1147557519415566337",
+      "https://mastodon.social/@cleverdevil/102395675201329904"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "a6eff5da0515cb3da13c8c6b3a6934cd"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1147557519415566337?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1147557519415566337%2F2894350107"
+          ],
+          "published": [
+            "2019-07-09T21:34:01+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ariana Lutterman"
+                ],
+                "url": [
+                  "https://twitter.com/atmlutter"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk3OTgyMDA4NTgyODM3NDUyOC9VNVhvU2pYVC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzk3OTgyMDA4NTgyODM3NDUyOC9VNVhvU2pYVC5qcGc,/300/square Ariana Lutterman"
+            }
+          ]
+        },
+        "value": "Ariana Lutterman"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-06T17:23:59Z",
+      "year": 2019,
+      "month": 7,
+      "day": 6,
+      "hour": 17,
+      "minute": 23,
+      "x": -118.37035413765113,
+      "y": 33.815513529720796,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7400000095367432,
+      "wifi": "LaCour"
+    }
+  }
+}

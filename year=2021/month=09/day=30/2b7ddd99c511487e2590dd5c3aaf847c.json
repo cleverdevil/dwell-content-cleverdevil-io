@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/365-sorry-im-plastic"
+    ],
+    "published": [
+      "2021-09-30T15:08:38+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2b7ddd99c511487e2590dd5c3aaf847c"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-30T16:03:39Z",
+      "year": 2021,
+      "month": 9,
+      "day": 30,
+      "hour": 16,
+      "minute": 3,
+      "x": -118.37034008704083,
+      "y": 33.815376043368985,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 365: Sorry, I\u2019m Plastic"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/2040efb78f2f9ce79c20fb32987d1cfb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5en9JY"
+        ],
+        "content": [
+          {
+            "html": "<p>The guys all have new iPhones and talk about their migration experiences and initial impressions of the new devices. Then, Myke and Stephen tell Federico what he already knew \u2014 that the new iPad mini is fantastic.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "The guys all have new iPhones and talk about their migration experiences and initial impressions of the new devices. Then, Myke and Stephen tell Federico what he already knew \u2014 that the new iPad mini is fantastic.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

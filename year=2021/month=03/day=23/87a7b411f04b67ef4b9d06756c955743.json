@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/344-lets-call-it-motorcycle"
+    ],
+    "published": [
+      "2021-03-23T16:07:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "87a7b411f04b67ef4b9d06756c955743"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-23T19:48:20Z",
+      "year": 2021,
+      "month": 3,
+      "day": 23,
+      "hour": 19,
+      "minute": 48,
+      "x": -118.37038544197058,
+      "y": 33.81539662148941,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 344: Let\u2019s Call It \u2018Motorcycle\u2019"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c63917b5a2980da850450b120f7de1dd/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_raF6o"
+        ],
+        "content": [
+          {
+            "html": "<p>The future of the iPad Pro, the end of the 21.5-inch iMac, what the HomePod mini means for Apple\u2019s home strategy, and Jason explains the NFL.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "The future of the iPad Pro, the end of the 21.5-inch iMac, what the HomePod mini means for Apple\u2019s home strategy, and Jason explains the NFL.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

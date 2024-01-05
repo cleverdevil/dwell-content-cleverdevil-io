@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sheraton Boston Hotel"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": "Sheraton Boston Hotel"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Boston Hotel"
+          ],
+          "latitude": [
+            "42.346396080374"
+          ],
+          "longitude": [
+            "-71.084268935148"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-sheraton-boston-hotel-3"
+    ],
+    "published": [
+      "2017-05-12T00:16:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A snail can sleep for 3 years. Jealous?"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A snail can sleep for 3 years. Jealous?</p>",
+              "value": "Fun Fact! A snail can sleep for 3 years. Jealous?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d8b5d0b869b7825feeeac38dcc320ecf"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5914febcacb00b5368e11b61/4e258c427f36abcdb3b3c0ff8d9ec99b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5914febcacb00b5368e11b61/4e258c427f36abcdb3b3c0ff8d9ec99b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5914febcacb00b5368e11b61"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d979586d6ddea5c6b038224ef5951ef9"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/502-going-retina-again"
+    ],
+    "published": [
+      "2022-10-03T22:46:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "da1c208b24b5564c72fec8050f772e11"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-04T00:02:20Z",
+      "year": 2022,
+      "month": 10,
+      "day": 4,
+      "hour": 0,
+      "minute": 2,
+      "x": -122.38367545991541,
+      "y": 37.615298812002074,
+      "altitude": 4,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.75,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 502: Going Retina Again"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/14ac7ac085eb16287bd39a6dad5045fc/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJTXGQk"
+        ],
+        "content": [
+          {
+            "html": "<p>Now that Casey\u2019s running servers, it\u2019s time for the rest of us to start looking for the exits.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Now that Casey\u2019s running servers, it\u2019s time for the rest of us to start looking for the exits.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

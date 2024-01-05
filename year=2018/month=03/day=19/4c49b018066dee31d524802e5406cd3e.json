@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into El Camp"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Camp"
+          ],
+          "latitude": [
+            "33.904871800728"
+          ],
+          "longitude": [
+            "-118.38552999978"
+          ]
+        },
+        "value": "El Camp"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "El Camp"
+          ],
+          "latitude": [
+            "33.904871800728"
+          ],
+          "longitude": [
+            "-118.38552999978"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Inaugural South Bay AWS meetup!</p>",
+        "value": "Inaugural South Bay AWS meetup!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-el-camp-1"
+    ],
+    "published": [
+      "2018-03-19T23:53:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Bats always turn left when exiting a cave. A word to the wise, never ask a bat for directions."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Bats always turn left when exiting a cave. A word to the wise, never ask a bat for directions.</p>",
+              "value": "Fun Fact! Bats always turn left when exiting a cave. A word to the wise, never ask a bat for directions."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fYnVsYi5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ab04d6eb5461827bc6b99b5/83037f6ac8e23ab9d678f0e94fb9b3b5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ab04d6eb5461827bc6b99b5/83037f6ac8e23ab9d678f0e94fb9b3b5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 3 weeks since you last checked in here!"
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 3 weeks since you last checked in here!</p>",
+              "value": "Welcome back! It's been 3 weeks since you last checked in here!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5ab04d6eb5461827bc6b99b5/8edea7d52f1e1d56e635a3dcff954dcc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5ab04d6eb5461827bc6b99b5/8edea7d52f1e1d56e635a3dcff954dcc"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5ab04d6eb5461827bc6b99b5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "4c49b018066dee31d524802e5406cd3e"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/493-downstairs-downstairs"
+    ],
+    "published": [
+      "2022-07-31T22:27:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "28bc71bba5af76e605c5654be63cef3e"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-31T19:57:07Z",
+      "year": 2022,
+      "month": 7,
+      "day": 31,
+      "hour": 19,
+      "minute": 57,
+      "x": -116.38040147676635,
+      "y": 33.701656337095855,
+      "altitude": 131,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 493: Downstairs Downstairs"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/259629c843e691431e0cea455a5ede87/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUK5pB9Q"
+        ],
+        "content": [
+          {
+            "html": "<p>A lot has happened since we last recorded.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "A lot has happened since we last recorded.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

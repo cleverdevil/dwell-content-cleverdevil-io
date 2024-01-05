@@ -1,0 +1,110 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://aaronparecki.com/2019/04/24/25"
+    ],
+    "name": [
+      "I saw that one, but its super spendy. I saw that Anker has announced an Atom PD2 that will ship in a month or so, has two ports, is 60W, and will cost $55. Nice!"
+    ],
+    "content": [
+      {
+        "html": "I saw that one, but its super spendy. I saw that Anker has announced an Atom PD2 that will ship in a month or so, has two ports, is 60W, and will cost $55. Nice!",
+        "value": "I saw that one, but its super spendy. I saw that Anker has announced an Atom PD2 that will ship in a month or so, has two ports, is 60W, and will cost $55. Nice!"
+      }
+    ],
+    "url": [
+      "/2019/i-saw-that-one-but-its-super"
+    ],
+    "published": [
+      "2019-04-24T23:03:07+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 66.67\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 66.67\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 66.67\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/i-saw-that-one-but-its-super/annotations/79d1d91f2d8638047f9dbc85f9518426"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/i-saw-that-one-but-its-super/annotations/79d1d91f2d8638047f9dbc85f9518426"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "c71ca30dd0701128da1ba829fdd2375f"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-24T23:02:21Z",
+      "year": 2019,
+      "month": 4,
+      "day": 24,
+      "hour": 23,
+      "minute": 2,
+      "x": -118.39493805264226,
+      "y": 33.91973258035525,
+      "altitude": 32,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  }
+}

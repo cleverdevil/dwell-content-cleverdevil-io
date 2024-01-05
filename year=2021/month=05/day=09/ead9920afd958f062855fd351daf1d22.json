@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/18-the-google-graveyard-draft"
+    ],
+    "published": [
+      "2021-05-09T05:18:10+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ead9920afd958f062855fd351daf1d22"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-09T05:15:31Z",
+      "year": 2021,
+      "month": 5,
+      "day": 9,
+      "hour": 5,
+      "minute": 15,
+      "x": -84.37313724541954,
+      "y": 33.885873353681276,
+      "altitude": 286,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": "LaMaison"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 18: The Google Graveyard Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/d2df5ea9fc0d5b8deeb9e2d255b407b5/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Xn2zfUpt4"
+        ],
+        "content": [
+          {
+            "html": "<p>Google has a knack for shutting down products. This episode, Stephen and Quinn talk about a handful of them.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Flashback</p>",
+            "value": "Google has a knack for shutting down products. This episode, Stephen and Quinn talk about a handful of them.\nBy Flashback"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

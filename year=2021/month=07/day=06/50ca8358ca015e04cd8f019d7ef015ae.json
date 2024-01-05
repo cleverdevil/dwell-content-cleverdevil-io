@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/437-the-right-side-of-the-mouse-pad"
+    ],
+    "published": [
+      "2021-07-06T00:20:13+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "50ca8358ca015e04cd8f019d7ef015ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-07-06T04:00:32Z",
+      "year": 2021,
+      "month": 7,
+      "day": 6,
+      "hour": 4,
+      "minute": 0,
+      "x": -119.75238565672541,
+      "y": 34.45395475283989,
+      "altitude": 99,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9100000262260437,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 437: The Right Side of the Mouse Pad"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/c89fe9cc62bf82fce6874554b828e124/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJBbe8o"
+        ],
+        "content": [
+          {
+            "html": "<p>Anti-skip CD players, mouse traction, outlet timers, BitBar, and other ancient technologies.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Anti-skip CD players, mouse traction, outlet timers, BitBar, and other ancient technologies.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

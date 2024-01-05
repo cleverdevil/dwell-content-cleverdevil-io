@@ -1,0 +1,149 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Another #WWDC question: can fonts be installed in iOS and iPadOS from traditional TTF/OTF files?"
+    ],
+    "content": [
+      {
+        "html": "Another <a class=\"p-category\" href=\"/tag/WWDC\" rel=\"tag\">#WWDC</a> question: can fonts be installed in iOS and iPadOS from traditional TTF/OTF files?",
+        "value": "Another #WWDC question: can fonts be installed in iOS and iPadOS from traditional TTF/OTF files?"
+      }
+    ],
+    "category": [
+      "#WWDC"
+    ],
+    "url": [
+      "/2019/another-wwdc-question-can-fonts-be-installed"
+    ],
+    "published": [
+      "2019-06-04T02:34:43+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.55\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.55\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 60.55\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/another-wwdc-question-can-fonts-be-installed/annotations/0cddfe5bdabed6535f1078ceb04cbc19"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/another-wwdc-question-can-fonts-be-installed/annotations/0cddfe5bdabed6535f1078ceb04cbc19"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1135736617736572929",
+      "https://mastodon.social/@cleverdevil/102210973607833275"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "312cb6ffda901b1a52cbe5b189bf5bbf"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1135736617736572929?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1135736617736572929%2F9085712"
+          ],
+          "published": [
+            "2019-06-04T03:08:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Burrito Lee"
+                ],
+                "url": [
+                  "https://twitter.com/slashclee"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzM3MjkyNjkzMTIvY2UwZDIyYWNjNzc0Y2Q3NzBmOGRjY2IwZmJmOGRjNDEuanBlZw,,/300/square Burrito Lee"
+            }
+          ]
+        },
+        "value": "Burrito Lee"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-04T02:31:50Z",
+      "year": 2019,
+      "month": 6,
+      "day": 4,
+      "hour": 2,
+      "minute": 31,
+      "x": -118.37028554822159,
+      "y": 33.81545055089779,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5600000023841858,
+      "wifi": "LaCour"
+    }
+  }
+}

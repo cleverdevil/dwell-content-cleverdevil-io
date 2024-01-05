@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/534-on-the-cheerleader-bus"
+    ],
+    "published": [
+      "2023-05-20T04:46:43+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a3465d6747c89ff32e71ab57a15e7333"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-20T01:52:18Z",
+      "year": 2023,
+      "month": 5,
+      "day": 20,
+      "hour": 1,
+      "minute": 52,
+      "x": -118.37034627968166,
+      "y": 33.815389667125,
+      "altitude": 58,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 534: On the Cheerleader Bus"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fced70b416ceda3e4472a382f91e3649/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJXg71Q"
+        ],
+        "content": [
+          {
+            "html": "<p>Final Cut Pro and Logic Pro for iPad, and the promise of Bluesky in a crowded space.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Final Cut Pro and Logic Pro for iPad, and the promise of Bluesky in a crowded space.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

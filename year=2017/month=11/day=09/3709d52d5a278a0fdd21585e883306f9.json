@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2017/call-in-podcast-1-canes-takes-radio"
+    ],
+    "published": [
+      "2017-11-09T07:31:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "3709d52d5a278a0fdd21585e883306f9"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Call-in podcast #1: Canes Takes Radio"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9078251e1a5b63088b6b7e72327b0763/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+G2kQorZrA"
+        ],
+        "content": [
+          {
+            "html": "<p>The first Canesinsight podcast call-in show.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  CanesInSight Podcast</p>",
+            "value": "The first Canesinsight podcast call-in show.\nBy CanesInSight Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

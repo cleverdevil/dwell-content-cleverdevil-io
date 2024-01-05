@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Corner Bakery Cafe"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Corner Bakery Cafe"
+          ],
+          "latitude": [
+            "33.816412215588"
+          ],
+          "longitude": [
+            "-118.37824055082"
+          ]
+        },
+        "value": "Corner Bakery Cafe"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Corner Bakery Cafe"
+          ],
+          "latitude": [
+            "33.816412215588"
+          ],
+          "longitude": [
+            "-118.37824055082"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Picking up dinner for the sick wife.</p>",
+        "value": "Picking up dinner for the sick wife."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-corner-bakery-cafe"
+    ],
+    "published": [
+      "2017-05-22T00:33:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Corner Bakery Cafe!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Corner Bakery Cafe!</p>",
+              "value": "Your first check-in at Corner Bakery Cafe!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/f8eca2ee84ac9f638ecb59f4d6e96c61"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/592231afb1538e301dbc0e52/585882b790d11c4eb4d14ec0e381db18"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/592231afb1538e301dbc0e52/585882b790d11c4eb4d14ec0e381db18"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/592231afb1538e301dbc0e52"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5db4ac24f63c02bd2fa683fd2772b789"
+    ]
+  }
+}

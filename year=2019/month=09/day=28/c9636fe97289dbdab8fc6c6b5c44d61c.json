@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into 8oz Burger Bar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "8oz Burger Bar"
+          ],
+          "latitude": [
+            "47.613094325624"
+          ],
+          "longitude": [
+            "-122.3208054649"
+          ]
+        },
+        "value": "8oz Burger Bar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "8oz Burger Bar"
+          ],
+          "latitude": [
+            "47.613094325624"
+          ],
+          "longitude": [
+            "-122.3208054649"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunchy lunch</p>",
+        "value": "Lunchy lunch"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-8oz-burger-bar"
+    ],
+    "published": [
+      "2019-09-28T20:06:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at 8oz Burger Bar!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at 8oz Burger Bar!</p>",
+              "value": "Your first check-in at 8oz Burger Bar!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d8fbd2c301a16000866a2d9/97292a8836801e87d38bbf9a5b0215d5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d8fbd2c301a16000866a2d9/97292a8836801e87d38bbf9a5b0215d5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.95\u00b0F and 68% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.95\u00b0F and 68% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 54.95\u00b0F and 68% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-8oz-burger-bar/annotations/ff2e176a4fb4439edc3d5de1bbc7621c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-8oz-burger-bar/annotations/ff2e176a4fb4439edc3d5de1bbc7621c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d8fbd2c301a16000866a2d9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c9636fe97289dbdab8fc6c6b5c44d61c"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-09-28T20:01:49Z",
+      "year": 2019,
+      "month": 9,
+      "day": 28,
+      "hour": 20,
+      "minute": 1,
+      "x": -122.32113545428713,
+      "y": 47.61284863756454,
+      "altitude": 92,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6499999761581421,
+      "wifi": ""
+    }
+  }
+}

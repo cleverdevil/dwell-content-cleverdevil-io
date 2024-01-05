@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-258-ten-hours-is-not-all-day"
+    ],
+    "published": [
+      "2019-08-16T00:12:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.45\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.45\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 65.45\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-258-ten-hours-is-not-all-day/annotations/c6336d9aec50f495e5a11d2cb1e5aaa5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-258-ten-hours-is-not-all-day/annotations/c6336d9aec50f495e5a11d2cb1e5aaa5"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ecb3768f2f94e9a1241793870cf2ee20"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-16T04:01:27Z",
+      "year": 2019,
+      "month": 8,
+      "day": 16,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37026151779669,
+      "y": 33.815442378458975,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.49000000953674316,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 258: Ten Hours Is Not All Day"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3d4f5fea061924266bdee9d0ddd87bfd/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_DUPXM"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we check in on our beta OS experiences, discuss why Apple\u2019s move to ARM MacBooks seems inevitable, and ponder how Apple will respond to Disney\u2019s low-priced streaming service bundle.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we check in on our beta OS experiences, discuss why Apple\u2019s move to ARM MacBooks seems inevitable, and ponder how Apple will respond to Disney\u2019s low-priced streaming service bundle.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

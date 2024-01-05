@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Palos Verdes Village Pet Hospital"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palos Verdes Village Pet Hospital"
+          ],
+          "latitude": [
+            "33.815851201981"
+          ],
+          "longitude": [
+            "-118.37525052124"
+          ]
+        },
+        "value": "Palos Verdes Village Pet Hospital"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palos Verdes Village Pet Hospital"
+          ],
+          "latitude": [
+            "33.815851201981"
+          ],
+          "longitude": [
+            "-118.37525052124"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Palos Verdes Village Pet Hospital\" src=\"https://cleverdevil.io/file/dc71223afee751719d97a256a322dc6b\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Doggie check up.</p>",
+        "value": "Palos Verdes Village Pet Hospital\nDoggie check up."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-palos-verdes-village-pet-hospital"
+    ],
+    "published": [
+      "2017-07-06T23:24:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ea8ea3862c5a3a55f71138f2c0271287"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595ec69f1108ba293ea9627a/901d2062fe377d8f54b57d96cafc0d5b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595ec69f1108ba293ea9627a/901d2062fe377d8f54b57d96cafc0d5b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Palos Verdes Village Pet Hospital."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Palos Verdes Village Pet Hospital.</p>",
+              "value": "First check-in at Palos Verdes Village Pet Hospital."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/73680d392342bd6a3102a238017df16b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595ec69f1108ba293ea9627a/e3ba32bf80c9b21c6495985b102f9215"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595ec69f1108ba293ea9627a/e3ba32bf80c9b21c6495985b102f9215"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595ec69f1108ba293ea9627a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "323ef9693400392a862b292b4a1bc46f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595ec69f1108ba293ea9627a/4453af3a9d2472534b88bdf55236fc2e"
+          ],
+          "published": [
+            "2017-07-06T23:24:15+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "E Brown"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1026530"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/45a623c02fac427b407825b73cbe297a"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/45a623c02fac427b407825b73cbe297a E Brown"
+            }
+          ]
+        },
+        "value": "E Brown"
+      }
+    ]
+  }
+}

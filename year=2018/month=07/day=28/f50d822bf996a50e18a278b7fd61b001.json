@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sisters\u2019 Barn"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sisters\u2019 Barn"
+          ],
+          "latitude": [
+            "33.822051"
+          ],
+          "longitude": [
+            "-118.385116"
+          ]
+        },
+        "value": "Sisters\u2019 Barn"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sisters\u2019 Barn"
+          ],
+          "latitude": [
+            "33.822051"
+          ],
+          "longitude": [
+            "-118.385116"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Trying the new BBQ joint in the neighborhood.</p>",
+        "value": "Trying the new BBQ joint in the neighborhood."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-sisters-barn"
+    ],
+    "published": [
+      "2018-07-28T20:30:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Sisters\u2019 Barn."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Sisters\u2019 Barn.</p>",
+              "value": "First check-in at Sisters\u2019 Barn."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b5cd275d1a402002b4d8437/d216b230c0a5b17ba60d89b092c022ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b5cd275d1a402002b4d8437/d216b230c0a5b17ba60d89b092c022ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b5cd275d1a402002b4d8437"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "f50d822bf996a50e18a278b7fd61b001"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2018/07/28/12/like/"
+          ],
+          "published": [
+            "2018-07-28T23:57:17+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      }
+    ]
+  }
+}

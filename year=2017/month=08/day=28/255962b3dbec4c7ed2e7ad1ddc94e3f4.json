@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jimmy John's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": "Jimmy John's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Jimmy John's\" src=\"https://cleverdevil.io/file/f1d65c90ef3e797c371d6da4754a8b82\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Lunch.</p>",
+        "value": "Jimmy John's\nLunch."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-jimmy-johns-5"
+    ],
+    "published": [
+      "2017-08-28T19:04:38+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to Jimmy John's 5 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to Jimmy John's 5 times!</p>",
+              "value": "Wow! You've checked in to Jimmy John's 5 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/ab308f1d835660a0c7e34e299ed84cef"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a46935c6666603ff21cb70/78e8dfe538e52b694b567b292dae42bd"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a46935c6666603ff21cb70/78e8dfe538e52b694b567b292dae42bd"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "That photo belongs on the cover of National Geographic!"
+          ],
+          "content": [
+            {
+              "html": "<p>That photo belongs on the cover of National Geographic!</p>",
+              "value": "That photo belongs on the cover of National Geographic!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/a8168f99cedb767082d0c79a9599b99a"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a46935c6666603ff21cb70/1ac8f8e58c0d0711dba54ae1b6a76def"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a46935c6666603ff21cb70/1ac8f8e58c0d0711dba54ae1b6a76def"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59a46935c6666603ff21cb70"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "255962b3dbec4c7ed2e7ad1ddc94e3f4"
+    ]
+  }
+}

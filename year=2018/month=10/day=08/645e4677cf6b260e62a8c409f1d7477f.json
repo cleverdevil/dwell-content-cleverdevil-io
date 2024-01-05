@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Torrance Memorial Medical Center"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Torrance Memorial Medical Center"
+          ],
+          "latitude": [
+            "33.8119157"
+          ],
+          "longitude": [
+            "-118.3434945"
+          ]
+        },
+        "value": "Torrance Memorial Medical Center"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Torrance Memorial Medical Center"
+          ],
+          "latitude": [
+            "33.8119157"
+          ],
+          "longitude": [
+            "-118.3434945"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Emergency room with William. Poor guy got a gash above his eye and needs stitches. \u2764\ufe0f</p>",
+        "value": "Emergency room with William. Poor guy got a gash above his eye and needs stitches. \u2764\ufe0f"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-torrance-memorial-medical-center"
+    ],
+    "published": [
+      "2018-10-08T00:52:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're checked in"
+          ],
+          "content": [
+            {
+              "html": "<p>You're checked in</p>",
+              "value": "You're checked in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fZGVmYXVsdC5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5bbaaa5af62e09002c0482e4/9a3d0ad7717bac780844b7c3bcbb0632"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5bbaaa5af62e09002c0482e4/9a3d0ad7717bac780844b7c3bcbb0632"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "\ud83d\ude22"
+          ],
+          "content": [
+            {
+              "html": "<p>\ud83d\ude22</p>",
+              "value": "\ud83d\ude22"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9lZGRpZWhpbmtsZS5jb20vaW1hZ2VzL3Byb2ZpbGUuanBn/300/square"
+                ],
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://eddiehinkle.com/"
+                ]
+              },
+              "value": "Eddie Hinkle"
+            }
+          ],
+          "url": [
+            "https://eddiehinkle.com/2018/10/08/2/reply/"
+          ]
+        },
+        "value": "https://eddiehinkle.com/2018/10/08/2/reply/"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5bbaaa5af62e09002c0482e4"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "645e4677cf6b260e62a8c409f1d7477f"
+    ]
+  }
+}

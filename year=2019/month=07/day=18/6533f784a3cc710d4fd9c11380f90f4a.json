@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/reconcilable-differences-107-arent-we-a-pair"
+    ],
+    "published": [
+      "2019-07-18T15:46:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 66.97\u00b0F and 84% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 66.97\u00b0F and 84% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 66.97\u00b0F and 84% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/reconcilable-differences-107-arent-we-a-pair/annotations/0aafe06f7c98eec92c4dd39f47852b7e"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/reconcilable-differences-107-arent-we-a-pair/annotations/0aafe06f7c98eec92c4dd39f47852b7e"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6533f784a3cc710d4fd9c11380f90f4a"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-18T16:04:49Z",
+      "year": 2019,
+      "month": 7,
+      "day": 18,
+      "hour": 16,
+      "minute": 4,
+      "x": -118.39517346913031,
+      "y": 33.918480320905935,
+      "altitude": 30,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 2,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Reconcilable Differences 107: Aren\u2019t We a Pair?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/791612ef086304e45975e12328bfe637/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5IO-5jzY"
+        ],
+        "content": [
+          {
+            "html": "<p>John has thoughts on Merlin\u2019s baked ziti recipe, and Merlin tells John about his family finally getting to see \u201cHamilton.\u201d</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "John has thoughts on Merlin\u2019s baked ziti recipe, and Merlin tells John about his family finally getting to see \u201cHamilton.\u201d\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

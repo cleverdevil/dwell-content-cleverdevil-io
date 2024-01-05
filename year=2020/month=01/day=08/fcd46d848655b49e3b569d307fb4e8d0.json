@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/upgrade-279-i-predict-it-every-year-why-stop-now"
+    ],
+    "published": [
+      "2020-01-08T16:39:21+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.31\u00b0F and 59% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.31\u00b0F and 59% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.31\u00b0F and 59% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/upgrade-279-i-predict-it-every-year-why-stop-now/annotations/9200ab1ca6bafeff6ae427b1b8e77995"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/upgrade-279-i-predict-it-every-year-why-stop-now/annotations/9200ab1ca6bafeff6ae427b1b8e77995"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fcd46d848655b49e3b569d307fb4e8d0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-01-08T20:02:57Z",
+      "year": 2020,
+      "month": 1,
+      "day": 8,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.39550624653681,
+      "y": 33.91966065339059,
+      "altitude": 33,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "WeWork"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 279: I Predict It Every Year, Why Stop Now?"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/15148426b1f383b8f159b928875d3bc3/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8O4zyw"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason\u2019s got predictions for 2020, including many iPhones and an unusual Apple laptop. Plus the new Brydge iPad keyboard with trackpad and a lot of streaming and smart-home news.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason\u2019s got predictions for 2020, including many iPhones and an unusual Apple laptop. Plus the new Brydge iPad keyboard with trackpad and a lot of streaming and smart-home news.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

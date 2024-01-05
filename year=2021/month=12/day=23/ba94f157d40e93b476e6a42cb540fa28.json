@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ironwood Park"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": "Ironwood Park"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ironwood Park"
+          ],
+          "latitude": [
+            "33.701362811215"
+          ],
+          "longitude": [
+            "-116.39425803387"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2021/checked-into-ironwood-park-5"
+    ],
+    "published": [
+      "2021-12-23T20:44:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You only need one week to beat your record for 3 weeks in a row at Parks! Give yourself a high five!"
+          ],
+          "content": [
+            {
+              "html": "<p>You only need one week to beat your record for 3 weeks in a row at Parks! Give yourself a high five!</p>",
+              "value": "You only need one week to beat your record for 3 weeks in a row at Parks! Give yourself a high five!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61c4df905b27871708a2270b/58efa9f9c5f4ab482f181dbb887a9dde"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61c4df905b27871708a2270b/58efa9f9c5f4ab482f181dbb887a9dde"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61c4df905b27871708a2270b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "ba94f157d40e93b476e6a42cb540fa28"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-12-23T20:41:37Z",
+      "year": 2021,
+      "month": 12,
+      "day": 23,
+      "hour": 20,
+      "minute": 41,
+      "x": -116.38384067647983,
+      "y": 33.70064550013937,
+      "altitude": 141,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": ""
+    }
+  }
+}

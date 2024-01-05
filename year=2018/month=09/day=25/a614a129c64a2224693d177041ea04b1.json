@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into SEA LIFE Aquarium"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "SEA LIFE Aquarium"
+          ],
+          "latitude": [
+            "33.126000456483"
+          ],
+          "longitude": [
+            "-117.31201031911"
+          ]
+        },
+        "value": "SEA LIFE Aquarium"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "SEA LIFE Aquarium"
+          ],
+          "latitude": [
+            "33.126000456483"
+          ],
+          "longitude": [
+            "-117.31201031911"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2018/checked-into-sea-life-aquarium"
+    ],
+    "published": [
+      "2018-09-25T16:55:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at SEA LIFE Aquarium!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at SEA LIFE Aquarium!</p>",
+              "value": "Your first check-in at SEA LIFE Aquarium!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5baa68783abcaf002c921309/535db930483fd24d5282a8892f8978f7"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5baa68783abcaf002c921309/535db930483fd24d5282a8892f8978f7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5baa68783abcaf002c921309"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a614a129c64a2224693d177041ea04b1"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5baa68783abcaf002c921309/61db77ad90e52460081aa8244801947b"
+          ],
+          "published": [
+            "2018-09-25T16:55:20+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Local Adventurer"
+                ],
+                "url": [
+                  "https://foursquare.com/user/1111760"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC9JVVIwUktUWU9aQkEyUUhPLnBuZw,,/300/square Local Adventurer"
+            }
+          ]
+        },
+        "value": "Local Adventurer"
+      }
+    ]
+  }
+}

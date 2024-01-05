@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Impromptu IndieWeb Meetup"
+    ],
+    "url": [
+      "/2017/impromptu-indieweb-meetup",
+      "/2017/impromptu-indieweb-meetup"
+    ],
+    "summary": [
+      "Sausages, fries, beer, and the open web"
+    ],
+    "location": [
+      "Wurstk\u00fcche, 800 E 3rd St, Los Angeles, CA 90013"
+    ],
+    "start": [
+      "2023-11-27T20:00:00+00:00"
+    ],
+    "end": [
+      "2023-11-27T22:00:00+00:00"
+    ],
+    "content": [
+      {
+        "html": "<p>Join us for dinner, drinks, and IndieWeb conversation.</p>",
+        "value": "Join us for dinner, drinks, and IndieWeb conversation."
+      }
+    ],
+    "published": [
+      "2017-12-13T23:55:58+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Topics sound interesting but even better is the location\u00b4s name: Wurstk\u00fcche! Greetings from Berlin, Germany. (I cannot not attend)"
+          ],
+          "content": [
+            {
+              "html": "<p>Topics sound interesting but even better is the location\u00b4s name: Wurstk\u00fcche! Greetings from Berlin, Germany. (I cannot not attend)</p>",
+              "value": "Topics sound interesting but even better is the location\u00b4s name: Wurstk\u00fcche! Greetings from Berlin, Germany. (I cannot not attend)"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cDovL3d3dy5wZXRlcnNlbGwuY29tL2ZpbGUvZTI1ZjZkNmFhMWU0Zjg0YTM2OTkwNDQyZDg2YTEwMzUvdGh1bWIuanBn/300/square"
+                ],
+                "name": [
+                  "Andreas Petersell"
+                ],
+                "url": [
+                  "http://www.petersell.com/profile/petersell"
+                ]
+              },
+              "value": "Andreas Petersell"
+            }
+          ],
+          "url": [
+            "http://www.petersell.com/2017/topics-sound-interesting-but-even-more-better-is-the-locations"
+          ]
+        },
+        "value": "http://www.petersell.com/2017/topics-sound-interesting-but-even-more-better-is-the-locations"
+      }
+    ],
+    "post-kind": [
+      "Event"
+    ],
+    "post-id": [
+      "6c15cf9d4cdb77590a81898bfb54aac7"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Desserts By Patrick"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": "Desserts By Patrick"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Desserts By Patrick"
+          ],
+          "latitude": [
+            "33.816834"
+          ],
+          "longitude": [
+            "-118.38745"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Bonus dessert. Don\u2019t judge me.</p>",
+        "value": "Bonus dessert. Don\u2019t judge me."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-desserts-by-patrick-6"
+    ],
+    "published": [
+      "2019-04-24T03:54:00+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Desserts By Patrick since September '18."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Desserts By Patrick since September '18.</p>",
+              "value": "Welcome back! You haven't checked in to Desserts By Patrick since September '18."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5cbfddd83af988002caeb9b0/8c465cc930926df825c12f5edfd469f3"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5cbfddd83af988002caeb9b0/8c465cc930926df825c12f5edfd469f3"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Ice Cream Shop check-in in 6 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Ice Cream Shop check-in in 6 months!</p>",
+              "value": "First Ice Cream Shop check-in in 6 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5cbfddd83af988002caeb9b0/4776e62e7d1bff868e605f87c08ae295"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5cbfddd83af988002caeb9b0/4776e62e7d1bff868e605f87c08ae295"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.3\u00b0F and 87% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.3\u00b0F and 87% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.3\u00b0F and 87% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-desserts-by-patrick-6/annotations/58d33cf63beff947be4f7c1a519ae46b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-desserts-by-patrick-6/annotations/58d33cf63beff947be4f7c1a519ae46b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5cbfddd83af988002caeb9b0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a8e470f6b423a7a90b9f68c3c4346a25"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-04-24T03:49:54Z",
+      "year": 2019,
+      "month": 4,
+      "day": 24,
+      "hour": 3,
+      "minute": 49,
+      "x": -118.38706589074016,
+      "y": 33.81656617149187,
+      "altitude": 19,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.5400000214576721,
+      "wifi": ""
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Chick-fil-A Del Amo"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chick-fil-A Del Amo"
+          ],
+          "latitude": [
+            "33.829714416218"
+          ],
+          "longitude": [
+            "-118.3527294767"
+          ]
+        },
+        "value": "Chick-fil-A Del Amo"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chick-fil-A Del Amo"
+          ],
+          "latitude": [
+            "33.829714416218"
+          ],
+          "longitude": [
+            "-118.3527294767"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-chick-fil-a-del-amo"
+    ],
+    "published": [
+      "2017-04-23T02:23:51+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fried Check-in sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Fried Check-in sticker bonus!</p>",
+              "value": "Fried Check-in sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/d7d71480b8d2e5704f83acae8aedc11e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fc1026b9a5a83dcd1b66b1/82eca3c3e435298bc08d47315f83a0ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fc1026b9a5a83dcd1b66b1/82eca3c3e435298bc08d47315f83a0ae"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fc1026b9a5a83dcd1b66b1"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "134f9617221b8d291a449d0376211a62"
+    ]
+  }
+}

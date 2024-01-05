@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/426-loaded-baked-potato"
+    ],
+    "published": [
+      "2021-04-16T21:59:14+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "950bc207db0414696c4caaebf6659042"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-16T23:53:10Z",
+      "year": 2021,
+      "month": 4,
+      "day": 16,
+      "hour": 23,
+      "minute": 53,
+      "x": -118.37033265355292,
+      "y": 33.81542410591579,
+      "altitude": 56,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6000000238418579,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 426: Loaded Baked Potato"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e32533482f7edbaa6d30b172483f8d3d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIaPK8o"
+        ],
+        "content": [
+          {
+            "html": "<p>Home electrical work, dumb Wi-Fi networks for allegedly smart devices, and predictions for next week\u2019s Apple event.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Home electrical work, dumb Wi-Fi networks for allegedly smart devices, and predictions for next week\u2019s Apple event.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

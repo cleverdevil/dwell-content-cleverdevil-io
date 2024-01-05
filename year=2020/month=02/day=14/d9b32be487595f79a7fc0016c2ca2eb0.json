@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-281-oligarch-modder-community"
+    ],
+    "published": [
+      "2020-02-14T17:15:46+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 61.92\u00b0F and 67% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 61.92\u00b0F and 67% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 61.92\u00b0F and 67% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-281-oligarch-modder-community/annotations/fee0091d696bd0dea9be2f0bd102f905"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-281-oligarch-modder-community/annotations/fee0091d696bd0dea9be2f0bd102f905"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d9b32be487595f79a7fc0016c2ca2eb0"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-14T19:59:24Z",
+      "year": 2020,
+      "month": 2,
+      "day": 14,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37031578017869,
+      "y": 33.815426495009355,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 281: Oligarch Modder Community"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/0843f595cc59106c62d261d43dffb7e7/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5qXfN8"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen and Myke launch new careers as iPhone designers and Federico keeps refreshing Apple Music. Also: Swift Playgrounds on the Mac, Apple News+ and a few things we are currently enjoying.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen and Myke launch new careers as iPhone designers and Federico keeps refreshing Apple Music. Also: Swift Playgrounds on the Mac, Apple News+ and a few things we are currently enjoying.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

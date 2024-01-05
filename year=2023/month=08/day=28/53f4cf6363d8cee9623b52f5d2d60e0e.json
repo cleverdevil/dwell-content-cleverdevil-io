@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/dear-internet-episode-170-boiled-pears"
+    ],
+    "published": [
+      "2023-08-28T21:06:25+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "53f4cf6363d8cee9623b52f5d2d60e0e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-08-28T15:40:14Z",
+      "year": 2023,
+      "month": 8,
+      "day": 28,
+      "hour": 15,
+      "minute": 40,
+      "x": -118.37050160458158,
+      "y": 33.815329863938004,
+      "altitude": 55,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.949999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Dear Internet Episode 170: Boiled Pears"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/764fc9e07b319bc51553341f1ebd3133/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+4_5-Jh9MU"
+        ],
+        "content": [
+          {
+            "html": "<p>Dear Internet,This week, we\u2019re talking about scamming your coworkers, farting yourself out of bed, and hot tub in-laws!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Dear Internet</p>",
+            "value": "Dear Internet,This week, we\u2019re talking about scamming your coworkers, farting yourself out of bed, and hot tub in-laws!Edited by Stephen Garcia Hosted on Acast. See acast.com/privacy for more information.\nBy Dear Internet"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

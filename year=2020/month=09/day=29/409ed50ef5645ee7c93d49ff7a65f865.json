@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/397-we-cant-wait-to-see-what-you-do-to"
+    ],
+    "published": [
+      "2020-09-29T01:01:36+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "409ed50ef5645ee7c93d49ff7a65f865"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-09-29T03:58:05Z",
+      "year": 2020,
+      "month": 9,
+      "day": 29,
+      "hour": 3,
+      "minute": 58,
+      "x": -118.37031893908882,
+      "y": 33.81544205543048,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 397: We Can\u2019t Wait To See What You Do To It"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/5092106623e084c1ab3f1d812a98da87/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULftH64"
+        ],
+        "content": [
+          {
+            "html": "<p>We should all have the freedom to make our phones look like Hotdog Stand.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "We should all have the freedom to make our phones look like Hotdog Stand.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

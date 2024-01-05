@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "inessential: NetNewsWire 5.0 Now Available"
+    ],
+    "like-of": [
+      "https://inessential.com/2019/08/26/netnewswire_5_0_now_available"
+    ],
+    "url": [
+      "/2019/inessential-netnewswire-50-now-available"
+    ],
+    "published": [
+      "2019-08-26T23:14:52+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 78.47\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 78.47\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 78.47\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/inessential-netnewswire-50-now-available/annotations/c24dc3d1f0fabc355b0068025d8d8311"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/inessential-netnewswire-50-now-available/annotations/c24dc3d1f0fabc355b0068025d8d8311"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "74137c244a1786026ed9fbbc8e448548"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-26T23:13:58Z",
+      "year": 2019,
+      "month": 8,
+      "day": 26,
+      "hour": 23,
+      "minute": 13,
+      "x": -118.39514641235137,
+      "y": 33.91974136583375,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8199999928474426,
+      "wifi": "WeWork"
+    }
+  }
+}

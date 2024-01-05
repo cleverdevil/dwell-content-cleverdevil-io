@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Chez Melange"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez Melange"
+          ],
+          "latitude": [
+            "33.819673125048"
+          ],
+          "longitude": [
+            "-118.38875922042"
+          ]
+        },
+        "value": "Chez Melange"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chez Melange"
+          ],
+          "latitude": [
+            "33.819673125048"
+          ],
+          "longitude": [
+            "-118.38875922042"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Date night</p>",
+        "value": "Date night"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-chez-melange-1"
+    ],
+    "published": [
+      "2017-11-10T02:02:40+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a0508b0088158263ff479ea/5edb62ca8fbe70f132c7670628819145"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a0508b0088158263ff479ea/5edb62ca8fbe70f132c7670628819145"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a0508b0088158263ff479ea"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "da02e7a8d0ad1abf9a1ec6c102bd6821"
+    ]
+  }
+}

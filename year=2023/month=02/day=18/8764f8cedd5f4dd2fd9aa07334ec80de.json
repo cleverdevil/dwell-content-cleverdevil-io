@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/96-cakes"
+    ],
+    "published": [
+      "2023-02-18T20:34:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8764f8cedd5f4dd2fd9aa07334ec80de"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-21T07:57:18Z",
+      "year": 2023,
+      "month": 2,
+      "day": 21,
+      "hour": 7,
+      "minute": 57,
+      "x": -116.38024345251537,
+      "y": 33.70177352700573,
+      "altitude": 131,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 96: Cakes \ud83c\udf82\ud83e\uddc1\ud83c\udf70\ud83e\udd6e\ud83c\udf65\ud83e\udd5e"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3e0b00faf4c2858c86e9b775c63e6fff/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDbk-xt8"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite cakes, in honor of Tiff\u2019s birthday.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite cakes, in honor of Tiff\u2019s birthday.\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

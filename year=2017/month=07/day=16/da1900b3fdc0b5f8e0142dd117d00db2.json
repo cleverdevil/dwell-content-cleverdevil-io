@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Island Vintage Coffee"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Island Vintage Coffee"
+          ],
+          "latitude": [
+            "20.921378"
+          ],
+          "longitude": [
+            "-156.694664"
+          ]
+        },
+        "value": "Island Vintage Coffee"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Island Vintage Coffee"
+          ],
+          "latitude": [
+            "20.921378"
+          ],
+          "longitude": [
+            "-156.694664"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Coffee time</p>",
+        "value": "Coffee time"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-island-vintage-coffee"
+    ],
+    "published": [
+      "2017-07-16T18:53:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Island Vintage Coffee!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Island Vintage Coffee!</p>",
+              "value": "Your first check-in at Island Vintage Coffee!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/aa4a290ac60b780ad8295ae55ff70be1"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/596bb62a0802d45c2de25d6a/356bbc3bbf44022d2334aa13ed28b3f8"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/596bb62a0802d45c2de25d6a/356bbc3bbf44022d2334aa13ed28b3f8"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/596bb62a0802d45c2de25d6a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "da1900b3fdc0b5f8e0142dd117d00db2"
+    ]
+  }
+}

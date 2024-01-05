@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Going Serverless with Python WSGI Apps"
+    ],
+    "content": [
+      {
+        "html": "<p>I've been writing web applications and services in <a class=\"reference external\" href=\"http://www.python.org\">Python</a> since the late 1990s, and enjoy it so much that I created the <a class=\"reference external\" href=\"https://github.com/pecan/pecan\">Pecan web application framework</a> way back in 2010. Configuring and deploying Python web applications, especially <a class=\"reference external\" href=\"http://wsgi.readthedocs.io/en/latest/\">WSGI</a> compliant applications, is fairly straightforward, with great WSGI servers like <a class=\"reference external\" href=\"http://gunicorn.org\">Gunicorn</a> and <a class=\"reference external\" href=\"http://projects.unbit.it/uwsgi\">uWSGI</a>, and excellent Apache integration via <a class=\"reference external\" href=\"http://www.modwsgi.org/\">mod_wsgi</a>. But, for many use cases, creating and maintaining one or more cloud servers creates unnecessary cost and complexity. Security patches, kernel upgrades, SSL certificate management, and more, can be a real burden.</p><p>Since the creation of AWS <a class=\"reference external\" href=\"https://aws.amazon.com/lambda/\">Lambda</a>, \"serverless\" has become a pretty popular buzzword. Could Lambda provide a way to deploy Python WSGI applications that helps reduce cost, complexity, and management overhead?</p><p>It was a fun topic to explore, and I've published a <a href=\"https://www.reliam.com/blog/going-serverless-with-python-wsgi-apps/\">blog post over at Reliam.com about running Python WSGI apps on Lambda</a>!</p>",
+        "value": "I've been writing web applications and services in Python since the late 1990s, and enjoy it so much that I created the Pecan web application framework way back in 2010. Configuring and deploying Python web applications, especially WSGI compliant applications, is fairly straightforward, with great WSGI servers like Gunicorn and uWSGI, and excellent Apache integration via mod_wsgi. But, for many use cases, creating and maintaining one or more cloud servers creates unnecessary cost and complexity. Security patches, kernel upgrades, SSL certificate management, and more, can be a real burden.\nSince the creation of AWS Lambda, \"serverless\" has become a pretty popular buzzword. Could Lambda provide a way to deploy Python WSGI applications that helps reduce cost, complexity, and management overhead?\nIt was a fun topic to explore, and I've published a blog post over at Reliam.com about running Python WSGI apps on Lambda!"
+      }
+    ],
+    "url": [
+      "/2018/going-serverless-with-python-wsgi-apps"
+    ],
+    "published": [
+      "2018-03-30T20:10:41+0000"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/979815338085879809"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "adebd86ab0106840a6dba8217376c6bb"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/984088714782609408?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F984088714782609408%2F783092"
+          ],
+          "published": [
+            "2018-04-11T15:37:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTQ3NzgzMzE0MDM1MDk3Ni85RmMzU29fZy5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzkyNTQ3NzgzMzE0MDM1MDk3Ni85RmMzU29fZy5qcGc,/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      }
+    ]
+  }
+}

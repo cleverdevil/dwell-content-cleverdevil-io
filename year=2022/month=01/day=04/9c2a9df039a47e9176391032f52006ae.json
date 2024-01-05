@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-seaside-torrance-123"
+    ],
+    "published": [
+      "2022-01-04T05:58:15+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Torrance was in November '20 at Din Tai Fung."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Torrance was in November '20 at Din Tai Fung.</p>",
+              "value": "Your last check-in in Torrance was in November '20 at Din Tai Fung."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/61d3e1f7c3a1c229cc3004f5/f3f638b2ec257173e419da018f7d77da"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/61d3e1f7c3a1c229cc3004f5/f3f638b2ec257173e419da018f7d77da"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/61d3e1f7c3a1c229cc3004f5"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9c2a9df039a47e9176391032f52006ae"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-01-04T05:48:59Z",
+      "year": 2022,
+      "month": 1,
+      "day": 4,
+      "hour": 5,
+      "minute": 48,
+      "x": -118.37032548933136,
+      "y": 33.81539851592872,
+      "altitude": 53,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": "LaCour"
+    }
+  }
+}

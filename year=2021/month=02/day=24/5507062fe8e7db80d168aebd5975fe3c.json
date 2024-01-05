@@ -1,0 +1,520 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Owning my health data \ud83c\udfe5\u2705"
+    ],
+    "content": [
+      {
+        "html": "<div class=\"photo-view\">\n                <a data-footer=\"\" data-gallery=\"Owning my health data \ud83c\udfe5\u2705\" data-original-img=\"https://cleverdevil.io/file/04cef04b94496e467ac7eac184d33e0c/56E373B6-1CF2-4EF1-A407-0F2F07F803D1.png\" data-title=\"Owning my health data \ud83c\udfe5\u2705\" href=\"https://cleverdevil.io/file/04cef04b94496e467ac7eac184d33e0c/56E373B6-1CF2-4EF1-A407-0F2F07F803D1.png\"><img alt=\"Owning my health data \ud83c\udfe5\u2705\" class=\"u-photo\" src=\"https://cleverdevil.io/file/83f5d280be7ed84d16ecb63e0b21f463/thumb.png\"/></a>\n            </div>",
+        "value": "Owning my health data \ud83c\udfe5\u2705"
+      }
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/04cef04b94496e467ac7eac184d33e0c/56E373B6-1CF2-4EF1-A407-0F2F07F803D1.png"
+    ],
+    "url": [
+      "/2021/owning-my-health-data"
+    ],
+    "published": [
+      "2021-02-24T07:10:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Super cool!"
+          ],
+          "content": [
+            {
+              "html": "<p>Super cool!</p>",
+              "value": "Super cool!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square"
+                ],
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ]
+              },
+              "value": "Ben Werdmuller"
+            }
+          ],
+          "url": [
+            "https://twitter.com/benwerd/status/1364473636359315457"
+          ]
+        },
+        "value": "https://twitter.com/benwerd/status/1364473636359315457"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "I\u2019m pretty excited about it! It only took a few hours to whip up once I figured out the hard part, which was finding an app that let me extract HealthKit data. Data is all JSON on S3. Queryable with SQL via Athena. Served up with Lambda for a simple web service. Known plugin."
+          ],
+          "content": [
+            {
+              "html": "<p>I\u2019m pretty excited about it! It only took a few hours to whip up once I figured out the hard part, which was finding an app that let me extract HealthKit data. Data is all JSON on S3. Queryable with SQL via Athena. Served up with Lambda for a simple web service. Known plugin.</p>",
+              "value": "I\u2019m pretty excited about it! It only took a few hours to whip up once I figured out the hard part, which was finding an app that let me extract HealthKit data. Data is all JSON on S3. Queryable with SQL via Athena. Served up with Lambda for a simple web service. Known plugin."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364474117278195719"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1364474117278195719"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Do you have to manually export or is it syncing your HealthKit data?"
+          ],
+          "content": [
+            {
+              "html": "<p>Do you have to manually export or is it syncing your HealthKit data?</p>",
+              "value": "Do you have to manually export or is it syncing your HealthKit data?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square"
+                ],
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ]
+              },
+              "value": "Ben Werdmuller"
+            }
+          ],
+          "url": [
+            "https://twitter.com/benwerd/status/1364474629159481346"
+          ]
+        },
+        "value": "https://twitter.com/benwerd/status/1364474629159481346"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "It supports both via a huge variety of methods with entirely configurable aggregation/granularity. I have it configured to automatically sync daily with my web service. The app is great and shockingly totally free. apps.apple.com/us/app/health-\u2026"
+          ],
+          "content": [
+            {
+              "html": "<p>It supports both via a huge variety of methods with entirely configurable aggregation/granularity. I have it configured to automatically sync daily with my web service. The app is great and shockingly totally free. apps.apple.com/us/app/health-\u2026</p>",
+              "value": "It supports both via a huge variety of methods with entirely configurable aggregation/granularity. I have it configured to automatically sync daily with my web service. The app is great and shockingly totally free. apps.apple.com/us/app/health-\u2026"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc0NDgwNDgzMTA2NDMxNzk1Mi9XLWdNbzdBTy5qcGc,/300/square"
+                ],
+                "name": [
+                  "Jonathan LaCour"
+                ],
+                "url": [
+                  "https://twitter.com/cleverdevil"
+                ]
+              },
+              "value": "Jonathan LaCour"
+            }
+          ],
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364475412907106308"
+          ]
+        },
+        "value": "https://twitter.com/cleverdevil/status/1364475412907106308"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil But how did you do it?"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil But how did you do it?</p>",
+              "value": "@cleverdevil But how did you do it?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci9hMjg4OTFjNTc4OTEzM2UyZWQ0NTVhODBhYTYwMWU4Nz9zPTk2JmQ9aHR0cHMlM0ElMkYlMkZtaWNyby5ibG9nJTJGaW1hZ2VzJTJGYmxhbmtfYXZhdGFyLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "zoglesby"
+                ],
+                "url": [
+                  "https://micro.blog/zoglesby"
+                ]
+              },
+              "value": "zoglesby"
+            }
+          ],
+          "url": [
+            "https://micro.blog/zoglesby/11070721"
+          ]
+        },
+        "value": "https://micro.blog/zoglesby/11070721"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil Wow, that\u2019s fantastic! The sync app looks really cool and I love what you\u2019ve done with jt."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil Wow, that\u2019s fantastic! The sync app looks really cool and I love what you\u2019ve done with jt.</p>",
+              "value": "@cleverdevil Wow, that\u2019s fantastic! The sync app looks really cool and I love what you\u2019ve done with jt."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2FsYW5zL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "alans"
+                ],
+                "url": [
+                  "https://micro.blog/alans"
+                ]
+              },
+              "value": "alans"
+            }
+          ],
+          "url": [
+            "https://micro.blog/alans/11071209"
+          ]
+        },
+        "value": "https://micro.blog/alans/11071209"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@alans thanks! I appreciate that. Definitely a fun project that I\u2019ve been tinkering on in the evenings after the kids go to bed. I\u2019ve got a few more features staged and ready to push, including monthly summaries."
+          ],
+          "content": [
+            {
+              "html": "<p>@alans thanks! I appreciate that. Definitely a fun project that I\u2019ve been tinkering on in the evenings after the kids go to bed. I\u2019ve got a few more features staged and ready to push, including monthly summaries.</p>",
+              "value": "@alans thanks! I appreciate that. Definitely a fun project that I\u2019ve been tinkering on in the evenings after the kids go to bed. I\u2019ve got a few more features staged and ready to push, including monthly summaries."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2NsZXZlcmRldmlsL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "cleverdevil"
+                ],
+                "url": [
+                  "https://micro.blog/cleverdevil"
+                ]
+              },
+              "value": "cleverdevil"
+            }
+          ],
+          "url": [
+            "https://micro.blog/cleverdevil/11071249"
+          ]
+        },
+        "value": "https://micro.blog/cleverdevil/11071249"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil I'm definitely going to tinker with it, too. It will be a fun set of data to experiment with visualizations."
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil I'm definitely going to tinker with it, too. It will be a fun set of data to experiment with visualizations.</p>",
+              "value": "@cleverdevil I'm definitely going to tinker with it, too. It will be a fun set of data to experiment with visualizations."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2FsYW5zL2F2YXRhci5qcGc,/300/square"
+                ],
+                "name": [
+                  "alans"
+                ],
+                "url": [
+                  "https://micro.blog/alans"
+                ]
+              },
+              "value": "alans"
+            }
+          ],
+          "url": [
+            "https://micro.blog/alans/11071295"
+          ]
+        },
+        "value": "https://micro.blog/alans/11071295"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1364472873465892867"
+    ],
+    "post-kind": [
+      "Photo"
+    ],
+    "post-id": [
+      "5507062fe8e7db80d168aebd5975fe3c"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364472873465892867#favorited-by-783092"
+          ],
+          "published": [
+            "2021-02-24T07:58:03+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDg4NTIwNDExODM5ODk3NjEvbjRwS3dwbDMuanBn/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364472873465892867#favorited-by-308803734"
+          ],
+          "published": [
+            "2021-02-24T22:12:22+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie @ home"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDY5Njc3MjkwNjkxOTUyNjQvelZNN3FXbEsuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEzNDY5Njc3MjkwNjkxOTUyNjQvelZNN3FXbEsuanBn/300/square Eddie @ home"
+            }
+          ]
+        },
+        "value": "Eddie @ home"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1364472873465892867#favorited-by-53582208"
+          ],
+          "published": [
+            "2021-02-25T00:35:39+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Andr\u00e9 Vitor Terron"
+                ],
+                "url": [
+                  "https://twitter.com/Andre_Terron"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExODA3NzMzNDYzOTAwNjkyNDgvOHFqQXNpbE0uanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExODA3NzMzNDYzOTAwNjkyNDgvOHFqQXNpbE0uanBn/300/square Andr\u00e9 Vitor Terron"
+            }
+          ]
+        },
+        "value": "Andr\u00e9 Vitor Terron"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://social.johanbove.info/2021/03/01/this-is-awesome-work"
+          ],
+          "published": [
+            "2021-03-01T08:55:00+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://social.johanbove.info/profile/johan"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zb2NpYWwuam9oYW5ib3ZlLmluZm8vZmlsZS9jYzY2N2I2Nzc0NWQxZGVlNjMxZWY1ZGNkMzY3NjlmNy90aHVtYi5qcGc,/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2021-02-24T07:09:53Z",
+      "year": 2021,
+      "month": 2,
+      "day": 24,
+      "hour": 7,
+      "minute": 9,
+      "x": -118.37032397045252,
+      "y": 33.815422337969245,
+      "altitude": 56,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": "LaCour"
+    }
+  }
+}

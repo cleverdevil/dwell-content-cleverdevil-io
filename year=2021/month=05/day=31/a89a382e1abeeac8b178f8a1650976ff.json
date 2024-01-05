@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/347-friendship-ended-with-shelf"
+    ],
+    "published": [
+      "2021-05-31T08:27:58+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a89a382e1abeeac8b178f8a1650976ff"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-05-31T09:56:03Z",
+      "year": 2021,
+      "month": 5,
+      "day": 31,
+      "hour": 9,
+      "minute": 56,
+      "x": -118.3705376421837,
+      "y": 33.81531397358315,
+      "altitude": 57,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 347: Friendship Ended with Shelf"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/fb9ab9a71c40b996aa84b5d23eecbd2c/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx6eLBvQ"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke (AKA the tvOS Guy) has a review of the new Apple TV remote and Federico has been pontificating about a new iPod touch. Then, with WWDC fast approaching, the Europeans pick a couple more features they want to see Apple announce.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke (AKA the tvOS Guy) has a review of the new Apple TV remote and Federico has been pontificating about a new iPod touch. Then, with WWDC fast approaching, the Europeans pick a couple more features they want to see Apple announce.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

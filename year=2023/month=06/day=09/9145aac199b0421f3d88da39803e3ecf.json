@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Hartsfield-Jackson Atlanta International Airport (ATL)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640544065929"
+          ],
+          "longitude": [
+            "-84.433407783508"
+          ]
+        },
+        "value": "Hartsfield-Jackson Atlanta International Airport (ATL)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hartsfield-Jackson Atlanta International Airport (ATL)"
+          ],
+          "latitude": [
+            "33.640544065929"
+          ],
+          "longitude": [
+            "-84.433407783508"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-hartsfield-jackson-atlanta-international-airport-atl-14"
+    ],
+    "published": [
+      "2023-06-09T23:16:27+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "1944 miles since last check-in"
+          ],
+          "content": [
+            {
+              "html": "<p>1944 miles since last check-in</p>",
+              "value": "1944 miles since last check-in"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fcGxhbmUucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6483b2cb797594777ecfaed8/2c81a930cd56a1d8d6574250c6a3efc1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6483b2cb797594777ecfaed8/2c81a930cd56a1d8d6574250c6a3efc1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6483b2cb797594777ecfaed8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "9145aac199b0421f3d88da39803e3ecf"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-06-09T23:15:51Z",
+      "year": 2023,
+      "month": 6,
+      "day": 9,
+      "hour": 23,
+      "minute": 15,
+      "x": -84.40365246593318,
+      "y": 33.64397558563005,
+      "altitude": 248,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": "DeltaWiFi.com"
+    }
+  }
+}

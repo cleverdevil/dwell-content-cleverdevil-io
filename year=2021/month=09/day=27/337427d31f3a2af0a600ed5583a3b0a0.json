@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/364-one-true-john-demands-your-allegiance"
+    ],
+    "published": [
+      "2021-09-27T07:29:54+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "337427d31f3a2af0a600ed5583a3b0a0"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-09-27T07:30:27Z",
+      "year": 2021,
+      "month": 9,
+      "day": 27,
+      "hour": 7,
+      "minute": 30,
+      "x": -118.37048873541146,
+      "y": 33.81529818832366,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.4000000059604645,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 364: One True John Demands Your Allegiance"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8e970c2ba922690e58bef50fb0f78eb4/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5_Q8l8"
+        ],
+        "content": [
+          {
+            "html": "<p>iOS and iPadOS 15 are out, as are reviews for the new iPhones and iPads. This week, Federico tells Stephen and Myke what the new iPad mini is like and what Safari extensions they should check out. Mood boards are also created.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "iOS and iPadOS 15 are out, as are reviews for the new iPhones and iPads. This week, Federico tells Stephen and Myke what the new iPad mini is like and what Safari extensions they should check out. Mood boards are also created.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

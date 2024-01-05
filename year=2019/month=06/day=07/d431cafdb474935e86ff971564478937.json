@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-246-the-ultimate-dark-mode-is-a-crash"
+    ],
+    "published": [
+      "2019-06-07T00:29:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.86\u00b0F and 93% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.86\u00b0F and 93% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 59.86\u00b0F and 93% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-246-the-ultimate-dark-mode-is-a-crash/annotations/9b77ca731773cb58c5bc7c58e0612364"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-246-the-ultimate-dark-mode-is-a-crash/annotations/9b77ca731773cb58c5bc7c58e0612364"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "d431cafdb474935e86ff971564478937"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-07T04:01:29Z",
+      "year": 2019,
+      "month": 6,
+      "day": 7,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.37024520028528,
+      "y": 33.81542019820772,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 246: The Ultimate Dark Mode is a Crash"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/48afc25f2c19513bda5b76146d872c2b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4xqI14"
+        ],
+        "content": [
+          {
+            "html": "<p>Live from WWDC in San Jose, Federico, Myke and Stephen review their WWDC predications and prizes are awarded after an intervention. Then, iPadOS, Shortcuts and the Mac Pro are discussed before Federico\u2019s surprise is unveiled for the world to see.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Live from WWDC in San Jose, Federico, Myke and Stephen review their WWDC predications and prizes are awarded after an intervention. Then, iPadOS, Shortcuts and the Mac Pro are discussed before Federico\u2019s surprise is unveiled for the world to see.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

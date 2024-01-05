@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/85-series-finales"
+    ],
+    "published": [
+      "2022-03-01T07:53:53+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8241aaf52a9d293680303a045cbb18d7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-03-01T07:55:25Z",
+      "year": 2022,
+      "month": 3,
+      "day": 1,
+      "hour": 7,
+      "minute": 55,
+      "x": -118.37039556303586,
+      "y": 33.8154151553061,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 85: Series Finales \ud83d\udcfa"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3cfc1efcf4fac3e281371b6672ffa7e4/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FFDabk9ug"
+        ],
+        "content": [
+          {
+            "html": "<p>Our favorite TV-show finales. (Don\u2019t worry, we\u2019re not ending this show!)</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Top Four</p>",
+            "value": "Our favorite TV-show finales. (Don\u2019t worry, we\u2019re not ending this show!)\nBy Top Four"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

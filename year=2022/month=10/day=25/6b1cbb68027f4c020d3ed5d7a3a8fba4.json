@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Terry Black's BBQ"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terry Black's BBQ"
+          ],
+          "latitude": [
+            "30.25986"
+          ],
+          "longitude": [
+            "-97.75496"
+          ]
+        },
+        "value": "Terry Black's BBQ"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terry Black's BBQ"
+          ],
+          "latitude": [
+            "30.25986"
+          ],
+          "longitude": [
+            "-97.75496"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-terry-blacks-bbq-1"
+    ],
+    "published": [
+      "2022-10-25T19:36:39+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Terry Black's BBQ since November '21."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Terry Black's BBQ since November '21.</p>",
+              "value": "Welcome back! You haven't checked in to Terry Black's BBQ since November '21."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63583ac7b88cd72bf6e1447b/3a27da333cdfa9c9edd6774c30ef644b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63583ac7b88cd72bf6e1447b/3a27da333cdfa9c9edd6774c30ef644b"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First BBQ Joint check-in in 11 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First BBQ Joint check-in in 11 months!</p>",
+              "value": "First BBQ Joint check-in in 11 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/63583ac7b88cd72bf6e1447b/665dd1b787138813bc65d7aa66297124"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/63583ac7b88cd72bf6e1447b/665dd1b787138813bc65d7aa66297124"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/63583ac7b88cd72bf6e1447b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "6b1cbb68027f4c020d3ed5d7a3a8fba4"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-10-25T19:16:21Z",
+      "year": 2022,
+      "month": 10,
+      "day": 25,
+      "hour": 19,
+      "minute": 16,
+      "x": -97.74631619382433,
+      "y": 30.265697598969204,
+      "altitude": 146,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": ""
+    }
+  }
+}

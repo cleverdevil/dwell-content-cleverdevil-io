@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into The Coffee Bean & Tea Leaf"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": "The Coffee Bean & Tea Leaf"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Coffee Bean & Tea Leaf"
+          ],
+          "latitude": [
+            "33.81919654"
+          ],
+          "longitude": [
+            "-118.3856941"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"The Coffee Bean &amp; Tea Leaf\" src=\"https://cleverdevil.io/file/678774712b1f53831dbdf871a25ef53c\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Coffee and farmers market.</p>",
+        "value": "The Coffee Bean & Tea Leaf\nCoffee and farmers market."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-the-coffee-bean-tea-leaf-4"
+    ],
+    "published": [
+      "2017-07-30T18:01:32+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! You've checked in to The Coffee Bean & Tea Leaf 5 times!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! You've checked in to The Coffee Bean &amp; Tea Leaf 5 times!</p>",
+              "value": "Wow! You've checked in to The Coffee Bean & Tea Leaf 5 times!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1d66f35fe0c5c6522680c6183f2b07f2"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597e1eeb2be42574bc3bdf9d/dc5366b742689e0496786a8e47fd28eb"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597e1eeb2be42574bc3bdf9d/dc5366b742689e0496786a8e47fd28eb"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597e1eeb2be42574bc3bdf9d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2e366f8f36dfd2361221b3e0d520e7a1"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Woot, I have image posts syndicating from my website to Bluesky! Still lots to learn, but happy with the progress. I need to add one or two more minor things, and then the big remaining piece will be sending interactions back to my site."
+    ],
+    "content": [
+      {
+        "html": "Woot, I have image posts syndicating from my website to Bluesky! Still lots to learn, but happy with the progress. I need to add one or two more minor things, and then the big remaining piece will be sending interactions back to my site.",
+        "value": "Woot, I have image posts syndicating from my website to Bluesky! Still lots to learn, but happy with the progress. I need to add one or two more minor things, and then the big remaining piece will be sending interactions back to my site."
+      }
+    ],
+    "url": [
+      "/2023/woot-i-have-image-posts-syndicating-from"
+    ],
+    "published": [
+      "2023-05-18T19:36:37+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@jonathan \ud83d\udc40"
+          ],
+          "content": [
+            {
+              "html": "<p>@jonathan \ud83d\udc40</p>",
+              "value": "@jonathan \ud83d\udc40"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9jbGV2ZXJkZXZpbC5jbHViL3N5c3RlbS9jYWNoZS9hY2NvdW50cy9hdmF0YXJzLzEwOS8zNjgvNDM0Lzk1Mi84MjgvODIzL29yaWdpbmFsL2UwZmVkYjkzMWU3ZTliZWUuanBn/300/square"
+                ],
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://werd.social/@ben"
+                ]
+              },
+              "value": "Ben Werdmuller"
+            }
+          ],
+          "url": [
+            "https://werd.social/@ben/110391369960095185"
+          ]
+        },
+        "value": "https://werd.social/@ben/110391369960095185"
+      }
+    ],
+    "syndication": [
+      "https://cleverdevil.club/@jonathan/110391367964592360",
+      "https://bsky.app/profile/cleverdevil.io/post/3jvznq7lf7u2y"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "fa9ae21d1cf29dac7c97a62818f37b31"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-05-18T19:33:22Z",
+      "year": 2023,
+      "month": 5,
+      "day": 18,
+      "hour": 19,
+      "minute": 33,
+      "x": -118.37041138928473,
+      "y": 33.815355024835945,
+      "altitude": 67,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

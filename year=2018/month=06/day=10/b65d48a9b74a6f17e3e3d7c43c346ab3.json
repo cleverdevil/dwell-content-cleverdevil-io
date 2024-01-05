@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/query-32-more-than-reply-and-close"
+    ],
+    "published": [
+      "2018-06-10T18:26:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b65d48a9b74a6f17e3e3d7c43c346ab3"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Query 32: More Than Reply and Close"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1582ba0aaaa1728e68331945865bf55f/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Jd9YHfb2s"
+        ],
+        "content": [
+          {
+            "html": "<p>Live at WWDC, Serenity is joined by Myke Hurley to discuss iOS 12, iOS apps coming to the Mac, and a whole lot more.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Query</p>",
+            "value": "Live at WWDC, Serenity is joined by Myke Hurley to discuss iOS 12, iOS apps coming to the Mac, and a whole lot more.\nBy Query"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

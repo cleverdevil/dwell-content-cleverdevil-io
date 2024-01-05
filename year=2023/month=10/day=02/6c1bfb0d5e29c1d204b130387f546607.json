@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/271-nachos"
+    ],
+    "published": [
+      "2023-10-02T23:06:37+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6c1bfb0d5e29c1d204b130387f546607"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-10-02T23:03:56Z",
+      "year": 2023,
+      "month": 10,
+      "day": 2,
+      "hour": 23,
+      "minute": 3,
+      "x": -118.36740817141494,
+      "y": 33.81441580710881,
+      "altitude": 21,
+      "motion": [
+        "driving",
+        "stationary"
+      ],
+      "speed": 19,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": "Smartphone_connect_cdcb42"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 271: Nachos"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/04f0bac7f5396620d6b09c881e92553e/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2SmoHns"
+        ],
+        "content": [
+          {
+            "html": "<p>Hold on, John, Jason\u2019s got this one\u2026.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "Hold on, John, Jason\u2019s got this one\u2026.\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

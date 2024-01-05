@@ -1,0 +1,48 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Testing post from Icro via Micropub."
+    ],
+    "content": [
+      {
+        "html": "Testing post from Icro via Micropub.",
+        "value": "Testing post from Icro via Micropub."
+      }
+    ],
+    "url": [
+      "/2018/testing-post-from-icro-via-micropub"
+    ],
+    "published": [
+      "2018-05-17T21:15:13+0000"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "bc86552d21654e6a9f8890175e788099"
+    ]
+  }
+}

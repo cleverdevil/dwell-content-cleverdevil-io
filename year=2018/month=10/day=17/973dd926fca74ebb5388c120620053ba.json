@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2018/query-41-the-power-of-the-smart-home"
+    ],
+    "published": [
+      "2018-10-17T00:26:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "973dd926fca74ebb5388c120620053ba"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Query 41: The Power of the Smart Home"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/4cac0fb86ae222d0c8236e5f96c94adc/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Jd9Y24Qw0"
+        ],
+        "content": [
+          {
+            "html": "<p>Mikah dives deep into HomeKit devices, automation and more while Stephen makes plans for additional home automation.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Query</p>",
+            "value": "Mikah dives deep into HomeKit devices, automation and more while Stephen makes plans for additional home automation.\nBy Query"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

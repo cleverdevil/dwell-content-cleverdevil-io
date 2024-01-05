@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/459-a-train-youre-never-getting-off"
+    ],
+    "published": [
+      "2023-07-24T00:10:24+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "088bbfa4baf99ff4aee09f113a7aad29"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-23T21:43:17Z",
+      "year": 2023,
+      "month": 7,
+      "day": 23,
+      "hour": 21,
+      "minute": 43,
+      "x": -117.48461584464403,
+      "y": 34.47434645592427,
+      "altitude": 9422,
+      "motion": [
+        "driving"
+      ],
+      "speed": 218,
+      "battery_state": "charging",
+      "battery_level": 0.6899999976158142,
+      "wifi": "DeltaWiFi.com"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 459: A Train You\u2019re Never Getting Off"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8935002602513dd87a7fd3a7ec5cd4bc/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx64CYj8"
+        ],
+        "content": [
+          {
+            "html": "<p>Stephen is facing several dilemmas in his computing life, Myke insists that map size is related to the interestingness of a city and Federico has a HomePod mini just for himself.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Stephen is facing several dilemmas in his computing life, Myke insists that map size is related to the interestingness of a city and Federico has a HomePod mini just for himself.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

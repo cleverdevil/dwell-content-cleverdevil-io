@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/obb-ep-43-too-many-interviews"
+    ],
+    "published": [
+      "2019-08-11T20:10:42+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 70.44\u00b0F and 79% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 70.44\u00b0F and 79% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 70.44\u00b0F and 79% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/obb-ep-43-too-many-interviews/annotations/03c0b92fb3f33e9cc32dc4b3f5f298e2"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/obb-ep-43-too-many-interviews/annotations/03c0b92fb3f33e9cc32dc4b3f5f298e2"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "9865ee2db3919ddacaf42c073a844d83"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-11T23:21:44Z",
+      "year": 2019,
+      "month": 8,
+      "day": 11,
+      "hour": 23,
+      "minute": 21,
+      "x": -118.3705623098689,
+      "y": 33.81515234566983,
+      "altitude": 49,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6600000262260437,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to OBB Ep #43: Too Many Interviews"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8463d20c57902648d7c0e74ce19213a8/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ptf6jedbY"
+        ],
+        "content": [
+          {
+            "html": "<p>This episode features interviews with: Joaquin Gonzalez, Brock Berlin, Alex Donno and Scott Bergin. We also debut our new corespondent who was up in Tallahassee checking out Seminole Camp.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Orange Bowl Boys</p>",
+            "value": "This episode features interviews with: Joaquin Gonzalez, Brock Berlin, Alex Donno and Scott Bergin. We also debut our new corespondent who was up in Tallahassee checking out Seminole Camp.\nBy Orange Bowl Boys"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

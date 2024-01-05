@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Cowboy Cantina"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cowboy Cantina"
+          ],
+          "latitude": [
+            "33.721407"
+          ],
+          "longitude": [
+            "-116.397578"
+          ]
+        },
+        "value": "Cowboy Cantina"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cowboy Cantina"
+          ],
+          "latitude": [
+            "33.721407"
+          ],
+          "longitude": [
+            "-116.397578"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-cowboy-cantina-1"
+    ],
+    "published": [
+      "2023-07-01T03:30:34+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Cowboy Cantina since March."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Cowboy Cantina since March.</p>",
+              "value": "Welcome back! You haven't checked in to Cowboy Cantina since March."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/649f9dda865f70219d8a365f/4326b7be2174e4398e9b5fc0531d07b2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/649f9dda865f70219d8a365f/4326b7be2174e4398e9b5fc0531d07b2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/649f9dda865f70219d8a365f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c663ba363af351b5c9e0de6f44d7ca0b"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-07-01T03:16:36Z",
+      "year": 2023,
+      "month": 7,
+      "day": 1,
+      "hour": 3,
+      "minute": 16,
+      "x": -116.39760484605823,
+      "y": 33.7210552533438,
+      "altitude": 76,
+      "motion": [],
+      "speed": 6,
+      "battery_state": "unplugged",
+      "battery_level": 0.6200000047683716,
+      "wifi": ""
+    }
+  }
+}

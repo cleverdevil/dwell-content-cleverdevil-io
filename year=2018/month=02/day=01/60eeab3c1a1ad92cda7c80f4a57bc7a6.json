@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Public House"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Public House"
+          ],
+          "latitude": [
+            "36.122677849521"
+          ],
+          "longitude": [
+            "-115.16868932604"
+          ]
+        },
+        "value": "Public House"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Public House"
+          ],
+          "latitude": [
+            "36.122677849521"
+          ],
+          "longitude": [
+            "-115.16868932604"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Drinky drinks.</p>",
+        "value": "Drinky drinks."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-public-house"
+    ],
+    "published": [
+      "2018-02-01T06:47:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Wow! That's 20 check-ins at Gastropubs!"
+          ],
+          "content": [
+            {
+              "html": "<p>Wow! That's 20 check-ins at Gastropubs!</p>",
+              "value": "Wow! That's 20 check-ins at Gastropubs!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWlsZXN0b25lLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a72b7dd4c9be618277af81e/bf23046976aa0e64d0ad3266e1687c03"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a72b7dd4c9be618277af81e/bf23046976aa0e64d0ad3266e1687c03"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Public House!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Public House!</p>",
+              "value": "Your first check-in at Public House!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a72b7dd4c9be618277af81e/d3184fc532802fc964db8dc4eebeea31"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a72b7dd4c9be618277af81e/d3184fc532802fc964db8dc4eebeea31"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a72b7dd4c9be618277af81e"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "60eeab3c1a1ad92cda7c80f4a57bc7a6"
+    ]
+  }
+}

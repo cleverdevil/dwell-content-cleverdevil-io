@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Cowboy Cantina"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cowboy Cantina"
+          ],
+          "latitude": [
+            "33.721407"
+          ],
+          "longitude": [
+            "-116.397578"
+          ]
+        },
+        "value": "Cowboy Cantina"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cowboy Cantina"
+          ],
+          "latitude": [
+            "33.721407"
+          ],
+          "longitude": [
+            "-116.397578"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2023/checked-into-cowboy-cantina"
+    ],
+    "published": [
+      "2023-03-05T20:52:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First of your friends to check in here."
+          ],
+          "content": [
+            {
+              "html": "<p>First of your friends to check in here.</p>",
+              "value": "First of your friends to check in here."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/640500f6e2452e35cf7062ac/298d1d38300e94108a614bfe5e113b11"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/640500f6e2452e35cf7062ac/298d1d38300e94108a614bfe5e113b11"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in at Cowboy Cantina."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in at Cowboy Cantina.</p>",
+              "value": "First check-in at Cowboy Cantina."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/640500f6e2452e35cf7062ac/7f16a444066c5bec19cc304c51e90dba"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/640500f6e2452e35cf7062ac/7f16a444066c5bec19cc304c51e90dba"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/640500f6e2452e35cf7062ac"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5acef00ca14e3f58c45098ffb2753960"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-03-05T20:48:55Z",
+      "year": 2023,
+      "month": 3,
+      "day": 5,
+      "hour": 20,
+      "minute": 48,
+      "x": -116.39773675107546,
+      "y": 33.721382423396136,
+      "altitude": 80,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6100000143051147,
+      "wifi": ""
+    }
+  }
+}

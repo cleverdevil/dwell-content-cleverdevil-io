@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/239-monolith"
+    ],
+    "published": [
+      "2022-07-29T18:22:47+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c4bed4ecedaa05d1a63af978a134dcf4"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-07-29T19:59:57Z",
+      "year": 2022,
+      "month": 7,
+      "day": 29,
+      "hour": 19,
+      "minute": 59,
+      "x": -116.38035821519651,
+      "y": 33.70167404514043,
+      "altitude": 129,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8399999737739563,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 239: Monolith"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/75bd9efaacd9ef4ae3036db59c76aa89/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Ep2QMzbA4"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s a big thing in the middle of nowhere. Does it need to be a rock to be a monolith?\u2026</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Robot or Not?</p>",
+            "value": "It\u2019s a big thing in the middle of nowhere. Does it need to be a rock to be a monolith?\u2026\nBy Robot or Not?"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

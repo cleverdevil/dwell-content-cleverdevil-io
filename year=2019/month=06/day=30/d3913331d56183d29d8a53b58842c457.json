@@ -1,0 +1,420 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Making great progress on my first project for IndieWeb Summit hack day. Always gratifying to actually finish something."
+    ],
+    "content": [
+      {
+        "html": "Making great progress on my first project for IndieWeb Summit hack day. Always gratifying to actually finish something.",
+        "value": "Making great progress on my first project for IndieWeb Summit hack day. Always gratifying to actually finish something."
+      }
+    ],
+    "url": [
+      "/2019/making-great-progress-on-my-first-project"
+    ],
+    "published": [
+      "2019-06-30T19:44:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 74.74\u00b0F and 46% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 74.74\u00b0F and 46% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 74.74\u00b0F and 46% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/making-great-progress-on-my-first-project/annotations/1c8fb43327c684ac86e15ce315bc32c5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/making-great-progress-on-my-first-project/annotations/1c8fb43327c684ac86e15ce315bc32c5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "\ud83d\udc4d Keep up the excellent work! What are you implementing exactly? Are you referring to the improvements on the \"/following\" page?"
+          ],
+          "content": [
+            {
+              "html": "<p>\ud83d\udc4d Keep up the excellent work! What are you implementing exactly? Are you referring to the improvements on the \"/following\" page?</p>",
+              "value": "\ud83d\udc4d Keep up the excellent work! What are you implementing exactly? Are you referring to the improvements on the \"/following\" page?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExNDEzMTg5MzEyNTg1MTEzNjAvYlZFdTY5dGQucG5n/300/square"
+                ],
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://twitter.com/johanbove"
+                ]
+              },
+              "value": "Johan Bov\u00e9"
+            }
+          ],
+          "url": [
+            "https://twitter.com/johanbove/status/1145436819019980800"
+          ]
+        },
+        "value": "https://twitter.com/johanbove/status/1145436819019980800"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "@cleverdevil \ud83d\ude4c IndieWins!"
+          ],
+          "content": [
+            {
+              "html": "<p>@cleverdevil \ud83d\ude4c IndieWins!</p>",
+              "value": "@cleverdevil \ud83d\ude4c IndieWins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9taWNyby5ibG9nL2VsaS9hdmF0YXIuanBn/300/square"
+                ],
+                "name": [
+                  "eli"
+                ],
+                "url": [
+                  "https://micro.blog/eli"
+                ]
+              },
+              "value": "eli"
+            }
+          ],
+          "url": [
+            "https://micro.blog/eli/4298387"
+          ]
+        },
+        "value": "https://micro.blog/eli/4298387"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1145417746265661440",
+      "https://mastodon.social/@cleverdevil/102362241238928724"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "d3913331d56183d29d8a53b58842c457"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145417746265661440?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145417746265661440%2F783092"
+          ],
+          "published": [
+            "2019-06-30T20:03:08+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Ben Werdmuller"
+                ],
+                "url": [
+                  "https://twitter.com/benwerd"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNDA2MzIyNzc3NzA3ODg4NjQvUlRJZTh1bEQuanBn/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzEwNDA2MzIyNzc3NzA3ODg4NjQvUlRJZTh1bEQuanBn/300/square Ben Werdmuller"
+            }
+          ]
+        },
+        "value": "Ben Werdmuller"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145417746265661440?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145417746265661440%2F1427"
+          ],
+          "published": [
+            "2019-06-30T20:31:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Tim Chambers"
+                ],
+                "url": [
+                  "https://twitter.com/tchambers"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgzOTY3MTQ0ODk2MDY1NTM2MS9XWFRsX3hRRS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgzOTY3MTQ0ODk2MDY1NTM2MS9XWFRsX3hRRS5qcGc,/300/square Tim Chambers"
+            }
+          ]
+        },
+        "value": "Tim Chambers"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145417746265661440?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145417746265661440%2F231445532"
+          ],
+          "published": [
+            "2019-06-30T21:03:46+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Johan Bov\u00e9"
+                ],
+                "url": [
+                  "https://twitter.com/johanbove"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExNDEzMTg5MzEyNTg1MTEzNjAvYlZFdTY5dGQucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExNDEzMTg5MzEyNTg1MTEzNjAvYlZFdTY5dGQucG5n/300/square Johan Bov\u00e9"
+            }
+          ]
+        },
+        "value": "Johan Bov\u00e9"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://eddiehinkle.com/2019/06/30/9/like/"
+          ],
+          "published": [
+            "2019-06-30T21:59:26+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Web user"
+                ],
+                "url": [
+                  "https://eddiehinkle.com"
+                ],
+                "photo": [
+                  ""
+                ]
+              },
+              "value": " Web user"
+            }
+          ]
+        },
+        "value": "Web user"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145417746265661440?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145417746265661440%2F308803734"
+          ],
+          "published": [
+            "2019-06-30T22:03:21+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Eddie Hinkle"
+                ],
+                "url": [
+                  "https://twitter.com/EddieHinkle"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzgxODY3MzQ4MDA5OTA1MzU3MC9aUHVBd214WS5qcGc,/300/square Eddie Hinkle"
+            }
+          ]
+        },
+        "value": "Eddie Hinkle"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://aaronparecki.com/2019/06/30/19/"
+          ],
+          "published": [
+            "2019-06-30T19:44:04+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9hYXJvbnBhcmVja2kuY29tL2ltYWdlcy9wcm9maWxlLmpwZw,,/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1145417746265661440?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1145417746265661440%2F14447132"
+          ],
+          "published": [
+            "2019-06-30T23:05:02+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Aaron Parecki"
+                ],
+                "url": [
+                  "https://twitter.com/aaronpk"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzExMDMxMjA0MjU4NDY4NTc3MjgvWDNkMGEyVHIucG5n/300/square Aaron Parecki"
+            }
+          ]
+        },
+        "value": "Aaron Parecki"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-30T19:43:09Z",
+      "year": 2019,
+      "month": 6,
+      "day": 30,
+      "hour": 19,
+      "minute": 43,
+      "x": -122.68246825155472,
+      "y": 45.52342762143816,
+      "altitude": 18,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": "Mozilla Guest"
+    }
+  }
+}

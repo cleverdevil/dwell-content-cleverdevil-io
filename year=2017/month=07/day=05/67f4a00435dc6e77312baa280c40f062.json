@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into City of Rancho Palos Verdes"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Rancho Palos Verdes"
+          ],
+          "latitude": [
+            "33.74832232784"
+          ],
+          "longitude": [
+            "-118.3708190918"
+          ]
+        },
+        "value": "City of Rancho Palos Verdes"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "City of Rancho Palos Verdes"
+          ],
+          "latitude": [
+            "33.74832232784"
+          ],
+          "longitude": [
+            "-118.3708190918"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"City of Rancho Palos Verdes\" src=\"https://cleverdevil.io/file/e6c2a46d00d403e3e5291d6b4648c792\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>July 4th party in style!</p>",
+        "value": "City of Rancho Palos Verdes\nJuly 4th party in style!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-city-of-rancho-palos-verdes"
+    ],
+    "published": [
+      "2017-07-05T00:33:24+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "No filters needed for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>No filters needed for that photo.</p>",
+              "value": "No filters needed for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/31c0706e39a7631bfd2e18db65ac78db"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595c33c25d891b1b11d6198f/4bdb400281a1b04757721e95fe28dcb1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/595c33c25d891b1b11d6198f/4bdb400281a1b04757721e95fe28dcb1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/595c33c25d891b1b11d6198f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "67f4a00435dc6e77312baa280c40f062"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/595c33c25d891b1b11d6198f/f27ff6d432d964fa0293caf03718eede"
+          ],
+          "published": [
+            "2017-07-05T00:33:06+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Josh Sanderson"
+                ],
+                "url": [
+                  "https://foursquare.com/user/91779865"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/316fdc48fdda5ccaf36df8fc1dd59378"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/316fdc48fdda5ccaf36df8fc1dd59378 Josh Sanderson"
+            }
+          ]
+        },
+        "value": "Josh Sanderson"
+      }
+    ]
+  }
+}

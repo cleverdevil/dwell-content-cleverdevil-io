@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into CVS/pharmacy"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "CVS/pharmacy"
+          ],
+          "latitude": [
+            "33.816749"
+          ],
+          "longitude": [
+            "-118.377794"
+          ]
+        },
+        "value": "CVS/pharmacy"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "CVS/pharmacy"
+          ],
+          "latitude": [
+            "33.816749"
+          ],
+          "longitude": [
+            "-118.377794"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-cvspharmacy"
+    ],
+    "published": [
+      "2017-08-13T17:05:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this CVS/pharmacy!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this CVS/pharmacy!</p>",
+              "value": "Your first check-in at this CVS/pharmacy!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/8ebf8c6223bac049153c5f431568b8f1"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599086cf8d0a5306b472f394/93c821ed55b4eed19f777dfaef8f318d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599086cf8d0a5306b472f394/93c821ed55b4eed19f777dfaef8f318d"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599086cf8d0a5306b472f394"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "a51e49b1d40bf3d7256936496fed9953"
+    ]
+  }
+}

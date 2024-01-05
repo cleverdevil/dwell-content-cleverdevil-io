@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into M\u00e9tro Invalides [8,13]"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "M\u00e9tro Invalides [8,13]"
+          ],
+          "latitude": [
+            "48.860952323568"
+          ],
+          "longitude": [
+            "2.3143317106442"
+          ]
+        },
+        "value": "M\u00e9tro Invalides [8,13]"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "M\u00e9tro Invalides [8,13]"
+          ],
+          "latitude": [
+            "48.860952323568"
+          ],
+          "longitude": [
+            "2.3143317106442"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-m%C3%A9tro-invalides-813"
+    ],
+    "published": [
+      "2017-06-15T16:42:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First check-in in Paris."
+          ],
+          "content": [
+            {
+              "html": "<p>First check-in in Paris.</p>",
+              "value": "First check-in in Paris."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/0246d0b55b20126f91d9f168e2d55fd6"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5942b8d69d6a1966b025af51/c3c9005d2effab66bbe740a1f56931e5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5942b8d69d6a1966b025af51/c3c9005d2effab66bbe740a1f56931e5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5942b8d69d6a1966b025af51"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "7af273e8a5f8b0cc0ee5ae7ad2bbbb29"
+    ]
+  }
+}

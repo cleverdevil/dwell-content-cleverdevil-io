@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Park Central Hotel San Francisco"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Central Hotel San Francisco"
+          ],
+          "latitude": [
+            "37.786756674489"
+          ],
+          "longitude": [
+            "-122.40289893653"
+          ]
+        },
+        "value": "Park Central Hotel San Francisco"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Park Central Hotel San Francisco"
+          ],
+          "latitude": [
+            "37.786756674489"
+          ],
+          "longitude": [
+            "-122.40289893653"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-park-central-hotel-san-francisco-1"
+    ],
+    "published": [
+      "2017-06-14T04:10:14+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! A snail can sleep for 3 years. Jealous?"
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! A snail can sleep for 3 years. Jealous?</p>",
+              "value": "Fun Fact! A snail can sleep for 3 years. Jealous?"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4fa9ddbef107813c630aefefc08b9ad3"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5940b71651950e0f58e7b0a8/4e258c427f36abcdb3b3c0ff8d9ec99b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5940b71651950e0f58e7b0a8/4e258c427f36abcdb3b3c0ff8d9ec99b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5940b71651950e0f58e7b0a8"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "1c2da90fe2387db598ac03e0928081c3"
+    ]
+  }
+}

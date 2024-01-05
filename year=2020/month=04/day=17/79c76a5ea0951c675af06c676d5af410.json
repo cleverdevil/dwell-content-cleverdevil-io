@@ -1,0 +1,111 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Having a lot of fun on Zoom with my friend Andy, showing off IndieWeb!"
+    ],
+    "content": [
+      {
+        "html": "Having a lot of fun on Zoom with my friend Andy, showing off IndieWeb!",
+        "value": "Having a lot of fun on Zoom with my friend Andy, showing off IndieWeb!"
+      }
+    ],
+    "url": [
+      "/2020/having-a-lot-of-fun-on-zoom"
+    ],
+    "published": [
+      "2020-04-17T00:35:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 62.91\u00b0F and 74% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 62.91\u00b0F and 74% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 62.91\u00b0F and 74% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/having-a-lot-of-fun-on-zoom/annotations/2b0b164a872cad081cda0734a1818cbe"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/having-a-lot-of-fun-on-zoom/annotations/2b0b164a872cad081cda0734a1818cbe"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1250946021741510662",
+      "https://mastodon.social/@cleverdevil/104011120577372338"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "79c76a5ea0951c675af06c676d5af410"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-17T00:17:56Z",
+      "year": 2020,
+      "month": 4,
+      "day": 17,
+      "hour": 0,
+      "minute": 17,
+      "x": -118.3704161954494,
+      "y": 33.815401878999495,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  }
+}

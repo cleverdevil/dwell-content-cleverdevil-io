@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/328-sir-i-believe-thats-not-your-suitcase"
+    ],
+    "published": [
+      "2021-01-15T16:54:03+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "6b0635a5d8a2068f578f18016e07a2c1"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-01-15T20:02:33Z",
+      "year": 2021,
+      "month": 1,
+      "day": 15,
+      "hour": 20,
+      "minute": 2,
+      "x": -118.38705005660354,
+      "y": 33.8167878046226,
+      "altitude": 19,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9300000071525574,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 328: Sir, I Believe That\u2019s Not Your Suitcase"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/44e6c69228ed8e7ad929a3fe6565039b/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx644_TU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, the guys gather to discuss Apple\u2019s new Racial Equity and Justice Initiatives, some things at CES that caught their eyes and how they feel about the Apple Watch.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, the guys gather to discuss Apple\u2019s new Racial Equity and Justice Initiatives, some things at CES that caught their eyes and how they feel about the Apple Watch.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

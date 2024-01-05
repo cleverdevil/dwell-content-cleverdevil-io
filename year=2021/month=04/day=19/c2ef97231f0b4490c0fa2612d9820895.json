@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/348-the-2021-april-event-draft"
+    ],
+    "published": [
+      "2021-04-19T00:46:19+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "c2ef97231f0b4490c0fa2612d9820895"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-04-19T03:32:59Z",
+      "year": 2021,
+      "month": 4,
+      "day": 19,
+      "hour": 3,
+      "minute": 32,
+      "x": -118.37031471545698,
+      "y": 33.815433091964536,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.25,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 348: The 2021 April Event Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8c220f51158beaa6bb3bbbfd6a11d5fb/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-Ct8yI"
+        ],
+        "content": [
+          {
+            "html": "<p>Emergency draft! In this bonus episode, Jason and Myke predict what will happen at Tuesday\u2019s Apple media event. Will there be new iPad Pro models, and if so, will new accessories accompany them? Will we finally see a new iMac design?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Emergency draft! In this bonus episode, Jason and Myke predict what will happen at Tuesday\u2019s Apple media event. Will there be new iPad Pro models, and if so, will new accessories accompany them? Will we finally see a new iMac design?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

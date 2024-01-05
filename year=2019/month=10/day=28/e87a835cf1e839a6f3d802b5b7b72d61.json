@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Bloomberg - Are you a robot?"
+    ],
+    "like-of": [
+      "https://www.bloomberg.com/news/articles/2019-10-28/apple-working-on-new-homekit-devices-after-homepod-apple-tv"
+    ],
+    "url": [
+      "/2019/bloomberg---are-you-a-robot"
+    ],
+    "published": [
+      "2019-10-28T19:43:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.08\u00b0F and 19% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.08\u00b0F and 19% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.08\u00b0F and 19% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/bloomberg---are-you-a-robot/annotations/ee1596e1e86358973883deedf8d40ce5"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/bloomberg---are-you-a-robot/annotations/ee1596e1e86358973883deedf8d40ce5"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "e87a835cf1e839a6f3d802b5b7b72d61"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-28T19:27:37Z",
+      "year": 2019,
+      "month": 10,
+      "day": 28,
+      "hour": 19,
+      "minute": 27,
+      "x": -118.39510465141437,
+      "y": 33.91969882335366,
+      "altitude": 31,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9100000262260437,
+      "wifi": "WeWork"
+    }
+  }
+}

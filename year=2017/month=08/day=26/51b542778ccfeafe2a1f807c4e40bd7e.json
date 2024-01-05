@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ralphs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": "Ralphs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ralphs"
+          ],
+          "latitude": [
+            "33.813502133529"
+          ],
+          "longitude": [
+            "-118.36775238878"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-ralphs-6"
+    ],
+    "published": [
+      "2017-08-26T19:32:36+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! The term \"toast\" originated when ancient Romans would drop toasted bread into their wine. Hey, it's better than poison."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! The term \"toast\" originated when ancient Romans would drop toasted bread into their wine. Hey, it's better than poison.</p>",
+              "value": "Fun Fact! The term \"toast\" originated when ancient Romans would drop toasted bread into their wine. Hey, it's better than poison."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/260d9b2b8b0503dc591f54dfbd012561"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59a1ccc4f00a70727e2e4db6/99ba71f1e276733596c3fadb4987abb1"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59a1ccc4f00a70727e2e4db6/99ba71f1e276733596c3fadb4987abb1"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59a1ccc4f00a70727e2e4db6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "51b542778ccfeafe2a1f807c4e40bd7e"
+    ]
+  }
+}

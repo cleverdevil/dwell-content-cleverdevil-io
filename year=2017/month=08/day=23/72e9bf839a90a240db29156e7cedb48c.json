@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Village"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": "Riviera Village"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Village"
+          ],
+          "latitude": [
+            "33.817532736895"
+          ],
+          "longitude": [
+            "-118.38653132773"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Riviera Village\" src=\"https://cleverdevil.io/file/a435edf3ce65cdfc682d7315756f1f78\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Home again!</p>",
+        "value": "Riviera Village\nHome again!"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-riviera-village-7"
+    ],
+    "published": [
+      "2017-08-23T01:13:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're gonna need a frame for that photo."
+          ],
+          "content": [
+            {
+              "html": "<p>You're gonna need a frame for that photo.</p>",
+              "value": "You're gonna need a frame for that photo."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4d3a3ce4ba32ddb7532af94fc07f998d"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599cd6aa6f706a6afb36549d/f840421e4bead97abc1e2d1a6f82d301"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599cd6aa6f706a6afb36549d/f840421e4bead97abc1e2d1a6f82d301"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599cd6aa6f706a6afb36549d"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "72e9bf839a90a240db29156e7cedb48c"
+    ]
+  }
+}

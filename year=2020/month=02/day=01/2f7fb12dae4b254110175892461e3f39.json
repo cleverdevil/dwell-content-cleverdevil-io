@@ -1,0 +1,185 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Downtown Disney District"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Downtown Disney District"
+          ],
+          "latitude": [
+            "33.808991792536"
+          ],
+          "longitude": [
+            "-117.92374166519"
+          ]
+        },
+        "value": "Downtown Disney District"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Downtown Disney District"
+          ],
+          "latitude": [
+            "33.808991792536"
+          ],
+          "longitude": [
+            "-117.92374166519"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-downtown-disney-district-1"
+    ],
+    "published": [
+      "2020-02-01T17:46:54+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to Downtown Disney District since November '17."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to Downtown Disney District since November '17.</p>",
+              "value": "Welcome back! You haven't checked in to Downtown Disney District since November '17."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e35b98e6ec7c600082ccb1f/65bbf10cff95761b0058789f2dfa0b4c"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e35b98e6ec7c600082ccb1f/65bbf10cff95761b0058789f2dfa0b4c"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.9\u00b0F and 71% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.9\u00b0F and 71% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.9\u00b0F and 71% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-downtown-disney-district-1/annotations/a90e307f6208ebd4c3c3a87d971ccede"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-downtown-disney-district-1/annotations/a90e307f6208ebd4c3c3a87d971ccede"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e35b98e6ec7c600082ccb1f"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2f7fb12dae4b254110175892461e3f39"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-02T04:54:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "hour": 4,
+      "minute": 54,
+      "x": -118.37050755298914,
+      "y": 33.81529100701752,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  }
+}

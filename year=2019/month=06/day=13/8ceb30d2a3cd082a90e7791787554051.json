@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Orlando World Center Marriott"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Orlando World Center Marriott"
+          ],
+          "latitude": [
+            "28.3609951"
+          ],
+          "longitude": [
+            "-81.507605"
+          ]
+        },
+        "value": "Orlando World Center Marriott"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Orlando World Center Marriott"
+          ],
+          "latitude": [
+            "28.3609951"
+          ],
+          "longitude": [
+            "-81.507605"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2019/checked-into-orlando-world-center-marriott"
+    ],
+    "published": [
+      "2019-06-13T05:46:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Humid with a temperature of 75.81\u00b0F and 92% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Humid with a temperature of 75.81\u00b0F and 92% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Humid with a temperature of 75.81\u00b0F and 92% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-orlando-world-center-marriott/annotations/009d0b0b80bcc6e11968dd0ad21d9ae7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-orlando-world-center-marriott/annotations/009d0b0b80bcc6e11968dd0ad21d9ae7"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d01e34a1987ec002cbf064b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "8ceb30d2a3cd082a90e7791787554051"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-13T05:46:30Z",
+      "year": 2019,
+      "month": 6,
+      "day": 13,
+      "hour": 5,
+      "minute": 46,
+      "x": -81.51078056117886,
+      "y": 28.360806745143424,
+      "altitude": 34,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.6899999976158142,
+      "wifi": ""
+    }
+  }
+}

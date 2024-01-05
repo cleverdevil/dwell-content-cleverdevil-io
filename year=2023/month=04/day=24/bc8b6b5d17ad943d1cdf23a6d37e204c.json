@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/531-rock-it-in-the-right-direction"
+    ],
+    "published": [
+      "2023-04-24T12:34:00+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bc8b6b5d17ad943d1cdf23a6d37e204c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-24T15:48:14Z",
+      "year": 2023,
+      "month": 4,
+      "day": 24,
+      "hour": 15,
+      "minute": 48,
+      "x": -118.37044618320452,
+      "y": 33.81537241677171,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.5699999928474426,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 531: Rock It in the Right Direction"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/e164cd0499fd214b33bc737a4790fc62/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUL7IEZs"
+        ],
+        "content": [
+          {
+            "html": "<p>It\u2019s an exciting time for the preeminent podcast about Apple buttons.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "It\u2019s an exciting time for the preeminent podcast about Apple buttons.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

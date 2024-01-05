@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Relaxing before bed.</p>",
+        "value": "Relaxing before bed."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-12"
+    ],
+    "published": [
+      "2017-04-10T03:46:44+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta.</p>",
+              "value": "Fun Fact! The world's busiest airport is Hartsfield-Jackson International Airport in Atlanta."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/efd6bcb3e3a25c5e23a8577be6f22dcf"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58eb0021f7f8dd5d05134611/d8003beac1c1a6b3e2048e7ffe180bfc"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58eb0021f7f8dd5d05134611/d8003beac1c1a6b3e2048e7ffe180bfc"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58eb0021f7f8dd5d05134611"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "dc88df58d5a0d737328179be5880e1d1"
+    ]
+  }
+}

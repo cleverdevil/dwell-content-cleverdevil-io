@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/a-priori-engagement"
+    ],
+    "published": [
+      "2023-04-17T17:00:38+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8678e1a99a6d3e4011ff18bdcd1b5bed"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-04-17T19:59:13Z",
+      "year": 2023,
+      "month": 4,
+      "day": 17,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.3703711166825,
+      "y": 33.815352314461045,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to A Priori Engagement"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1e1b46c33f010fa612b5c4788fe775d6/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+YJM3l_M_w"
+        ],
+        "content": [
+          {
+            "html": "<p>Tanya brings the case against her husband Thomas. During the height of the coronavirus pandemic, Tanya read a news story about wedding venues being booked years in advance. She asked Thomas if he wanted to get married. He said yes. Thomas interpreted that as a proposal. But Tanya says it was just a question about logistics, NOT a proposal!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Judge John Hodgman</p>",
+            "value": "Tanya brings the case against her husband Thomas. During the height of the coronavirus pandemic, Tanya read a news story about wedding venues being booked years in advance. She asked Thomas if he wanted to get married. He said yes. Thomas interpreted that as a proposal. But Tanya says it was just a question about logistics, NOT a proposal!\nBy Judge John Hodgman"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

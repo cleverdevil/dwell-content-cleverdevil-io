@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Detroit Metropolitan Wayne County Airport (DTW)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.207700830631"
+          ],
+          "longitude": [
+            "-83.358780347785"
+          ]
+        },
+        "value": "Detroit Metropolitan Wayne County Airport (DTW)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Detroit Metropolitan Wayne County Airport (DTW)"
+          ],
+          "latitude": [
+            "42.207700830631"
+          ],
+          "longitude": [
+            "-83.358780347785"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Layover.</p>",
+        "value": "Layover."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-detroit-metropolitan-wayne-county-airport-dtw"
+    ],
+    "published": [
+      "2017-05-23T20:43:12+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Detroit Metropolitan Wayne County Airport! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Detroit Metropolitan Wayne County Airport! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Detroit Metropolitan Wayne County Airport! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/06a551ef3dc28dfb3a43e45c241bda4b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/59249ed0f4b5253074738c79/dd8695d2737e775fed38a246c8565751"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/59249ed0f4b5253074738c79/dd8695d2737e775fed38a246c8565751"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/59249ed0f4b5253074738c79"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "5cb5bbdb6031caf6a5dfb9c7957ccd6d"
+    ]
+  }
+}

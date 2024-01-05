@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/191-love-and-cleaning"
+    ],
+    "published": [
+      "2022-09-18T08:14:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "2c7355df62086db4d4e607a8389eddec"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-09-18T11:49:45Z",
+      "year": 2022,
+      "month": 9,
+      "day": 18,
+      "hour": 11,
+      "minute": 49,
+      "x": -116.38036330658008,
+      "y": 33.701594595206366,
+      "altitude": 105,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 191: Love and Cleaning"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/65b27baf0c95eab57935e59782233b93/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+E5INQe0bU"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple announces some new products, London Bridge is down, and your hosts continue their tour of mini-topics.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Reconcilable Differences</p>",
+            "value": "Apple announces some new products, London Bridge is down, and your hosts continue their tour of mini-topics.\nBy Reconcilable Differences"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

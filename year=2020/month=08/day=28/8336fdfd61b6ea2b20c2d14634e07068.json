@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/312-outgrade"
+    ],
+    "published": [
+      "2020-08-28T15:19:45+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8336fdfd61b6ea2b20c2d14634e07068"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-28T15:49:34Z",
+      "year": 2020,
+      "month": 8,
+      "day": 28,
+      "hour": 15,
+      "minute": 49,
+      "x": -118.37032680319578,
+      "y": 33.81543918431994,
+      "altitude": 55,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 312: Outgrade"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/ede9452ed41fca12282a7f3dee75ee16/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_BbDQA"
+        ],
+        "content": [
+          {
+            "html": "<p>Jason and Myke take a walk in the woods while discussing Apple and Epic, the latest Apple TV+ news, the speed potential of Macs with Apple silicon, and how the pandemic has changed their working lives.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Jason and Myke take a walk in the woods while discussing Apple and Epic, the latest Apple TV+ news, the speed potential of Macs with Apple silicon, and how the pandemic has changed their working lives.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

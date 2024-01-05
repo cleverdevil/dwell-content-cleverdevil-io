@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into BOX LUNCH"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOX LUNCH"
+          ],
+          "latitude": [
+            "33.833383"
+          ],
+          "longitude": [
+            "-118.350443"
+          ]
+        },
+        "value": "BOX LUNCH"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "BOX LUNCH"
+          ],
+          "latitude": [
+            "33.833383"
+          ],
+          "longitude": [
+            "-118.350443"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-box-lunch-1"
+    ],
+    "published": [
+      "2017-08-15T02:01:03+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to BOX LUNCH since April."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to BOX LUNCH since April.</p>",
+              "value": "Welcome back! You haven't checked in to BOX LUNCH since April."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/e0ba45ecdbf2248fbe15d8997d19ce03"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/599255cfbfc6d057f6d2837b/2d456f256dc1171d5ba885810cd49970"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/599255cfbfc6d057f6d2837b/2d456f256dc1171d5ba885810cd49970"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/599255cfbfc6d057f6d2837b"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "15ac43383424c92e005b950d35d927e6"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "This x1000.\n\nhttps://twitter.com/helloiamrob/status/1107643554325778432"
+    ],
+    "content": [
+      {
+        "html": "This x1000.<br/>\n<br/>\n<a href=\"https://twitter.com/helloiamrob/status/1107643554325778432\" target=\"_blank\">https://<wbr/>twitter.com/<wbr/>helloiamrob/<wbr/>status/<wbr/>1107643554325778432</a>",
+        "value": "This x1000.\n\nhttps://twitter.com/helloiamrob/status/1107643554325778432"
+      }
+    ],
+    "url": [
+      "/2019/this-x1000helloiamrobstatus1107643554325778432"
+    ],
+    "published": [
+      "2019-03-18T19:03:47+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 36% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 36% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.93\u00b0F and 36% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/this-x1000helloiamrobstatus1107643554325778432/annotations/513d311f770a71a9056f85d495c95c99"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/this-x1000helloiamrobstatus1107643554325778432/annotations/513d311f770a71a9056f85d495c95c99"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/1107719273068314624",
+      "https://mastodon.social/@cleverdevil/101773202635632486"
+    ],
+    "post-kind": [
+      "Status"
+    ],
+    "post-id": [
+      "cc6aea6a1fdc7b271bd714115ca1ab1b"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/1107719273068314624?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F1107719273068314624%2F67930145"
+          ],
+          "published": [
+            "2019-03-18T19:34:22+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "KB"
+                ],
+                "url": [
+                  "https://twitter.com/economyofspace"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2NTMwMTQ4NTAyOTk1NzYzMi9NRTBzeWFQRS5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzg2NTMwMTQ4NTAyOTk1NzYzMi9NRTBzeWFQRS5qcGc,/300/square KB"
+            }
+          ]
+        },
+        "value": "KB"
+      }
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-18T19:01:26Z",
+      "year": 2019,
+      "month": 3,
+      "day": 18,
+      "hour": 19,
+      "minute": 1,
+      "x": -121.94342671607325,
+      "y": 37.2854695355521,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7799999713897705,
+      "wifi": "Mojio-Guest"
+    }
+  }
+}

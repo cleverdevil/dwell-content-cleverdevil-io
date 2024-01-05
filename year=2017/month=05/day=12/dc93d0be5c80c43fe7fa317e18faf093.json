@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Pavement Coffeehouse"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pavement Coffeehouse"
+          ],
+          "latitude": [
+            "42.347039338466"
+          ],
+          "longitude": [
+            "-71.088334321976"
+          ]
+        },
+        "value": "Pavement Coffeehouse"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pavement Coffeehouse"
+          ],
+          "latitude": [
+            "42.347039338466"
+          ],
+          "longitude": [
+            "-71.088334321976"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-pavement-coffeehouse-1"
+    ],
+    "published": [
+      "2017-05-12T16:51:22+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! Coffee was discovered when a 9th century Ethiopian goat herder noticed his goats ate the beans and went crazy."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! Coffee was discovered when a 9th century Ethiopian goat herder noticed his goats ate the beans and went crazy.</p>",
+              "value": "Fun Fact! Coffee was discovered when a 9th century Ethiopian goat herder noticed his goats ate the beans and went crazy."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/1933a69138076d9077cc62b748d60230"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5915e7fa75a6ea2261ba13cc/486413eaf1ed6f2a801d0c47882c2ddf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5915e7fa75a6ea2261ba13cc/486413eaf1ed6f2a801d0c47882c2ddf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5915e7fa75a6ea2261ba13cc"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "dc93d0be5c80c43fe7fa317e18faf093"
+    ]
+  }
+}

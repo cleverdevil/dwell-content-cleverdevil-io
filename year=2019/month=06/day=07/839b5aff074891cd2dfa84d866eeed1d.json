@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "The Future of Interaction, Part II &bull; furbo.org"
+    ],
+    "like-of": [
+      "https://furbo.org/2019/06/07/the-future-of-interaction-part-ii/"
+    ],
+    "url": [
+      "/2019/the-future-of-interaction-part-ii-bull-furboorg"
+    ],
+    "published": [
+      "2019-06-07T22:01:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.82\u00b0F and 77% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.82\u00b0F and 77% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 65.82\u00b0F and 77% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/the-future-of-interaction-part-ii-bull-furboorg/annotations/cb29d43577f5e9b9332b90db32a491e7"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/the-future-of-interaction-part-ii-bull-furboorg/annotations/cb29d43577f5e9b9332b90db32a491e7"
+      }
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "839b5aff074891cd2dfa84d866eeed1d"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-07T21:56:34Z",
+      "year": 2019,
+      "month": 6,
+      "day": 7,
+      "hour": 21,
+      "minute": 56,
+      "x": -118.37037434563847,
+      "y": 33.81536162976189,
+      "altitude": 50,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7200000286102295,
+      "wifi": "LaCour"
+    }
+  }
+}

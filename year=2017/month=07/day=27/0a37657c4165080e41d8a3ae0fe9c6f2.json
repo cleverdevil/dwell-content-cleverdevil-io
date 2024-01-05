@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Terranea Resort"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terranea Resort"
+          ],
+          "latitude": [
+            "33.738320665191"
+          ],
+          "longitude": [
+            "-118.39760027431"
+          ]
+        },
+        "value": "Terranea Resort"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Terranea Resort"
+          ],
+          "latitude": [
+            "33.738320665191"
+          ],
+          "longitude": [
+            "-118.39760027431"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Offsite meeting with colleagues at my happy place.</p>",
+        "value": "Offsite meeting with colleagues at my happy place."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-terranea-resort-2"
+    ],
+    "published": [
+      "2017-07-27T16:18:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! It's been 2 months since you've checked in to Terranea Resort."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! It's been 2 months since you've checked in to Terranea Resort.</p>",
+              "value": "Welcome back! It's been 2 months since you've checked in to Terranea Resort."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/24a539cc89c8f2512e67b22617bc11f0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597a1236974617649dbaf82a/500a4027e51120314095e3cc5fd75913"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597a1236974617649dbaf82a/500a4027e51120314095e3cc5fd75913"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597a1236974617649dbaf82a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "0a37657c4165080e41d8a3ae0fe9c6f2"
+    ]
+  }
+}

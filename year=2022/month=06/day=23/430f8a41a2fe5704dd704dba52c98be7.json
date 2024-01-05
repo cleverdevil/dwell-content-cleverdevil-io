@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2022/412-justin-dont-do-it"
+    ],
+    "published": [
+      "2022-06-23T05:02:15+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "430f8a41a2fe5704dd704dba52c98be7"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-06-23T07:55:40Z",
+      "year": 2022,
+      "month": 6,
+      "day": 23,
+      "hour": 7,
+      "minute": 55,
+      "x": -118.37032280736253,
+      "y": 33.81545617389717,
+      "altitude": 54,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.019999999552965164,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 412: Justin, Don\u2019t Do It"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/66cc2105f0ea7ef74fa1ae58619e2f26/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm8s6koU"
+        ],
+        "content": [
+          {
+            "html": "<p>This week: Apple makes a surprising deal with MLS, Stage Manager and window management, and Myke is excited for the iPad Studio and the MacBook Studio if and when they are ever announced.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week: Apple makes a surprising deal with MLS, Stage Manager and window management, and Myke is excited for the iPad Studio and the MacBook Studio if and when they are ever announced.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/359-hi-everybody-pineapple"
+    ],
+    "published": [
+      "2021-06-30T19:36:23+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "954b47a588bbe6fe80a329c542ad786e"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-06-30T19:52:39Z",
+      "year": 2021,
+      "month": 6,
+      "day": 30,
+      "hour": 19,
+      "minute": 52,
+      "x": -118.37039728195397,
+      "y": 33.815391298100295,
+      "altitude": 55,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 359: Hi Everybody\u2026 Pineapple"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/40724511eafa5d44dbe837e828b77ae0/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm-MKOCw"
+        ],
+        "content": [
+          {
+            "html": "<p>SUMMER OF FUN! This week we\u2019ve got new beachwear, a mega Summer edition of <a class=\"p-category\" href=\"/tag/askupgrade\" rel=\"tag\">#askupgrade</a>, dreams of larger iPads, and a less fun conversation about Apple\u2019s reaction to potential new tech legislation.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "SUMMER OF FUN! This week we\u2019ve got new beachwear, a mega Summer edition of #askupgrade, dreams of larger iPads, and a less fun conversation about Apple\u2019s reaction to potential new tech legislation.\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#askupgrade"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

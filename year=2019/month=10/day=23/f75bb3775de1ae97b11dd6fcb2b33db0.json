@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/348-panic-shutdown"
+    ],
+    "published": [
+      "2019-10-23T00:25:20+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 72.77\u00b0F and 37% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 72.77\u00b0F and 37% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 72.77\u00b0F and 37% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/348-panic-shutdown/annotations/2a9d3cd327708ffff583a52cda9075b8"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/348-panic-shutdown/annotations/2a9d3cd327708ffff583a52cda9075b8"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "f75bb3775de1ae97b11dd6fcb2b33db0"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-10-23T04:02:22Z",
+      "year": 2019,
+      "month": 10,
+      "day": 23,
+      "hour": 4,
+      "minute": 2,
+      "x": -117.92076211003368,
+      "y": 33.8060516858949,
+      "altitude": 40,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7900000214576721,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 348: Panic Shutdown"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/8554167acf1bc06135afaadc3b835ca8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+R7DX5okOo"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s China problem, adventures in home networking, and the future of progress bars.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s China problem, adventures in home networking, and the future of progress bars.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/519-paint-my-wings"
+    ],
+    "published": [
+      "2023-02-03T08:02:28+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b6ae10a2f8c6ea719eb38142bdd907ab"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-03T08:01:30Z",
+      "year": 2023,
+      "month": 2,
+      "day": 3,
+      "hour": 8,
+      "minute": 1,
+      "x": -118.37054441437394,
+      "y": 33.81534683392049,
+      "altitude": 54,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.699999988079071,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 519: Paint My Wings"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f079e097b06fe365adaf952647316b5b/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULl6sIY"
+        ],
+        "content": [
+          {
+            "html": "<p>Touch-screen Mac rumors, a USB-C charging dilemma, finding apps for kids, and blasting our doorwalls with insufficient pressure.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Touch-screen Mac rumors, a USB-C charging dilemma, finding apps for kids, and blasting our doorwalls with insufficient pressure.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

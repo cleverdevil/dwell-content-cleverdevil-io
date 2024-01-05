@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Amsterdam Airport Schiphol (AMS)"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Amsterdam Airport Schiphol (AMS)"
+          ],
+          "latitude": [
+            "52.308570459608"
+          ],
+          "longitude": [
+            "4.762122631073"
+          ]
+        },
+        "value": "Amsterdam Airport Schiphol (AMS)"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Amsterdam Airport Schiphol (AMS)"
+          ],
+          "latitude": [
+            "52.308570459608"
+          ],
+          "longitude": [
+            "4.762122631073"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>One down. One to go!</p>",
+        "value": "One down. One to go!"
+      }
+    ],
+    "url": [
+      "/2018/checked-into-amsterdam-airport-schiphol-ams-1"
+    ],
+    "published": [
+      "2018-07-12T03:36:30+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Amsterdam Airport Schiphol! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Amsterdam Airport Schiphol! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Amsterdam Airport Schiphol! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b46ccbe6f0aa2003109f649/a18f86fd8b1cb5e25f7ab6e0ead03215"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b46ccbe6f0aa2003109f649/a18f86fd8b1cb5e25f7ab6e0ead03215"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b46ccbe6f0aa2003109f649"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "53e69f9b22082e2bb1ceff2b0c0b8697"
+    ]
+  }
+}

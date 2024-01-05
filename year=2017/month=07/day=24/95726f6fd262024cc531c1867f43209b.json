@@ -1,0 +1,169 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Jimmy John's"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": "Jimmy John's"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jimmy John's"
+          ],
+          "latitude": [
+            "34.047595784968"
+          ],
+          "longitude": [
+            "-118.25693643684"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p></p><p><img alt=\"Jimmy John's\" src=\"https://cleverdevil.io/file/e4ab24c74898c22c89dec4842c3dd961\" style=\"display: block; margin-left: auto; margin-right: auto;\"/></p>\n<p>Sammy time.</p>",
+        "value": "Jimmy John's\nSammy time."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-jimmy-johns-4"
+    ],
+    "published": [
+      "2017-07-24T19:07:31+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+          ],
+          "content": [
+            {
+              "html": "<p>Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that.</p>",
+              "value": "Stunning photo. Did Annie Leibovitz steal your phone? We heard she does that."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/88627e7cbb669e6b49ca3127a7488ae0"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597645625c683812500314d6/02c9c54da903dc2ada0368f7b502f3ae"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597645625c683812500314d6/02c9c54da903dc2ada0368f7b502f3ae"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're the mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're the mayor!</p>",
+              "value": "You're the mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/9a879f9213169c3fc950d11d10e44e7e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/597645625c683812500314d6/32c452690035aafb2f077bb8432923cf"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/597645625c683812500314d6/32c452690035aafb2f077bb8432923cf"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/597645625c683812500314d6"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "95726f6fd262024cc531c1867f43209b"
+    ]
+  }
+}

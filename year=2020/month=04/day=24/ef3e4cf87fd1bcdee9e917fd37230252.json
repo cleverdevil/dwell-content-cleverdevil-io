@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-291-the-scrooge-mcduck-of-computers"
+    ],
+    "published": [
+      "2020-04-24T16:56:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 78.45\u00b0F and 49% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 78.45\u00b0F and 49% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 78.45\u00b0F and 49% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-291-the-scrooge-mcduck-of-computers/annotations/93975b0cbeb3e8fe8bbca296f9507d89"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-291-the-scrooge-mcduck-of-computers/annotations/93975b0cbeb3e8fe8bbca296f9507d89"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "ef3e4cf87fd1bcdee9e917fd37230252"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-04-24T19:54:45Z",
+      "year": 2020,
+      "month": 4,
+      "day": 24,
+      "hour": 19,
+      "minute": 54,
+      "x": -118.37044141843614,
+      "y": 33.815395378352136,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "full",
+      "battery_level": 1,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 291: The Scrooge McDuck of Computers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9d4959d1cafcc21aaf1360db5943112c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx5BQ2L4"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke and Federico share their impressions of the Magic Keyboard for iPad Pro and Stephen reveals the number of items in his collection and the group announces The Hackett Number \u2014 the computers-per-capita figure for Stephen\u2019s household.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke and Federico share their impressions of the Magic Keyboard for iPad Pro and Stephen reveals the number of items in his collection and the group announces The Hackett Number \u2014 the computers-per-capita figure for Stephen\u2019s household.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

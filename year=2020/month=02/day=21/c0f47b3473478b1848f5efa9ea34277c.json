@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into FishBar"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "FishBar"
+          ],
+          "latitude": [
+            "33.901814848843"
+          ],
+          "longitude": [
+            "-118.41826093533"
+          ]
+        },
+        "value": "FishBar"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "FishBar"
+          ],
+          "latitude": [
+            "33.901814848843"
+          ],
+          "longitude": [
+            "-118.41826093533"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2020/checked-into-fishbar-5"
+    ],
+    "published": [
+      "2020-02-21T01:42:01+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Welcome back! You haven't checked in to FishBar since May '19."
+          ],
+          "content": [
+            {
+              "html": "<p>Welcome back! You haven't checked in to FishBar since May '19.</p>",
+              "value": "Welcome back! You haven't checked in to FishBar since May '19."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5e4f356938f10b0008d0940c/f172dbe60149b3b3ed7bedac40d9bd01"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5e4f356938f10b0008d0940c/f172dbe60149b3b3ed7bedac40d9bd01"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 64.89\u00b0F and 63% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 64.89\u00b0F and 63% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 64.89\u00b0F and 63% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/checked-into-fishbar-5/annotations/b5f7a7771bdd0da905650fc8a05eac42"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/checked-into-fishbar-5/annotations/b5f7a7771bdd0da905650fc8a05eac42"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5e4f356938f10b0008d0940c"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c0f47b3473478b1848f5efa9ea34277c"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-21T01:40:47Z",
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "hour": 1,
+      "minute": 40,
+      "x": -118.41809665078074,
+      "y": 33.901686592316416,
+      "altitude": 36,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.8700000047683716,
+      "wifi": ""
+    }
+  }
+}

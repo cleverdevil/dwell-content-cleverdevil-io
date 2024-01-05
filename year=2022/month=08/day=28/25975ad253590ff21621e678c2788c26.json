@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Firehouse Subs"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Firehouse Subs"
+          ],
+          "latitude": [
+            "33.800108"
+          ],
+          "longitude": [
+            "-116.387409"
+          ]
+        },
+        "value": "Firehouse Subs"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Firehouse Subs"
+          ],
+          "latitude": [
+            "33.800108"
+          ],
+          "longitude": [
+            "-116.387409"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch on the way back to LA</p>",
+        "value": "Lunch on the way back to LA"
+      }
+    ],
+    "url": [
+      "/2022/checked-into-firehouse-subs"
+    ],
+    "published": [
+      "2022-08-28T20:49:50+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Sandwich Place check-in in 3 years!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Sandwich Place check-in in 3 years!</p>",
+              "value": "First Sandwich Place check-in in 3 years!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/630bd4eebc5a0b7f768c2748/512a6cb907348ca39ab61e7a2eb05ad2"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/630bd4eebc5a0b7f768c2748/512a6cb907348ca39ab61e7a2eb05ad2"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/630bd4eebc5a0b7f768c2748"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "25975ad253590ff21621e678c2788c26"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-08-28T20:47:35Z",
+      "year": 2022,
+      "month": 8,
+      "day": 28,
+      "hour": 20,
+      "minute": 47,
+      "x": -116.38731165904815,
+      "y": 33.80010167578116,
+      "altitude": 74,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9700000286102295,
+      "wifi": ""
+    }
+  }
+}

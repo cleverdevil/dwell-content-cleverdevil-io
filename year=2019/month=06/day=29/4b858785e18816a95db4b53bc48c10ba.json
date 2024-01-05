@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/255-zap-the-pram-with-special-guest-jason-snell"
+    ],
+    "published": [
+      "2019-06-29T06:55:57+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 76% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 76% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 59.32\u00b0F and 76% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/255-zap-the-pram-with-special-guest-jason-snell/annotations/a4bfe3d39cc442bedf6d85ca0393dc26"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/255-zap-the-pram-with-special-guest-jason-snell/annotations/a4bfe3d39cc442bedf6d85ca0393dc26"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "4b858785e18816a95db4b53bc48c10ba"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-29T08:00:09Z",
+      "year": 2019,
+      "month": 6,
+      "day": 29,
+      "hour": 8,
+      "minute": 0,
+      "x": -122.67611206975798,
+      "y": 45.51786231454417,
+      "altitude": -1,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "charging",
+      "battery_level": 0.9599999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 255: \u2018Zap the PRAM\u2019, With Special Guest Jason Snell"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/09760fc28bd8c373956516d6bf6ae2b9/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+B7NCKu8Lg"
+        ],
+        "content": [
+          {
+            "html": "<p>255: \u2018Zap the PRAM\u2019, With Special Guest Jason Snell</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  The Talk Show With John Gruber</p>",
+            "value": "255: \u2018Zap the PRAM\u2019, With Special Guest Jason Snell\nBy The Talk Show With John Gruber"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "in-reply-to": [
+      "https://tantek.com/2019/178/t2/indieweb-summit-pre-pre-party"
+    ],
+    "name": [
+      "Pre-pre-party?! I don\u2019t fly out until tomorrow AM, no fair! :D"
+    ],
+    "content": [
+      {
+        "html": "Pre-pre-party?! I don\u2019t fly out until tomorrow AM, no fair! :D",
+        "value": "Pre-pre-party?! I don\u2019t fly out until tomorrow AM, no fair! :D"
+      }
+    ],
+    "url": [
+      "/2019/pre-pre-party-i-dont-fly-out-until-tomorrow"
+    ],
+    "published": [
+      "2019-06-28T03:31:28+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 65.96\u00b0F and 82% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 65.96\u00b0F and 82% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 65.96\u00b0F and 82% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-night.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/pre-pre-party-i-dont-fly-out-until-tomorrow/annotations/cb7eb133b7b6f98699b070808df4833a"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/pre-pre-party-i-dont-fly-out-until-tomorrow/annotations/cb7eb133b7b6f98699b070808df4833a"
+      }
+    ],
+    "post-kind": [
+      "Reply"
+    ],
+    "post-id": [
+      "084890a87016b649e97c3d3f9995c0e7"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-06-28T03:14:27Z",
+      "year": 2019,
+      "month": 6,
+      "day": 28,
+      "hour": 3,
+      "minute": 14,
+      "x": -118.37030227441971,
+      "y": 33.81540860888248,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": "LaCour"
+    }
+  }
+}

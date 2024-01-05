@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/392-corporate-relationship-counselor"
+    ],
+    "published": [
+      "2020-08-26T18:04:21+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "336294ab4b6af99828599dc76e0e89e7"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-08-26T19:59:08Z",
+      "year": 2020,
+      "month": 8,
+      "day": 26,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.37039015514777,
+      "y": 33.81541117690062,
+      "altitude": 56,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "charging",
+      "battery_level": 0.8899999856948853,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 392: Corporate Relationship Counselor"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/9ebd19599c9542861ea01657b7179e4c/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJpi7J8"
+        ],
+        "content": [
+          {
+            "html": "<p>Spending Casey\u2019s money, driving stick, and the continuing battle between Epic and Apple.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Spending Casey\u2019s money, driving stick, and the continuing battle between Epic and Apple.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

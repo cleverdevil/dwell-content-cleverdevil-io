@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-246-you-cant-fight-the-magnets"
+    ],
+    "published": [
+      "2019-05-22T19:00:11+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.64\u00b0F and 64% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.64\u00b0F and 64% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 61.64\u00b0F and 64% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-246-you-cant-fight-the-magnets/annotations/5c4aadb24858d9e91ee28c1c49e7c700"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-246-you-cant-fight-the-magnets/annotations/5c4aadb24858d9e91ee28c1c49e7c700"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "7547b051698ebe7ebf0b626684c95298"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-05-22T20:04:13Z",
+      "year": 2019,
+      "month": 5,
+      "day": 22,
+      "hour": 20,
+      "minute": 4,
+      "x": -118.38724125492216,
+      "y": 33.81773068906063,
+      "altitude": 19,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.6899999976158142,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 246: You Can\u2019t Fight the Magnets"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/3b9e3aaf381742017e35c609b6ce69f6/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm_0okIY"
+        ],
+        "content": [
+          {
+            "html": "<p>With the WWDC draft a week away, Jason and Myke engage in a flight of fancy, discussing all their wishes for iOS and macOS developments that probably won\u2019t happen. Also, Jason has to retrieve his iPad.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "With the WWDC draft a week away, Jason and Myke engage in a flight of fancy, discussing all their wishes for iOS and macOS developments that probably won\u2019t happen. Also, Jason has to retrieve his iPad.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

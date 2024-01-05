@@ -1,0 +1,187 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Ice Chalet"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ice Chalet"
+          ],
+          "latitude": [
+            "33.772634221398"
+          ],
+          "longitude": [
+            "-118.37329866766"
+          ]
+        },
+        "value": "Ice Chalet"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ice Chalet"
+          ],
+          "latitude": [
+            "33.772634221398"
+          ],
+          "longitude": [
+            "-118.37329866766"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Ice skating on Presidents\u2019 Day to lament the cold, hard heart of our current \u201cpresident.\u201d</p>",
+        "value": "Ice skating on Presidents\u2019 Day to lament the cold, hard heart of our current \u201cpresident.\u201d"
+      }
+    ],
+    "url": [
+      "/2019/checked-into-ice-chalet-1"
+    ],
+    "published": [
+      "2019-02-18T18:11:13+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You just became Mayor!"
+          ],
+          "content": [
+            {
+              "html": "<p>You just became Mayor!</p>",
+              "value": "You just became Mayor!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c6af541ad910e002b68ee5a/94eded37caa558063b9bae8432349b05"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c6af541ad910e002b68ee5a/94eded37caa558063b9bae8432349b05"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 44.7\u00b0F and 53% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 44.7\u00b0F and 53% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 44.7\u00b0F and 53% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-ice-chalet-1/annotations/e4c3c1612770fb9077dd9fe1b484274b"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-ice-chalet-1/annotations/e4c3c1612770fb9077dd9fe1b484274b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c6af541ad910e002b68ee5a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "d1c2c83a7a935fbf6b1fb0630a0106ab"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-02-18T18:06:17Z",
+      "year": 2019,
+      "month": 2,
+      "day": 18,
+      "hour": 18,
+      "minute": 6,
+      "x": -118.37328881238895,
+      "y": 33.7725593060396,
+      "altitude": 285,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7300000190734863,
+      "wifi": ""
+    }
+  }
+}

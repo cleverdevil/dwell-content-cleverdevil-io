@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/322-aux-in-cows-out"
+    ],
+    "published": [
+      "2020-10-22T20:35:01+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "0ead8182db44a907c45ec602cdea511d"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-10-22T23:58:34Z",
+      "year": 2020,
+      "month": 10,
+      "day": 22,
+      "hour": 23,
+      "minute": 58,
+      "x": -118.37040636672688,
+      "y": 33.81535533538901,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7599999904632568,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 322: Aux In, Cows Out"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/6d11e2a47a98d8d135df9d05b4022a91/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm99fvoc"
+        ],
+        "content": [
+          {
+            "html": "<p>This week we\u2019re picking up the pieces on last week\u2019s October Apple event. What have we learned about the HomePod and iPhone 12? There\u2019s a lot to unpack here. And in other news, Apple has decided that 2020 is the right time to become MTV.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "This week we\u2019re picking up the pieces on last week\u2019s October Apple event. What have we learned about the HomePod and iPhone 12? There\u2019s a lot to unpack here. And in other news, Apple has decided that 2020 is the right time to become MTV.\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

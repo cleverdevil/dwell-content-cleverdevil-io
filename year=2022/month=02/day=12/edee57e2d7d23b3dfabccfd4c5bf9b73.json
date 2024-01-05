@@ -1,0 +1,148 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Sheraton Kauai Resort"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Kauai Resort"
+          ],
+          "latitude": [
+            "21.8768494"
+          ],
+          "longitude": [
+            "-159.4619686"
+          ]
+        },
+        "value": "Sheraton Kauai Resort"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sheraton Kauai Resort"
+          ],
+          "latitude": [
+            "21.8768494"
+          ],
+          "longitude": [
+            "-159.4619686"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2022/checked-into-sheraton-kauai-resort"
+    ],
+    "published": [
+      "2022-02-12T19:08:10+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Sheraton Kauai Resort! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Sheraton Kauai Resort! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Sheraton Kauai Resort! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/6208059a4658b94462655d7a/fe31a45c3911df6ed50a31ad46afe863"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/6208059a4658b94462655d7a/fe31a45c3911df6ed50a31ad46afe863"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/6208059a4658b94462655d7a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "edee57e2d7d23b3dfabccfd4c5bf9b73"
+    ],
+    "location-metadata": {
+      "timestamp": "2022-02-12T19:04:40Z",
+      "year": 2022,
+      "month": 2,
+      "day": 12,
+      "hour": 19,
+      "minute": 4,
+      "x": -159.46252488393665,
+      "y": 21.876580142566375,
+      "altitude": 7,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.9200000166893005,
+      "wifi": "MarriottBonvoy"
+    }
+  }
+}

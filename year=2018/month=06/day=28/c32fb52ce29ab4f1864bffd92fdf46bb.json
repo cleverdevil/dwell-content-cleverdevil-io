@@ -1,0 +1,208 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Blue Star Donuts"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Blue Star Donuts"
+          ],
+          "latitude": [
+            "45.522164216221"
+          ],
+          "longitude": [
+            "-122.68428580672"
+          ]
+        },
+        "value": "Blue Star Donuts"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Blue Star Donuts"
+          ],
+          "latitude": [
+            "45.522164216221"
+          ],
+          "longitude": [
+            "-122.68428580672"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Om nom nom.</p>",
+        "value": "Om nom nom."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-blue-star-donuts"
+    ],
+    "published": [
+      "2018-06-28T18:31:35+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at Blue Star Donuts!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at Blue Star Donuts!</p>",
+              "value": "Your first check-in at Blue Star Donuts!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/259812d4806ddd3143526503f15f312a"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/259812d4806ddd3143526503f15f312a"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Jelly Rowland sticker bonus!"
+          ],
+          "content": [
+            {
+              "html": "<p>Jelly Rowland sticker bonus!</p>",
+              "value": "Jelly Rowland sticker bonus!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3N0aWNrZXIvODAvRG9udXRTaG9wc19hNTI5NGEucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/c3c6678994a9dfe096ca863e9d83e79d"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/c3c6678994a9dfe096ca863e9d83e79d"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Donut Shop check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Donut Shop check-in in 3 months!</p>",
+              "value": "First Donut Shop check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/173fcf107cf981030157bd85093353a4"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5b35298786bc49002c53d090/173fcf107cf981030157bd85093353a4"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5b35298786bc49002c53d090"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c32fb52ce29ab4f1864bffd92fdf46bb"
+    ]
+  }
+}

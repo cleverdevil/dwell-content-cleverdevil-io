@@ -1,0 +1,145 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/connected-249-federighi-snapped-his-fingers"
+    ],
+    "published": [
+      "2019-07-05T15:36:05+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Overcast with a temperature of 64.12\u00b0F and 85% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/cloudy.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/connected-249-federighi-snapped-his-fingers/annotations/31d74c7b37461ce6e9e4d18484bdc1da"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/connected-249-federighi-snapped-his-fingers/annotations/31d74c7b37461ce6e9e4d18484bdc1da"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "a3ca7ada1b02008132bce7e54fe3bf11"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-07-05T16:01:28Z",
+      "year": 2019,
+      "month": 7,
+      "day": 5,
+      "hour": 16,
+      "minute": 1,
+      "x": -118.37035114161084,
+      "y": 33.81542396575955,
+      "altitude": 53,
+      "motion": [
+        "walking"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8600000143051147,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 249: Federighi Snapped His Fingers"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/350ab9f369b6505c867fd7511d20cda2/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx50uZjI"
+        ],
+        "content": [
+          {
+            "html": "<p>Myke resumes his role as the tvOS guy and Federico\u2019s Memoji have all been killed. Apple\u2019s Public Betas have arrived, as have new rumors of a future small iPhone. Stephen preaches the good news of Carbon.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "Myke resumes his role as the tvOS guy and Federico\u2019s Memoji have all been killed. Apple\u2019s Public Betas have arrived, as have new rumors of a future small iPhone. Stephen preaches the good news of Carbon.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

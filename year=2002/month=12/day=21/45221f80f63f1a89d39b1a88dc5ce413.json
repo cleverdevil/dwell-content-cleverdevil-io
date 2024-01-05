@@ -1,0 +1,51 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Blog updates..."
+    ],
+    "content": [
+      {
+        "html": "<p>So, I spent some time fooling around with MovableType tonight, and it looks like what I want is most certainly possible.  MovableType works by storing entries, users, templates, etc. in a MySQL or BerkelyDB database.  Once you are done editing, you can ask the system to \"rebuild\" the blog.  This will use the database information to generate CSS, HTML, and XML that represents your page.  All of this is placed on your local web server at the location of publishing.</p><p>This *does* allow for me to copy these static files around to another host, but its not exactly perfect since it publishes to my PowerBook's web server, and hardcodes some URL's with 'localhost' into a bunch of the files.  So, I wrote a simple python script that copies the static published directory, recurses through the directories, and does string replacement on hostnames, paths, etc. based on an external configuration file.  I can then upload this file whenever I feel like updating my blog to <a class=\"u-in-reply-to\" href=\"http://blog.skinnee.net/\" rel=\"in-reply-to\" target=\"_blank\">http://<wbr/>blog.skinnee.net/<wbr/></a> (which I where I would like to host my blog).</p><p>Turns out this works very well, and in all liklihood, if you are reading this, you are reading it from that web address.  The beauty of this all is that I can make all of my journal entires offline while in Australia, New Zealand, and Japan.  When I get the chance, I can pop into an internet cafe and upload my new blog entries every few days.  Brilliant!</p><p>A few issues remain:<br/></p><ul><li><br/></li><li>Not sure if images and thumbnails are supported in this fashion.<br/></li><li>I need to update the script so that it can automagically upload everything.<br/></li><li>There are some really cool templates out there to control the look and feel of a MT blog, and I would like to check those out.<br/></li></ul><p>Other than these things, I am really happy thus far.  I will update some more when I get a chance!</p>",
+        "value": "So, I spent some time fooling around with MovableType tonight, and it looks like what I want is most certainly possible. MovableType works by storing entries, users, templates, etc. in a MySQL or BerkelyDB database. Once you are done editing, you can ask the system to \"rebuild\" the blog. This will use the database information to generate CSS, HTML, and XML that represents your page. All of this is placed on your local web server at the location of publishing.\nThis *does* allow for me to copy these static files around to another host, but its not exactly perfect since it publishes to my PowerBook's web server, and hardcodes some URL's with 'localhost' into a bunch of the files. So, I wrote a simple python script that copies the static published directory, recurses through the directories, and does string replacement on hostnames, paths, etc. based on an external configuration file. I can then upload this file whenever I feel like updating my blog to http://blog.skinnee.net/ (which I where I would like to host my blog).\nTurns out this works very well, and in all liklihood, if you are reading this, you are reading it from that web address. The beauty of this all is that I can make all of my journal entires offline while in Australia, New Zealand, and Japan. When I get the chance, I can pop into an internet cafe and upload my new blog entries every few days. Brilliant!\nA few issues remain:\n\nNot sure if images and thumbnails are supported in this fashion.\nI need to update the script so that it can automagically upload everything.\nThere are some really cool templates out there to control the look and feel of a MT blog, and I would like to check those out.\n\nOther than these things, I am really happy thus far. I will update some more when I get a chance!"
+      }
+    ],
+    "in-reply-to": [
+      "http://blog.skinnee.net/"
+    ],
+    "url": [
+      "/2002/blog-updates"
+    ],
+    "published": [
+      "2002-12-21T00:16:00+0000"
+    ],
+    "post-kind": [
+      "Entry"
+    ],
+    "post-id": [
+      "45221f80f63f1a89d39b1a88dc5ce413"
+    ]
+  }
+}

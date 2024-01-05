@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/457-the-worlds-greatest-conference-call"
+    ],
+    "published": [
+      "2021-11-19T15:08:59+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "fab3aa360d471a5d7260e18994fc3766"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-11-19T16:02:00Z",
+      "year": 2021,
+      "month": 11,
+      "day": 19,
+      "hour": 16,
+      "minute": 2,
+      "x": -97.73810526739463,
+      "y": 30.26560488758859,
+      "altitude": 155,
+      "motion": [
+        "stationary"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8299999833106995,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 457: The World\u2019s Greatest Conference Call"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/05fc51b4f25a44c766854dd0c86b91e3/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUIpqVDk"
+        ],
+        "content": [
+          {
+            "html": "<p>Weather apps, luxury podcasts, and Facebook\u2019s fantasy metaverse.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Weather apps, luxury podcasts, and Facebook\u2019s fantasy metaverse.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

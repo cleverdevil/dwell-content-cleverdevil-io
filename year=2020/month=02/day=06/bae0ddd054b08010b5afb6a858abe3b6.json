@@ -1,0 +1,143 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2020/connected-280-peanut-butterpeanut-butterpeanut-butter"
+    ],
+    "published": [
+      "2020-02-06T18:54:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.29\u00b0F and 81% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.29\u00b0F and 81% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Mostly Cloudy with a temperature of 29.29\u00b0F and 81% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2020/connected-280-peanut-butterpeanut-butterpeanut-butter/annotations/61d530b3c6ea0ba3d89ed3a6ab5a5020"
+          ]
+        },
+        "value": "https://cleverdevil.io/2020/connected-280-peanut-butterpeanut-butterpeanut-butter/annotations/61d530b3c6ea0ba3d89ed3a6ab5a5020"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "bae0ddd054b08010b5afb6a858abe3b6"
+    ],
+    "location-metadata": {
+      "timestamp": "2020-02-08T16:37:37Z",
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "hour": 16,
+      "minute": 37,
+      "x": -83.35898008332713,
+      "y": 42.20693489241923,
+      "altitude": -1,
+      "motion": [],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Connected 280: Peanut Butterpeanut Butterpeanut Butter"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/f69bfc25d20296ba5d9dcd5be3a1f15d/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+FXx4D6gwY"
+        ],
+        "content": [
+          {
+            "html": "<p>This week, most of the show document got shredded as a bunch of breaking news took place during recording. iOS 13.4 is bringing a bunch of changes, Mac Catalyst could become more useful and universal apps are coming to the Mac.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Connected</p>",
+            "value": "This week, most of the show document got shredded as a bunch of breaking news took place during recording. iOS 13.4 is bringing a bunch of changes, Mac Catalyst could become more useful and universal apps are coming to the Mac.\nBy Connected"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

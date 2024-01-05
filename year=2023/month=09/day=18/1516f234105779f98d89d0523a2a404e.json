@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/552-not-a-saturated-year"
+    ],
+    "published": [
+      "2023-09-18T20:14:02+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "1516f234105779f98d89d0523a2a404e"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-09-19T00:03:21Z",
+      "year": 2023,
+      "month": 9,
+      "day": 19,
+      "hour": 0,
+      "minute": 3,
+      "x": -118.40680788635389,
+      "y": 33.944855983601016,
+      "altitude": 41,
+      "motion": [
+        "walking"
+      ],
+      "speed": -1,
+      "battery_state": "unplugged",
+      "battery_level": 0.8999999761581421,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 552: Not a Saturated Year"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/b21945505f4798f2286c503f693e40e8/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUJ0S1-Y"
+        ],
+        "content": [
+          {
+            "html": "<p>Impressions and analysis of Apple\u2019s fall event featuring the iPhone 15 series, the Apple Watch Series 9 and Ultra 2, and Apple 2030.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Impressions and analysis of Apple\u2019s fall event featuring the iPhone 15 series, the Apple Watch Series 9 and Ultra 2, and Apple 2030.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

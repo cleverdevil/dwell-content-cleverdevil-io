@@ -1,0 +1,146 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2019/upgrade-256-the-billion-dollar-show"
+    ],
+    "published": [
+      "2019-07-31T22:04:49+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Clear with a temperature of 71.49\u00b0F and 78% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Clear with a temperature of 71.49\u00b0F and 78% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Clear with a temperature of 71.49\u00b0F and 78% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/clear-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/upgrade-256-the-billion-dollar-show/annotations/1ebf1b9265df9e345fa858aa86775963"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/upgrade-256-the-billion-dollar-show/annotations/1ebf1b9265df9e345fa858aa86775963"
+      }
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "09dad1e0c72bba961fa7c0dade4b0774"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-01T00:02:34Z",
+      "year": 2019,
+      "month": 8,
+      "day": 1,
+      "hour": 0,
+      "minute": 2,
+      "x": -118.37036569680363,
+      "y": 33.81541979042411,
+      "altitude": 53,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.4099999964237213,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to Upgrade 256: The Billion Dollar Show"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/580505cabcef1471ea764f6a6bfcd055/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm--DNSI"
+        ],
+        "content": [
+          {
+            "html": "<p>Humans listening to Siri audio, macOS Catalina\u2019s aggressive security features, and a possibly pricey 16-inch MacBook Pro\u2014where did the Summer of Fun go? Relax: Upstream\u2019s got news about Hobbits and superheroes, and we\u2019ve got a special summer <a class=\"p-category\" href=\"/tag/askupgrade\" rel=\"tag\">#askupgrade</a>!</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Humans listening to Siri audio, macOS Catalina\u2019s aggressive security features, and a possibly pricey 16-inch MacBook Pro\u2014where did the Summer of Fun go? Relax: Upstream\u2019s got news about Hobbits and superheroes, and we\u2019ve got a special summer #askupgrade!\nBy Upgrade"
+          }
+        ],
+        "category": [
+          "#askupgrade"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

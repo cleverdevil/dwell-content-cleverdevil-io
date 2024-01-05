@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/420-i-have-no-urge-to-speak"
+    ],
+    "published": [
+      "2021-03-06T19:56:17+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "b978d1eb901ed46b46d1efc94b77a725"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-03-06T19:59:47Z",
+      "year": 2021,
+      "month": 3,
+      "day": 6,
+      "hour": 19,
+      "minute": 59,
+      "x": -118.05041596751504,
+      "y": 33.774312153977256,
+      "altitude": 7,
+      "motion": [
+        "driving"
+      ],
+      "speed": 32,
+      "battery_state": "unplugged",
+      "battery_level": 0.8500000238418579,
+      "wifi": ""
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 420: I Have No Urge to Speak"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/a68947408fe37b4dc309832694d58258/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxULh9l_w"
+        ],
+        "content": [
+          {
+            "html": "<p>Clubhouse, Twitter Spaces, Overcast\u2019s latest update, how Swift is going, whether Electron apps are really that bad, and Apple\u2019s rumored car thing.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Clubhouse, Twitter Spaces, Overcast\u2019s latest update, how Swift is going, whether Electron apps are really that bad, and Apple\u2019s rumored car thing.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Del Rey"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Del Rey"
+          ],
+          "latitude": [
+            "33.98924784679"
+          ],
+          "longitude": [
+            "-118.41593089498"
+          ]
+        },
+        "value": "Del Rey"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Del Rey"
+          ],
+          "latitude": [
+            "33.98924784679"
+          ],
+          "longitude": [
+            "-118.41593089498"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": ""
+      }
+    ],
+    "url": [
+      "/2017/checked-into-del-rey"
+    ],
+    "published": [
+      "2017-04-22T02:02:16+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your last check-in in Marina del Rey was in June '11 at Antica Pizzeria."
+          ],
+          "content": [
+            {
+              "html": "<p>Your last check-in in Marina del Rey was in June '11 at Antica Pizzeria.</p>",
+              "value": "Your last check-in in Marina del Rey was in June '11 at Antica Pizzeria."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/4dd59a7498ee2bdb559e79d64feeb98e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58fab998f870fd1908605a71/77f897e7059631850e6c90449c05ddf5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58fab998f870fd1908605a71/77f897e7059631850e6c90449c05ddf5"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58fab998f870fd1908605a71"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "c3a9daf015a90be7f9e41584715c3a5e"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Johnny Rockets"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Johnny Rockets"
+          ],
+          "latitude": [
+            "33.833442343401"
+          ],
+          "longitude": [
+            "-118.3474681306"
+          ]
+        },
+        "value": "Johnny Rockets"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Johnny Rockets"
+          ],
+          "latitude": [
+            "33.833442343401"
+          ],
+          "longitude": [
+            "-118.3474681306"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Lunch with William before the movie.</p>",
+        "value": "Lunch with William before the movie."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-johnny-rockets-1"
+    ],
+    "published": [
+      "2019-08-17T19:42:18+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Your first check-in at this Johnny Rockets!"
+          ],
+          "content": [
+            {
+              "html": "<p>Your first check-in at this Johnny Rockets!</p>",
+              "value": "Your first check-in at this Johnny Rockets!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fbWFnbmlmeS5wbmc,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d58589a60fda1000808c1b9/d27f6b151a63a92dee76691b42484597"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d58589a60fda1000808c1b9/d27f6b151a63a92dee76691b42484597"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "First Burger Joint check-in in 3 months!"
+          ],
+          "content": [
+            {
+              "html": "<p>First Burger Joint check-in in 3 months!</p>",
+              "value": "First Burger Joint check-in in 3 months!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY2xvY2sucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5d58589a60fda1000808c1b9/3979ec51856c2ade243fe38289202fd5"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5d58589a60fda1000808c1b9/3979ec51856c2ade243fe38289202fd5"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.85\u00b0F and 69% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.85\u00b0F and 69% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Partly Cloudy with a temperature of 70.85\u00b0F and 69% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/partly-cloudy-day.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-johnny-rockets-1/annotations/2f9f18a0ccf6383505d22e83bd0ce59c"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-johnny-rockets-1/annotations/2f9f18a0ccf6383505d22e83bd0ce59c"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5d58589a60fda1000808c1b9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "da4b8b1d251a7a4504f57041f6261696"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-08-17T19:39:52Z",
+      "year": 2019,
+      "month": 8,
+      "day": 17,
+      "hour": 19,
+      "minute": 39,
+      "x": -118.34724179805886,
+      "y": 33.833336793133356,
+      "altitude": 26,
+      "motion": [],
+      "speed": 0,
+      "battery_state": "unplugged",
+      "battery_level": 0.7099999785423279,
+      "wifi": ""
+    }
+  }
+}

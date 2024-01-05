@@ -1,0 +1,130 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Seaside Torrance"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": "Seaside Torrance"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Seaside Torrance"
+          ],
+          "latitude": [
+            "33.82511"
+          ],
+          "longitude": [
+            "-118.365501"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Relaxing at home.</p>",
+        "value": "Relaxing at home."
+      }
+    ],
+    "url": [
+      "/2017/checked-into-seaside-torrance-1"
+    ],
+    "published": [
+      "2017-03-30T03:49:06+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Fun Fact! There's about 49 million bubbles in a bottle of champagne. One for each minute you'll be hungover."
+          ],
+          "content": [
+            {
+              "html": "<p>Fun Fact! There's about 49 million bubbles in a bottle of champagne. One for each minute you'll be hungover.</p>",
+              "value": "Fun Fact! There's about 49 million bubbles in a bottle of champagne. One for each minute you'll be hungover."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/6e014ac5cd4514b412eef0fee4ff928e"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/58dc80306ad73d0a8ef89c90/acd9eed6dad41a83568f16d0c3b8b4d6"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/58dc80306ad73d0a8ef89c90/acd9eed6dad41a83568f16d0c3b8b4d6"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/58dc80306ad73d0a8ef89c90"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "cb90bd37a78659a5b5bc23c2a9741a42"
+    ]
+  }
+}

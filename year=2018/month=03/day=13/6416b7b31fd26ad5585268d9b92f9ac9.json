@@ -1,0 +1,124 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Building an IndieWeb Reader &bull; Aaron Parecki"
+    ],
+    "repost-of": [
+      "https://aaronparecki.com/2018/03/12/17/building-an-indieweb-reader"
+    ],
+    "url": [
+      "/2018/building-an-indieweb-reader-bull-aaron-parecki"
+    ],
+    "published": [
+      "2018-03-13T01:56:04+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "How to you get the repost logo on your entires for micro.blog? I am also using Know, but have not figured out an easy way of doing this."
+          ],
+          "content": [
+            {
+              "html": "<p>How to you get the repost logo on your entires for micro.blog? I am also using Know, but have not figured out an easy way of doing this.</p>",
+              "value": "How to you get the repost logo on your entires for micro.blog? I am also using Know, but have not figured out an easy way of doing this."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly96YWNoLm9nbGVzYnkuY28vZmlsZS8xYjNhNjVlM2JmMTU5YjBjOTExNzBkOWQwZjZhMmI3OA,,/300/square"
+                ],
+                "name": [
+                  "Zach Oglesby"
+                ],
+                "url": [
+                  "https://zach.oglesby.co/profile/zach"
+                ]
+              },
+              "value": "Zach Oglesby"
+            }
+          ],
+          "url": [
+            "https://zach.oglesby.co/2018/03/13/how-to-you-get-the-repost-logo"
+          ]
+        },
+        "value": "https://zach.oglesby.co/2018/03/13/how-to-you-get-the-repost-logo"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/973377121123958784"
+    ],
+    "post-kind": [
+      "Like"
+    ],
+    "post-id": [
+      "6416b7b31fd26ad5585268d9b92f9ac9"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://twitter.com/cleverdevil/status/973377121123958784?known_from=https%3A%2F%2Fbrid-gy.appspot.com%2Flike%2Ftwitter%2Fcleverdevil%2F973377121123958784%2F17180806"
+          ],
+          "published": [
+            "2018-03-13T02:22:31+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Kyle Mestery"
+                ],
+                "url": [
+                  "https://twitter.com/mestery"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc2ODA4MzkxMTk2NDQ1MDgxNy9naXRSSUM0RC5qcGc,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzc2ODA4MzkxMTk2NDQ1MDgxNy9naXRSSUM0RC5qcGc,/300/square Kyle Mestery"
+            }
+          ]
+        },
+        "value": "Kyle Mestery"
+      }
+    ]
+  }
+}

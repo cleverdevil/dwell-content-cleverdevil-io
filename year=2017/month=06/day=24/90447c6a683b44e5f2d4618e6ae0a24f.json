@@ -1,0 +1,204 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Pine Street Market"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pine Street Market"
+          ],
+          "latitude": [
+            "45.521490375433"
+          ],
+          "longitude": [
+            "-122.67247827091"
+          ]
+        },
+        "value": "Pine Street Market"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pine Street Market"
+          ],
+          "latitude": [
+            "45.521490375433"
+          ],
+          "longitude": [
+            "-122.67247827091"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>IWS pre-party! \ud83c\udf89\ud83c\udf7a\ud83c\udf78</p>",
+        "value": "IWS pre-party! \ud83c\udf89\ud83c\udf7a\ud83c\udf78"
+      }
+    ],
+    "url": [
+      "/2017/checked-into-pine-street-market"
+    ],
+    "published": [
+      "2017-06-24T00:30:48+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Pine Street Market! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Pine Street Market! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Pine Street Market! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/58e2d3b466c841291b38411c5e05a22b"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594db2a88a6f1763038274a9/d9d74dba97d53cb0b74868f66c39ff3f"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594db2a88a6f1763038274a9/d9d74dba97d53cb0b74868f66c39ff3f"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Love that spot!"
+          ],
+          "content": [
+            {
+              "html": "<p>Love that spot!</p>",
+              "value": "Love that spot!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/file/bcebd044afda7c44e5c4b69d2df39c42"
+                ],
+                "name": [
+                  "Peter C"
+                ],
+                "url": [
+                  "https://foursquare.com/user/26415174"
+                ]
+              },
+              "value": "Peter C"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594db2a88a6f1763038274a9/594e7db68134886a22327192"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/594db2a88a6f1763038274a9/594e7db68134886a22327192"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/594db2a88a6f1763038274a9"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "90447c6a683b44e5f2d4618e6ae0a24f"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/594db2a88a6f1763038274a9/090ccbef039e8c2c9cbd953943420cd7"
+          ],
+          "published": [
+            "2017-06-24T00:30:32+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "aaronpk"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/file/6b929ab80929454cd2931dff2f9eff57"
+                ]
+              },
+              "value": "https://cleverdevil.io/file/6b929ab80929454cd2931dff2f9eff57 aaronpk"
+            }
+          ]
+        },
+        "value": "aaronpk"
+      }
+    ]
+  }
+}

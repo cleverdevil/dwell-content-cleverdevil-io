@@ -1,0 +1,102 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2023/522-ill-just-keep-you-for-ten-years"
+    ],
+    "published": [
+      "2023-02-17T04:15:33+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "8dfb50288a1650627f9a52db8484070c"
+    ],
+    "location-metadata": {
+      "timestamp": "2023-02-17T05:03:37Z",
+      "year": 2023,
+      "month": 2,
+      "day": 17,
+      "hour": 5,
+      "minute": 3,
+      "x": -116.38036777777248,
+      "y": 33.7015957574366,
+      "altitude": 126,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9599999785423279,
+      "wifi": "DesertSun"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 522: I\u2019ll Just Keep You for Ten Years"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/1bbbe66d8993311a02b2a7107e662e18/thumb.png"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+cxUI3rgEA"
+        ],
+        "content": [
+          {
+            "html": "<p>Apple\u2019s design-management change, the future of the Mac Studio, and why everything about our TV-audio setups is wrong.</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Accidental Tech Podcast</p>",
+            "value": "Apple\u2019s design-management change, the future of the Mac Studio, and why everything about our TV-audio setups is wrong.\nBy Accidental Tech Podcast"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

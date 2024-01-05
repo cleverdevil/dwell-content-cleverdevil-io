@@ -1,0 +1,104 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "url": [
+      "/2021/376-the-2021-october-event-draft"
+    ],
+    "published": [
+      "2021-10-19T00:27:49+0000"
+    ],
+    "post-kind": [
+      "Listen"
+    ],
+    "post-id": [
+      "86fe86547b84bbb308f021ab741d5cb0"
+    ],
+    "location-metadata": {
+      "timestamp": "2021-10-19T04:01:28Z",
+      "year": 2021,
+      "month": 10,
+      "day": 19,
+      "hour": 4,
+      "minute": 1,
+      "x": -118.3702355438083,
+      "y": 33.81541484504362,
+      "altitude": 55,
+      "motion": [
+        "stationary"
+      ],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.6600000262260437,
+      "wifi": "LaCour"
+    }
+  },
+  "children": [
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "Listened to 376: The 2021 October Event Draft"
+        ],
+        "photo": [
+          "https://cleverdevil.io/file/bf59824f92297d1cb01ce13d3b284768/thumb.jpg"
+        ],
+        "listen-of": [
+          "https://overcast.fm/+Fcm9-CYA0"
+        ],
+        "content": [
+          {
+            "html": "<p>Surprise! Jason and Myke predict what will happen at next week\u2019s Apple media event. What ports will be on the much-rumored MacBook Pro? Will it appear in familiar colors, or will Apple branch out and offer something new?</p>\n\n                                <p style=\"font-style: italic; text-align: right;\">By  Upgrade</p>",
+            "value": "Surprise! Jason and Myke predict what will happen at next week\u2019s Apple media event. What ports will be on the much-rumored MacBook Pro? Will it appear in familiar colors, or will Apple branch out and offer something new?\nBy Upgrade"
+          }
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "photo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "logo": [
+                "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+              ],
+              "name": [
+                "Jonathan LaCour"
+              ],
+              "url": [
+                "/profile/cleverdevil",
+                "/profile/cleverdevil"
+              ]
+            },
+            "value": "Jonathan LaCour"
+          }
+        ]
+      }
+    }
+  ]
+}

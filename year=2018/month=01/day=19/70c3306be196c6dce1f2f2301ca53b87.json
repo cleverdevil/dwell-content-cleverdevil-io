@@ -1,0 +1,165 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Loews Santa Monica"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Loews Santa Monica"
+          ],
+          "latitude": [
+            "34.009136521684"
+          ],
+          "longitude": [
+            "-118.49301381226"
+          ]
+        },
+        "value": "Loews Santa Monica"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Loews Santa Monica"
+          ],
+          "latitude": [
+            "34.009136521684"
+          ],
+          "longitude": [
+            "-118.49301381226"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Day two of planning.</p>",
+        "value": "Day two of planning."
+      }
+    ],
+    "url": [
+      "/2018/checked-into-loews-santa-monica-1"
+    ],
+    "published": [
+      "2018-01-19T16:37:45+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "There's a lot going on inside Loews Santa Monica! Check in to more places here to earn more coins."
+          ],
+          "content": [
+            {
+              "html": "<p>There's a lot going on inside Loews Santa Monica! Check in to more places here to earn more coins.</p>",
+              "value": "There's a lot going on inside Loews Santa Monica! Check in to more places here to earn more coins."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a621ec96c08d166c1e247e0/4466689cf7058e8510a2b60ac168086b"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5a621ec96c08d166c1e247e0/4466689cf7058e8510a2b60ac168086b"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5a621ec96c08d166c1e247e0"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "70c3306be196c6dce1f2f2301ca53b87"
+    ],
+    "like": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5a621ec96c08d166c1e247e0/0879485a726cf719784c13f71345c2e2"
+          ],
+          "published": [
+            "2018-01-19T16:37:29+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "name": [
+                  "Chris Aldrich"
+                ],
+                "url": [
+                  "http://www.boffosocko.com/"
+                ],
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTQ3OV8xMjQwNDU3Mjg4LmpwZw,,/300/square"
+                ]
+              },
+              "value": "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9pZ3guNHNxaS5uZXQvaW1nL3VzZXIvMzAweDMwMC8xMTQ3OV8xMjQwNDU3Mjg4LmpwZw,,/300/square Chris Aldrich"
+            }
+          ]
+        },
+        "value": "Chris Aldrich"
+      }
+    ]
+  }
+}

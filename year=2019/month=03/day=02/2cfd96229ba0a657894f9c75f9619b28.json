@@ -1,0 +1,224 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "/profile/cleverdevil",
+            "/profile/cleverdevil"
+          ],
+          "photo": [
+            "/file/e37c3982acf4f0a8421d085b9971cd71/thumb.jpg"
+          ],
+          "name": [
+            "Jonathan LaCour"
+          ]
+        },
+        "value": "Jonathan LaCour"
+      }
+    ],
+    "name": [
+      "Checked into Riviera Barber Shop"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": "Riviera Barber Shop"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riviera Barber Shop"
+          ],
+          "latitude": [
+            "33.818258516517"
+          ],
+          "longitude": [
+            "-118.38533331691"
+          ]
+        },
+        "value": ""
+      }
+    ],
+    "content": [
+      {
+        "html": "<p>Cut with the boy.</p>",
+        "value": "Cut with the boy."
+      }
+    ],
+    "url": [
+      "/2019/checked-into-riviera-barber-shop-22"
+    ],
+    "published": [
+      "2019-03-02T17:30:53+0000"
+    ],
+    "comment": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "You're still the Mayor. Time to make some rules!"
+          ],
+          "content": [
+            {
+              "html": "<p>You're still the Mayor. Time to make some rules!</p>",
+              "value": "You're still the Mayor. Time to make some rules!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fY3Jvd24ucG5n/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c7abdcd6adbf5002cc3485a/1534d161ab32929749fda54980abf64e"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c7abdcd6adbf5002cc3485a/1534d161ab32929749fda54980abf64e"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Keep checking in to places inside Riviera Village for more coins!"
+          ],
+          "content": [
+            {
+              "html": "<p>Keep checking in to places inside Riviera Village for more coins!</p>",
+              "value": "Keep checking in to places inside Riviera Village for more coins!"
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/service/web/imageproxy/aHR0cHM6Ly9zczEuNHNxaS5uZXQvaW1nL3BvaW50cy9jb2luX2ljb25fc3RyZWFrLnBuZw,,/300/square"
+                ],
+                "name": [
+                  "Swarm"
+                ],
+                "url": [
+                  "https://swarmapp.com/"
+                ]
+              },
+              "value": "Swarm"
+            }
+          ],
+          "url": [
+            "https://ownyourswarm.p3k.io/checkin/5c7abdcd6adbf5002cc3485a/c862f00ecb1afb939a15e495ec18f515"
+          ]
+        },
+        "value": "https://ownyourswarm.p3k.io/checkin/5c7abdcd6adbf5002cc3485a/c862f00ecb1afb939a15e495ec18f515"
+      },
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "summary": [
+            "Weather at time/location of posting \u2014 Drizzle with a temperature of 57.03\u00b0F and 98% humidity."
+          ],
+          "content": [
+            {
+              "html": "<p>Weather at time/location of posting \u2014 Drizzle with a temperature of 57.03\u00b0F and 98% humidity.</p>",
+              "value": "Weather at time/location of posting \u2014 Drizzle with a temperature of 57.03\u00b0F and 98% humidity."
+            }
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://cleverdevil.io/IdnoPlugins/CleverCustomize/images/weather/rain.svg"
+                ],
+                "name": [
+                  "Dark Sky"
+                ],
+                "url": [
+                  "https://darksky.net/"
+                ]
+              },
+              "value": "Dark Sky"
+            }
+          ],
+          "url": [
+            "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-22/annotations/5d255a17c7b6402ea64a76378a5de74f"
+          ]
+        },
+        "value": "https://cleverdevil.io/2019/checked-into-riviera-barber-shop-22/annotations/5d255a17c7b6402ea64a76378a5de74f"
+      }
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/62573/checkin/5c7abdcd6adbf5002cc3485a"
+    ],
+    "post-kind": [
+      "Checkin"
+    ],
+    "post-id": [
+      "2cfd96229ba0a657894f9c75f9619b28"
+    ],
+    "location-metadata": {
+      "timestamp": "2019-03-02T17:27:50Z",
+      "year": 2019,
+      "month": 3,
+      "day": 2,
+      "hour": 17,
+      "minute": 27,
+      "x": -118.38544463691684,
+      "y": 33.81814791056174,
+      "altitude": 22,
+      "motion": [],
+      "speed": 1,
+      "battery_state": "unplugged",
+      "battery_level": 0.9800000190734863,
+      "wifi": ""
+    }
+  }
+}
